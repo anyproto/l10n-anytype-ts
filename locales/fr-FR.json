@@ -147,79 +147,79 @@
 		"en": "January"
 	},
 	"month2": {
-		"en": "February"
+		"en": "Février"
 	},
 	"month3": {
 		"en": "March"
 	},
 	"month4": {
-		"en": "April"
+		"en": "Avril"
 	},
 	"month5": {
-		"en": "May"
+		"en": "Mai"
 	},
 	"month6": {
-		"en": "June"
+		"en": "Juin"
 	},
 	"month7": {
-		"en": "July"
+		"en": "Juillet"
 	},
 	"month8": {
-		"en": "August"
+		"en": "Août"
 	},
 	"month9": {
-		"en": "September"
+		"en": "Septembre"
 	},
 	"month10": {
-		"en": "October"
+		"en": "Octobre"
 	},
 	"month11": {
-		"en": "November"
+		"en": "Novembre"
 	},
 	"month12": {
-		"en": "December"
+		"en": "Décembre"
 	},
 	"day1": {
-		"en": "Monday"
+		"en": "Lundi"
 	},
 	"day2": {
-		"en": "Tuesday"
+		"en": "Mardi"
 	},
 	"day3": {
-		"en": "Wednesday"
+		"en": "Mercredi"
 	},
 	"day4": {
-		"en": "Thursday"
+		"en": "Jeudi"
 	},
 	"day5": {
-		"en": "Friday"
+		"en": "Vendredi"
 	},
 	"day6": {
-		"en": "Saturday"
+		"en": "Samedi"
 	},
 	"day7": {
-		"en": "Sunday"
+		"en": "Dimanche"
 	},
 	"relationName0": {
-		"en": "Text"
+		"en": "Texte"
 	},
 	"relationName1": {
-		"en": "Short text"
+		"en": "Texte court"
 	},
 	"relationName2": {
-		"en": "Number"
+		"en": "Nombre"
 	},
 	"relationName3": {
-		"en": "Status"
+		"en": "Statut"
 	},
 	"relationName4": {
 		"en": "Date"
 	},
 	"relationName5": {
-		"en": "File & Media"
+		"en": "Fichier & Média"
 	},
 	"relationName6": {
-		"en": "Checkbox"
+		"en": "Case à cocher"
 	},
 	"relationName7": {
 		"en": "URL"
@@ -228,22 +228,22 @@
 		"en": "Email"
 	},
 	"relationName9": {
-		"en": "Phone"
+		"en": "Téléphone"
 	},
 	"relationName10": {
-		"en": "Icon"
+		"en": "Icône"
 	},
 	"relationName11": {
 		"en": "Tag"
 	},
 	"relationName100": {
-		"en": "Object"
+		"en": "Objet"
 	},
 	"relationName101": {
 		"en": "Relations"
 	},
 	"relationCheckboxLabel0": {
-		"en": "%s is checked"
+		"en": "%s est vérifié"
 	},
 	"relationCheckboxLabel1": {
 		"en": "%s is unchecked"
@@ -255,13 +255,13 @@
 		"en": "unchecked"
 	},
 	"viewName0": {
-		"en": "Grid"
+		"en": "Grille"
 	},
 	"viewName1": {
-		"en": "List"
+		"en": "Liste"
 	},
 	"viewName2": {
-		"en": "Gallery"
+		"en": "Galerie"
 	},
 	"viewName3": {
 		"en": "Kanban"
@@ -270,37 +270,37 @@
 		"en": "Copying files %s/%s"
 	},
 	"progress1": {
-		"en": "Import in progress"
+		"en": "Import en cours"
 	},
 	"progress2": {
-		"en": "Export in progress"
+		"en": "Export en cours"
 	},
 	"progress3": {
-		"en": "Download in progress"
+		"en": "Téléchargement en cours"
 	},
 	"progress4": {
-		"en": "Recovering account"
+		"en": "Récupération du compte"
 	},
 	"progress5": {
-		"en": "Migration in progress"
+		"en": "Migration en cours"
 	},
 	"progressUpdateCheck": {
-		"en": "Checking for update..."
+		"en": "Recherche de mises à jour..."
 	},
 	"spellcheckAdd": {
-		"en": "Add to dictionary"
+		"en": "Ajouter au dictionnaire"
 	},
 	"headerHistoryCurrent": {
-		"en": "Current version"
+		"en": "Version actuelle"
 	},
 	"headerHistoryRestore": {
 		"en": "Restore version"
 	},
 	"headerTooltipPath": {
-		"en": "Click to search"
+		"en": "Cliquer pour chercher"
 	},
 	"confirmUpdateTitle": {
-		"en": "It's time to update"
+		"en": "Il est temps de mettre à jour"
 	},
 	"confirmUpdateText": {
 		"en": "Some of your data was managed in a newer version of Anytype. Please update the app to work with all your docs and the latest features."
@@ -448,70 +448,70 @@
 		"en": "Great! As a last step, let's create your Identity and enter your name. Don't worry – you can always change the name later."
 	},
 	"authOnboardSoulSubmit": {
-		"en": "Go to the app"
+		"en": "Accéder à l'application"
 	},
 	"authOnboardSoulCreatingTitle": {
-		"en": "Creating your Identity..."
+		"en": "Création de votre identité..."
 	},
 	"authOnboardSpaceCreatingTitle": {
-		"en": "Setting up your Personal space..."
+		"en": "Configuration de votre espace personnel..."
 	},
 	"authUsecaseTitle": {
-		"en": "How would you like to start?"
+		"en": "Comment voulez-vous commencer ?"
 	},
 	"authUsecaseLabel": {
-		"en": "We'll load some templates to get you started"
+		"en": "Nous allons charger quelques modèles pour vous aider à démarrer"
 	},
 	"authUsecaseCase1Title": {
-		"en": "Personal projects"
+		"en": "Projets personnels"
 	},
 	"authUsecaseCase1Label": {
-		"en": "Manage your personal projects and tasks with complete privacy"
+		"en": "Gérez vos projets et tâches personnels en toute confidentialité"
 	},
 	"authUsecaseCase2Title": {
-		"en": "Bookshelf"
+		"en": "Bibliothèque"
 	},
 	"authUsecaseCase2Label": {
-		"en": "Create your own base of knowledge with books, movies, recipes, and more"
+		"en": "Créez votre propre base de connaissances avec des livres, films, recettes, et plus encore"
 	},
 	"authUsecaseCase3Title": {
-		"en": "Diary and Quick notes"
+		"en": "Journal et Notes rapides"
 	},
 	"authUsecaseCase3Label": {
 		"en": "Keep your daily notes and self-reflections secure and private"
 	},
 	"authUsecaseSkip": {
-		"en": "Skip"
+		"en": "Passer"
 	},
 	"pageAuthLoginInvalidPhrase": {
-		"en": "Invalid recovery phrase"
+		"en": "La phrase de récupération est invalide"
 	},
 	"pageMainArchiveEmpty": {
-		"en": "Your bin is empty"
+		"en": "Votre corbeille est vide"
 	},
 	"pageMainBlockEmpty": {
-		"en": "Block not found"
+		"en": "Bloc non trouvé"
 	},
 	"editorControlIcon": {
-		"en": "Icon"
+		"en": "Icône"
 	},
 	"editorControlCover": {
-		"en": "Cover"
+		"en": "Couverture"
 	},
 	"editorControlLayout": {
-		"en": "Layout"
+		"en": "Mise en page"
 	},
 	"editorControlRelation": {
 		"en": "Relations"
 	},
 	"editorPageCreateBookmarkObject": {
-		"en": "Create bookmark object"
+		"en": "Créer un objet de signet"
 	},
 	"editorPageCreateBookmark": {
-		"en": "Create bookmark"
+		"en": "Créer un signet"
 	},
 	"editorPagePasteText": {
-		"en": "Paste as text"
+		"en": "Coller comme texte"
 	},
 	"editorPagePasteEmbed": {
 		"en": "Paste as embed"
@@ -523,13 +523,13 @@
 		"en": "Choose an object type for this set"
 	},
 	"blockNameParagraph": {
-		"en": "Text"
+		"en": "Texte"
 	},
 	"blockTextParagraph": {
-		"en": "Write a plain text"
+		"en": "Écrire un texte brut"
 	},
 	"blockNameHeader1": {
-		"en": "Title"
+		"en": "Titre"
 	},
 	"blockTextHeader1": {
 		"en": "Big headline of a chapter, paragraph or section"
@@ -559,7 +559,7 @@
 		"en": "Bordered text with icon"
 	},
 	"blockNameCheckbox": {
-		"en": "Checkbox"
+		"en": "Case à cocher"
 	},
 	"blockTextCheckbox": {
 		"en": "Create and track task with to-do list"
@@ -1294,7 +1294,7 @@
 		"en": "Object type name"
 	},
 	"menuDataviewObjectTypeEditLayout": {
-		"en": "Layout"
+		"en": "Mise en page"
 	},
 	"menuDataviewObjectListFind": {
 		"en": "Find an object"
@@ -1612,7 +1612,7 @@
 		"en": "Let's Go!"
 	},
 	"survey0Cancel": {
-		"en": "Skip"
+		"en": "Passer"
 	},
 	"survey1Title": {
 		"en": "Help us to become better"
@@ -1636,7 +1636,7 @@
 		"en": "Let's Go!"
 	},
 	"survey2Cancel": {
-		"en": "Skip"
+		"en": "Passer"
 	},
 	"survey3Title": {
 		"en": "Tell us how it's going!"
@@ -1663,7 +1663,7 @@
 		"en": "Hierarchical structure of objects"
 	},
 	"widget2Name": {
-		"en": "List"
+		"en": "Liste"
 	},
 	"widget2Description": {
 		"en": "Widget with list view of set object"
