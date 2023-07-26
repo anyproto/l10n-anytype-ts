@@ -379,7 +379,7 @@
     "popupSettingsSpaceTeamMembers": "%s membres",
     "popupSettingsSpaceTeamButton": "Inviter des membres",
     "popupSettingsSpaceLeave": "Leave %s?",
-    "popupSettingsSpaceLeaveTitle": "Leave space",
+    "popupSettingsSpaceLeaveTitle": "Quitter l'espace",
     "popupSettingsSpaceLeaveText": "You will no longer see the space and all files inside.<br \/>You could be back again via the invite link.",
     "popupSettingsSpaceLeaveButton": "Oui, je veux quitter",
     "popupSettingsSpaceRemove": "Déplacer %s vers la corbeille ?",
