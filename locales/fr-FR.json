@@ -574,7 +574,7 @@
     "quickOption7": "Mois dernier",
     "quickOption8": "Mois en cours",
     "quickOption9": "Mois prochain",
-    "quickOption10": "Number of days ago",
+    "quickOption10": "Nombre de jours auparavant",
     "quickOption11": "Nombre de jours à partir de maintenant",
     "sidebarToggle": "Basculer le mode fixe de la barre latérale",
     "unsplashString": "Photo par %s sur %s",
