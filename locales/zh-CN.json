@@ -282,7 +282,7 @@
     "blockTextBookmark": "以摘要的方式保存您收藏的超链接",
     "blockTextCode": "可以高亮显示代码的文本块",
     "blockTextLine": "用于分割信息的线",
-    "blockTextDot": "圆点分隔线",
+    "blockTextDot": "用三个点来分割信息",
     "blockTextLink": "将文件显示为链接",
     "blockTextEmbed": "将文件嵌入文档",
     "blockTextRelation": "创建对象之间的有意义的关系",
