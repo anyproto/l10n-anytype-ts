@@ -647,7 +647,7 @@
     "menuDataviewOptionListFilterOptions": "Filtrer les options...",
     "menuDataviewOptionListTypeToCreate": "Saisir pour créer une nouvelle option",
     "menuDataviewOptionListTypeToSearch": "Tapez pour rechercher les options",
-    "menuDataviewOptionListSetStatus": "Set status %s",
+    "menuDataviewOptionListSetStatus": "Définir le statut %s",
     "menuDataviewOptionListCreateOption": "Créer une option %s",
     "menuDataviewRelationEditSelectObjectType": "Sélectionner le type d'objet",
     "menuDataviewRelationEditLimitObjectTypes": "Limit object Types",
