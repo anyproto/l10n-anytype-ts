@@ -83,7 +83,7 @@
     "commonObjectType": "Тип объекта",
     "commonSelect": "Выбрать",
     "commonNext": "Next",
-    "commonFinish": "Finish",
+    "commonFinish": "commonFinish",
     "commonAnytypeLibrary": "Библиотека Anytype",
     "commonLCCollection": "коллекция",
     "commonLCSet": "набор",
