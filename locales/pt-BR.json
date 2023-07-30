@@ -83,7 +83,7 @@
     "commonObjectType": "Object type",
     "commonSelect": "Select",
     "commonNext": "Next",
-    "commonFinish": "Finish",
+    "commonFinish": "commonFinish",
     "commonAnytypeLibrary": "Anytype library",
     "commonLCCollection": "collection",
     "commonLCSet": "set",
