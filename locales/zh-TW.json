@@ -108,7 +108,7 @@
     "commonLCSet": "集合",
     "commonDeletionWarningTitle": "您確定要刪除 %s %s 嗎？",
     "commonDeletionWarningText": "這些物件的資料將被永久刪除，此操作不可逆轉！",
-    "pluralDay": "天|天",
+    "pluralDay": "天/天",
     "pluralObject": "物件|物件",
     "pluralTemplate": "範本|範本",
     "pluralRelation": "關係|關係",
