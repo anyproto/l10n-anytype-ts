@@ -650,7 +650,7 @@
     "popupSettingsDataLocalFiles": "Lokale Dateien",
     "popupSettingsDataOffloadWarningTitle": "Bist du sicher?",
     "popupSettingsDataOffloadWarningText": "All media files stored <b>in Anytype</b> will be deleted from your current device. They can be downloaded again from a backup node or another device.",
-    "popupSettingsDataFilesOffloaded": "Files offloaded",
+    "popupSettingsDataFilesOffloaded": "Dateien ausgelagert",
     "popupSettingsDeleteTitle1": "1. Sie haben 30 Tage Zeit, ihren Account wieder herzustellen",
     "popupSettingsDeleteText1": "We&apos;re sorry to see you go. Once you request your account to be deleted, you have 30 days to cancel this request. After 30 days, your account data is permanently removed from the backup node, you won't be able to sign into Anytype on new devices.",
     "popupSettingsDeleteTitle2": "2. Lösche Daten von anderen Geräten",
