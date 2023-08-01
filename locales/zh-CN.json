@@ -1292,7 +1292,7 @@
     "libActionUninstallTypeText": "该类型和任何相关模板都将被删除。如果您用此类型创建了任何对象，它们可能会变得更难找到。",
     "libActionUninstallRelationTitle": "您确定要删除此关系吗？",
     "libActionUninstallRelationText": "此关系将从您的资料库中删除。如果您创建了任何使用此关系的对象，您将无法再编辑关系值。",
-    "utilLoadMoreText": "Show %s more %s",
+    "utilLoadMoreText": "显示 %s 更多 %s",
     "utilDeletedBackToDashboard": "返回仪表盘",
     "utilDeletedObjectNotExist": "该对象不存在",
     "errorAccountCreate901": "网络错误",
