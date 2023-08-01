@@ -397,7 +397,7 @@
     "blockTextPdf": "上传 PDF 文件",
     "blockTextBookmark": "保存您的链接时将包含一段总结文本",
     "blockTextCode": "可以高亮显示代码的文本块",
-    "blockTextLine": "用于分割信息的线",
+    "blockTextLine": "用行分隔信息",
     "blockTextDot": "使用三个英文句号来分割信息",
     "blockTextLink": "将文件显示为链接",
     "blockTextEmbed": "将文件嵌入对象",
