@@ -1,5 +1,5 @@
 append_commit_message: false
-commit_message: "%locale%.json [ci skip]"
+commit_message: "%language%"
 files:
   - source: text.json
     translation: /locales/%locale%.json
