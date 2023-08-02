@@ -240,7 +240,7 @@
     "confirmUpdateTitle": "Está na hora de atualizar",
     "confirmUpdateText": "Alguns dos teus dados foram geridos através de uma versão mais recente do Anytype. Por favor, atualiza a aplicação para teres acesso a todos os teus documentos e para usufruíres das funcionalidades mais recentes.",
     "confirmUpdateConfirm": "Atualizar",
-    "authInviteTitle": "Welcome to Anytype",
+    "authInviteTitle": "Bem-vindo ao Anytype",
     "authInviteLabel": "Enter your invite code. If you don't have one, visit <a href=\"https://anytype.io\">anytype.io</a> to register for early access. We are inviting new testers on a rolling basis.",
     "authInvitePlaceholder": "Code",
     "authInviteLogin": "Enter",
