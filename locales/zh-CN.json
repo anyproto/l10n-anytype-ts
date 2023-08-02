@@ -1042,7 +1042,7 @@
     "menuWidgetCollections": "收藏集",
     "menuWidgetRecentEdit": "最近编辑的文档",
     "menuWidgetRecentOpen": "最近打开的文档",
-    "menuWidgetRecentOpenCaption": "On this device",
+    "menuWidgetRecentOpenCaption": "在此设备上",
     "menuPreviewLatexExample": "示例: %s",
     "menuSelectEmpty": "未找到选项",
     "previewCopy": "复制链接",
