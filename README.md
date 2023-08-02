@@ -5,6 +5,10 @@ Localization for desktop version of Anytype
 
 The process is managed via [Crowdin](https://crowdin.com/project/anytype-desktop).
 
+## Useful information
+- [Glossary](https://tech.anytype.io/l10n/glossary)
+- [Translation policy](https://tech.anytype.io/l10n/policy)
+
 ## Contribution
 Thank you for your desire to develop Anytype together!
 
