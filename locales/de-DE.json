@@ -16,7 +16,7 @@
     "commonSearch": "Suchen",
     "commonSearchPlaceholder": "Suche...",
     "commonFilterClick": "Klicken um zu Filtern...",
-    "commonFilterEmpty": "Keine Gegenstände gefunden, die mit Ihren Filterkriterien übereinstimmen",
+    "commonFilterEmpty": "Keine zutreffenden Einträge",
     "commonFilterObjects": "Objekte filtern...",
     "commonHome": "Startseite",
     "commonSubmit": "Bestätigen",
@@ -1316,5 +1316,5 @@
     "errorAccountRecover107": "Fehler beim Stoppen des Knoten",
     "errorAccountRecover108": "Ein anderer Prozess wird ausgeführt",
     "errorAccountRecover109": "Account wurde gelöscht",
-    "errorObjectImport7": "Import has not been completed. CSV import supports up to 1000 rows and 10 columns."
+    "errorObjectImport7": "Import wurde nicht abgeschlossen. CSV-Import unterstützt bis zu 1000 Zeilen und 10 Spalten."
 }
