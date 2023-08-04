@@ -406,7 +406,7 @@
     "blockTextNewRelation": "Zmysluplné prepojenie medzi objektmi",
     "blockTextLatex": "Zobraziť matematické rovnice",
     "blockTextSimpleTable": "Vytvoriť jednoduchú tabuľku",
-    "blockTextTableOfContents": "",
+    "blockTextTableOfContents": "Create a table of contents",
     "blockTextSet": "Pridať existujúci alebo vytvoriť novy inline set k tomuto objektu",
     "blockTextCollection": "Pridať inline kolekciu objektov s rozličnými vlastnosťami",
     "blockTextToggleEmpty": "Prázdny prepínač. Vložiť blok dovnútra",
