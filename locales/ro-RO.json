@@ -406,7 +406,7 @@
     "blockTextNewRelation": "Conexiune semnificativă între obiecte",
     "blockTextLatex": "Afișează o ecuație matematică",
     "blockTextSimpleTable": "Creează un tabel simplu",
-    "blockTextTableOfContents": "",
+    "blockTextTableOfContents": "Create a table of contents",
     "blockTextSet": "Adăugați un set in linie existent sau creați un nou set in linie pentru acest obiect",
     "blockTextCollection": "Adăugați o colecție de obiecte în linie cu proprietăți diferite",
     "blockTextToggleEmpty": "Comutator gol. Apasă sau plasează blocul înăuntru",
