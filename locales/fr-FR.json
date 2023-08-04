@@ -406,7 +406,7 @@
     "blockTextNewRelation": "Connexion significative entre objets",
     "blockTextLatex": "Afficher une équation mathématique",
     "blockTextSimpleTable": "Créer un tableau simple",
-    "blockTextTableOfContents": "",
+    "blockTextTableOfContents": "Créer une table des matières",
     "blockTextSet": "Ajouter un set existant ou créer un nouveau set en ligne pour cet objet",
     "blockTextCollection": "Ajouter une collection d'objets en ligne avec différentes propriétés",
     "blockTextToggleEmpty": "Bloc dépliant vide. Cliquez ou déposez un bloc à l'intérieur.",
