@@ -406,7 +406,7 @@
     "blockTextNewRelation": "Meningsfull forbindelse mellom objekter",
     "blockTextLatex": "Vis en matematisk ligning",
     "blockTextSimpleTable": "Lag en enkel tabell",
-    "blockTextTableOfContents": "",
+    "blockTextTableOfContents": "Create a table of contents",
     "blockTextSet": "Legg til eksisterende eller opprett nytt innfelt sett til dette objektet",
     "blockTextCollection": "Legg til en innfelt samling av objekter med forskjellige egenskaper",
     "blockTextToggleEmpty": "Tom ekspanderbar liste. Klikk eller slipp blokk inni",
