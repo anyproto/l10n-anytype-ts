@@ -406,7 +406,7 @@
     "blockTextNewRelation": "对象之间有意义的连接",
     "blockTextLatex": "显示数学公式",
     "blockTextSimpleTable": "创建简单的表格",
-    "blockTextTableOfContents": "",
+    "blockTextTableOfContents": "创建目录",
     "blockTextSet": "为该项目添加现有内联集或创建新内联集",
     "blockTextCollection": "添加具有不同属性对象的内联收藏",
     "blockTextToggleEmpty": "空的折叠列表. 单击此处添加内容或拖动块到这里",
