@@ -406,7 +406,7 @@
     "blockTextNewRelation": "Nuttige connectie tussen objecten",
     "blockTextLatex": "Een wiskundige vergelijking weergeven",
     "blockTextSimpleTable": "Eenvoudige tabel maken",
-    "blockTextTableOfContents": "",
+    "blockTextTableOfContents": "Create a table of contents",
     "blockTextSet": "Add existing or create new inline set to this object",
     "blockTextCollection": "Add inline collection of objects with different properties",
     "blockTextToggleEmpty": "Empty toggle. Click or drop block inside",
