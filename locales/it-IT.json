@@ -406,7 +406,7 @@
     "blockTextNewRelation": "Connessione significativa tra oggetti",
     "blockTextLatex": "Mostra le equazioni matematiche",
     "blockTextSimpleTable": "Crea una tabella semplice",
-    "blockTextTableOfContents": "",
+    "blockTextTableOfContents": "Create a table of contents",
     "blockTextSet": "Aggiungi insieme esistente o crea un nuovo insieme in linea a questo oggetto",
     "blockTextCollection": "Aggiungi una collezione di oggetti in linea, con proprietà differenti",
     "blockTextToggleEmpty": "Alternativa vuota. Fare clic o trasporta un blocco dentro",
