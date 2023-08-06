@@ -310,7 +310,7 @@
     "pageMainStoreTypesPlaceholder": "Buscar ou cria um novo tipo...",
     "pageMainStoreTypesService": "Tipo de serviço",
     "pageMainStoreTypeInstalled": "Type is installed",
-    "pageMainStoreTypeInstall": "Install type",
+    "pageMainStoreTypeInstall": "Instalar tipo",
     "pageMainStoreTypeEmpty": "<b>Sua lista de tipos está vazia</b>Adicione algumas da biblioteca do Anytype usando o ícone de pesquisa ou crie o seu próprio usando o botão acima",
     "pageMainStoreRelationsTitle": "Todos os objetos são conectados.<br />Usar relações para construir conexões entre os objetos.",
     "pageMainStoreRelationsPlaceholder": "Pesquisar ou criar uma nova relação...",
