@@ -1008,7 +1008,7 @@
     "menuItemRelationViewFeaturedRemove": "从精选关联中移除",
     "menuItemFilterTimeAgo": "%d %s 之前",
     "menuItemFilterTimeFromNow": "%d %s 从现在开始",
-    "menuRelationSuggestFilterOrCreateRelation": "筛选或创建关联……",
+    "menuRelationSuggestFilterOrCreateRelation": "筛选或创建关系...",
     "menuRelationSuggestMyRelations": "我的关联",
     "menuRelationSuggestCreateRelation": "创建关系 %s",
     "menuThreadListLastSync": "最后同步",
