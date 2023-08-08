@@ -902,6 +902,7 @@
     "menuBlockMoreUnlockPage": "Deblochează pagina",
     "menuBlockMoreLockPage": "Blochează pagina",
     "menuBlockMoreInstall": "Instalează",
+    "menuBlockMoreSetDefaultTemplate": "Setează ca șablon implicit",
     "menuBlockRelationEditUnlinkFromType": "Deconectează de la tip",
     "menuBlockRelationEditUnlinkFromObject": "Deconectează de la obiect",
     "menuBlockRelationEditSelectObjectType": "Selectează tipul obiectului",
