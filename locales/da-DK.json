@@ -902,6 +902,7 @@
     "menuBlockMoreUnlockPage": "Lås side op",
     "menuBlockMoreLockPage": "Lås side",
     "menuBlockMoreInstall": "Installer",
+    "menuBlockMoreSetDefaultTemplate": "Vælg som standard skabelon",
     "menuBlockRelationEditUnlinkFromType": "Fjern fra type",
     "menuBlockRelationEditUnlinkFromObject": "Fjern fra objekt",
     "menuBlockRelationEditSelectObjectType": "Vælg objekttype",
