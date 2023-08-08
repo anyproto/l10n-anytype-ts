@@ -902,6 +902,7 @@
     "menuBlockMoreUnlockPage": "Розблокувати сторінку",
     "menuBlockMoreLockPage": "Заблокувати сторінку",
     "menuBlockMoreInstall": "Встановити",
+    "menuBlockMoreSetDefaultTemplate": "Встановини цей шаблон за замовчуванням",
     "menuBlockRelationEditUnlinkFromType": "Від'єднати від типу",
     "menuBlockRelationEditUnlinkFromObject": "Від'єднати від об'єкта",
     "menuBlockRelationEditSelectObjectType": "Вибрати тип об'єкта",
