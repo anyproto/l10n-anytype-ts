@@ -902,6 +902,7 @@
     "menuBlockMoreUnlockPage": "Unlock page",
     "menuBlockMoreLockPage": "Lock page",
     "menuBlockMoreInstall": "Zainstaluj",
+    "menuBlockMoreSetDefaultTemplate": "Set as default template",
     "menuBlockRelationEditUnlinkFromType": "Unlink from type",
     "menuBlockRelationEditUnlinkFromObject": "Unlink from object",
     "menuBlockRelationEditSelectObjectType": "Select object type",
