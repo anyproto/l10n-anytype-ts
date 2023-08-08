@@ -902,6 +902,7 @@
     "menuBlockMoreUnlockPage": "Buka kunci halaman",
     "menuBlockMoreLockPage": "Kunci halaman",
     "menuBlockMoreInstall": "Pasang",
+    "menuBlockMoreSetDefaultTemplate": "Set as default template",
     "menuBlockRelationEditUnlinkFromType": "Lepas taut dari tipe",
     "menuBlockRelationEditUnlinkFromObject": "Lepas taut dari objek",
     "menuBlockRelationEditSelectObjectType": "Pilih tipe objek",
