@@ -902,6 +902,7 @@
     "menuBlockMoreUnlockPage": "解锁页面",
     "menuBlockMoreLockPage": "锁定页面",
     "menuBlockMoreInstall": "安装",
+    "menuBlockMoreSetDefaultTemplate": "设置为默认模板",
     "menuBlockRelationEditUnlinkFromType": "從類型取消連結",
     "menuBlockRelationEditUnlinkFromObject": "从对象取消链接",
     "menuBlockRelationEditSelectObjectType": "选择对象类型",
