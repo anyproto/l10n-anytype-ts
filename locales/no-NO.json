@@ -690,7 +690,7 @@
     "popupSettingsImportNotionIntegrationList11": "Opprett integrasjonen du trenger for å hente Notion-data",
     "popupSettingsImportNotionIntegrationList12": "Settings &amp; members -> My connections -> Develop or manage integrations -> <a href=\"https://www.notion.so/my-integrations\">New integration</a>",
     "popupSettingsImportNotionIntegrationList21": "Velg sidene du vil importere ved å legge til integrasjonen du har opprettet",
-    "popupSettingsImportNotionIntegrationList22": "Velg dokument-> ... -> Legg til tilkoblinger -> Bekreft integrasjon",
+    "popupSettingsImportNotionIntegrationList22": "Velg dokument -> ... -> Add Connections -> Velg integrasjonen",
     "popupSettingsPinCheckTimeOut": "Tidsavbrudd for PIN-kode",
     "popupSettingsSpaceMemberTypeReader": "Leser",
     "popupSettingsSpaceMemberTypeEditor": "Redigering",
