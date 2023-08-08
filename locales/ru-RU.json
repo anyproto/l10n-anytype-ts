@@ -314,7 +314,7 @@
     "pageMainStoreTypeEmpty": "<b>Ваш список типов пуст</b>Добавьте некоторые из библиотеки Anytype с помощью иконки поиска или создайте свои собственные с помощью кнопки выше",
     "pageMainStoreRelationsTitle": "All objects are connected.<br />Use relations to build connections between objects.",
     "pageMainStoreRelationsPlaceholder": "Search or create a new relation...",
-    "pageMainStoreRelationsService": "Service relation",
+    "pageMainStoreRelationsService": "Сервисная связь",
     "pageMainStoreRelationsInstalled": "Relation is installed",
     "pageMainStoreRelationsInstall": "Install relation",
     "pageMainStoreRelationsEmpty": "<b>Your relation list is empty</b>Add some from the Anytype Library using the search icon or create your own using the button above",
