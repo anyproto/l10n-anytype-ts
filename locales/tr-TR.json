@@ -902,6 +902,7 @@
     "menuBlockMoreUnlockPage": "Sayfanın kilidini kaldır",
     "menuBlockMoreLockPage": "Sayfayı kilitle",
     "menuBlockMoreInstall": "Kur",
+    "menuBlockMoreSetDefaultTemplate": "Set as default template",
     "menuBlockRelationEditUnlinkFromType": "Unlink from type",
     "menuBlockRelationEditUnlinkFromObject": "Unlink from object",
     "menuBlockRelationEditSelectObjectType": "Select object type",
