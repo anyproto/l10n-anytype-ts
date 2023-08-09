@@ -287,6 +287,7 @@
     "authOnboardOfflineSubmit": "Establecer conexión",
     "authOnboardSoulTitle": "Identidad Anytype",
     "authOnboardSoulLabel": "Great! As a last step, let's create your Identity <span id='questionMarkAccount' class='questionMark'>?</span> and enter your name. Don't worry – you can always change the name later.",
+    "authOnboardAccountTooltip": "Anytype uses asymmetric keys to verify data ownership. Your data, created in the system, is signed with your private key and can be authenticated by others using your public key, which acts as your identity.",
     "authOnboardSoulSubmit": "Ir a la aplicación",
     "authOnboardSoulCreatingTitle": "Creación de su identidad...",
     "authOnboardSpaceCreatingTitle": "Configurar su espacio personal...",
