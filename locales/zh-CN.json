@@ -637,7 +637,7 @@
     "popupConfirmUpdatePromptCancel": "稍后",
     "popupConfirmUpdateDoneTitle": "您的软件是最新的",
     "popupConfirmUpdateDoneText": "您使用的是最新版本: %s",
-    "popupConfirmUpdateDoneOk": "'太棒了!",
+    "popupConfirmUpdateDoneOk": "太棒了!",
     "popupConfirmUpdateErrorTitle": "哎呀!",
     "popupConfirmUpdateErrorText": "无法检查可用更新, 请稍后再试。<br/><span class=\"错误\">%s</span>",
     "popupExportZipArchive": "Zip 存档",
