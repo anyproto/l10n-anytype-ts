@@ -655,7 +655,7 @@
     "popupSettingsDataLocalFiles": "Local files",
     "popupSettingsDataOffloadWarningTitle": "Sigurado ka ba?",
     "popupSettingsDataOffloadWarningText": "All media files stored <b>in Anytype</b> will be deleted from your current device. They can be downloaded again from a backup node or another device.",
-    "popupSettingsDataFilesOffloaded": "Files offloaded",
+    "popupSettingsDataFilesOffloaded": "Na-offload na ang mga file",
     "popupSettingsDeleteTitle1": "1. Meron kang 30 araw para kanselahin ang pagtanggal ng account",
     "popupSettingsDeleteText1": "Ikinalulungkot naming makita kang umalis. Sa sandaling hilingin mong burahin ang iyong account, meron kang 30 araw para kanselahin ang kahilingang ito. Pagkatapos ng 30 araw, ang datos ng iyong account ay permanenteng maaalis mula sa backup node, at hindi ka na makakapag-sign in sa Anytype sa mga bagong device.",
     "popupSettingsDeleteTitle2": "2. Tanggalin ang datos mula sa iba pang mga device",
