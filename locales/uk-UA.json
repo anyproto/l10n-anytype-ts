@@ -664,7 +664,7 @@
     "popupSettingsDeleteCheckboxLabel": "Я прочитав її та бажаю видалити свій обліковий запис",
     "popupSettingsImportCsvTable": "Таблиця",
     "popupSettingsImportCsvCollection": "Колекція",
-    "popupSettingsImportCsvMode": "Import CSV into",
+    "popupSettingsImportCsvMode": "Імпортувати CSV до",
     "popupSettingsImportCsvUseFirstRow": "Використовувати перший рядок як імена стовпців",
     "popupSettingsImportCsvTranspose": "Ви можете перемістити рядки та стовпці",
     "popupSettingsImportCsvColumnsDivider": "Стовпці поділені на",
