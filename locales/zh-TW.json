@@ -287,7 +287,7 @@
     "authOnboardOfflineSubmit": "建立連接",
     "authOnboardSoulTitle": "Anytype 身份標識",
     "authOnboardSoulLabel": "太棒了！最後一步，添加您的身份<span id='questionMarkAccount' class='questionMark'>?</span>並輸入您的名字。別擔心，稍後您可以隨時更改名字。",
-    "authOnboardAccountTooltip": "Anytype uses asymmetric keys to verify data ownership. Your data, created in the system, is signed with your private key and can be authenticated by others using your public key, which acts as your identity.",
+    "authOnboardAccountTooltip": "Anytype 使用非對稱密鑰來驗證數據擁有權。 您在系統中創建的數據使用您的密鑰進行簽名，並且其他人可以使用您的公鑰（充當您的身份）進行身份驗證。",
     "authOnboardSoulSubmit": "進入應用程式",
     "authOnboardSoulCreatingTitle": "創建您的身份...",
     "authOnboardSpaceCreatingTitle": "設置個人空間...",
