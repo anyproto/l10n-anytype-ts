@@ -625,7 +625,7 @@
     "popupNavigationLinkFrom": "Links do objeto",
     "popupNavigationLinkTo": "Links para o objeto",
     "popupNavigationEmptyTo": "Nenhum link para esse objeto",
-    "popupNavigationEmptyFrom": "No links to other obejcts",
+    "popupNavigationEmptyFrom": "Não há links para outros objetos",
     "popupSearchPlaceholder": "Pesquisar por um objeto...",
     "popupSearchEmpty": "Nenhum objeto encontrado",
     "popupSearchEmptyFilter": "<b>There are no objects named <span>\"%s\"</span></b>Try creating a new one or search for something else",
