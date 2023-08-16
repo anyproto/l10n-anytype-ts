@@ -599,7 +599,7 @@
     "popupSettingsSpaceInviteTitle": "Link de convite",
     "popupSettingsSpaceInviteMemberRights": "Direitos do membro",
     "popupSettingsSpaceInviteMemberTypeTextReader": "O leitor pode ver o conteúdo do espaço (objetos e membros) mas não pode alterar objetos, ajustes do espaço, ou convidar outros membros para colaborar",
-    "popupSettingsSpaceInviteMemberTypeTextEditor": "Editor can can edit objects and invite other members to collaborate but can’t edit space settings.",
+    "popupSettingsSpaceInviteMemberTypeTextEditor": "O editor pode editar objetos e convidar outros membros para colaborar, mas não pode editar as configurações do espaço.",
     "popupSettingsSpaceInviteMemberTypeTextAdmin": "Administradores podem fazer o que quiserem no espaço, até move-lo para a lixeira.",
     "popupSettingsSpaceInviteButton": "Copiar link de convite",
     "popupSettingsSpaceHomepageText": "Selecione um objeto a ser exibido quando você efetuar login",
