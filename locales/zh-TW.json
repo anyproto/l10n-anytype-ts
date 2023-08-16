@@ -408,7 +408,7 @@
     "blockTextRelation": "對象之間有意義的連接",
     "blockTextNewRelation": "對象之間有意義的連接",
     "blockTextLatex": "顯示數學公式",
-    "blockTextSimpleTable": "創建簡單的表格",
+    "blockTextSimpleTable": "創建簡易表格",
     "blockTextTableOfContents": "建立目錄",
     "blockTextSet": "為該專案添加現有內聯集合或創建新內聯集合",
     "blockTextCollection": "在當前頁面插入一個集錦",
