@@ -671,7 +671,7 @@
     "popupSettingsImportNotionHelpStep13": "Cliquez sur Nouvelle intégration ou Créer une nouvelle intégration.",
     "popupSettingsImportNotionHelpStep14": "Sélectionnez votre espace de travail et définissez le nom pour l'intégration.",
     "popupSettingsImportNotionHelpStep15": "Important ! Allez à <b>Capacités</b> et sélectionnez les fonctionnalités suivantes et appuyez sur Enregistrer les modifications : <ul><li>Lire le contenu</li><li>Lire les informations utilisateur</li></ul>",
-    "popupSettingsImportNotionHelpStep16": "Copy Internal Integration Secret for connecting and importing your data.",
+    "popupSettingsImportNotionHelpStep16": "Copiez le secret d'intégration interne pour la connexion et l'importation de vos données.",
     "popupSettingsImportNotionHelpStep2Descr": "Ajouter l'intégration aux pages que vous voulez importer dans Anytype. La page sera importée avec tous les documents enfants. Sélectionnez votre objet racine pour importer tous les objets.",
     "popupSettingsImportNotionHelpStep21": "Cliquez sur le menu à trois points dans le coin supérieur droit, puis sur Ajouter des connexions (vous devez faire défiler le menu). Sélectionnez votre intégration Anytype.",
     "popupSettingsImportNotionHelpStep22": "Appuyez sur Confirm. Maintenant, il vous suffit de coller votre jeton d'intégration interne sur Anytype.",
