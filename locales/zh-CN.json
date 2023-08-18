@@ -262,7 +262,7 @@
     "authDeleteTitle": "删除个人资料",
     "authDeleteTitleDeleted": "从备份节点删除帐户数据",
     "authDeleteDescription": "我们很遗憾您选择离开。一旦您要求删除您的账户，您有 30 天的时间取消这一要求。 30天后, 您的账户数据将从备份节点中永久删除, 您将无法在新设备上登录 Anytype。",
-    "authDeleteDescriptionDeleted": "您在其他登陆设备中所同步的数据并不会被删除。但是，您将无法使用恢复短语在新设备上登录 Anytpe。",
+    "authDeleteDescriptionDeleted": "您在其他登陆设备中所同步的数据并不会被删除。但是，您将无法使用恢复短语在新设备上登录 Anytype。",
     "authDeleteCancelButton": "取消删除操作",
     "authDeleteExportButton": "将数据导出为Markdown",
     "authDeleteRemoveButton": "删除本地数据",
