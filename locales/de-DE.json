@@ -672,7 +672,7 @@
     "popupSettingsImportNotionHelpStep12": "Öffne \"Meine Verbindungen\" und dann \"Eigene Einbindungen entwickeln oder verwalten\".",
     "popupSettingsImportNotionHelpStep13": "Klicke auf \"Neue Einbindung\" oder \"Neue Einbindung erstellen\".",
     "popupSettingsImportNotionHelpStep14": "Wähle deinen Workspace und gib \"Namen\" für die Integration ein.",
-    "popupSettingsImportNotionHelpStep15": "Important! ️Go to <b>Capabilities</b> and select following capabilities and press save changes: <ul><li>Read content</li><li>Read user information</li></ul>️",
+    "popupSettingsImportNotionHelpStep15": "Wichtig! Gehe zu <b>Fähigkeiten</b> und wähle die folgenden Fähigkeiten aus und drücke auf Änderungen speichern: <ul><li>Inhalte lesen</li><li>Benutzerinformationen lesen</li></ul>️",
     "popupSettingsImportNotionHelpStep16": "Internes Integrationsgeheimnis (Integration Secret) zum Verbinden und Importieren Ihrer Daten kopieren.",
     "popupSettingsImportNotionHelpStep2Descr": "Fügen Sie die Integration zu den Seiten hinzu, die Sie in Anytype importieren möchten. Seite wird mit allen Unterdokumenten importiert. Wählen Sie Ihr Wurzelobjekt aus, um alle Objekte zu importieren.",
     "popupSettingsImportNotionHelpStep21": "Klicke auf die drei Punkte in der oberen rechten Ecke und dann \"Verbindungen hinzufügen\" (Du musst im Menü scrollen). Wähle eine Anytype-Integration.",
