@@ -1069,7 +1069,7 @@
     "filterConditionEmpty": "Ist leer",
     "filterConditionNotEmpty": "Ist nicht leer",
     "filterConditionAllIn": "Hat alle von",
-    "filterConditionInArray": "Hat alle von",
+    "filterConditionInArray": "Hat irgendeines von",
     "filterConditionNotInArray": "Ist keine von",
     "inputWithFileTextUrl": "Link einfügen",
     "threadStatus0": "Vorbereitung...",
