@@ -1,10 +1,10 @@
 {
-    "commonError": "Error",
-    "commonOr": "or",
+    "commonError": "Kesalahan",
+    "commonOr": "atau",
     "commonOf": "of",
     "commonTo": "to",
     "commonOk": "Ok",
-    "commonOkay": "Okay",
+    "commonOkay": "Okay\n",
     "commonCreate": "Create",
     "commonSave": "Save",
     "commonCancel": "Cancel",
