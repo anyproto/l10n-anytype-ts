@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Nuevo conjunto de objetos",
     "pageMainTypeNoTemplates": "Este tipo de objeto no tiene plantillas",
     "pageAuthLoginInvalidPhrase": "Frase de recuperación no válida",
-    "pageAuthDeletedAccountDeletionTitle": "Está previsto eliminar esta cuenta en ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "Localización de los datos de la cuenta",
     "pageAuthOnboardEnterYourName": "Introduzca su nombre",
     "pageAuthOnboardPersonalSpace": "Espacio personal",
