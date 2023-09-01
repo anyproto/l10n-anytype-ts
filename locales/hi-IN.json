@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "वस्तुओं का नया सेट",
     "pageMainTypeNoTemplates": "This object type doesn't have templates",
     "pageAuthLoginInvalidPhrase": "अमान्य वसूली वाक्यांश",
-    "pageAuthDeletedAccountDeletionTitle": "यह खाता विलोपन के लिए योजनाबद्ध है",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "खाता जानकारी स्थान",
     "pageAuthOnboardEnterYourName": "अपना नाम दर्ज करें",
     "pageAuthOnboardPersonalSpace": "निजी अंतरिक्ष",
