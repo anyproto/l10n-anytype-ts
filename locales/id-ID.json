@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Set objek baru",
     "pageMainTypeNoTemplates": "Tipe objek ini tidak memiliki templat",
     "pageAuthLoginInvalidPhrase": "Frasa pemulihan tidak valid",
-    "pageAuthDeletedAccountDeletionTitle": "Akun ini akan dihapus dalam ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "Lokasi data akun",
     "pageAuthOnboardEnterYourName": "Masukkan namamu",
     "pageAuthOnboardPersonalSpace": "Ruang Pribadi",
