@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Tập đối tượng mới",
     "pageMainTypeNoTemplates": "Loại đối tượng này không có mẫu",
     "pageAuthLoginInvalidPhrase": "Khoá khôi phục không hợp lệ",
-    "pageAuthDeletedAccountDeletionTitle": "Tài khoản này hẹn sẽ xoá trong ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "Vị trí lưu dữ liệu tài khoản",
     "pageAuthOnboardEnterYourName": "Nhập tên bạn vào",
     "pageAuthOnboardPersonalSpace": "Không gian Riêng",
