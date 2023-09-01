@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Nowy zbiór obiektów",
     "pageMainTypeNoTemplates": "Ten obiekt nie ma szablonów",
     "pageAuthLoginInvalidPhrase": "Niepoprawne hasło awaryjne",
-    "pageAuthDeletedAccountDeletionTitle": "To konto zostanie usunięte za ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "Lokalizacja danych konta",
     "pageAuthOnboardEnterYourName": "Podaj swoją nazwę",
     "pageAuthOnboardPersonalSpace": "Osobista przestrzeń",
