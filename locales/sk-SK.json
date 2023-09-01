@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Nová sada objektov",
     "pageMainTypeNoTemplates": "This object type doesn't have templates",
     "pageAuthLoginInvalidPhrase": "Neplatná obnovovacia fráza",
-    "pageAuthDeletedAccountDeletionTitle": "Tento účet je naplánovaný na odstránenie za ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "Umiestnenie údajov účtu",
     "pageAuthOnboardEnterYourName": "Zadajte vaše meno",
     "pageAuthOnboardPersonalSpace": "Osobný priestor",
