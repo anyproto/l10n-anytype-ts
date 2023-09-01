@@ -437,7 +437,7 @@
     "blockDataviewEmptyViewButton": "Create object",
     "blockDataviewControlsFilters": "フィルター",
     "blockDataviewControlsSorts": "並び替え",
-    "blockDataviewControlsSettings": "並び替え",
+    "blockDataviewControlsSettings": "設定",
     "blockDataviewControlsViewAdd": "新しいビューを作成",
     "blockDataviewSelectionMoveToBin": "ゴミ箱に移動",
     "blockDataviewSelectionDeselect": "選択をすべて解除",
