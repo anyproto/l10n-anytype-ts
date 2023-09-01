@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Новий набір об'єктів",
     "pageMainTypeNoTemplates": "У цього типу об'єкта немає шаблонів",
     "pageAuthLoginInvalidPhrase": "Неправильна Фраза відновлення",
-    "pageAuthDeletedAccountDeletionTitle": "Цей обліковий запис заплановано для видалення ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "Розташування даних облікового запису",
     "pageAuthOnboardEnterYourName": "Введи своє ім'я",
     "pageAuthOnboardPersonalSpace": "Особистий простір",
