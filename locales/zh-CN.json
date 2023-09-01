@@ -437,7 +437,7 @@
     "blockDataviewEmptyViewButton": "创建对象",
     "blockDataviewControlsFilters": "过滤",
     "blockDataviewControlsSorts": "排序",
-    "blockDataviewControlsSettings": "排序",
+    "blockDataviewControlsSettings": "设置",
     "blockDataviewControlsViewAdd": "创建新视图",
     "blockDataviewSelectionMoveToBin": "移动到回收站",
     "blockDataviewSelectionDeselect": "取消全选",
