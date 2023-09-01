@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Új objektumkészlet",
     "pageMainTypeNoTemplates": "This object type doesn't have templates",
     "pageAuthLoginInvalidPhrase": "Érvénytelen helyreállítási kódmondat",
-    "pageAuthDeletedAccountDeletionTitle": "Ezt a fiókot törölni fogják ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "Fiókadatok helye",
     "pageAuthOnboardEnterYourName": "Add meg a neved",
     "pageAuthOnboardPersonalSpace": "Személyes tér",
