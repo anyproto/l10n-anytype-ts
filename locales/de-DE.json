@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Neues Set von Objekten",
     "pageMainTypeNoTemplates": "Dieser Objekttyp hat keine Vorlagen",
     "pageAuthLoginInvalidPhrase": "Ungültige Wiederherstellungsphrase",
-    "pageAuthDeletedAccountDeletionTitle": "Dieser Account ist zur Löschung vorgesehen in ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "Speicherort der Account-Daten",
     "pageAuthOnboardEnterYourName": "Gib deinen Namen ein",
     "pageAuthOnboardPersonalSpace": "Persönlicher Space",
