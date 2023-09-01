@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Nieuwe set van objecten",
     "pageMainTypeNoTemplates": "Dit objecttype heeft geen sjabloons",
     "pageAuthLoginInvalidPhrase": "Ongeldige herstelzin",
-    "pageAuthDeletedAccountDeletionTitle": "Dit account is gepland voor verwijdering in ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "Locatie van accountgegevens",
     "pageAuthOnboardEnterYourName": "Voer jouw naam in",
     "pageAuthOnboardPersonalSpace": "Persoonlijke ruimte",
