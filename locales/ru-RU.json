@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Новый набор объектов",
     "pageMainTypeNoTemplates": "Данный тип объекта не имеет шаблонов",
     "pageAuthLoginInvalidPhrase": "Неверная фраза восстановления",
-    "pageAuthDeletedAccountDeletionTitle": "Данная учетная запись планируется к удалению в ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "Расположение данных аккаунта",
     "pageAuthOnboardEnterYourName": "Введите ваше имя",
     "pageAuthOnboardPersonalSpace": "Личное пространство",
