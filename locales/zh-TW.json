@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "新增物件集合",
     "pageMainTypeNoTemplates": "該物件類別沒有樣板",
     "pageAuthLoginInvalidPhrase": "恢復短語無效",
-    "pageAuthDeletedAccountDeletionTitle": "此帳戶計畫刪除於 ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "帳戶數據存儲路徑",
     "pageAuthOnboardEnterYourName": "輸入您的名稱",
     "pageAuthOnboardPersonalSpace": "個人空間",
