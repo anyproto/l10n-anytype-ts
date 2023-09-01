@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Nytt sett av objekter",
     "pageMainTypeNoTemplates": "Denne objekttypen har ingen maler",
     "pageAuthLoginInvalidPhrase": "Ugyldig gjenopprettingsfrase",
-    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
+    "pageAuthDeletedAccountDeletionTitle": "Denne kontoen er planlagt for sletting om %s",
     "pageAuthOnboardAccountDataLocation": "Kontodata plassering",
     "pageAuthOnboardEnterYourName": "Skriv inn navnet ditt",
     "pageAuthOnboardPersonalSpace": "Personlig område",
