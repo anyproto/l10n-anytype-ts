@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Yeni bir nesne kümesi",
     "pageMainTypeNoTemplates": "Bu nesne türünün şablonu yok",
     "pageAuthLoginInvalidPhrase": "Geçersiz kurtarma dizilimi",
-    "pageAuthDeletedAccountDeletionTitle": "Bu hesap, planlanan silinme tarihine sahip: ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "Hesap veri konumu",
     "pageAuthOnboardEnterYourName": "İsminizi girin",
     "pageAuthOnboardPersonalSpace": "Kişisel alan",
