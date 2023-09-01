@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "新建对象集",
     "pageMainTypeNoTemplates": "该对象类型下没有模板",
     "pageAuthLoginInvalidPhrase": "恢复短语无效",
-    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
+    "pageAuthDeletedAccountDeletionTitle": "此账户计划于 %s 删除",
     "pageAuthOnboardAccountDataLocation": "账户数据存储路径",
     "pageAuthOnboardEnterYourName": "输入您的姓名",
     "pageAuthOnboardPersonalSpace": "个人空间",
