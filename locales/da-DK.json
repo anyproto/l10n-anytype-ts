@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Nyt sæt af objekter",
     "pageMainTypeNoTemplates": "Denne objekttype har ingen skabeloner",
     "pageAuthLoginInvalidPhrase": "Ugyldig gendannelsessætning",
-    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
+    "pageAuthDeletedAccountDeletionTitle": "Denne konto er planlagt til sletning om %s",
     "pageAuthOnboardAccountDataLocation": "Placering af kontodata",
     "pageAuthOnboardEnterYourName": "Indtast dit navn",
     "pageAuthOnboardPersonalSpace": "Personligt rum",
