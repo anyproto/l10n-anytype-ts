@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "New set of objects",
     "pageMainTypeNoTemplates": "This object type doesn't have templates",
     "pageAuthLoginInvalidPhrase": "Invalid recovery phrase",
-    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "Account data location",
     "pageAuthOnboardEnterYourName": "Ange ditt namn",
     "pageAuthOnboardPersonalSpace": "Personal Space",
