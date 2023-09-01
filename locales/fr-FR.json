@@ -330,7 +330,7 @@
     "pageMainTypeNewSetOfObjects": "Nouveau set d'objets",
     "pageMainTypeNoTemplates": "Ce type d'objet n'a pas de modèle",
     "pageAuthLoginInvalidPhrase": "La phrase de récupération est invalide",
-    "pageAuthDeletedAccountDeletionTitle": "Ce compte est prévu pour la suppression dans ",
+    "pageAuthDeletedAccountDeletionTitle": "This account is planned for deletion in %s",
     "pageAuthOnboardAccountDataLocation": "Emplacement des données du compte",
     "pageAuthOnboardEnterYourName": "Saisissez votre nom",
     "pageAuthOnboardPersonalSpace": "Espace personnel",
