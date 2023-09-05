@@ -785,7 +785,7 @@
     "popupShortcutMarkdownWhileTyping2": "Satır içi kalın",
     "popupShortcutMarkdownWhileTyping3": "Satır içi italik",
     "popupShortcutMarkdownWhileTyping4": "Satır içi üstü çizili",
-    "popupShortcutMarkdownWhileTypingInserts": "Inserts %s",
+    "popupShortcutMarkdownWhileTypingInserts": "%s ekler",
     "popupShortcutMarkdownBeginningOfLine": "Her bir yeni satırın başında",
     "popupShortcutMarkdownBeginningOfLine1": "H1 başlığı oluştur",
     "popupShortcutMarkdownBeginningOfLine2": "H2 başlığı oluştur",
