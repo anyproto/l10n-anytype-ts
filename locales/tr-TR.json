@@ -1114,6 +1114,7 @@
     "toastRelationAdded": "<b>%s</b> bağıntısı kitaplığınıza eklendi",
     "toastObjectTypeRemoved": "<b>%s</b> nesne türü kitaplığınızdan kaldırıldı",
     "toastRelationRemoved": "<b>%s</b> bağıntısı kitaplığınızdan kaldırıldı",
+    "toastSetDefaultTemplate": "This template was set as default",
     "textColor-grey": "Gri",
     "textColor-yellow": "Sarı",
     "textColor-orange": "Amber",
