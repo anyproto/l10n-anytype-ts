@@ -1114,6 +1114,7 @@
     "toastRelationAdded": "Relasjonen <b>%s</b> har blitt lagt til i biblioteket ditt",
     "toastObjectTypeRemoved": "Objekttype <b>%s</b> har blitt fjernet fra biblioteket ditt",
     "toastRelationRemoved": "Relasjonen <b>%s</b> har blitt fjernet fra ditt bibliotek",
+    "toastSetDefaultTemplate": "This template was set as default",
     "textColor-grey": "Grå",
     "textColor-yellow": "Gul",
     "textColor-orange": "Oransje",
