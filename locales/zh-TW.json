@@ -1114,6 +1114,7 @@
     "toastRelationAdded": "關聯 <b>%s</b> 已添加到您的資料庫",
     "toastObjectTypeRemoved": "已經從您的資料庫中刪除了物件 <b>%s</b>",
     "toastRelationRemoved": "已經從您的資料庫中刪除了關聯 <b>%s</b>",
+    "toastSetDefaultTemplate": "This template was set as default",
     "textColor-grey": "灰色",
     "textColor-yellow": "黃色",
     "textColor-orange": "琥珀色",
