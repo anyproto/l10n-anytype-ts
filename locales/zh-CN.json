@@ -1114,6 +1114,7 @@
     "toastRelationAdded": "关系 <b>%s</b> 已添加到您的库",
     "toastObjectTypeRemoved": "已经从您的库中删除了对象 <b>%s</b>",
     "toastRelationRemoved": "已经从您的库中删除了关系 <b>%s</b>",
+    "toastSetDefaultTemplate": "This template was set as default",
     "textColor-grey": "灰色",
     "textColor-yellow": "黄色",
     "textColor-orange": "琥珀色",
