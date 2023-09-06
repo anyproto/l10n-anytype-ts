@@ -1114,6 +1114,7 @@
     "toastRelationAdded": "Relatie <b>%s</b> is toegevoegd aan jouw bibliotheek",
     "toastObjectTypeRemoved": "Object type <b>%s</b> is verwijderd uit jouw bibliotheek",
     "toastRelationRemoved": "Relatie <b>%s</b> is verwijderd uit jouw bibliotheek",
+    "toastSetDefaultTemplate": "This template was set as default",
     "textColor-grey": "Grijs",
     "textColor-yellow": "Geel",
     "textColor-orange": "Amber",
