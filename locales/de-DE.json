@@ -1114,7 +1114,7 @@
     "toastRelationAdded": "Relation <b>%s</b> wurde zur Bibliothek hinzugefügt",
     "toastObjectTypeRemoved": "Objekttyp <b>%s</b> wurde aus der Bibliothek entfernt",
     "toastRelationRemoved": "Beziehungstyp <b>%s</b> wurde aus Bibliothek entfernt",
-    "toastSetDefaultTemplate": "This template was set as default",
+    "toastSetDefaultTemplate": "Diese Vorlage wurde als Standard festgelegt",
     "textColor-grey": "Grau",
     "textColor-yellow": "Gelb",
     "textColor-orange": "Bernstein",
