@@ -1114,7 +1114,7 @@
     "toastRelationAdded": "La relación <b>%s</b> ha sido añadida a tu librería",
     "toastObjectTypeRemoved": "El Tipo de Objeto <b>%s</b> ha sido eliminado de tu librería",
     "toastRelationRemoved": "La relación <b>%s</b> ha sido eliminada de tu librería",
-    "toastSetDefaultTemplate": "This template was set as default",
+    "toastSetDefaultTemplate": "Esta plantilla se estableció por defecto",
     "textColor-grey": "Gris",
     "textColor-yellow": "Amarillo",
     "textColor-orange": "Ámbar",
