@@ -1114,6 +1114,7 @@
     "toastRelationAdded": "संबंध <b>%s </b> को आपकी लाइब्रेरी में जोड़ा गया है",
     "toastObjectTypeRemoved": "ऑब्जेक्ट प्रकार <b>%s </b> को आपकी लाइब्रेरी से हटा दिया गया है",
     "toastRelationRemoved": "संबंध <b>%s </b> को आपकी लाइब्रेरी से हटा दिया गया है",
+    "toastSetDefaultTemplate": "This template was set as default",
     "textColor-grey": "स्लेटी",
     "textColor-yellow": "पीला",
     "textColor-orange": "अंबर",
