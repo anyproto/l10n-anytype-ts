@@ -1114,6 +1114,7 @@
     "toastRelationAdded": "Relacja <b>%s</b> została dodana do Twojej biblioteki",
     "toastObjectTypeRemoved": "Typ <b>%s</b> obiektu został usunięty z biblioteki",
     "toastRelationRemoved": "Relacja <b>%s</b> została usunięta z biblioteki",
+    "toastSetDefaultTemplate": "This template was set as default",
     "textColor-grey": "Szary",
     "textColor-yellow": "Żółty",
     "textColor-orange": "Bursztynowy",
