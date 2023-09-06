@@ -1114,6 +1114,7 @@
     "toastRelationAdded": "Relația <b>%s</b> a fost adăugată la biblioteca ta",
     "toastObjectTypeRemoved": "Tipul obiectului <b>%s</b> a fost șters din biblioteca ta",
     "toastRelationRemoved": "Relația <b>%s</b> a fost ștearsă din biblioteca ta",
+    "toastSetDefaultTemplate": "This template was set as default",
     "textColor-grey": "Gri",
     "textColor-yellow": "Galben",
     "textColor-orange": "Chihlimbar",
