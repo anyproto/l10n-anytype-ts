@@ -1114,6 +1114,7 @@
     "toastRelationAdded": "Liên hệ <b>%s</b> đã được thêm vào thư viện của bạn",
     "toastObjectTypeRemoved": "Loại đối tượng <b>%s</b> đã bị bỏ khỏi thư viện của bạn",
     "toastRelationRemoved": "Liên hệ <b>%s</b> đã bị bỏ khỏi thư viện của bạn",
+    "toastSetDefaultTemplate": "This template was set as default",
     "textColor-grey": "Xám",
     "textColor-yellow": "Vàng",
     "textColor-orange": "Hổ phách",
