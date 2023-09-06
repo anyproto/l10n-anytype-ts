@@ -1114,6 +1114,7 @@
     "toastRelationAdded": "Свойство <b>%s</b> было добавлено в вашу библиотеку",
     "toastObjectTypeRemoved": "Тип объекта <b>%s</b> был добавлен в вашу библиотеку",
     "toastRelationRemoved": "Свойство <b>%s</b> было удалено из вашей библиотеки",
+    "toastSetDefaultTemplate": "This template was set as default",
     "textColor-grey": "Серый",
     "textColor-yellow": "Жёлтый",
     "textColor-orange": "Янтарный",
