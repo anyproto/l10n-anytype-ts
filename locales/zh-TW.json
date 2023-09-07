@@ -1239,7 +1239,7 @@
     "dispatcherImportTryAgain": "請再試一次",
     "onboardingMainGraph": "新手上路",
     "onboardingMainGraph11": "<b>歡迎來到您的 Anytype 空間。</b> 「空間」 是一個展示不同物件關聯的關聯圖，提供了一種組織資訊的自然方法。",
-    "onboardingMainGraph12": "如果需要訪問你的主頁，請點擊關聯圖中的圖示或 <span class=\"highlight\">下一個</span> 按鈕。",
+    "onboardingMainGraph12": "To access your Homepage, click on the <span class=\"highlight\">Next</span> button.",
     "onboardingMainSet": "集合 & 集錦",
     "onboardingMainSet11": "<b>Anytype 有兩種基本格式：集合和集錦。</b> 在計算機科學中，集合是一種只包含獨特(不重複)元素的資料結構，而集錦則是儲存在一起的任何一組物件。您可以將任何集合轉換為集錦，但不能反過來。",
     "onboardingMainSet21": "<b>集合</b> 不含重複內容，可用來過濾特定的物件或關聯類別，如我的所有書籤。 <b>集錦</b>可包含重複內容並用於更多一般用途的數據儲存；它們可以儲存任何東西。",
