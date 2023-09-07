@@ -1239,7 +1239,7 @@
     "dispatcherImportTryAgain": "Thử lại",
     "onboardingMainGraph": "Giới thiệu",
     "onboardingMainGraph11": "<b>Chào mừng đến với Không gian Anytype của bạn.</b> Không gian là một đồ thị các đối tượng liên thông với nhau, cho phép tổ chức thông tin một cách tự nhiên.",
-    "onboardingMainGraph12": "Để truy cập Trang chủ của bạn, nhấp vào biểu tượng của nó trên đồ thị hoặc nút <span class=\"highlight\">Tiếp theo</span>.",
+    "onboardingMainGraph12": "To access your Homepage, click on the <span class=\"highlight\">Next</span> button.",
     "onboardingMainSet": "Tập & Bộ",
     "onboardingMainSet11": "<b>Anytype có hai kiểu cơ bản: Tập và Bộ.</b> Theo nghĩa khoa học máy tính, một Tập là một cấu trúc dữ liệu chứa các phần tử độc nhất, còn một Bộ là một nhóm các đối tượng bất kỳ được lưu trữ cùng nhau. Bạn có thể chuyển một tập thành một bộ, nhưng ngược lại thì không được.",
     "onboardingMainSet21": "<b>Tập</b> không chứa các phần tử trùng lặp và có thể được dùng để lọc ra các loại đối tượng hoặc các liên hệ cụ thể, ví dụ như toàn bộ các dấu trang của tôi. <b>Bộ</b> thì có thể chứa các phần tử trùng lặp và được dùng cho việc lưu trữ dữ liệu một cách tổng quan hơn; chúng chứa gì cũng được.",
