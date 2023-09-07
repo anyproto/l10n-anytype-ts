@@ -1225,7 +1225,7 @@
     "sidebarToggle": "切换侧边栏固定模式",
     "unsplashString": "由 %s 在 %s 拍摄的的照片",
     "templateBannner": "您正在编辑模板",
-    "deletedBanner": "This file is in the Bin and is shown in view mode",
+    "deletedBanner": "此文件在废纸篓中，现已视图模式显示。",
     "deletedBannerRestore": "恢复",
     "dispatcherImportSuccessTitle": "导入完成！",
     "dispatcherImportSuccessText": "数据已经导入完成。您可以在收藏夹中找到导入的对象。",
