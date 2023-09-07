@@ -1239,7 +1239,7 @@
     "dispatcherImportTryAgain": "Tente novamente",
     "onboardingMainGraph": "Integração",
     "onboardingMainGraph11": "<b>Bem-vindo(a) ao seu Espaço Anytype.</b> O espaço é um gráfico de objetos interconectados, providenciando um meio natural de organizar as informações",
-    "onboardingMainGraph12": "Para acessar sua Página Inicial, clique no seu ícone no gráfico ou no botão de <span class=\"highlight\">Próximo</span>.",
+    "onboardingMainGraph12": "To access your Homepage, click on the <span class=\"highlight\">Next</span> button.",
     "onboardingMainSet": "Conjunto & Coleção",
     "onboardingMainSet11": "<b>Anytype possui dois formatos básicos: Conjuntos e Coleções.</b> Assim como na ciência da computação, um Conjunto é uma estrutura de dados que contém apenas elementos únicos, enquanto uma Coleção é qualquer grupo de objetos armazenados juntos. Você pode converter qualquer conjunto em uma coleção, mas não o contrário.",
     "onboardingMainSet21": "<b>Conjuntos</b> não possuem duplicatas e podem ser usados para filtrar objetos ou tipos de relação específicos, como todos os meus favoritos. <b>Coleções</b>, no entanto, podem conter objetos duplicados e são usados para armazenamento de dados de propósito geral; elas podem armazenar qualquer coisa.",
