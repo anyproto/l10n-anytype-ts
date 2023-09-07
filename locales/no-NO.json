@@ -1239,7 +1239,7 @@
     "dispatcherImportTryAgain": "Prøv igjen",
     "onboardingMainGraph": "Innføring",
     "onboardingMainGraph11": "<b>Velkommen til ditt Anytype-rom.</b> Rommet er et nettverk av sammenkoblede objekter, som gir en naturlig måte å organisere informasjon på.",
-    "onboardingMainGraph12": "For å få tilgang til din hjemmeside, klikk på dets ikon i grafen eller på <span class=\"highlight\">Neste</span>-knappen.",
+    "onboardingMainGraph12": "To access your Homepage, click on the <span class=\"highlight\">Next</span> button.",
     "onboardingMainSet": "Sett & Samling",
     "onboardingMainSet11": "<b>Anytype har to grunnleggende formater: Sett og Samlinger.</b> Likt som i informatikk, er et Sett en datastruktur som kun inneholder unike elementer, mens en Samling er en gruppe objekter som er lagret sammen. Du kan konvertere ethvert Sett til en Samling, men ikke motsatt.",
     "onboardingMainSet21": "<b>Sett</b> inneholder ingen duplikater og kan brukes til å filtrere spesifikke objekter eller relasjonstyper, slik som alle mine bokmerker. <b>Samlinger</b> derimot, kan inneholde duplikater og brukes for mer generell datalagring; de kan lagre hva som helst.",
