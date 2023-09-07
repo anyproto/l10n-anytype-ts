@@ -1239,7 +1239,7 @@
     "dispatcherImportTryAgain": "请再试一次",
     "onboardingMainGraph": "新手上路",
     "onboardingMainGraph11": "<b>欢迎来到您在 Anytype 中的空间。</b> space 是一个展示不同对象关联的关系图，提供了一种组织信息的自然方法。",
-    "onboardingMainGraph12": "如果需要访问你的主页，请点击图形中的图标或 <span class=\"highlight\">下一个</span> 按钮。",
+    "onboardingMainGraph12": "To access your Homepage, click on the <span class=\"highlight\">Next</span> button.",
     "onboardingMainSet": "集合 & 集锦",
     "onboardingMainSet11": "<b>Anytype 有两种基本格式：集合和收藏。</b> 在计算机科学中，集合是一种只包含唯一元素的数据结构，而收藏则是存储在一起的任何一组对象。您可以将任何集合转换为收藏，但不能反过来。",
     "onboardingMainSet21": "<b>集合</b> 不含重复内容，可用来过滤特定的对象或关系类型，如我的所有书签。 <b>集锦</b>可包含重复内容，并用于更多普通用途的数据存储；它们可以存储任何东西。",
