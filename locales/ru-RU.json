@@ -1225,7 +1225,7 @@
     "sidebarToggle": "Переключить режим фиксированной боковой панели",
     "unsplashString": "Фото %s на %s",
     "templateBannner": "Вы редактируете шаблон",
-    "deletedBanner": "This file is in the Bin and is shown in view mode",
+    "deletedBanner": "Этот файл находится в Корзине и доступен только в режиме просмотра",
     "deletedBannerRestore": "Восстановить",
     "dispatcherImportSuccessTitle": "Процесс импорта завершен!",
     "dispatcherImportSuccessText": "Теперь данные ваши. Вы найдете импортированные объекты в своей любимой коллекции.",
