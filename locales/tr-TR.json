@@ -1239,7 +1239,7 @@
     "dispatcherImportTryAgain": "Tekrar dene",
     "onboardingMainGraph": "Oryantasyon",
     "onboardingMainGraph11": "<b>Anytype Alanınıza hoş geldiniz.</b> Alan, bilgileri organize etmek için doğal bir yol sağlayan, birbirine bağlı nesnelerden oluşan bir diyagramdır.",
-    "onboardingMainGraph12": "Ana Sayfanıza erişmek için diyagramdaki simgesini veya <span class=\"highlight\">İleri</span> düğmesini tıklayın.",
+    "onboardingMainGraph12": "To access your Homepage, click on the <span class=\"highlight\">Next</span> button.",
     "onboardingMainSet": "Küme ve Koleksiyon",
     "onboardingMainSet11": "<b>Anytype'ta iki temel format vardır: Kümeler ve Koleksiyonlar.</b> Bilgisayar bilimlerinde olduğu gibi, Küme yalnızca benzersiz öğeler içeren bir veri yapısıdır; Koleksiyon ise birlikte depolanan herhangi bir nesne grubudur. Herhangi bir kümeyi koleksiyona dönüştürebilirsiniz ancak tam tersi mümkün değildir.",
     "onboardingMainSet21": "<b>Kümeler</b> kopya içermez ve tüm yer işaretlerim gibi belirli nesneleri veya ilişki türlerini filtrelemek için kullanılabilir. Ancak <b>Koleksiyonlar</b> kopyalar içerebilir ve daha genel amaçlı veri depolama için kullanılır; her şeyi saklayabilirler.",
