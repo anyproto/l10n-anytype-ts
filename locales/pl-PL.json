@@ -1239,7 +1239,7 @@
     "dispatcherImportTryAgain": "Spróbuj ponownie",
     "onboardingMainGraph": "Wdrażanie",
     "onboardingMainGraph11": "<b>Witamy w Twojej przestrzeni Anytype.</b> Przestrzeń to wykres połączonych ze sobą obiektów, zapewniający naturalny sposób organizowania informacji.",
-    "onboardingMainGraph12": "Aby uzyskać dostęp do strony głównej, kliknij jej ikonę na wykresie lub przycisk <span class=\"highlight\">Dalej</span> .",
+    "onboardingMainGraph12": "To access your Homepage, click on the <span class=\"highlight\">Next</span> button.",
     "onboardingMainSet": "Zestaw i kolekcja",
     "onboardingMainSet11": "<b>Anytype ma dwa podstawowe formaty: Zestawy i Kolekcje.</b> Podobnie jak w informatyce, zbiór jest strukturą danych, która zawiera tylko unikalne elementy, podczas gdy kolekcja to dowolna grupa obiektów, które są przechowywane razem. Możesz przekonwertować dowolny zestaw na kolekcję, ale nie na odwrót.",
     "onboardingMainSet21": "<b>Zestawy</b> nie zawierają duplikatów i mogą być używane do filtrowania określonych obiektów lub typów relacji, takich jak wszystkie moje zakładki. <b>Kolekcje</b> mogą jednak zawierać duplikaty i są używane do przechowywania danych ogólnego przeznaczenia; Mogą przechowywać wszystko.",
