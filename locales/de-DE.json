@@ -1225,7 +1225,7 @@
     "sidebarToggle": "Seitenleiste fixieren/lösen",
     "unsplashString": "Veröffentlicht von %s am %s",
     "templateBannner": "Du bearbeitest ein Template",
-    "deletedBanner": "This file is in the Bin and is shown in view mode",
+    "deletedBanner": "Diese Datei befindet sich im Papierkorb und ist im Anzeigemodus.",
     "deletedBannerRestore": "Wiederherstellen",
     "dispatcherImportSuccessTitle": "Der Importprozess ist abgeschlossen!",
     "dispatcherImportSuccessText": "Jetzt gehören die Daten dir. Du wirst die importierten Objekte in deiner Lieblingscollection finden.",
