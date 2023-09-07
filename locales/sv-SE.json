@@ -1239,7 +1239,7 @@
     "dispatcherImportTryAgain": "Try again",
     "onboardingMainGraph": "Onboarding",
     "onboardingMainGraph11": "<b>Welcome to your Anytype Space.</b> Space is a graph of interconnected objects, providing a natural way to organize information.",
-    "onboardingMainGraph12": "To access your Homepage, click on the <span class=\"highlight\">Next</span> button.",
+    "onboardingMainGraph12": "För att komma åt din hemsida, klicka på knappen <span class=\"highlight\">Nästa</span>.",
     "onboardingMainSet": "Set & Collection",
     "onboardingMainSet11": "<b>Anytype has two basic formats: Sets and Collections.</b> As in computer science, a Set is a data structure that contains only unique elements, while a Collection is any group of objects that are stored together. You can convert any set into a collection, but not the other way around.",
     "onboardingMainSet21": "<b>Sets</b> contain no duplicates and can be used to filter specific objects or relation types, such as all my bookmarks. <b>Collections</b>, however, can contain duplicates and are used for more general-purpose data storage; they can store anything.",
