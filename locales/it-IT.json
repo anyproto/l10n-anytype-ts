@@ -1239,7 +1239,7 @@
     "dispatcherImportTryAgain": "Riprova",
     "onboardingMainGraph": "Guida Iniziale",
     "onboardingMainGraph11": "<b>Benvenuto nel tuo Spazio Anytype.</b> Lo Spazio è un grafo di oggetti interconnessi, che fornisce un modo naturale per organizzare le informazioni.",
-    "onboardingMainGraph12": "Per accedere alla tua Pagina Iniziale, clicca sulla sua icona nel grafico o sul pulsante <span class=\"highlight\">Prossimo</span>.",
+    "onboardingMainGraph12": "To access your Homepage, click on the <span class=\"highlight\">Next</span> button.",
     "onboardingMainSet": "Insieme & Collezione",
     "onboardingMainSet11": "<b>Anytype ha due formati di base: Insiemi e Collezioni.</b> Come nell'informatica, un Insieme è una struttura di dati che contiene solo elementi unici, mentre una Collezione è qualsiasi gruppo di oggetti conservati insieme. È possibile convertire qualsiasi Insieme in una Collezione, ma non il contrario.",
     "onboardingMainSet21": "Gli <b>Insiemi</b> non contengono duplicati e possono essere utilizzati per filtrare oggetti specifici o tipi di relazioni, come tutti i 'miei segnalibri'. Le <b>Collezioni</b>, tuttavia, possono contenere duplicati e sono utilizzate per la conservazione dei dati più generale; possono memorizzare qualsiasi cosa.",
