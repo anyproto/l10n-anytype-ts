@@ -1239,7 +1239,7 @@
     "dispatcherImportTryAgain": "Prøv igen",
     "onboardingMainGraph": "Introduktion",
     "onboardingMainGraph11": "<b>Velkommen til dit Anytype Rum.</b> Et rum er en graf af indbyrdes forbundne objekter, hvilket giver en naturlig måde at organisere information.",
-    "onboardingMainGraph12": "To access your Homepage, click on the <span class=\"highlight\">Next</span> button.",
+    "onboardingMainGraph12": "For at få adgang til din startside, klik på <span class=\"highlight\">Næste</span> knappen.",
     "onboardingMainSet": "Sæt & Samling",
     "onboardingMainSet11": "<b>Anytype har to grundlæggende formater: Sæt og Samlinger.</b> Som inden for computerdata er et Sæt en datastruktur, der kun indeholder unikke elementer, mens en Samling er en gruppe af genstande, der er gemt sammen. Du kan konvertere ethvert Sæt til en Samling, men ikke den anden vej rundt.",
     "onboardingMainSet21": "<b>Sæt</b> indeholder ingen dubletter og kan bruges til at filtrere specifikke objekter eller relationstyper, som f. ek. s alle mine bogmærker. <b>Samlinger</b>kan dog indeholde dubletter og bruges til mere generel datalagring; de kan gemme alt.",
