@@ -1239,7 +1239,7 @@
     "dispatcherImportTryAgain": "Coba lagi",
     "onboardingMainGraph": "Pengenalan",
     "onboardingMainGraph11": "<b>Selamat datang di Ruang Anytype-mu.</b> Ruang adalah sebuah grafik dari objek-objek yang saling berhubungan, memberikan cara yang alami untuk menata informasi.",
-    "onboardingMainGraph12": "To access your Homepage, click on the <span class=\"highlight\">Next</span> button.",
+    "onboardingMainGraph12": "Untuk mengakses Berandamu, klik tombol <span class=\"highlight\">Selanjutnya</span>.",
     "onboardingMainSet": "Set dan Koleksi",
     "onboardingMainSet11": "<b>Anytype memiliki dua format dasar: Set dan Koleksi.</b> Seperti dalam ilmu komputer, Set adalah struktur data yang hanya mengandung elemen berbeda, sedangkan Koleksi adalah semua kelompok objek yang disimpan bersama. Kamu bisa mengubah set menjadi koleksi, tetapi tidak sebaliknya.",
     "onboardingMainSet21": "<b>Set</b> tidak mengandung duplikat dan bisa digunakan untuk menyaring objek atau relasi tertentu, misalnya markah-markahmu. Sementara itu, <b>Koleksi</b> bisa mengandung duplikat dan digunakan untuk penyimpanan data secara lebih umum; bisa digunakan untuk menyimpan apa pun.",
