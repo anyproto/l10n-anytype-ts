@@ -700,7 +700,7 @@
 	"popupSettingsImportNotionIntegrationList22": "Integration settings → Capabilities → Read user information without email addresses",
 	"popupSettingsImportNotionIntegrationList31": "Thêm tích hợp vào các trang bạn cần nhập vào",
 	"popupSettingsImportNotionIntegrationList32": "Select document → ... → Add Connections → Confirm Integration",
-	"popupSettingsPinCheckTimeOut": "Hết thời gian kiểm tra PIN",
+	"popupSettingsPinCheckTimeOut": "Kiểm tra PIN sau bao lâu",
 	"popupSettingsSpaceMemberTypeReader": "Độc giả",
 	"popupSettingsSpaceMemberTypeEditor": "Biên tập viên",
 	"popupSettingsSpaceMemberTypeAdmin": "Quản trị viên",
