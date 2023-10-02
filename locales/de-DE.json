@@ -697,7 +697,7 @@
 	"popupSettingsImportNotionIntegrationList11": "Erstelle die Integration zum Abruf von Notion-Dateien",
 	"popupSettingsImportNotionIntegrationList12": "Einstellungen → Verbindungen → Eigene Einbindungen entwickeln oder verwalten → <b><a href=\"https://www.notion.so/my-integrations\">Neue Einbindung</a></b>",
 	"popupSettingsImportNotionIntegrationList21": "Provide read user information capability to integration",
-	"popupSettingsImportNotionIntegrationList22": "Integration settings → Capabilities → Read user information without email addresses",
+	"popupSettingsImportNotionIntegrationList22": "Integrationseinstellungen → Fähigkeiten → Benutzerinformation ohne E-Mail-Adressen lesen",
 	"popupSettingsImportNotionIntegrationList31": "Integration zu den Seiten hinzufügen, die Sie importieren möchten",
 	"popupSettingsImportNotionIntegrationList32": "Select document → ... → Add Connections → Confirm Integration",
 	"popupSettingsPinCheckTimeOut": "PIN-Code Abfrage nach:",
