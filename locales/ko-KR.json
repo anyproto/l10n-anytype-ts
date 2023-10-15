@@ -1,7 +1,7 @@
 {
 	"commonError": "오류",
 	"commonOr": "또는",
-	"commonMore": "more",
+	"commonMore": "자세히",
 	"commonOf": "of",
 	"commonTo": "to",
 	"commonOk": "확인",
@@ -298,7 +298,7 @@
 	"authOnboardSpaceCreatingTitle": "개인 공간을 구성 중...",
 	"usecase0Title": "비어 있음",
 	"usecase0Label": "Just a blank canvas",
-	"usecase2Title": "Personal projects",
+	"usecase2Title": "개인 프로젝트",
 	"usecase2Label": "Manage your personal projects and tasks with complete privacy",
 	"usecase3Title": "Bookshelf",
 	"usecase3Label": "Create your own base of knowledge with books, movies, recipes, and more",
