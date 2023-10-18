@@ -1008,7 +1008,6 @@
 	"menuDataviewViewListViews": "视图",
 	"menuDataviewTemplateSetDefaultForView": "此视图的默认",
 	"menuDataviewTemplateEdit": "编辑模板",
-	"menuDataviewTemplateUnsupported": "此对象类型不支持模板",
 	"menuGraphSettingsTitles": "标题",
 	"menuGraphSettingsArrows": "箭头",
 	"menuGraphSettingsIcons": "图标",
