@@ -1008,7 +1008,6 @@
 	"menuDataviewViewListViews": "Weergaven",
 	"menuDataviewTemplateSetDefaultForView": "Standaard voor deze weergave",
 	"menuDataviewTemplateEdit": "Bewerk sjabloon",
-	"menuDataviewTemplateUnsupported": "This Object Type doesn't support Templates",
 	"menuGraphSettingsTitles": "Titels",
 	"menuGraphSettingsArrows": "Pijlen",
 	"menuGraphSettingsIcons": "Iconen",
