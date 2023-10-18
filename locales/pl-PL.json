@@ -1008,7 +1008,6 @@
 	"menuDataviewViewListViews": "Odsłon",
 	"menuDataviewTemplateSetDefaultForView": "Domyślne dla tego widoku",
 	"menuDataviewTemplateEdit": "Edytuj szablon",
-	"menuDataviewTemplateUnsupported": "This Object Type doesn't support Templates",
 	"menuGraphSettingsTitles": "Tytuły",
 	"menuGraphSettingsArrows": "Strzałki",
 	"menuGraphSettingsIcons": "Ikony",
