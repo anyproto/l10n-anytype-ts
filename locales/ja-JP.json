@@ -1008,7 +1008,6 @@
 	"menuDataviewViewListViews": "Views",
 	"menuDataviewTemplateSetDefaultForView": "Default for this view",
 	"menuDataviewTemplateEdit": "Edit template",
-	"menuDataviewTemplateUnsupported": "This Object Type doesn't support Templates",
 	"menuGraphSettingsTitles": "タイトル",
 	"menuGraphSettingsArrows": "Arrows",
 	"menuGraphSettingsIcons": "アイコン",
