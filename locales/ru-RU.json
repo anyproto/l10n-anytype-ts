@@ -1008,7 +1008,6 @@
 	"menuDataviewViewListViews": "Представления",
 	"menuDataviewTemplateSetDefaultForView": "По умолчанию для этого представления",
 	"menuDataviewTemplateEdit": "Изменить шаблон",
-	"menuDataviewTemplateUnsupported": "Этот тип объекта не поддерживает шаблоны",
 	"menuGraphSettingsTitles": "Заголовки",
 	"menuGraphSettingsArrows": "Стрелки",
 	"menuGraphSettingsIcons": "Иконки",
