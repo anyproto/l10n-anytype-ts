@@ -1008,7 +1008,6 @@
 	"menuDataviewViewListViews": "Affichages",
 	"menuDataviewTemplateSetDefaultForView": "Définir par défaut pour cet affichage",
 	"menuDataviewTemplateEdit": "Modifier le modèle",
-	"menuDataviewTemplateUnsupported": "Ce type d'objet ne prend pas en charge les modèles",
 	"menuGraphSettingsTitles": "Titres",
 	"menuGraphSettingsArrows": "Flèches",
 	"menuGraphSettingsIcons": "Icônes",
