@@ -941,6 +941,7 @@
 	"menuDataviewObjectListFind": "Găsește un obiect",
 	"menuDataviewViewEditName": "Vizualizare nume",
 	"menuDataviewFilterListEmpty": "No filters applied to this View",
+	"menuDataviewFilterNewFilter": "New filter",
 	"menuDataviewViewEditView": "Edit view",
 	"menuDataviewUrlActionGo7": "Deschide linkul",
 	"menuDataviewUrlActionGo8": "Trimite mail la",
