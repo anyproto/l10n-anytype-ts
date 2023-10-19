@@ -941,6 +941,7 @@
 	"menuDataviewObjectListFind": "Tìm một đối tượng",
 	"menuDataviewViewEditName": "Tên chế độ xem",
 	"menuDataviewFilterListEmpty": "Không có bộ lọc được áp dụng lên Chế độ xem này",
+	"menuDataviewFilterNewFilter": "New filter",
 	"menuDataviewViewEditView": "Edit view",
 	"menuDataviewUrlActionGo7": "Mở link",
 	"menuDataviewUrlActionGo8": "Gửi thư đến",
