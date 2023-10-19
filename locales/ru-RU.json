@@ -941,6 +941,7 @@
 	"menuDataviewObjectListFind": "Найти объект",
 	"menuDataviewViewEditName": "Название представления",
 	"menuDataviewFilterListEmpty": "Фильтры не применены к этому представлению",
+	"menuDataviewFilterNewFilter": "New filter",
 	"menuDataviewViewEditView": "Изменить представление",
 	"menuDataviewUrlActionGo7": "Открыть ссылку",
 	"menuDataviewUrlActionGo8": "Написать",
