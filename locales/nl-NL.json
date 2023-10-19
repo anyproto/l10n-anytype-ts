@@ -941,6 +941,7 @@
 	"menuDataviewObjectListFind": "Vind een object",
 	"menuDataviewViewEditName": "Bekijk naam",
 	"menuDataviewFilterListEmpty": "No filters applied to this View",
+	"menuDataviewFilterNewFilter": "New filter",
 	"menuDataviewViewEditView": "Weergave bewerken",
 	"menuDataviewUrlActionGo7": "Link openen",
 	"menuDataviewUrlActionGo8": "Mail naar",
