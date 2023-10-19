@@ -941,6 +941,7 @@
 	"menuDataviewObjectListFind": "Знайти об'єкт",
 	"menuDataviewViewEditName": "Назва подання",
 	"menuDataviewFilterListEmpty": "Немає налаштованих фільтрів у цьому Поданні",
+	"menuDataviewFilterNewFilter": "New filter",
 	"menuDataviewViewEditView": "Редагувати подання",
 	"menuDataviewUrlActionGo7": "Відкрити посилання",
 	"menuDataviewUrlActionGo8": "Надіслати Email до:",
