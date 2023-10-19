@@ -941,6 +941,7 @@
 	"menuDataviewObjectListFind": "尋找物件",
 	"menuDataviewViewEditName": "視圖名稱",
 	"menuDataviewFilterListEmpty": "此視圖未應用篩選器",
+	"menuDataviewFilterNewFilter": "New filter",
 	"menuDataviewViewEditView": "Edit view",
 	"menuDataviewUrlActionGo7": "打開連結",
 	"menuDataviewUrlActionGo8": "發郵件給",
