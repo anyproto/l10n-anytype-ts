@@ -941,6 +941,7 @@
 	"menuDataviewObjectListFind": "查找对象",
 	"menuDataviewViewEditName": "查看名称",
 	"menuDataviewFilterListEmpty": "此视图未应用筛选器",
+	"menuDataviewFilterNewFilter": "新筛选器",
 	"menuDataviewViewEditView": "编辑视图",
 	"menuDataviewUrlActionGo7": "打开链接",
 	"menuDataviewUrlActionGo8": "发邮件给",
