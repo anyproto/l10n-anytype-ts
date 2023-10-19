@@ -941,6 +941,7 @@
 	"menuDataviewObjectListFind": "Bir nesne bul",
 	"menuDataviewViewEditName": "Görünüm adı",
 	"menuDataviewFilterListEmpty": "No filters applied to this View",
+	"menuDataviewFilterNewFilter": "New filter",
 	"menuDataviewViewEditView": "Edit view",
 	"menuDataviewUrlActionGo7": "Bağlantıyı Aç",
 	"menuDataviewUrlActionGo8": "E-Posta Gönder",
