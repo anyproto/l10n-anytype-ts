@@ -941,6 +941,7 @@
 	"menuDataviewObjectListFind": "Finn et objekt",
 	"menuDataviewViewEditName": "Visningsnavn",
 	"menuDataviewFilterListEmpty": "Ingen filtre brukt på denne visningen",
+	"menuDataviewFilterNewFilter": "Nytt filter",
 	"menuDataviewViewEditView": "Redigeringsvisning",
 	"menuDataviewUrlActionGo7": "Åpne lenke",
 	"menuDataviewUrlActionGo8": "Send e-post til",
