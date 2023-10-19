@@ -941,6 +941,7 @@
 	"menuDataviewObjectListFind": "Znajdź obiekt",
 	"menuDataviewViewEditName": "Nazwa widoku",
 	"menuDataviewFilterListEmpty": "No filters applied to this View",
+	"menuDataviewFilterNewFilter": "New filter",
 	"menuDataviewViewEditView": "Edit view",
 	"menuDataviewUrlActionGo7": "Otwórz link",
 	"menuDataviewUrlActionGo8": "Wyślij do",
