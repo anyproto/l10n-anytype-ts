@@ -941,6 +941,7 @@
 	"menuDataviewObjectListFind": "Find et objekt",
 	"menuDataviewViewEditName": "Vis navn",
 	"menuDataviewFilterListEmpty": "No filters applied to this View",
+	"menuDataviewFilterNewFilter": "New filter",
 	"menuDataviewViewEditView": "Edit view",
 	"menuDataviewUrlActionGo7": "Åbn link",
 	"menuDataviewUrlActionGo8": "Mail til",
