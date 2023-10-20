@@ -1,7 +1,7 @@
 {
 	"commonError": "Kesalahan",
 	"commonOr": "atau",
-	"commonMore": "more",
+	"commonMore": "lebih lagi",
 	"commonOf": "dari",
 	"commonTo": "ke",
 	"commonOk": "Ok",
@@ -132,7 +132,7 @@
 	"electronMenuUnhide": "Tunjuk Semua",
 	"electronMenuCheckUpdates": "Semak kemaskini",
 	"electronMenuSpaceSettings": "Space",
-	"electronMenuAccountSettings": "Account",
+	"electronMenuAccountSettings": "Akaun",
 	"electronMenuShowTray": "Show Anytype in Menu Bar",
 	"electronMenuQuit": "Keluar",
 	"electronMenuFile": "File",
