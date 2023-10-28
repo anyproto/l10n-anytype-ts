@@ -280,7 +280,7 @@
 	"authOnboardGoApp": "Go to the app",
 	"authOnboardAccountDataLocation": "Localización de los datos de la cuenta",
 	"authOnboardMoreInfo": "You can find Recovery Phrase later in Anytype settings",
-	"authOnboardVoidTitle": "Choose your name",
+	"authOnboardVoidTitle": "Elige tu nombre",
 	"authOnboardVoidLabel": "This is how you will appear in the app",
 	"authOnboardPhraseTitle": "Save your Recovery Phrase",
 	"authOnboardPhraseLabel": "It's a novel way of authentication that gives you full ownership over your account and data. <span id='tooltipPhrase' class='tooltipLink'>Read more</span>",
