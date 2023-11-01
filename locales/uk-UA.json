@@ -329,7 +329,7 @@
 	"pageAuthSetupCongratulations": "⚡ Вітаємо!",
 	"pageAuthSetupLongread": "Тепер ви використовуєте нову і вдосконалену версію Anytype. Вона все ще зашифрована, надає перевагу офлайну і є найбезпечнішою програмою для вашої особистої інформації. Ми раді почути ваші відгуки про нові функції. По-перше, імпортуймо дані.",
 	"pageAuthSetupImportBackup": "Імпорт резервної копії",
-	"pageAuthSetupEnteringVoid": "Входимо до Порожнечі...",
+	"pageAuthSetupEntering": "Entering the Account...",
 	"pageHeadControlButtonsChangeCover": "Змінити обкладинку",
 	"pageHeadControlButtonsReposition": "Перемістити",
 	"pageHeadSimpleCreateSet": "Створити Набір",
