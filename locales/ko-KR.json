@@ -329,7 +329,7 @@
 	"pageAuthSetupCongratulations": "⚡️ Congratulations!",
 	"pageAuthSetupLongread": "Anytype의 새롭고 개선된 버전을 사용하고 있습니다. 여전히 오프라인 우선으로 암호화가 되어있어 개인 정보에 가장 안전합니다. 새로운 기능에 대한 귀하의 피드백을 기다리고 있습니다. 우선, 귀하의 데이터를 가져오겠습니다.",
 	"pageAuthSetupImportBackup": "Import backup",
-	"pageAuthSetupEnteringVoid": "Entering the Void...",
+	"pageAuthSetupEntering": "Entering the Account...",
 	"pageHeadControlButtonsChangeCover": "Change cover",
 	"pageHeadControlButtonsReposition": "Reposition",
 	"pageHeadSimpleCreateSet": "새 집합",
