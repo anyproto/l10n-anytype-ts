@@ -329,7 +329,7 @@
 	"pageAuthSetupCongratulations": "⚡️ Congratulazioni!",
 	"pageAuthSetupLongread": "Stai utilizzando la nuova e migliorata versione di Anytype. È ancora crittografata, offline-first e l'app più sicura per le tue informazioni personali. Siamo entusiasti di sentire il tuo feedback sulle nuove funzionalità. Prima di tutto, vediamo come importare i tuoi dati.",
 	"pageAuthSetupImportBackup": "Importa backup",
-	"pageAuthSetupEnteringVoid": "Entrando nel Void...",
+	"pageAuthSetupEntering": "Entering the Account...",
 	"pageHeadControlButtonsChangeCover": "Modifica copertina",
 	"pageHeadControlButtonsReposition": "Riposiziona",
 	"pageHeadSimpleCreateSet": "Crea un Insieme",
