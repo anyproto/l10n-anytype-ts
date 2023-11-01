@@ -329,7 +329,7 @@
 	"pageAuthSetupCongratulations": "⚡ Tillykke!",
 	"pageAuthSetupLongread": "Du bruger nu den nye & forbedrede version af Anytype. Den er stadig krypteret, offline-først og den sikreste app til dine personlige oplysninger. Vi vil med glæde høre din feedback omkring de nye funktioner. Men lad os først få dine data importeret.",
 	"pageAuthSetupImportBackup": "Importer backup",
-	"pageAuthSetupEnteringVoid": "Entering the Void...",
+	"pageAuthSetupEntering": "Entering the Account...",
 	"pageHeadControlButtonsChangeCover": "Skift cover",
 	"pageHeadControlButtonsReposition": "Skift placering",
 	"pageHeadSimpleCreateSet": "Opret sæt",
