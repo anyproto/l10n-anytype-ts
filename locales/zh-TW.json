@@ -329,7 +329,7 @@
 	"pageAuthSetupCongratulations": "⚡️ 恭喜！",
 	"pageAuthSetupLongread": "您現在正在使用 Anytype 最新的改進版本。一如既往，它是加密的、離線的和最安全的個人資訊應用程式。 我們很期待聽到您對新功能的回饋。首先，讓我們來導入您的資料。",
 	"pageAuthSetupImportBackup": "匯入備份",
-	"pageAuthSetupEnteringVoid": "正在進入 Void…",
+	"pageAuthSetupEntering": "Entering the Account...",
 	"pageHeadControlButtonsChangeCover": "變更封面",
 	"pageHeadControlButtonsReposition": "重新定位",
 	"pageHeadSimpleCreateSet": "創建集合",
