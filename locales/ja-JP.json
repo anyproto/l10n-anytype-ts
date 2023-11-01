@@ -329,7 +329,7 @@
 	"pageAuthSetupCongratulations": "⚡ おめでとう！",
 	"pageAuthSetupLongread": "You're now using the new & improved version of Anytype. It's still encrypted, offline-first and the safest app for your personal information. We're excited to hear your feedback about the new features. First, let's get your data imported.",
 	"pageAuthSetupImportBackup": "バックアップをインポート",
-	"pageAuthSetupEnteringVoid": "Entering the Void...",
+	"pageAuthSetupEntering": "Entering the Account...",
 	"pageHeadControlButtonsChangeCover": "カバーを変更",
 	"pageHeadControlButtonsReposition": "Reposition",
 	"pageHeadSimpleCreateSet": "セットを作成",
