@@ -329,7 +329,7 @@
 	"pageAuthSetupCongratulations": "⚡️ Gratulujeme!",
 	"pageAuthSetupLongread": "Teraz používate novú a vylepšenú verziu Anytype. Stále je to šifrovaná, offline a najbezpečnejšia aplikácia pre vaše osobné informácie. Tešíme sa na vašu spätnú väzbu týkajúcu sa nových funkcií. Najprv importujme vaše údaje.",
 	"pageAuthSetupImportBackup": "Importovať zálohu",
-	"pageAuthSetupEnteringVoid": "Vstupujem do Void...",
+	"pageAuthSetupEntering": "Entering the Account...",
 	"pageHeadControlButtonsChangeCover": "Zmeniť hlavný obrázok",
 	"pageHeadControlButtonsReposition": "Reposition",
 	"pageHeadSimpleCreateSet": "Vytvoriť set",
