@@ -329,7 +329,7 @@
 	"pageAuthSetupCongratulations": "⚡️ Gratulálunk!",
 	"pageAuthSetupLongread": "Most az Anytype új és továbbfejlesztett verzióját használja. Továbbra is titkosított, offline és a legbiztonságosabb alkalmazás a személyes adatok tárolására. Örömmel halljuk visszajelzését az új funkciókkal kapcsolatban. Először is végezzük el az adatok importálását.",
 	"pageAuthSetupImportBackup": "Biztonsági másolat importálása",
-	"pageAuthSetupEnteringVoid": "Entering the Void...",
+	"pageAuthSetupEntering": "Entering the Account...",
 	"pageHeadControlButtonsChangeCover": "Borítókép módosítása",
 	"pageHeadControlButtonsReposition": "Reposition",
 	"pageHeadSimpleCreateSet": "Create Set",
