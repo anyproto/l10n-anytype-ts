@@ -329,7 +329,7 @@
 	"pageAuthSetupCongratulations": "⚡️ Συγχαρητήρια!",
 	"pageAuthSetupLongread": "Πλεόν χρησιμοποιείτε τη νέα & βελτιωμένη έκδοση του Anytype. Εξακολουθεί να είναι κρυπτογραφημένη, με έμφαση στη χρήση εκτός σύνδεσης,, και η ασφαλέστερη εφαρμογή για τα προσωπικά σας δεδομένα. Θα χαρούμε να ακούσουμε τα σχόλιά σας για τις νέες λειτουργίες. Πρώτα, ας εισάγουμε τα δεδομένα σας.",
 	"pageAuthSetupImportBackup": "Εισαγωγή αντιγράφου ασφαλείας",
-	"pageAuthSetupEnteringVoid": "Είσοδος στο Κενό…",
+	"pageAuthSetupEntering": "Entering the Account...",
 	"pageHeadControlButtonsChangeCover": "Αλλαγή εξώφυλλου",
 	"pageHeadControlButtonsReposition": "Reposition",
 	"pageHeadSimpleCreateSet": "Δημιουργία Συνόλου",
