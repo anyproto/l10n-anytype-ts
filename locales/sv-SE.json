@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Void & Key",
 	"popupSettingsPersonalTitle": "Preferences",
 	"popupSettingsPersonalDefaultObjectType": "Default Object Type",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Ange standardtyp för nyskapade objekt",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "Select",
 	"popupSettingsPersonalSpellcheckLanguage": "Spellcheck Languages",
 	"popupSettingsPersonalInterfaceLanguage": "Gränssnitsspråk",
