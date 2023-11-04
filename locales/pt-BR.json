@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Vazio e Chave",
 	"popupSettingsPersonalTitle": "Preferências",
 	"popupSettingsPersonalDefaultObjectType": "Tipo de objeto padrão",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "Selecionar",
 	"popupSettingsPersonalSpellcheckLanguage": "Idiomas de verificação ortográfica",
 	"popupSettingsPersonalInterfaceLanguage": "Idioma da interface",
