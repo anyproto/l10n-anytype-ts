@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Void 与密钥",
 	"popupSettingsPersonalTitle": "首选项",
 	"popupSettingsPersonalDefaultObjectType": "默认对象类型",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "为新创建的对象设置默认类型",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "选择",
 	"popupSettingsPersonalSpellcheckLanguage": "拼写检查语言",
 	"popupSettingsPersonalInterfaceLanguage": "界面语言",
