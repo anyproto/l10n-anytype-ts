@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Void & Key",
 	"popupSettingsPersonalTitle": "Preferences",
 	"popupSettingsPersonalDefaultObjectType": "Default Object Type",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "選択",
 	"popupSettingsPersonalSpellcheckLanguage": "Spellcheck Languages",
 	"popupSettingsPersonalInterfaceLanguage": "表示言語",
