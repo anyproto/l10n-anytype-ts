@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "शून्य और कुंजी",
 	"popupSettingsPersonalTitle": "पसंद",
 	"popupSettingsPersonalDefaultObjectType": "Default Object Type",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "चुनना",
 	"popupSettingsPersonalSpellcheckLanguage": "Spellcheck Languages",
 	"popupSettingsPersonalInterfaceLanguage": "इंटरफेस भाषा",
