@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Порожнеча і Ключ",
 	"popupSettingsPersonalTitle": "Вподобання",
 	"popupSettingsPersonalDefaultObjectType": "Тип об'єкта за замовчуванням",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "Вибрати",
 	"popupSettingsPersonalSpellcheckLanguage": "Мова перевірки правопису",
 	"popupSettingsPersonalInterfaceLanguage": "Мова інтерфейсу",
