@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Void dan Kunci",
 	"popupSettingsPersonalTitle": "Preferensi",
 	"popupSettingsPersonalDefaultObjectType": "Tipe Objek Bawaan",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Atur tipe bawaan untuk objek yang baru dibuat",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "Pilih",
 	"popupSettingsPersonalSpellcheckLanguage": "Bahasa Pengecekan Ejaan",
 	"popupSettingsPersonalInterfaceLanguage": "Bahasa Antarmuka",
