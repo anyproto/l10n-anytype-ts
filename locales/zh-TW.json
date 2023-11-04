@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Void 與金鑰",
 	"popupSettingsPersonalTitle": "偏好設定",
 	"popupSettingsPersonalDefaultObjectType": "預設物件類別",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "選擇",
 	"popupSettingsPersonalSpellcheckLanguage": "拼寫檢查語言",
 	"popupSettingsPersonalInterfaceLanguage": "界面語言",
