@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Void & nøgle",
 	"popupSettingsPersonalTitle": "Indstillinger",
 	"popupSettingsPersonalDefaultObjectType": "Default Object Type",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "Vælg",
 	"popupSettingsPersonalSpellcheckLanguage": "Spellcheck Languages",
 	"popupSettingsPersonalInterfaceLanguage": "Brugergrænsefladesprog",
