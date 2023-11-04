@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Unieważnienie i klucz",
 	"popupSettingsPersonalTitle": "Ustawienia",
 	"popupSettingsPersonalDefaultObjectType": "Domyślny typ obiektu",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "Wybierz",
 	"popupSettingsPersonalSpellcheckLanguage": "Języki sprawdzania pisowni",
 	"popupSettingsPersonalInterfaceLanguage": "Język interfejsu",
