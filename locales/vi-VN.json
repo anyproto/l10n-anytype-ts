@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Hư vô & Khoá",
 	"popupSettingsPersonalTitle": "Tùy chỉnh",
 	"popupSettingsPersonalDefaultObjectType": "Loại Đối tượng mặc định",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "Chọn",
 	"popupSettingsPersonalSpellcheckLanguage": "Ngôn ngữ để kiểm tra chính tả",
 	"popupSettingsPersonalInterfaceLanguage": "Ngôn ngữ giao diện",

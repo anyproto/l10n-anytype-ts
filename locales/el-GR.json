@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Κενό & Κλειδί",
 	"popupSettingsPersonalTitle": "Προτιμήσεις",
 	"popupSettingsPersonalDefaultObjectType": "Προεπιλεγμένος Τύπος Αντικειμένου",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "Επιλογή",
 	"popupSettingsPersonalSpellcheckLanguage": "Γλώσσες Ορθογραφικού Ελέγχου",
 	"popupSettingsPersonalInterfaceLanguage": "Γλώσσα Περιβάλλοντος",

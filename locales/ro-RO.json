@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Anulare și cheie",
 	"popupSettingsPersonalTitle": "Preferințe",
 	"popupSettingsPersonalDefaultObjectType": "Default Object Type",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "Selectează",
 	"popupSettingsPersonalSpellcheckLanguage": "Spellcheck Languages",
 	"popupSettingsPersonalInterfaceLanguage": "Limba interfeței",

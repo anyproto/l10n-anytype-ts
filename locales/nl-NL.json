@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Void & Sleutel",
 	"popupSettingsPersonalTitle": "Voorkeuren",
 	"popupSettingsPersonalDefaultObjectType": "Standaard objecttype",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "Selecteer",
 	"popupSettingsPersonalSpellcheckLanguage": "Talen voor spellingscontrole",
 	"popupSettingsPersonalInterfaceLanguage": "Taal interface",

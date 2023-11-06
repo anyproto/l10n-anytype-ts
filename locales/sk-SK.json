@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Void & kľúč",
 	"popupSettingsPersonalTitle": "Preferencie",
 	"popupSettingsPersonalDefaultObjectType": "Predvolený typ objektu",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "Zvoliť",
 	"popupSettingsPersonalSpellcheckLanguage": "Kontrola pravopisu",
 	"popupSettingsPersonalInterfaceLanguage": "Jazyk rozhrania",

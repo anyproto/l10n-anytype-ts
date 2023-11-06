@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Void & Schlüssel",
 	"popupSettingsPersonalTitle": "Einstellungen",
 	"popupSettingsPersonalDefaultObjectType": "Standard Objekttyp",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "Auswählen",
 	"popupSettingsPersonalSpellcheckLanguage": "Rechtschreibung überprüfen",
 	"popupSettingsPersonalInterfaceLanguage": "Sprache der Bedienoberfläche",

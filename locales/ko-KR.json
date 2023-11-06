@@ -509,6 +509,7 @@
 	"popupSettingsVoidTitle": "Void & Key",
 	"popupSettingsPersonalTitle": "환경설정",
 	"popupSettingsPersonalDefaultObjectType": "Default Object Type",
+	"popupSettingsPersonalDefaultObjectTypeDescription": "Set the default type for newly created objects",
 	"popupSettingsPersonalDefaultObjectTypeSelect": "선택",
 	"popupSettingsPersonalSpellcheckLanguage": "Spellcheck Languages",
 	"popupSettingsPersonalInterfaceLanguage": "표시 언어",
