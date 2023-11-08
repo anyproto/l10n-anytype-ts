@@ -1310,7 +1310,7 @@
 	"onboardingDefaultTypeDescription": "Vous pouvez changer le type et le modèle d'un nouvel objet dans ce menu.",
 	"onboardingCalendarDescription": "Check out the calendar view.",
 	"onboardingTemplateSelectDescription": "Easily switch your templates when creating objects.",
-	"onboardingSpaceSelect": "Here is your Spaces selector! Switch between spaces or create a new one.",
+	"onboardingSpaceSelect": "Voici votre sélecteur d'espaces! Basculez entre les espaces ou créez un nouveau.",
 	"libDataviewRelations": "Relations",
 	"libDataviewGroups": "Groupes",
 	"libDataviewView": "Vue",
