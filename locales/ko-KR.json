@@ -1015,6 +1015,7 @@
 	"menuGraphSettingsLinks": "연결",
 	"menuGraphSettingsRelations": "관계",
 	"menuGraphSettingsUnlinkedObjects": "Unlinked Objects",
+	"menuGraphSettingsLocal": "Local graph",
 	"menuHelpWhatsNew": "What's New",
 	"menuHelpShortcut": "키보드 단축키",
 	"menuHelpHints": "Show Hints",
