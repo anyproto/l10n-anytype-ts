@@ -1357,12 +1357,12 @@
 	"errorAccountRecover108": "Outro processo está em andamento",
 	"errorAccountRecover109": "Conta excluída",
 	"errorObjectImport7": "Importação não foi concluída. A importação CSV suporta até 1000 linhas e 10 colunas.",
-	"objectOrigin0": "Usuário",
-	"objectOrigin1": "Área de Transferência",
-	"objectOrigin2": "Arraste e Solte",
-	"objectOrigin3": "Importar",
-	"objectOrigin4": "Webclipper",
-	"objectOrigin5": "Extensão de compartilhamento",
-	"objectOrigin6": "Casos de uso",
-	"objectOrigin7": "Integrado"
+	"origin0": "User",
+	"origin1": "Clipboard",
+	"origin2": "Drag'n'Drop",
+	"origin3": "Importar",
+	"origin4": "Webclipper",
+	"origin5": "Sharing Extension",
+	"origin6": "Usecase",
+	"origin7": "Built-in"
 }
