@@ -1357,12 +1357,12 @@
 	"errorAccountRecover108": "Ein anderer Prozess wird ausgeführt",
 	"errorAccountRecover109": "Account wurde gelöscht",
 	"errorObjectImport7": "Import wurde nicht abgeschlossen. CSV-Import unterstützt bis zu 1000 Zeilen und 10 Spalten.",
-	"objectOrigin0": "Benutzer",
-	"objectOrigin1": "Zwischenablage",
-	"objectOrigin2": "Drag'n'Drop",
-	"objectOrigin3": "Importieren",
-	"objectOrigin4": "Webclipper",
-	"objectOrigin5": "Erweiterung teilen",
-	"objectOrigin6": "Anwendungsfall",
-	"objectOrigin7": "Integriert"
+	"origin0": "User",
+	"origin1": "Clipboard",
+	"origin2": "Drag'n'Drop",
+	"origin3": "Importieren",
+	"origin4": "Webclipper",
+	"origin5": "Sharing Extension",
+	"origin6": "Usecase",
+	"origin7": "Built-in"
 }
