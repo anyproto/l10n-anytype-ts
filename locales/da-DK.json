@@ -1357,12 +1357,12 @@
 	"errorAccountRecover108": "En anden proces kører",
 	"errorAccountRecover109": "Konto er blevet slettet",
 	"errorObjectImport7": "Import er ikke fuldført. CSV-import understøtter op til 1000 rækker og 10 kolonner.",
-	"objectOrigin0": "User",
-	"objectOrigin1": "Clipboard",
-	"objectOrigin2": "Drag'n'Drop",
-	"objectOrigin3": "Importer",
-	"objectOrigin4": "Webclipper",
-	"objectOrigin5": "Sharing Extension",
-	"objectOrigin6": "Usecase",
-	"objectOrigin7": "Built-in"
+	"origin0": "User",
+	"origin1": "Clipboard",
+	"origin2": "Drag'n'Drop",
+	"origin3": "Importer",
+	"origin4": "Webclipper",
+	"origin5": "Sharing Extension",
+	"origin6": "Usecase",
+	"origin7": "Built-in"
 }
