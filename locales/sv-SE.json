@@ -1357,12 +1357,12 @@
 	"errorAccountRecover108": "Another process is running",
 	"errorAccountRecover109": "Konto har raderats",
 	"errorObjectImport7": "Import has not been completed. CSV import supports up to 1000 rows and 10 columns.",
-	"objectOrigin0": "Användare",
-	"objectOrigin1": "Urklipp",
-	"objectOrigin2": "Drag'n'Drop",
-	"objectOrigin3": "Importera",
-	"objectOrigin4": "Webclipper",
-	"objectOrigin5": "Sharing Extension",
-	"objectOrigin6": "Usecase",
-	"objectOrigin7": "Built-in"
+	"origin0": "User",
+	"origin1": "Clipboard",
+	"origin2": "Drag'n'Drop",
+	"origin3": "Importera",
+	"origin4": "Webclipper",
+	"origin5": "Sharing Extension",
+	"origin6": "Usecase",
+	"origin7": "Built-in"
 }
