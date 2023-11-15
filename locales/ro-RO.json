@@ -1357,12 +1357,12 @@
 	"errorAccountRecover108": "Un alt proces este executat",
 	"errorAccountRecover109": "Contul a fost șters",
 	"errorObjectImport7": "Importul nu a fost finalizat. Suportă importuri CSV până la 1000 de rânduri și 10 coloane.",
-	"objectOrigin0": "User",
-	"objectOrigin1": "Clipboard",
-	"objectOrigin2": "Drag'n'Drop",
-	"objectOrigin3": "Importă",
-	"objectOrigin4": "Webclipper",
-	"objectOrigin5": "Sharing Extension",
-	"objectOrigin6": "Usecase",
-	"objectOrigin7": "Built-in"
+	"origin0": "User",
+	"origin1": "Clipboard",
+	"origin2": "Drag'n'Drop",
+	"origin3": "Importă",
+	"origin4": "Webclipper",
+	"origin5": "Sharing Extension",
+	"origin6": "Usecase",
+	"origin7": "Built-in"
 }
