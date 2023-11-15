@@ -1357,12 +1357,12 @@
 	"errorAccountRecover108": "Інший процес виконується",
 	"errorAccountRecover109": "Обліковий запис було видалено",
 	"errorObjectImport7": "Імпорт не завершено. Імпорт CSV підтримує до 1000 рядків і 10 стовпців.",
-	"objectOrigin0": "Користувач",
-	"objectOrigin1": "Буфер обміну",
-	"objectOrigin2": "Drag&Drop",
-	"objectOrigin3": "Імпорт",
-	"objectOrigin4": "Вебкліпер",
-	"objectOrigin5": "Розширення для спільного використання",
-	"objectOrigin6": "Приклад використання",
-	"objectOrigin7": "Вбудовано"
+	"origin0": "User",
+	"origin1": "Clipboard",
+	"origin2": "Drag'n'Drop",
+	"origin3": "Імпорт",
+	"origin4": "Webclipper",
+	"origin5": "Sharing Extension",
+	"origin6": "Usecase",
+	"origin7": "Built-in"
 }
