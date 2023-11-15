@@ -1357,12 +1357,12 @@
 	"errorAccountRecover108": "另一個進程正在運行",
 	"errorAccountRecover109": "帳戶已被刪除",
 	"errorObjectImport7": "匯入尚未完成。CSV 匯入最多支援達 1000 列和 10 欄。",
-	"objectOrigin0": "用户",
-	"objectOrigin1": "剪貼簿",
-	"objectOrigin2": "拖放",
-	"objectOrigin3": "匯入",
-	"objectOrigin4": "擷取網頁",
-	"objectOrigin5": "分享延伸模組",
-	"objectOrigin6": "用途",
-	"objectOrigin7": "內建"
+	"origin0": "User",
+	"origin1": "Clipboard",
+	"origin2": "Drag'n'Drop",
+	"origin3": "匯入",
+	"origin4": "Webclipper",
+	"origin5": "Sharing Extension",
+	"origin6": "Usecase",
+	"origin7": "Built-in"
 }
