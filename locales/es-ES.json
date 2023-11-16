@@ -1357,12 +1357,12 @@
 	"errorAccountRecover108": "Otro proceso está ejecutándose",
 	"errorAccountRecover109": "La cuenta ha sido eliminada",
 	"errorObjectImport7": "La importación no se ha completado. La importación CSV soporta hasta 1000 filas y 10 columnas.",
-	"origin0": "User",
-	"origin1": "Clipboard",
-	"origin2": "Drag'n'Drop",
+	"origin0": "Usuario",
+	"origin1": "Portapapeles",
+	"origin2": "Arrastra y suelta",
 	"origin3": "Importar",
 	"origin4": "Webclipper",
-	"origin5": "Sharing Extension",
-	"origin6": "Usecase",
-	"origin7": "Built-in"
+	"origin5": "Compartiendo una extensión",
+	"origin6": "Casos de uso",
+	"origin7": "Integrado"
 }
