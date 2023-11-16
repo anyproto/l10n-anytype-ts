@@ -1357,12 +1357,12 @@
 	"errorAccountRecover108": "एक और प्रक्रिया चल रही है",
 	"errorAccountRecover109": "खाता हटा दिया गया है",
 	"errorObjectImport7": "आयात पूरा नहीं हुआ है।CSV आयात 1000 पंक्तियों और 10 कॉलम तक का समर्थन करता है। ",
-	"objectOrigin0": "User",
-	"objectOrigin1": "Clipboard",
-	"objectOrigin2": "Drag'n'Drop",
-	"objectOrigin3": "आयात",
-	"objectOrigin4": "Webclipper",
-	"objectOrigin5": "Sharing Extension",
-	"objectOrigin6": "Usecase",
-	"objectOrigin7": "Built-in"
+	"origin0": "User",
+	"origin1": "Clipboard",
+	"origin2": "Drag'n'Drop",
+	"origin3": "आयात",
+	"origin4": "Webclipper",
+	"origin5": "Sharing Extension",
+	"origin6": "Usecase",
+	"origin7": "Built-in"
 }

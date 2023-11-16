@@ -1357,12 +1357,12 @@
 	"errorAccountRecover108": "Une autre session est en cours",
 	"errorAccountRecover109": "Le compte a été supprimé",
 	"errorObjectImport7": "L'import n'est pas terminé. L'import CSV prend en charge jusqu'à 1000 lignes et 10 colonnes.",
-	"objectOrigin0": "Utilisateur",
-	"objectOrigin1": "Presse-papier",
-	"objectOrigin2": "Glisser-déposer",
-	"objectOrigin3": "Importer",
-	"objectOrigin4": "Webclipper",
-	"objectOrigin5": "Extension de partage",
-	"objectOrigin6": "Cas utilisateur",
-	"objectOrigin7": "Intégré"
+	"origin0": "User",
+	"origin1": "Clipboard",
+	"origin2": "Drag'n'Drop",
+	"origin3": "Importer",
+	"origin4": "Webclipper",
+	"origin5": "Sharing Extension",
+	"origin6": "Usecase",
+	"origin7": "Built-in"
 }

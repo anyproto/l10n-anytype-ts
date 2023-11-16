@@ -1357,12 +1357,12 @@
 	"errorAccountRecover108": "Er wordt een ander proces uitgevoerd",
 	"errorAccountRecover109": "Account is verwijderd",
 	"errorObjectImport7": "Het importeren is niet voltooid. CSV-import ondersteunt tot 1000 rijen en 10 kolommen.",
-	"objectOrigin0": "Gebruiker",
-	"objectOrigin1": "Klembord",
-	"objectOrigin2": "Drag'n'Drop",
-	"objectOrigin3": "Importeren",
-	"objectOrigin4": "Webclipper",
-	"objectOrigin5": "Sharing Extension",
-	"objectOrigin6": "Usecase",
-	"objectOrigin7": "Ingebouwd"
+	"origin0": "User",
+	"origin1": "Clipboard",
+	"origin2": "Drag'n'Drop",
+	"origin3": "Importeren",
+	"origin4": "Webclipper",
+	"origin5": "Sharing Extension",
+	"origin6": "Usecase",
+	"origin7": "Built-in"
 }

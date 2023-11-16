@@ -1357,12 +1357,12 @@
 	"errorAccountRecover108": "Proses lainnya sedang berjalan",
 	"errorAccountRecover109": "Akun telah dihapus",
 	"errorObjectImport7": "Impor tidak selesai. Impor CSV mendukung hingga 1000 baris dan 10 kolom.",
-	"objectOrigin0": "Pengguna",
-	"objectOrigin1": "Papan kerani",
-	"objectOrigin2": "Seret-Lepas",
-	"objectOrigin3": "Impor",
-	"objectOrigin4": "Webclipper",
-	"objectOrigin5": "Sharing Extension",
-	"objectOrigin6": "Usecase",
-	"objectOrigin7": "Bawaan"
+	"origin0": "User",
+	"origin1": "Clipboard",
+	"origin2": "Drag'n'Drop",
+	"origin3": "Impor",
+	"origin4": "Webclipper",
+	"origin5": "Sharing Extension",
+	"origin6": "Usecase",
+	"origin7": "Built-in"
 }
