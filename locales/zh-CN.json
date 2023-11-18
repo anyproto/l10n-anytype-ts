@@ -1015,7 +1015,7 @@
 	"menuGraphSettingsLinks": "链接",
 	"menuGraphSettingsRelations": "关联",
 	"menuGraphSettingsUnlinkedObjects": "未链接的对象",
-	"menuGraphSettingsLocal": "Local graph",
+	"menuGraphSettingsLocal": "本地关联图",
 	"menuHelpWhatsNew": "更新内容",
 	"menuHelpShortcut": "键盘快捷键",
 	"menuHelpHints": "显示提示",
@@ -1362,7 +1362,7 @@
 	"origin2": "拖放",
 	"origin3": "导入",
 	"origin4": "网页剪藏",
-	"origin5": "Sharing Extension",
-	"origin6": "Usecase",
-	"origin7": "Built-in"
+	"origin5": "分享扩展",
+	"origin6": "用例",
+	"origin7": "内置"
 }
