@@ -585,7 +585,7 @@
 	"popupSettingsImportNotionTitle": "Impor Notion",
 	"popupSettingsImportCsvTitle": "Impor CSV",
 	"popupSettingsImportCsvText": "Pilih <b>arsip Zip atau berkas CSV</b> (.csv) untuk menyelesaikan impor",
-	"popupSettingsImportFavouriteTitle": "Selected objects will appear in your Favorites widget",
+	"popupSettingsImportFavouriteTitle": "Objek yang terpilih akan muncul dalam gawit Favorit",
 	"popupSettingsImportHtmlTitle": "Impor HTML",
 	"popupSettingsImportTextTitle": "Impor Teks",
 	"popupSettingsImportProtobufTitle": "Impor Any-Block",
