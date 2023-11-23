@@ -585,7 +585,7 @@
 	"popupSettingsImportNotionTitle": "从Notion导入",
 	"popupSettingsImportCsvTitle": "CSV 导入",
 	"popupSettingsImportCsvText": "然后，选择 <b>Zip 压缩包或 CSV 文件</b> (.csv) 完成导入",
-	"popupSettingsImportFavouriteTitle": "Selected objects will appear in your Favorites widget",
+	"popupSettingsImportFavouriteTitle": "选中的对象将出现在您的收藏夹小部件",
 	"popupSettingsImportHtmlTitle": "从HTML导入",
 	"popupSettingsImportTextTitle": "从文本导入",
 	"popupSettingsImportProtobufTitle": "从Any-Block 导入",
