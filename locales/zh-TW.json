@@ -589,7 +589,7 @@
 	"popupSettingsImportHtmlTitle": "HTML Import",
 	"popupSettingsImportTextTitle": "Text Import",
 	"popupSettingsImportProtobufTitle": "Any-Block Import",
-	"popupSettingsImportMarkdownTitle": "Markown Import",
+	"popupSettingsImportMarkdownTitle": "Markdown Import",
 	"popupSettingsExportTitle": "匯出空間",
 	"popupSettingsExportText": "選擇數據來源的應用或格式",
 	"popupSettingsExportOk": "匯出數據",
