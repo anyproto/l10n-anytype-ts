@@ -589,7 +589,7 @@
 	"popupSettingsImportHtmlTitle": "HTML Import",
 	"popupSettingsImportTextTitle": "Text Import",
 	"popupSettingsImportProtobufTitle": "Any-Block Import",
-	"popupSettingsImportMarkdownTitle": "Markown Import",
+	"popupSettingsImportMarkdownTitle": "Markdown Import",
 	"popupSettingsExportTitle": "Xuất Không gian ra",
 	"popupSettingsExportText": "Chọn ứng dụng hoặc định dạng của nguồn dữ liệu",
 	"popupSettingsExportOk": "Xuất dữ liệu ra",
