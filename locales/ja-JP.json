@@ -589,7 +589,7 @@
 	"popupSettingsImportHtmlTitle": "HTMLインポート",
 	"popupSettingsImportTextTitle": "テキストインポート",
 	"popupSettingsImportProtobufTitle": "Anyブロックインポート",
-	"popupSettingsImportMarkdownTitle": "マークダウンインポート",
+	"popupSettingsImportMarkdownTitle": "Markdown Import",
 	"popupSettingsExportTitle": "スペースをエクスポート",
 	"popupSettingsExportText": "データソースのアプリもしくはフォーマットを選択",
 	"popupSettingsExportOk": "データをエクスポート",
