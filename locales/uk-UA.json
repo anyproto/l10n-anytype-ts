@@ -589,7 +589,7 @@
 	"popupSettingsImportHtmlTitle": "Імпорт HTML",
 	"popupSettingsImportTextTitle": "Імпортувати текст",
 	"popupSettingsImportProtobufTitle": "Імпорт Any-Block",
-	"popupSettingsImportMarkdownTitle": "Імпорт із Markown",
+	"popupSettingsImportMarkdownTitle": "Markdown Import",
 	"popupSettingsExportTitle": "Експортувати Простір",
 	"popupSettingsExportText": "Оберіть застосунок або формат джерела даних",
 	"popupSettingsExportOk": "Експортувати дані",
