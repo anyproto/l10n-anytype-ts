@@ -589,7 +589,7 @@
 	"popupSettingsImportHtmlTitle": "HTML Import",
 	"popupSettingsImportTextTitle": "Text Import",
 	"popupSettingsImportProtobufTitle": "Any-Block Import",
-	"popupSettingsImportMarkdownTitle": "Markown Import",
+	"popupSettingsImportMarkdownTitle": "Markdown Import",
 	"popupSettingsExportTitle": "Evrenden dışa aktar",
 	"popupSettingsExportText": "Veri kaynağının uygulama veya formatını seçin",
 	"popupSettingsExportOk": "Veriyi Dışa Aktar",
