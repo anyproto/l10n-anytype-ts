@@ -589,7 +589,7 @@
 	"popupSettingsImportHtmlTitle": "从HTML导入",
 	"popupSettingsImportTextTitle": "从文本导入",
 	"popupSettingsImportProtobufTitle": "从Any-Block 导入",
-	"popupSettingsImportMarkdownTitle": "从Markown导入",
+	"popupSettingsImportMarkdownTitle": "Markdown Import",
 	"popupSettingsExportTitle": "导出空间",
 	"popupSettingsExportText": "选择数据源的应用或格式",
 	"popupSettingsExportOk": "导出数据",
