@@ -589,7 +589,7 @@
 	"popupSettingsImportHtmlTitle": "Импорт HTML",
 	"popupSettingsImportTextTitle": "Импорт текста",
 	"popupSettingsImportProtobufTitle": "Импорт из Any-Блок",
-	"popupSettingsImportMarkdownTitle": "Импорт Markown",
+	"popupSettingsImportMarkdownTitle": "Markdown Import",
 	"popupSettingsExportTitle": "Экспорт пространства",
 	"popupSettingsExportText": "Выберите приложение или формат источника данных",
 	"popupSettingsExportOk": "Экспортировать данные",
