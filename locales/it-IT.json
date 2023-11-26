@@ -589,7 +589,7 @@
 	"popupSettingsImportHtmlTitle": "Importa da HTML",
 	"popupSettingsImportTextTitle": "Importa da testo",
 	"popupSettingsImportProtobufTitle": "Importa da Any-Block",
-	"popupSettingsImportMarkdownTitle": "Importa da Markdown",
+	"popupSettingsImportMarkdownTitle": "Markdown Import",
 	"popupSettingsExportTitle": "Esporta Spazio",
 	"popupSettingsExportText": "Scegli l'applicazione o il formato della fonte dati",
 	"popupSettingsExportOk": "Esporta dati",
