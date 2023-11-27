@@ -847,6 +847,11 @@
 	"popupPhraseLabel3": "That's why it's essential to keep your Recovery Phrase safe. As the sole owner, nobody can help you if it's lost.",
 	"popupPhraseLabel4": "De eenvoudigste manier om uw herstel zin op te slaan is door deze op te slaan in uw wachtwoordmanager.",
 	"popupPhraseLabel5": "De meest veilige manier is om het op papier op te schrijven en het offline te houden, op een veilige plek. ",
+	"popupUsecaseAuthor": "Made by @%s",
+	"popupUsecaseUpdated": "Updated: %s",
+	"popupUsecaseInstall": "Installeren",
+	"popupUsecaseMenuLabel": "Install experience to",
+	"popupUsecaseSpaceCreate": "Create new space",
 	"menuAccountPeer": "%d/%d peers",
 	"menuAccountPathText": "Je sleutelbestanden zullen hier worden opgeslagen. Klik om het pad te wijzigen",
 	"menuSmileRandom": "Willekeurige emoji",
@@ -1371,5 +1376,10 @@
 	"origin4": "Webclipper",
 	"origin5": "Sharing Extension",
 	"origin6": "Usecase",
-	"origin7": "Built-in"
+	"origin7": "Built-in",
+	"notification0SuccessTitle": "&quot;%s&quot; was installed",
+	"notification0SuccessText": "Experience was successfully  installed to a new space. You can now open and start using it.",
+	"notification0ErrorTitle": "Something went wrong",
+	"notification0ErrorText": "Oops! &quot;%s&quot; wasn't installed. Please check your internet connection and try again or post a report on forum.",
+	"notification1Text": "<span id='object' class='element'></span> requested to join <span id='subject' class='element'></span> with read-only access rights."
 }
