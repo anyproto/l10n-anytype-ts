@@ -847,6 +847,11 @@
 	"popupPhraseLabel3": "Derfor er det avgjørende å oppbevare gjenopprettingsfrasen din trygt. Som den eneste eieren, kan ingen hjelpe deg hvis den blir mistet.",
 	"popupPhraseLabel4": "Den enkleste måten å lagre gjenopprettingsfrasen er å lagre den i passordbehandleren.",
 	"popupPhraseLabel5": "Den sikreste måten er å skrive den ned på papir og oppbevare den offline, på et trygt og sikkert sted.",
+	"popupUsecaseAuthor": "Made by @%s",
+	"popupUsecaseUpdated": "Updated: %s",
+	"popupUsecaseInstall": "Installer",
+	"popupUsecaseMenuLabel": "Install experience to",
+	"popupUsecaseSpaceCreate": "Create new space",
 	"menuAccountPeer": "%d/%d jevnaldrende",
 	"menuAccountPathText": "Nøkkelfilene dine vil bli lagret her. Klikk for å endre stien",
 	"menuSmileRandom": "Tilfeldig emoji",
@@ -1371,5 +1376,10 @@
 	"origin4": "Webclipper",
 	"origin5": "Sharing Extension",
 	"origin6": "Usecase",
-	"origin7": "Built-in"
+	"origin7": "Built-in",
+	"notification0SuccessTitle": "&quot;%s&quot; was installed",
+	"notification0SuccessText": "Experience was successfully  installed to a new space. You can now open and start using it.",
+	"notification0ErrorTitle": "Something went wrong",
+	"notification0ErrorText": "Oops! &quot;%s&quot; wasn't installed. Please check your internet connection and try again or post a report on forum.",
+	"notification1Text": "<span id='object' class='element'></span> requested to join <span id='subject' class='element'></span> with read-only access rights."
 }
