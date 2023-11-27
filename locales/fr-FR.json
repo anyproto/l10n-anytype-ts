@@ -589,7 +589,7 @@
 	"popupSettingsImportHtmlTitle": "Import HTML",
 	"popupSettingsImportTextTitle": "Import de texte",
 	"popupSettingsImportProtobufTitle": "Import Any-Block",
-	"popupSettingsImportMarkdownTitle": "Markdown Import",
+	"popupSettingsImportMarkdownTitle": "Import Markdown",
 	"popupSettingsExportTitle": "Exporter l'Espace",
 	"popupSettingsExportText": "Choisissez l'application ou le format de la source de données",
 	"popupSettingsExportOk": "Exporter des données",
@@ -847,6 +847,11 @@
 	"popupPhraseLabel3": "C'est pourquoi il est essentiel de garder la phrase de récupération en sécurité. En tant que propriétaire unique, personne ne peut vous aider si elle est perdue.",
 	"popupPhraseLabel4": "La façon la plus simple de stocker votre phrase de récupération est de l’enregistrer dans votre gestionnaire de mots de passe.",
 	"popupPhraseLabel5": "Le moyen le plus sûr est de l'écrire sur papier et de le garder dans un endroit sûr et sécurisé.",
+	"popupUsecaseAuthor": "Fait par @%s",
+	"popupUsecaseUpdated": "Mis à jour : %s",
+	"popupUsecaseInstall": "Installer",
+	"popupUsecaseMenuLabel": "Installer l'expérience vers",
+	"popupUsecaseSpaceCreate": "Créer un nouvel espace",
 	"menuAccountPeer": "%d/%d machines",
 	"menuAccountPathText": "Vos fichiers clés seront stockés ici. Cliquez pour changer l'emplacement",
 	"menuSmileRandom": "Emoji aléatoire",
@@ -1371,5 +1376,10 @@
 	"origin4": "Webclipper",
 	"origin5": "Extension de partage",
 	"origin6": "Cas utilisateur",
-	"origin7": "Intégré"
+	"origin7": "Intégré",
+	"notification0SuccessTitle": "&quot;%s&quot; a été installé",
+	"notification0SuccessText": "L'expérience a été installée avec succès dans un nouvel espace. Vous pouvez maintenant ouvrir et commencer à l'utiliser.",
+	"notification0ErrorTitle": "Un problème est survenu",
+	"notification0ErrorText": "Oups ! &quot;%s&quot; n'a pas été installé. Veuillez vérifier votre connexion internet et réessayer ou poster un rapport sur le forum.",
+	"notification1Text": "<span id='object' class='element'></span> demandé à rejoindre <span id='subject' class='element'></span> avec des droits d'accès en lecture seule."
 }
