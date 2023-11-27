@@ -847,6 +847,11 @@
 	"popupPhraseLabel3": "Очень важно держать вашу фразу восстановления в секрете. Никто не сможет вам помочь в случае ее утери.",
 	"popupPhraseLabel4": "Самый простой способ хранить вашу фразу восстановления - сохранить ее в вашем менеджере паролей.",
 	"popupPhraseLabel5": "Самый безопасный способ - записать ее на бумаге и оставить бумагу в безопасном месте.",
+	"popupUsecaseAuthor": "Made by @%s",
+	"popupUsecaseUpdated": "Updated: %s",
+	"popupUsecaseInstall": "Установить",
+	"popupUsecaseMenuLabel": "Install experience to",
+	"popupUsecaseSpaceCreate": "Create new space",
 	"menuAccountPeer": "%d/%d пиров",
 	"menuAccountPathText": "Ваши ключевые файлы будут храниться здесь. Нажмите, чтобы изменить путь",
 	"menuSmileRandom": "Случайный emoji",
@@ -1371,5 +1376,10 @@
 	"origin4": "Веб-клиппер",
 	"origin5": "Расширение для общего доступа",
 	"origin6": "Вариант использования",
-	"origin7": "Встроенный"
+	"origin7": "Встроенный",
+	"notification0SuccessTitle": "&quot;%s&quot; was installed",
+	"notification0SuccessText": "Experience was successfully  installed to a new space. You can now open and start using it.",
+	"notification0ErrorTitle": "Something went wrong",
+	"notification0ErrorText": "Oops! &quot;%s&quot; wasn't installed. Please check your internet connection and try again or post a report on forum.",
+	"notification1Text": "<span id='object' class='element'></span> requested to join <span id='subject' class='element'></span> with read-only access rights."
 }
