@@ -847,6 +847,11 @@
 	"popupPhraseLabel3": "Ecco perché è essenziale mantenere la tua Frase di Recupero al sicuro. Come unico proprietario, nessuno può aiutarti se venisse persa.",
 	"popupPhraseLabel4": "Il modo più semplice per memorizzare la tua Frase di Recupero è quello di salvarla nel tuo gestore di password.",
 	"popupPhraseLabel5": "Il modo più sicuro è scriverlo su carta e tenerlo offline, in un luogo sicuro.",
+	"popupUsecaseAuthor": "Realizzato da @%s",
+	"popupUsecaseUpdated": "Aggiornato: %s",
+	"popupUsecaseInstall": "Installa",
+	"popupUsecaseMenuLabel": "Installa esperienza in",
+	"popupUsecaseSpaceCreate": "Crea un nuovo spazio",
 	"menuAccountPeer": "%d/%d colleghi",
 	"menuAccountPathText": "I file chiave verranno memorizzati qui. Fare clic per cambiare il percorso",
 	"menuSmileRandom": "Random emoji",
@@ -1371,5 +1376,10 @@
 	"origin4": "Webclipper",
 	"origin5": "Sharing Extension",
 	"origin6": "Usecase",
-	"origin7": "Integrato"
+	"origin7": "Integrato",
+	"notification0SuccessTitle": "&quot;%s&quot; è stato installato",
+	"notification0SuccessText": "L'esperienza è stata installata con successo in un nuovo spazio. Ora puoi aprirla e iniziare a utilizzarla.",
+	"notification0ErrorTitle": "Qualcosa è andato storto",
+	"notification0ErrorText": "Oops! &quot;%s&quot; non è stato installato. Controlla la tua connessione internet e riprova o pubblica un rapporto sul forum.",
+	"notification1Text": "<span id='object' class='element'></span> ha richiesto di unirsi a <span id='subject' class='element'></span> con diritti di accesso in sola lettura."
 }
