@@ -633,7 +633,7 @@
 	"popupNavigationEmptyFrom": "没有链接到其他项目",
 	"popupSearchPlaceholder": "查找对象...",
 	"popupSearchEmpty": "没有发现对象",
-	"popupSearchNoObjects": "<b>There are no Objects named <span>\"%s\"</span></b>",
+	"popupSearchNoObjects": "<b>没有对象命名为 <span>“%s”</span></b>",
 	"popupSearchEmptyFilter": "<b>没有名为 <span>\"%s\"</span></b> 的对象。尝试创建一个新项目或搜索其他内容",
 	"popupSearchRecentObjects": "近期对象",
 	"popupSearchCreateObject": "创建对象",
