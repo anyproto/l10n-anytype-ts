@@ -364,7 +364,7 @@
 	"blockNameBulleted": "箇条書きリスト",
 	"blockNameNumbered": "順序付きリスト",
 	"blockNameToggle": "トグル",
-	"blockNameExisting": "オブジェクトへ繋ぐ",
+	"blockNameExisting": "リンクを追加",
 	"blockNameFile": "ファイル",
 	"blockNameImage": "写真",
 	"blockNameVideo": "動画",
