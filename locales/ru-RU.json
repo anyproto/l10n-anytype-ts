@@ -285,7 +285,7 @@
 	"authOnboardGoApp": "Перейти в приложение",
 	"authOnboardAccountDataLocation": "Расположение данных аккаунта",
 	"authOnboardMoreInfo": "Вы можете найти фразу восстановления позже в настройках Anytype",
-	"authOnboardVoidTitle": "Выберете имя",
+	"authOnboardVoidTitle": "Выберите имя",
 	"authOnboardVoidLabel": "Так будет отображаться в приложении",
 	"authOnboardPhraseTitle": "Сохраните свою фразу восстановления",
 	"authOnboardPhraseLabel": "Это новый способ аутентификации, который дает вам полный контроль над вашей учетной записью и данными. <span id='tooltipPhrase' class='tooltipLink'> Подробнее </span>",
