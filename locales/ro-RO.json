@@ -111,6 +111,7 @@
 	"commonTemplates": "Șabloane",
 	"commonSkip": "Treci peste",
 	"commonCreateNew": "Creează nou",
+	"commonSetName": "Set of %s",
 	"commonLCCollection": "Colecție",
 	"commonLCSet": "Setează",
 	"commonDeletionWarningTitle": "Ești sigur că vrei să ștergi %s %s?",
