@@ -111,6 +111,7 @@
 	"commonTemplates": "Ձևանմուշներ",
 	"commonSkip": "Անտեսել",
 	"commonCreateNew": "Ստեղծել նորը",
+	"commonSetName": "Set of %s",
 	"commonLCCollection": "Collection",
 	"commonLCSet": "Set",
 	"commonDeletionWarningTitle": "Իսկապե ՞ ս ուզում եք ջնջել %s %s",
