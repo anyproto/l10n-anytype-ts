@@ -111,6 +111,7 @@
 	"commonTemplates": "Mẫu",
 	"commonSkip": "Skip",
 	"commonCreateNew": "Create new",
+	"commonSetName": "Set of %s",
 	"commonLCCollection": "Bộ",
 	"commonLCSet": "Tập",
 	"commonDeletionWarningTitle": "Bạn có chắc chắn muốn xóa %s %s không?",
