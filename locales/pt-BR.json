@@ -111,6 +111,7 @@
 	"commonTemplates": "Modelos",
 	"commonSkip": "Pular",
 	"commonCreateNew": "Criar novo",
+	"commonSetName": "Set of %s",
 	"commonLCCollection": "Coleção",
 	"commonLCSet": "Conjunto",
 	"commonDeletionWarningTitle": "Tem certeza que deseja excluir %s %s?",
