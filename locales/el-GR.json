@@ -111,6 +111,7 @@
 	"commonTemplates": "Πρότυπα",
 	"commonSkip": "Skip",
 	"commonCreateNew": "Create new",
+	"commonSetName": "Set of %s",
 	"commonLCCollection": "Συλλογή",
 	"commonLCSet": "Set",
 	"commonDeletionWarningTitle": "Θέλετε σίγουρα να διαγράψετε %s %s;",
