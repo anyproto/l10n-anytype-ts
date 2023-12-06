@@ -111,6 +111,7 @@
 	"commonTemplates": "Vorlagen",
 	"commonSkip": "Überspringen",
 	"commonCreateNew": "Neu erstellen",
+	"commonSetName": "Set of %s",
 	"commonLCCollection": "Sammlung",
 	"commonLCSet": "Set",
 	"commonDeletionWarningTitle": "Möchtest du wirklich %s %s löschen?",
