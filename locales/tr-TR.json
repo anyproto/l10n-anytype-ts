@@ -111,6 +111,7 @@
 	"commonTemplates": "Şablonlar",
 	"commonSkip": "Atla ",
 	"commonCreateNew": "Yeni oluştur",
+	"commonSetName": "Set of %s",
 	"commonLCCollection": "Koleksiyon",
 	"commonLCSet": "Küme",
 	"commonDeletionWarningTitle": "%s %s öğesini silmek istediğine emin misin?",
