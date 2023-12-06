@@ -111,6 +111,7 @@
 	"commonTemplates": "Šablóny",
 	"commonSkip": "Skip",
 	"commonCreateNew": "Create new",
+	"commonSetName": "Set of %s",
 	"commonLCCollection": "Kolekcia",
 	"commonLCSet": "Set",
 	"commonDeletionWarningTitle": "Ste si istý, že chcete zmazať %s %s?",
