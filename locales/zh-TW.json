@@ -111,6 +111,7 @@
 	"commonTemplates": "範本",
 	"commonSkip": "跳過",
 	"commonCreateNew": "新建",
+	"commonSetName": "Set of %s",
 	"commonLCCollection": "集錦",
 	"commonLCSet": "集合",
 	"commonDeletionWarningTitle": "您確定要刪除 %s %s 嗎？",
