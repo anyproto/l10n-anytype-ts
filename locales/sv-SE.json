@@ -111,6 +111,7 @@
 	"commonTemplates": "Mallar",
 	"commonSkip": "Hoppa över",
 	"commonCreateNew": "Skapa ny",
+	"commonSetName": "Set of %s",
 	"commonLCCollection": "Samling",
 	"commonLCSet": "Set",
 	"commonDeletionWarningTitle": "Är du säker på att du vill ta bort %s %s?",
