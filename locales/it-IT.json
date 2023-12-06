@@ -111,6 +111,7 @@
 	"commonTemplates": "Modelli",
 	"commonSkip": "Salta",
 	"commonCreateNew": "Crea nuovo",
+	"commonSetName": "Set of %s",
 	"commonLCCollection": "Raccolta",
 	"commonLCSet": "Insieme",
 	"commonDeletionWarningTitle": "Sei sicuro di voler cancellare %s %s?",
