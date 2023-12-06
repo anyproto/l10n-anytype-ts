@@ -111,6 +111,7 @@
 	"commonTemplates": "Templat",
 	"commonSkip": "Lewati",
 	"commonCreateNew": "Buat baru",
+	"commonSetName": "Set of %s",
 	"commonLCCollection": "Koleksi",
 	"commonLCSet": "Set",
 	"commonDeletionWarningTitle": "Apa kamu yakin ingin menghapus %s %s?",
