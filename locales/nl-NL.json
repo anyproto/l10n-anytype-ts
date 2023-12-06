@@ -111,6 +111,7 @@
 	"commonTemplates": "Sjablonen",
 	"commonSkip": "Overslaan",
 	"commonCreateNew": "Create new",
+	"commonSetName": "Set of %s",
 	"commonLCCollection": "Collectie",
 	"commonLCSet": "Instellen",
 	"commonDeletionWarningTitle": "Weet je zeker dat je %s %s wilt verwijderen?",
