@@ -111,6 +111,7 @@
 	"commonTemplates": "模板",
 	"commonSkip": "跳过",
 	"commonCreateNew": "新建",
+	"commonSetName": "%s集",
 	"commonLCCollection": "集锦",
 	"commonLCSet": "集合",
 	"commonDeletionWarningTitle": "您确定要删除 %s %s 吗？",
@@ -1387,12 +1388,12 @@
 	"notification0ErrorTitle": "出现了一些错误",
 	"notification0ErrorText": "哎呀！ &quot;%s&quot; 未安装。请检查您的互联网连接，然后再试一次或在论坛上发布报告。",
 	"notification1Text": "<span id='object' class='element'></span> 请求以只读访问权限加入 <span id='subject' class='element'></span> 。",
-	"notificationImportSuccessTitle": "Import complete!",
-	"notificationImportSuccessText": "You can find the imported objects in the selected space.",
-	"notificationImportErrorTitle": "Import failed",
-	"notificationImportErrorText": "Sorry, but something went wrong during the import. Please try again, and let us know if it doesn't work.",
-	"notificationExportSuccessTitle": "Export complete!",
-	"notificationExportSuccessText": "You can find the exported objects in the folder you selected.",
-	"notificationExportErrorTitle": "Export failed",
-	"notificationExportErrorText": "Sorry, but something went wrong during the export. Please try again, and let us know if it doesn't work."
+	"notificationImportSuccessTitle": "导入完成！",
+	"notificationImportSuccessText": "您可以在所选空间中找到导入的对象。",
+	"notificationImportErrorTitle": "导入失败",
+	"notificationImportErrorText": "很抱歉，在导入过程中出了点问题。请再试一次，如果不起作用请告诉我们。",
+	"notificationExportSuccessTitle": "导出完成！",
+	"notificationExportSuccessText": "您可以在所选文件夹中找到导出的对象。",
+	"notificationExportErrorTitle": "导出失败",
+	"notificationExportErrorText": "很抱歉，在导出过程中出了点问题。请再试一次，如果不起作用请告诉我们。"
 }
