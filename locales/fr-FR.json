@@ -1412,5 +1412,7 @@
 	"notificationGallerySuccessTitle": "\"%s a été installé",
 	"notificationGallerySuccessText": "L'expérience a été installée avec succès dans l'espace «%s». Vous pouvez maintenant ouvrir et commencer à l'utiliser.",
 	"notificationGalleryErrorTitle": "Un problème est survenu",
-	"notificationGalleryErrorText": "Oups ! \"%s\" n'a pas été installé. Veuillez vérifier votre connexion internet et réessayer ou poster un rapport sur le forum."
+	"notificationGalleryErrorText": "Oups ! \"%s\" n'a pas été installé. Veuillez vérifier votre connexion internet et réessayer ou poster un rapport sur le forum.",
+	"notificationNotionErrorNoObjectsTitle": "Add integration to the Notion pages you want to import",
+	"notificationNotionErrorNoObjectsText": "Select Notion document → … -> Add Connections -> Confirm Integration"
 }
