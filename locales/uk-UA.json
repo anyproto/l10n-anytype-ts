@@ -1412,5 +1412,7 @@
 	"notificationGallerySuccessTitle": "\"%s\" встановлено",
 	"notificationGallerySuccessText": "Зразок встановлено до простору \"%s\". Ви можете відкрити та почати його використовувати.",
 	"notificationGalleryErrorTitle": "Йой... Щось пішло не так",
-	"notificationGalleryErrorText": "Йой! %s не встановлено. Перевірте з'єднання з мережею та спробуйте знову або повідомте у Спільноті."
+	"notificationGalleryErrorText": "Йой! %s не встановлено. Перевірте з'єднання з мережею та спробуйте знову або повідомте у Спільноті.",
+	"notificationNotionErrorNoObjectsTitle": "Add integration to the Notion pages you want to import",
+	"notificationNotionErrorNoObjectsText": "Select Notion document → … -> Add Connections -> Confirm Integration"
 }
