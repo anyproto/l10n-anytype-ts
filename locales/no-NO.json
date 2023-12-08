@@ -1413,6 +1413,6 @@
 	"notificationGallerySuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
 	"notificationGalleryErrorTitle": "Noe gikk galt",
 	"notificationGalleryErrorText": "Oops! \"%s\" wasn't installed. Please check your internet connection and try again or post a report on forum.",
-	"notificationNotionErrorNoObjectsTitle": "Add integration to the Notion pages you want to import",
-	"notificationNotionErrorNoObjectsText": "Select Notion document → … -> Add Connections -> Confirm Integration"
+	"notificationNotionErrorNoObjectsTitle": "Legg til integrasjon på Notion-sidene du ønsker å importere",
+	"notificationNotionErrorNoObjectsText": "Velg Notion-dokument → … -> Add Connections -> Velg integrasjonen"
 }
