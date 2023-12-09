@@ -460,7 +460,7 @@
 	"blockEmbedLatexPlaceholder": "Introducir texto en formato LaTeX",
 	"blockEmbedPlaceholder": "Introduzca el código incrustado para %s",
 	"blockEmbedLatexTemplate": "Fórmula de plantilla",
-	"blockEmbedLatexEmpty": "Here your equation will be rendered with <span class='icon tex'></span>. Click to edit",
+	"blockEmbedLatexEmpty": "Aquí su ecuación será renderizada con <span class='icon tex'></span>. Haga clic para editar",
 	"blockEmbedEmpty": "El bloque incrustado %s está vacío. Haga clic para editar.",
 	"blockEmbedSource": "Origen",
 	"blockTableOfContentsAdd": "Añadir títulos para crear un índice",
