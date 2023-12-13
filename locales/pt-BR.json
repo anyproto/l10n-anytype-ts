@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s embed block is empty. Click to edit.",
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "Adicione cabeçalhos para criar um índice",
-	"blockFeaturedTypesList": "Objeto %s: %s",
 	"blockFeaturedQuery": "Consulta",
 	"blockFeaturedTypeMenuOpenType": "Abrir tipo",
 	"blockFeaturedTypeMenuChangeType": "Alterar tipo",
