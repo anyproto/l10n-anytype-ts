@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s embed block is empty. Click to edit.",
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "İçindekiler tablosu oluşturmak için başlıklar ekleyin",
-	"blockFeaturedTypesList": "Nesne %s: %s",
 	"blockFeaturedQuery": "Sorgu",
 	"blockFeaturedTypeMenuOpenType": "Türü aç",
 	"blockFeaturedTypeMenuChangeType": "Türü değiştir",
