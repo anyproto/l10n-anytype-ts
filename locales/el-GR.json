@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s embed block is empty. Click to edit.",
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "Προσθέστε κεφαλίδες για δημιουργία ενός πίνακα περιεχομένων",
-	"blockFeaturedTypesList": "Αντικείμενο %s: %s",
 	"blockFeaturedQuery": "Ερώτημα",
 	"blockFeaturedTypeMenuOpenType": "Άνοιγμα Τύπου",
 	"blockFeaturedTypeMenuChangeType": "Αλλαγή Τύπου",
