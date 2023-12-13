@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s embed block is empty. Click to edit.",
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "Добавьте заголовки для создания таблицы содержания",
-	"blockFeaturedTypesList": "Объект %s: %s",
 	"blockFeaturedQuery": "Запрос",
 	"blockFeaturedTypeMenuOpenType": "Открыть тип",
 	"blockFeaturedTypeMenuChangeType": "Изменить тип",
