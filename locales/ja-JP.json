@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s embed block is empty. Click to edit.",
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "目次を作成するために見出しを追加",
-	"blockFeaturedTypesList": "オブジェクト %s: %s",
 	"blockFeaturedQuery": "クエリー",
 	"blockFeaturedTypeMenuOpenType": "タイプを開く",
 	"blockFeaturedTypeMenuChangeType": "タイプを変更",
