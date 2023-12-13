@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "Le bloc d'intégration %s est vide. Cliquez pour le modifier.",
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "Ajouter des en-têtes pour créer une table des matières",
-	"blockFeaturedTypesList": "Objet %s: %s",
 	"blockFeaturedQuery": "Requête",
 	"blockFeaturedTypeMenuOpenType": "Ouvrir le type",
 	"blockFeaturedTypeMenuChangeType": "Changer le type",
