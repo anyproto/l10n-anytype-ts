@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s embed block is empty. Click to edit.",
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "Adaugă antete pentru a crea un tabel de conținut",
-	"blockFeaturedTypesList": "Obiectul %s: %s",
 	"blockFeaturedQuery": "Interogare",
 	"blockFeaturedTypeMenuOpenType": "Deschideți tipul",
 	"blockFeaturedTypeMenuChangeType": "Modifică tipul",
