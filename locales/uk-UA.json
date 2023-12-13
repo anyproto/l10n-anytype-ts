@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "Блок вставлення %s порожній. Натисніть для редагування.",
 	"blockEmbedSource": "Джерело",
 	"blockTableOfContentsAdd": "Додати заголовки для створення таблиці вмісту",
-	"blockFeaturedTypesList": "Об'єкт %s: %s",
 	"blockFeaturedQuery": "Запит",
 	"blockFeaturedTypeMenuOpenType": "Відкрити тип",
 	"blockFeaturedTypeMenuChangeType": "Змінити тип",
