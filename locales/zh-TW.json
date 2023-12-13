@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s embed block is empty. Click to edit.",
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "添加標題以創建目錄",
-	"blockFeaturedTypesList": "物件 %s: %s",
 	"blockFeaturedQuery": "查詢",
 	"blockFeaturedTypeMenuOpenType": "打開類別",
 	"blockFeaturedTypeMenuChangeType": "變更類別",
