@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s embed block is empty. Click to edit.",
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "Tilføj overskrifter for at oprette en indholdsfortegnelse",
-	"blockFeaturedTypesList": "Objekt %s: %s",
 	"blockFeaturedQuery": "Forespørgsel",
 	"blockFeaturedTypeMenuOpenType": "Åbn type",
 	"blockFeaturedTypeMenuChangeType": "Skift type",
