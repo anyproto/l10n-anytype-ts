@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s embed block is empty. Click to edit.",
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "Voeg koppen toe om een inhoudsopgave te maken",
-	"blockFeaturedTypesList": "Object %s: %s",
 	"blockFeaturedQuery": "Query",
 	"blockFeaturedTypeMenuOpenType": "Type openen",
 	"blockFeaturedTypeMenuChangeType": "Type wijzigen",
