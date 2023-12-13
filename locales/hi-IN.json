@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s embed block is empty. Click to edit.",
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "सामग्री की एक तालिका बनाने के लिए शीर्षकों को जोड़ें",
-	"blockFeaturedTypesList": "ऑब्जेक्ट %s: %s",
 	"blockFeaturedQuery": "जिज्ञासा",
 	"blockFeaturedTypeMenuOpenType": "खुले प्रकार का",
 	"blockFeaturedTypeMenuChangeType": "प्रकार बदलें",
