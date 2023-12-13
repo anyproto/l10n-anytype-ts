@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s embed block is empty. Click to edit.",
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "Aggiungi intestazioni per creare una tabella di contenuti",
-	"blockFeaturedTypesList": "Oggetto %s: %s",
 	"blockFeaturedQuery": "Query",
 	"blockFeaturedTypeMenuOpenType": "Apri tipo",
 	"blockFeaturedTypeMenuChangeType": "Cambia tipo",
