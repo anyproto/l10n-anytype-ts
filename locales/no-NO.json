@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s innebygd blokk er tom. Klikk for å redigere.",
 	"blockEmbedSource": "Kilde",
 	"blockTableOfContentsAdd": "Legg til overskrifter for å lage en innholdsfortegnelse",
-	"blockFeaturedTypesList": "Objekt %s: %s",
 	"blockFeaturedQuery": "Spørring",
 	"blockFeaturedTypeMenuOpenType": "Åpne type",
 	"blockFeaturedTypeMenuChangeType": "Endre type",
