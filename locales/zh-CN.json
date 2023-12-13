@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s 嵌入块为空。点击进行编辑。",
 	"blockEmbedSource": "来源",
 	"blockTableOfContentsAdd": "添加标题以创建目录",
-	"blockFeaturedTypesList": "对象 %s: %s",
 	"blockFeaturedQuery": "查询",
 	"blockFeaturedTypeMenuOpenType": "打开类型",
 	"blockFeaturedTypeMenuChangeType": "更改类型",
