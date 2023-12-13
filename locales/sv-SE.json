@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "%s inbäddat block är tomt. Klicka för att redigera.",
 	"blockEmbedSource": "Källa",
 	"blockTableOfContentsAdd": "Lägg till rubriker för att skapa en innehållsförteckning",
-	"blockFeaturedTypesList": "Föremål %s: %s",
 	"blockFeaturedQuery": "Förfrågan",
 	"blockFeaturedTypeMenuOpenType": "Öppna typ",
 	"blockFeaturedTypeMenuChangeType": "Ändra typ",
