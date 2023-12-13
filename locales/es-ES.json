@@ -464,7 +464,6 @@
 	"blockEmbedEmpty": "El bloque incrustado %s está vacío. Haga clic para editar.",
 	"blockEmbedSource": "Origen",
 	"blockTableOfContentsAdd": "Añadir títulos para crear un índice",
-	"blockFeaturedTypesList": "Objeto %s: %s",
 	"blockFeaturedQuery": "Consulta",
 	"blockFeaturedTypeMenuOpenType": "Tipo abierto",
 	"blockFeaturedTypeMenuChangeType": "Cambiar tipo",
