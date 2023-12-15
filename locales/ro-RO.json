@@ -1333,6 +1333,8 @@
 	"onboardingTemplateSelectDescription": "Schimbați cu ușurință șabloanele când creați obiecte.",
 	"onboardingSpaceSelectTitle": "Întâlneşte spaţii multiple",
 	"onboardingSpaceSelectDescription": "Faceți clic pe pictograma profilului dvs. pentru a accesa selectorul de spațiu. Schimbați între spații sau creați unele noi aici.",
+	"onboardingQuickCaptureTitle": "Create objects with different types",
+	"onboardingQuickCaptureDescription": "Right-click the <span class=\"highlight\">\"Plus\"</span> button to use recent types. In this menu, you can select existing types, install from Anytype Library, or create new ones.",
 	"libDataviewRelations": "Relații",
 	"libDataviewGroups": "Grupuri",
 	"libDataviewView": "Vizualizare",
