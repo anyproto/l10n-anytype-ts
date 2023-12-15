@@ -1333,6 +1333,8 @@
 	"onboardingTemplateSelectDescription": "在创建对象时轻松切换模板。",
 	"onboardingSpaceSelectTitle": "看看多空间",
 	"onboardingSpaceSelectDescription": "点击个人资料图标来访问空间选择器。在空间之间切换或在此创建新空间。",
+	"onboardingQuickCaptureTitle": "创建不同类型的对象",
+	"onboardingQuickCaptureDescription": "右键单击 <span class=\"highlight\">\"加\"</span> 按钮来使用最近的类型。 在这个菜单中，您可以选择现有的类型，从 Anytype 库中安装，或者创建新类型。",
 	"libDataviewRelations": "关联",
 	"libDataviewGroups": "组",
 	"libDataviewView": "视图",
