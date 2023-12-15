@@ -1333,6 +1333,8 @@
 	"onboardingTemplateSelectDescription": "在創建對象時輕松切換模板。",
 	"onboardingSpaceSelectTitle": "看看多空間",
 	"onboardingSpaceSelectDescription": "點擊個人資料圖標來訪問空間選擇器。在空間之間切換或在此創建新空間。",
+	"onboardingQuickCaptureTitle": "Create objects with different types",
+	"onboardingQuickCaptureDescription": "Right-click the <span class=\"highlight\">\"Plus\"</span> button to use recent types. In this menu, you can select existing types, install from Anytype Library, or create new ones.",
 	"libDataviewRelations": "關聯",
 	"libDataviewGroups": "組",
 	"libDataviewView": "視圖",

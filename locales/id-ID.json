@@ -1333,6 +1333,8 @@
 	"onboardingTemplateSelectDescription": "Ganti tempat dengan mudah ketika membuat objek.",
 	"onboardingSpaceSelectTitle": "Memperkenalkan Multi-Ruang",
 	"onboardingSpaceSelectDescription": "Klik ikon profilmu untuk mengakses pemilih ruang. Kamu bisa berpindah ruang atau membuat ruang baru di sini.",
+	"onboardingQuickCaptureTitle": "Buat objek dengan bermacam-macam tipe",
+	"onboardingQuickCaptureDescription": "Klik kanan tombol <span class=\"highlight\">\"Tambah\"</span> untuk menggunakan tipe baru-baru ini. Di menu ini, kamu bisa memilih tipe yang sudah ada, memasang tipe dari Pustaka, atau membuat tipe baru.",
 	"libDataviewRelations": "Relasi",
 	"libDataviewGroups": "Kelompok",
 	"libDataviewView": "Tampilan",

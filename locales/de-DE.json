@@ -1333,6 +1333,8 @@
 	"onboardingTemplateSelectDescription": "Wechseln Sie einfach Ihre Vorlagen beim Erstellen von Objekten.",
 	"onboardingSpaceSelectTitle": "Mehrere Räume treffen",
 	"onboardingSpaceSelectDescription": "Klicken Sie auf Ihr Profil-Symbol, um auf die Raumauswahl zuzugreifen. Wechseln Sie zwischen Räumen oder erstellen Sie hier neue Räume.",
+	"onboardingQuickCaptureTitle": "Create objects with different types",
+	"onboardingQuickCaptureDescription": "Right-click the <span class=\"highlight\">\"Plus\"</span> button to use recent types. In this menu, you can select existing types, install from Anytype Library, or create new ones.",
 	"libDataviewRelations": "Relationen",
 	"libDataviewGroups": "Gruppen",
 	"libDataviewView": "Ansicht",

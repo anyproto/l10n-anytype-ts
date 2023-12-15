@@ -1333,6 +1333,8 @@
 	"onboardingTemplateSelectDescription": "Bytt enkelt mellom malene dine når du oppretter objekter.",
 	"onboardingSpaceSelectTitle": "Møt flere rom",
 	"onboardingSpaceSelectDescription": "Klikk profilikonet for å få tilgang til romvelgeren. Bytt mellom rom eller opprett nye her.",
+	"onboardingQuickCaptureTitle": "Lag objekter med ulike typer",
+	"onboardingQuickCaptureDescription": "Right-click the <span class=\"highlight\">\"Plus\"</span> button to use recent types. In this menu, you can select existing types, install from Anytype Library, or create new ones.",
 	"libDataviewRelations": "Relasjoner",
 	"libDataviewGroups": "Grupper",
 	"libDataviewView": "Visning",
