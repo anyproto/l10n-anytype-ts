@@ -1333,6 +1333,8 @@
 	"onboardingTemplateSelectDescription": "Cambia fácilmente tus plantillas al crear objetos.",
 	"onboardingSpaceSelectTitle": "Conoce múltiples espacios",
 	"onboardingSpaceSelectDescription": "Haga clic en el icono de su perfil para acceder al selector de espacios. Cambie entre espacios o cree nuevos aquí.",
+	"onboardingQuickCaptureTitle": "Crear objetos con diferentes tipos",
+	"onboardingQuickCaptureDescription": "Haga clic derecho en el botón <span class=\"highlight\">\"Plus\"</span> para usar tipos recientes. En este menú, puede seleccionar tipos existentes, instalar desde Anytype Library, o crear tipos nuevos.",
 	"libDataviewRelations": "Relaciones",
 	"libDataviewGroups": "Grupos",
 	"libDataviewView": "Vista",
