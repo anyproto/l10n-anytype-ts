@@ -1333,6 +1333,8 @@
 	"onboardingTemplateSelectDescription": "Easily switch your templates when creating objects.",
 	"onboardingSpaceSelectTitle": "Meet Multiple Spaces",
 	"onboardingSpaceSelectDescription": "Click your profile icon to access the space selector. Switch between spaces or create new ones here.",
+	"onboardingQuickCaptureTitle": "Crear obxectos con diferentes tipos",
+	"onboardingQuickCaptureDescription": "Faga clic dereito no botón <span class=\"highlight\">\"Plus\"</span> para empregar tipos recentes. Neste menú, pode seleccionar tipos existentes, instalar desde Anytype Library, ou crear tipos novos.",
 	"libDataviewRelations": "Relations",
 	"libDataviewGroups": "Groups",
 	"libDataviewView": "View",
