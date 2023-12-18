@@ -1333,6 +1333,8 @@
 	"onboardingTemplateSelectDescription": "オブジェクト作成中にテンプレートを簡単に切り替える。",
 	"onboardingSpaceSelectTitle": "多スペースを見る",
 	"onboardingSpaceSelectDescription": "プロフィールアイコンをクリックしてスペースセレクターをアクセス。スペースを切り替える、もしくは新しいのを作成。",
+	"onboardingQuickCaptureTitle": "Create objects with different types",
+	"onboardingQuickCaptureDescription": "Right-click the <span class=\"highlight\">\"Plus\"</span> button to use recent types. In this menu, you can select existing types, install from Anytype Library, or create new ones.",
 	"libDataviewRelations": "リレーション",
 	"libDataviewGroups": "グループ",
 	"libDataviewView": " 表示",
