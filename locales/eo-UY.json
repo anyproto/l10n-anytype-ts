@@ -1340,7 +1340,6 @@
 	"libDataviewRelations": "Relations",
 	"libDataviewGroups": "Groups",
 	"libDataviewView": "View",
-	"libKeyboardDevice": "Device",
 	"libKeyboardOSVersion": "OS version",
 	"libKeyboardAppVersion": "App version",
 	"libKeyboardBuildNumber": "Build number",
