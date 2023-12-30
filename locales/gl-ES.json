@@ -225,7 +225,7 @@
 	"relationName8": "Email",
 	"relationName9": "Phone",
 	"relationName10": "Icon",
-	"relationName11": "Multi-select",
+	"relationName11": "Selección múltiple",
 	"relationName100": "Object",
 	"relationName101": "Relations",
 	"relationCheckboxLabel0": "%s is unchecked",
