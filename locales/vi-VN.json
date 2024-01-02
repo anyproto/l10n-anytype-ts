@@ -417,6 +417,8 @@
 	"blockDataviewCreateNew": "Tạo Đối tượng mới",
 	"blockDataviewCreateNewCollection": "Tạo Bộ mới",
 	"blockDataviewCreateNewSet": "Tạo Tập mới",
+	"blockDataviewCreateNewTooltipCollection": "Create new Object in this Collection",
+	"blockDataviewCreateNewTooltipType": "Create new %s object",
 	"blockDataviewShowTemplates": "Hiện các Mẫu",
 	"blockDataviewSearch": "Tìm kiếm",
 	"blockDataviewEmptyTargetSets": "Các tập",
