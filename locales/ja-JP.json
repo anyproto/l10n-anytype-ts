@@ -417,6 +417,8 @@
 	"blockDataviewCreateNew": "新しいオブジェクトを作成",
 	"blockDataviewCreateNewCollection": "新しいコレクションを作成",
 	"blockDataviewCreateNewSet": "新しいセットを作成",
+	"blockDataviewCreateNewTooltipCollection": "Create new Object in this Collection",
+	"blockDataviewCreateNewTooltipType": "Create new %s object",
 	"blockDataviewShowTemplates": "テンプレートを表示",
 	"blockDataviewSearch": "検索",
 	"blockDataviewEmptyTargetSets": "セット",
