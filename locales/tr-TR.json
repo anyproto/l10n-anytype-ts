@@ -417,6 +417,8 @@
 	"blockDataviewCreateNew": "Yeni Nesne oluştur.",
 	"blockDataviewCreateNewCollection": "Yeni koleksiyon oluştur",
 	"blockDataviewCreateNewSet": "Yeni Set Oluştur",
+	"blockDataviewCreateNewTooltipCollection": "Create new Object in this Collection",
+	"blockDataviewCreateNewTooltipType": "Create new %s object",
 	"blockDataviewShowTemplates": "Şablonları Göster",
 	"blockDataviewSearch": "Ara",
 	"blockDataviewEmptyTargetSets": "Küme",
