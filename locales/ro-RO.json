@@ -417,6 +417,8 @@
 	"blockDataviewCreateNew": "Crează obiect nou",
 	"blockDataviewCreateNewCollection": "Creează o colecție nouă",
 	"blockDataviewCreateNewSet": "Creează un set nou",
+	"blockDataviewCreateNewTooltipCollection": "Create new Object in this Collection",
+	"blockDataviewCreateNewTooltipType": "Create new %s object",
 	"blockDataviewShowTemplates": "Arată șabloane",
 	"blockDataviewSearch": "Caută",
 	"blockDataviewEmptyTargetSets": "Seturi",
