@@ -417,6 +417,8 @@
 	"blockDataviewCreateNew": "Opret nyt objekt",
 	"blockDataviewCreateNewCollection": "Opret ny samling",
 	"blockDataviewCreateNewSet": "Opret nyt sæt",
+	"blockDataviewCreateNewTooltipCollection": "Create new Object in this Collection",
+	"blockDataviewCreateNewTooltipType": "Create new %s object",
 	"blockDataviewShowTemplates": "Vis skabeloner",
 	"blockDataviewSearch": "Søg",
 	"blockDataviewEmptyTargetSets": "Sæt",
