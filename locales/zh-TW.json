@@ -417,6 +417,8 @@
 	"blockDataviewCreateNew": "創建新物件",
 	"blockDataviewCreateNewCollection": "創建新集錦",
 	"blockDataviewCreateNewSet": "創建新集合",
+	"blockDataviewCreateNewTooltipCollection": "Create new Object in this Collection",
+	"blockDataviewCreateNewTooltipType": "Create new %s object",
 	"blockDataviewShowTemplates": "顯示範本",
 	"blockDataviewSearch": "搜尋",
 	"blockDataviewEmptyTargetSets": "集合",
