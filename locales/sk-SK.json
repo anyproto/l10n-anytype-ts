@@ -417,6 +417,8 @@
 	"blockDataviewCreateNew": "Vytvoriť nový objekt",
 	"blockDataviewCreateNewCollection": "Vytvoriť novú kolekciu",
 	"blockDataviewCreateNewSet": "Vytvoriť nový set",
+	"blockDataviewCreateNewTooltipCollection": "Create new Object in this Collection",
+	"blockDataviewCreateNewTooltipType": "Create new %s object",
 	"blockDataviewShowTemplates": "Zobraziť šablóny",
 	"blockDataviewSearch": "Hľadať",
 	"blockDataviewEmptyTargetSets": "Sets",
