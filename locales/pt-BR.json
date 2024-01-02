@@ -417,6 +417,8 @@
 	"blockDataviewCreateNew": "Criar novo objeto",
 	"blockDataviewCreateNewCollection": "Criar Coleção\n",
 	"blockDataviewCreateNewSet": "Criar Conjunto",
+	"blockDataviewCreateNewTooltipCollection": "Create new Object in this Collection",
+	"blockDataviewCreateNewTooltipType": "Create new %s object",
 	"blockDataviewShowTemplates": "Mostrar modelos",
 	"blockDataviewSearch": "Buscar",
 	"blockDataviewEmptyTargetSets": "Conjuntos",
