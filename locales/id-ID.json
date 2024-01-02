@@ -417,6 +417,8 @@
 	"blockDataviewCreateNew": "Buat Objek baru",
 	"blockDataviewCreateNewCollection": "Buat Koleksi baru",
 	"blockDataviewCreateNewSet": "Buat Set baru",
+	"blockDataviewCreateNewTooltipCollection": "Create new Object in this Collection",
+	"blockDataviewCreateNewTooltipType": "Create new %s object",
 	"blockDataviewShowTemplates": "Tampilkan Templat",
 	"blockDataviewSearch": "Telusuri",
 	"blockDataviewEmptyTargetSets": "Set",
