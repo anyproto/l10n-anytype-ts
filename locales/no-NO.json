@@ -1408,10 +1408,10 @@
 	"notificationExportSuccessText": "Du kan finne de eksporterte objektene i mappen du valgte.",
 	"notificationExportErrorTitle": "Eksportering mislyktes",
 	"notificationExportErrorText": "Beklager, men noe gikk galt under eksporteringen. Prøv igjen, og gi oss beskjed om det ikke fungerer.",
-	"notificationGalleryImportSuccessTitle": "\"%s\" was installed",
+	"notificationGalleryImportSuccessTitle": "\"%s\" ble installert",
 	"notificationGalleryImportSuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
-	"notificationGalleryImportErrorTitle": "Something went wrong",
-	"notificationGalleryImportErrorText": "Oops! \"%s\" wasn't installed. Please check your internet connection and try again or post a report on forum.",
+	"notificationGalleryImportErrorTitle": "Noe gikk galt",
+	"notificationGalleryImportErrorText": "Oops! \"%s\" ble ikke installert. Vennligst sjekk internettforbindelsen din og prøv igjen, eller legg ut en rapport på forumet.",
 	"notificationNotionErrorNoObjectsTitle": "Legg til integrasjon på Notion-sidene du ønsker å importere",
 	"notificationNotionErrorNoObjectsText": "Velg Notion-dokument → … -> Add Connections -> Velg integrasjonen"
 }
