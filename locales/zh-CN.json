@@ -1408,10 +1408,10 @@
 	"notificationExportSuccessText": "您可以在所选文件夹中找到导出的对象。",
 	"notificationExportErrorTitle": "导出失败",
 	"notificationExportErrorText": "很抱歉，在导出过程中出了点问题。请再试一次，如果不起作用请告诉我们。",
-	"notificationGallerySuccessTitle": "“%s” 已安装",
-	"notificationGallerySuccessText": "体验已成功安装到 “%s” 空间。您现在可以打开并开始使用它。",
-	"notificationGalleryErrorTitle": "出现了一些错误",
-	"notificationGalleryErrorText": "哎呀！ “%s” 未安装。请检查您的互联网连接，然后再试一次或在论坛上反馈。",
+	"notificationGalleryImportSuccessTitle": "\"%s\" was installed",
+	"notificationGalleryImportSuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
+	"notificationGalleryImportErrorTitle": "Something went wrong",
+	"notificationGalleryImportErrorText": "Oops! \"%s\" wasn't installed. Please check your internet connection and try again or post a report on forum.",
 	"notificationNotionErrorNoObjectsTitle": "将集成添加到您想要导入的 Notion 页面",
 	"notificationNotionErrorNoObjectsText": "选择 Notion 文档 -> … -> 添加连接 -> 确认集成"
 }
