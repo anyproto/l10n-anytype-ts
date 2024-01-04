@@ -1408,10 +1408,10 @@
 	"notificationExportSuccessText": "Poți găsi obiectele exportate în folderul selectat.",
 	"notificationExportErrorTitle": "Exportul a eșuat",
 	"notificationExportErrorText": "Ne pare rău, dar ceva nu a mers bine în timpul importului. Vă rugăm să încercați din nou, și să ne informați dacă nu funcționează.",
-	"notificationGallerySuccessTitle": "\"%s a fost instalat",
-	"notificationGallerySuccessText": "Experienţa a fost instalată cu succes în spaţiul \"%s\". Acum puteţi deschide şi începe să o utilizaţi.",
-	"notificationGalleryErrorTitle": "Ceva nu a funcționat corect",
-	"notificationGalleryErrorText": "Ups! %s nu a fost instalat. Vă rugăm să verificaţi conexiunea la internet şi să încercaţi din nou sau să postaţi un raport pe forum.",
+	"notificationGalleryImportSuccessTitle": "\"%s\" was installed",
+	"notificationGalleryImportSuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
+	"notificationGalleryImportErrorTitle": "Something went wrong",
+	"notificationGalleryImportErrorText": "Oops! \"%s\" wasn't installed. Please check your internet connection and try again or post a report on forum.",
 	"notificationNotionErrorNoObjectsTitle": "Adăugați integrarea la paginile pe care doriți să le importați",
 	"notificationNotionErrorNoObjectsText": "Selectați documentul -> ... -> Adăugați Conexiuni -> Confirmă integrarea"
 }
