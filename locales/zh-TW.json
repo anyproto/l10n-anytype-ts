@@ -1408,10 +1408,10 @@
 	"notificationExportSuccessText": "您可以在所選資料夾中找到匯出的項目。",
 	"notificationExportErrorTitle": "匯出失敗",
 	"notificationExportErrorText": "很抱歉，匯入過程中出了點問題。請再試一次，如果還是不行，請聯繫我們。",
-	"notificationGallerySuccessTitle": "\"%s\" was installed",
-	"notificationGallerySuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
-	"notificationGalleryErrorTitle": "發生了錯誤",
-	"notificationGalleryErrorText": "Oops! \"%s\" wasn't installed. Please check your internet connection and try again or post a report on forum.",
+	"notificationGalleryImportSuccessTitle": "\"%s\" was installed",
+	"notificationGalleryImportSuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
+	"notificationGalleryImportErrorTitle": "Something went wrong",
+	"notificationGalleryImportErrorText": "Oops! \"%s\" wasn't installed. Please check your internet connection and try again or post a report on forum.",
 	"notificationNotionErrorNoObjectsTitle": "Add integration to the Notion pages you want to import",
 	"notificationNotionErrorNoObjectsText": "Select Notion document → … -> Add Connections -> Confirm Integration"
 }
