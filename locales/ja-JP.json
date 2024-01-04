@@ -1408,10 +1408,10 @@
 	"notificationExportSuccessText": "エキスポートされたオブジェクトは、選択したフォルダの中にあります。",
 	"notificationExportErrorTitle": "エクスポート失敗",
 	"notificationExportErrorText": "申し訳ございません。エキスポート中に何らかの問題が発生しました。もう一度試すか、私たちに問題を報告してください。",
-	"notificationGallerySuccessTitle": "\"%s\" がインストールされました",
-	"notificationGallerySuccessText": "\"%s\"スペースへエクスペリエンスのインストールが完了しました。開くことで利用できます。",
-	"notificationGalleryErrorTitle": "何らかの問題が発生しました",
-	"notificationGalleryErrorText": "\"%s\"がインストールされていません。インターネットの接続を確認してもう一度試すか、フォーラムで問題を報告してください。",
+	"notificationGalleryImportSuccessTitle": "\"%s\" was installed",
+	"notificationGalleryImportSuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
+	"notificationGalleryImportErrorTitle": "Something went wrong",
+	"notificationGalleryImportErrorText": "Oops! \"%s\" wasn't installed. Please check your internet connection and try again or post a report on forum.",
 	"notificationNotionErrorNoObjectsTitle": "インポートしたいNotionのページにインテグレーションを追加",
 	"notificationNotionErrorNoObjectsText": "ノーションドキュメントを選択 →  → 接続の追加 → インテグレーションの確認"
 }
