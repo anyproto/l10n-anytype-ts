@@ -1408,10 +1408,10 @@
 	"notificationExportSuccessText": "Ви можете знайти експортовані об'єкти у обраній теці.",
 	"notificationExportErrorTitle": "Помилка експорту",
 	"notificationExportErrorText": "Вибачте, але щось пішло не так під час експорту. Будь ласка, спробуйте ще раз або повідомте нас, якщо це не працює.",
-	"notificationGallerySuccessTitle": "\"%s\" встановлено",
-	"notificationGallerySuccessText": "Зразок встановлено до простору \"%s\". Ви можете відкрити та почати його використовувати.",
-	"notificationGalleryErrorTitle": "Йой... Щось пішло не так",
-	"notificationGalleryErrorText": "Йой! %s не встановлено. Перевірте з'єднання з мережею та спробуйте знову або повідомте у Спільноті.",
+	"notificationGalleryImportSuccessTitle": "\"%s\" was installed",
+	"notificationGalleryImportSuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
+	"notificationGalleryImportErrorTitle": "Something went wrong",
+	"notificationGalleryImportErrorText": "Oops! \"%s\" wasn't installed. Please check your internet connection and try again or post a report on forum.",
 	"notificationNotionErrorNoObjectsTitle": "Додайте Інтеграцію до сторінок Notion, які ви хочете імпортувати",
 	"notificationNotionErrorNoObjectsText": "Виберіть Notion документ → ... → Додати З'єднання → Підтвердити Інтеграцію"
 }
