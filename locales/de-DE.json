@@ -1408,10 +1408,10 @@
 	"notificationExportSuccessText": "Du findest die exportierten Objekte in dem von dir ausgewählten Ordner.",
 	"notificationExportErrorTitle": "Export fehlgeschlagen",
 	"notificationExportErrorText": "Es tut uns leid, aber während des Exports ist etwas schiefgelaufen. Bitte versuche es erneut und lass uns wissen, wenn es nicht funktioniert.",
-	"notificationGallerySuccessTitle": "„%s“ wurde installiert",
-	"notificationGallerySuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
-	"notificationGalleryErrorTitle": "Etwas ist schiefgelaufen",
-	"notificationGalleryErrorText": "Hoppla! „%s“ wurde nicht installiert. Bitte überprüfe deine Internetverbindung und versuche es erneut oder schreibe einen Bericht im Forum.",
+	"notificationGalleryImportSuccessTitle": "\"%s\" was installed",
+	"notificationGalleryImportSuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
+	"notificationGalleryImportErrorTitle": "Something went wrong",
+	"notificationGalleryImportErrorText": "Oops! \"%s\" wasn't installed. Please check your internet connection and try again or post a report on forum.",
 	"notificationNotionErrorNoObjectsTitle": "Integration in die zu importierenden Notion-Seiten hinzufügen",
 	"notificationNotionErrorNoObjectsText": "Notion-Dokument auswählen → … -> Verbindungen hinzufügen -> Integration bestätigen"
 }
