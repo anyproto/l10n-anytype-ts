@@ -1408,10 +1408,10 @@
 	"notificationExportSuccessText": "Kamu bisa menemukan objek terekspor di folder yang kamu pilih.",
 	"notificationExportErrorTitle": "Ekspor gagal",
 	"notificationExportErrorText": "Maaf, terjadi kesalahan saat proses ekspor. Silakan coba lagi atau hubungi kami jika masih bermasalah.",
-	"notificationGallerySuccessTitle": "\"%s\" telah terpasang",
-	"notificationGallerySuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
-	"notificationGalleryErrorTitle": "Terjadi galat",
-	"notificationGalleryErrorText": "Ups! \"%s\" tidak terpasang. Silakan cek koneksi internetmu lalu coba lagi, atau buat laporan di forum.",
+	"notificationGalleryImportSuccessTitle": "\"%s\" was installed",
+	"notificationGalleryImportSuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
+	"notificationGalleryImportErrorTitle": "Something went wrong",
+	"notificationGalleryImportErrorText": "Oops! \"%s\" wasn't installed. Please check your internet connection and try again or post a report on forum.",
 	"notificationNotionErrorNoObjectsTitle": "Tambahkan integrasi pada halaman Notion yang ingin kamu impor",
 	"notificationNotionErrorNoObjectsText": "Buka dokumen Notion → … -> Add Connections -> Confirm Integration"
 }
