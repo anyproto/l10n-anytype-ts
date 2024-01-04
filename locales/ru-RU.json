@@ -1408,10 +1408,10 @@
 	"notificationExportSuccessText": "Вы можете найти экспортированные объекты в выбранной вами папке.",
 	"notificationExportErrorTitle": "Ошибка экспорта",
 	"notificationExportErrorText": "Извините, но во время экспортирования что-то пошло не так. Пожалуйста, попробуйте еще раз или дайте нам знать, если это не работает.",
-	"notificationGallerySuccessTitle": "\"%s установлен",
-	"notificationGallerySuccessText": "Опыт был успешно установлен в \"%s\" пространство. Теперь вы можете открыть и начать использовать.",
-	"notificationGalleryErrorTitle": "Что-то пошло не так",
-	"notificationGalleryErrorText": "Ой! \"%s\" не был установлен. Пожалуйста, проверьте подключение к Интернету и повторите попытку или отправьте отчёт на форуме.",
+	"notificationGalleryImportSuccessTitle": "\"%s\" was installed",
+	"notificationGalleryImportSuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
+	"notificationGalleryImportErrorTitle": "Something went wrong",
+	"notificationGalleryImportErrorText": "Oops! \"%s\" wasn't installed. Please check your internet connection and try again or post a report on forum.",
 	"notificationNotionErrorNoObjectsTitle": "Добавьте интеграцию на страницы Notion, которые вы хотите импортировать",
 	"notificationNotionErrorNoObjectsText": "Select document → … → Add Connections → Confirm Integration"
 }
