@@ -1408,10 +1408,10 @@
 	"notificationExportSuccessText": "Vous pouvez trouver les objets exportés dans le dossier que vous avez sélectionné.",
 	"notificationExportErrorTitle": "L'export a échoué",
 	"notificationExportErrorText": "Désolé, une erreur s'est produite lors de l'exportation. Veuillez essayer à nouveau, et faites-nous savoir si cela ne fonctionne pas.",
-	"notificationGalleryImportSuccessTitle": "\"%s\" was installed",
-	"notificationGalleryImportSuccessText": "Experience was successfully installed to the \"%s\" space. You can now open and start using it.",
-	"notificationGalleryImportErrorTitle": "Something went wrong",
-	"notificationGalleryImportErrorText": "Oops! \"%s\" wasn't installed. Please check your internet connection and try again or post a report on forum.",
+	"notificationGalleryImportSuccessTitle": "\"%s a été installé",
+	"notificationGalleryImportSuccessText": "L'expérience a été installée avec succès dans l'espace \"%s\". Vous pouvez maintenant ouvrir et commencer à l'utiliser.",
+	"notificationGalleryImportErrorTitle": "Un problème est survenu",
+	"notificationGalleryImportErrorText": "Oups ! \"%s\" n'a pas été installé. Veuillez vérifier votre connexion internet et réessayer ou poster un rapport sur le forum.",
 	"notificationNotionErrorNoObjectsTitle": "Ajouter l'intégration aux pages Notion que vous voulez importer",
 	"notificationNotionErrorNoObjectsText": "Sélectionnez le document → ... → Ajouter des connexions → Confirmer l'intégration"
 }
