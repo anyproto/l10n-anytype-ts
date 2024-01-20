@@ -263,7 +263,7 @@
 	"authInviteEmpty": "El código de invitación está vacío",
 	"authSelectLabel": "Anytype es tu espacio seguro para escribir, planear, pensar y organizar todo lo que te importe.",
 	"authSelectLogin": "Iniciar sesión",
-	"authSelectSignup": "Join",
+	"authSelectSignup": "Unirse",
 	"authDisclaimer": "Al continuar, aceptas nuestros <a href=\"%s\">Términos de Uso</a> y <a href=\"%s\">Política de Privacidad</a>",
 	"authLoginSubmit": "Iniciar sesión",
 	"authLoginLostPhrase": "He perdido la frase",
