@@ -263,7 +263,7 @@
 	"authInviteEmpty": "Invitasjonskoden er tom",
 	"authSelectLabel": "Anytype er ditt sikre sted å skrive, planlegge, tenke og organisere alt som betyr for deg.",
 	"authSelectLogin": "Logg inn",
-	"authSelectSignup": "Join",
+	"authSelectSignup": "Bli med",
 	"authDisclaimer": "Ved å fortsette godtar du våre <a href=\"%s\">Brukervilkår</a> og <a href=\"%s\">Personvernerklæring</a>",
 	"authLoginSubmit": "Logg inn",
 	"authLoginLostPhrase": "Jeg har mistet frasen",
