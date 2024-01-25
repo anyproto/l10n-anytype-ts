@@ -265,7 +265,7 @@
 	"authInviteEmpty": "Kode undangan kosong",
 	"authSelectLabel": "Anytype adalah tempat aman bagimu untuk menulis, berpikir, merencanakan, dan mengorganisasikan apa pun yang penting bagimu.",
 	"authSelectLogin": "Masuk",
-	"authSelectSignup": "Join",
+	"authSelectSignup": "Gabung",
 	"authDisclaimer": "Dengan melanjutkan, kamu menyatakan setuju dengan <a href=\"%s\">Syarat Penggunaan</a> dan <a href=\"%s\">Kebijakan Privasi</a> kami",
 	"authLoginSubmit": "Masuk",
 	"authLoginLostPhrase": "Aku kehilangan Frasa",
