@@ -526,6 +526,7 @@
 	"popupSettingsAppearancePersonalisation": "パーソナル化",
 	"popupSettingsAppearancePersonalisationSidebar": "サイドバーを自動的に表示と非表示",
 	"popupSettingsAppearancePersonalisationRelativeDates": "Display relative dates",
+	"popupSettingsAppearancePersonalisationFullscreen": "Open objects in fullscreen",
 	"popupSettingsWallpaperTitle": "壁紙",
 	"popupSettingsWallpaperText": "壁紙を選択もしくはアップロードする。一番いい結果のためには、高解像度の画像をアップロードしてください。",
 	"popupSettingsPicture": "写真",
