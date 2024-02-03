@@ -1426,5 +1426,6 @@
 	"notificationGalleryImportErrorTitle": "Something went wrong",
 	"notificationGalleryImportErrorText": "Oops! \"%s\" wasn't installed. Please check your internet connection and try again or post a report on forum.",
 	"notificationNotionErrorNoObjectsTitle": "Adăugați integrarea la paginile pe care doriți să le importați",
-	"notificationNotionErrorNoObjectsText": "Selectați documentul -> ... -> Adăugați Conexiuni -> Confirmă integrarea"
+	"notificationNotionErrorNoObjectsText": "Selectați documentul -> ... -> Adăugați Conexiuni -> Confirmă integrarea",
+	"challengeTitle": "Please enter the following numbers in the extension"
 }
