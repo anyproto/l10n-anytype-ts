@@ -1426,5 +1426,6 @@
 	"notificationGalleryImportErrorTitle": "Йой... Щось пішло не так",
 	"notificationGalleryImportErrorText": "Йой! \"%s\" не встановлено. Перевірте з'єднання з мережею та спробуйте знову або повідомте у Спільноті.",
 	"notificationNotionErrorNoObjectsTitle": "Додайте Інтеграцію до сторінок Notion, які ви хочете імпортувати",
-	"notificationNotionErrorNoObjectsText": "Виберіть Notion документ → ... → Додати З'єднання → Підтвердити Інтеграцію"
+	"notificationNotionErrorNoObjectsText": "Виберіть Notion документ → ... → Додати З'єднання → Підтвердити Інтеграцію",
+	"challengeTitle": "Please enter the following numbers in the extension"
 }
