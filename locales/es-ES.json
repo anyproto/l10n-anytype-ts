@@ -1426,5 +1426,6 @@
 	"notificationGalleryImportErrorTitle": "Algo salió mal",
 	"notificationGalleryImportErrorText": "¡Ups! \"%s\" no estaba instalado. Por favor, comprueba tu conexión a internet e inténtalo de nuevo o publica un informe en el foro.",
 	"notificationNotionErrorNoObjectsTitle": "Añadir integración a las páginas de Notion que desea importar",
-	"notificationNotionErrorNoObjectsText": "Seleccione documento de Notion -> ... -> Agregar conexiones -> Confirmar integración"
+	"notificationNotionErrorNoObjectsText": "Seleccione documento de Notion -> ... -> Agregar conexiones -> Confirmar integración",
+	"challengeTitle": "Please enter the following numbers in the extension"
 }
