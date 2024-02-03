@@ -1426,5 +1426,6 @@
 	"notificationGalleryImportErrorTitle": "Er ging iets mis",
 	"notificationGalleryImportErrorText": "Oeps! \"%s\" werd niet geïnstalleerd. Controleer uw internetverbinding en probeer het opnieuw of reporteer op het forum.",
 	"notificationNotionErrorNoObjectsTitle": "Voegt integratie toe aan de Notion pagina’s die je wilt importeren",
-	"notificationNotionErrorNoObjectsText": "Selecteer Notion document -> ... -> Voeg verbindingen toe -> Bevestig integratie"
+	"notificationNotionErrorNoObjectsText": "Selecteer Notion document -> ... -> Voeg verbindingen toe -> Bevestig integratie",
+	"challengeTitle": "Please enter the following numbers in the extension"
 }
