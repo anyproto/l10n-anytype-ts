@@ -1426,5 +1426,6 @@
 	"notificationGalleryImportErrorTitle": "出现了一些错误",
 	"notificationGalleryImportErrorText": "完蛋！\"%s\" 未正常加载。请检查您的互联网连接，再次尝试或者到论坛上进行反馈",
 	"notificationNotionErrorNoObjectsTitle": "将集成添加到您想要导入的 Notion 页面",
-	"notificationNotionErrorNoObjectsText": "选择 Notion 文档 -> … -> 添加连接 -> 确认集成"
+	"notificationNotionErrorNoObjectsText": "选择 Notion 文档 -> … -> 添加连接 -> 确认集成",
+	"challengeTitle": "Please enter the following numbers in the extension"
 }
