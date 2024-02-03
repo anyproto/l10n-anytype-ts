@@ -1427,5 +1427,5 @@
 	"notificationGalleryImportErrorText": "Ой! \"%s\" не был установлен. Пожалуйста, проверьте подключение к Интернету и повторите попытку или отправьте отчёт на форуме.",
 	"notificationNotionErrorNoObjectsTitle": "Добавьте интеграцию на страницы Notion, которые вы хотите импортировать",
 	"notificationNotionErrorNoObjectsText": "Select document → … → Add Connections → Confirm Integration",
-	"challengeTitle": "Please enter the following numbers in the extension"
+	"challengeTitle": "Пожалуйста, введите следующие цифры в расширении"
 }
