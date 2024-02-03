@@ -1426,5 +1426,6 @@
 	"notificationGalleryImportErrorTitle": "Ada yang salah",
 	"notificationGalleryImportErrorText": "Ups! \"%s\" tidak terpasang. Silakan cek koneksi internetmu lalu coba lagi, atau buatlah laporan di forum.",
 	"notificationNotionErrorNoObjectsTitle": "Tambahkan integrasi pada halaman Notion yang ingin kamu impor",
-	"notificationNotionErrorNoObjectsText": "Buka dokumen Notion → … -> Add Connections -> Confirm Integration"
+	"notificationNotionErrorNoObjectsText": "Buka dokumen Notion → … -> Add Connections -> Confirm Integration",
+	"challengeTitle": "Please enter the following numbers in the extension"
 }
