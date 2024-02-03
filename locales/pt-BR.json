@@ -1426,5 +1426,6 @@
 	"notificationGalleryImportErrorTitle": "Algo deu errado",
 	"notificationGalleryImportErrorText": "Opa! \"%s\" não foi instalado. Por favor, verifique sua conexão com a internet e tente novamente ou publique no fórum.",
 	"notificationNotionErrorNoObjectsTitle": "Adicione integração às páginas Notion que deseja importar",
-	"notificationNotionErrorNoObjectsText": "Selecione documento Notion → ... → Adicionar Conexões → Confirmar Integração"
+	"notificationNotionErrorNoObjectsText": "Selecione documento Notion → ... → Adicionar Conexões → Confirmar Integração",
+	"challengeTitle": "Please enter the following numbers in the extension"
 }
