@@ -1426,5 +1426,6 @@
 	"notificationGalleryImportErrorTitle": "Something went wrong",
 	"notificationGalleryImportErrorText": "Vaja! \"%s\" no està instal·lat. Comproveu la vostra connexió a internet i torneu-ho a provar o informeu del problema al fòrum. ",
 	"notificationNotionErrorNoObjectsTitle": "Add integration to the Notion pages you want to import",
-	"notificationNotionErrorNoObjectsText": "Select Notion document → … -> Add Connections -> Confirm Integration"
+	"notificationNotionErrorNoObjectsText": "Select Notion document → … -> Add Connections -> Confirm Integration",
+	"challengeTitle": "Please enter the following numbers in the extension"
 }
