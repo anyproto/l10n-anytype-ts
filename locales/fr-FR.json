@@ -1427,5 +1427,5 @@
 	"notificationGalleryImportErrorText": "Oups ! \"%s\" n'a pas été installé. Veuillez vérifier votre connexion internet et réessayer ou poster un rapport sur le forum.",
 	"notificationNotionErrorNoObjectsTitle": "Ajouter l'intégration aux pages Notion que vous voulez importer",
 	"notificationNotionErrorNoObjectsText": "Sélectionnez le document → ... → Ajouter des connexions → Confirmer l'intégration",
-	"challengeTitle": "Please enter the following numbers in the extension"
+	"challengeTitle": "Veuillez entrer les numéros suivants dans l'extension"
 }
