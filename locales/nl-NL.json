@@ -40,9 +40,9 @@
 	"commonToday": "Vandaag",
 	"commonTomorrow": "Morgen",
 	"commonYesterday": "Gisteren",
-	"commonLastWeek": "Previous 7 days",
-	"commonLastMonth": "Previous 30 days",
-	"commonOlder": "Older",
+	"commonLastWeek": "Afgelopen 7 dagen",
+	"commonLastMonth": "Afgelopen 30 dagen",
+	"commonOlder": "Ouder",
 	"commonPhrase": "Herstelzin",
 	"commonCopy": "Kopieer",
 	"commonOpen": "Open",
@@ -118,7 +118,7 @@
 	"commonSetName": "Set van %s",
 	"commonClear": "Leegmaken",
 	"commonNewObject": "Nieuw Object",
-	"commonSelectObject": "Select object",
+	"commonSelectObject": "Selecteer object",
 	"commonCopyLink": "Kopieer link",
 	"commonSidebar": "Zijbalk",
 	"commonLanguage": "Taal",
@@ -1426,5 +1426,6 @@
 	"notificationGalleryImportErrorTitle": "Er ging iets mis",
 	"notificationGalleryImportErrorText": "Oeps! \"%s\" werd niet geïnstalleerd. Controleer uw internetverbinding en probeer het opnieuw of reporteer op het forum.",
 	"notificationNotionErrorNoObjectsTitle": "Voegt integratie toe aan de Notion pagina’s die je wilt importeren",
-	"notificationNotionErrorNoObjectsText": "Selecteer Notion document -> ... -> Voeg verbindingen toe -> Bevestig integratie"
+	"notificationNotionErrorNoObjectsText": "Selecteer Notion document -> ... -> Voeg verbindingen toe -> Bevestig integratie",
+	"challengeTitle": "Please enter the following numbers in the extension"
 }

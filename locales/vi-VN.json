@@ -1426,5 +1426,6 @@
 	"notificationGalleryImportErrorTitle": "Đã xảy ra lỗi",
 	"notificationGalleryImportErrorText": "Chết dở. \"%s\" chưa cài đặt được. Kiểm tra kết nối internet của bạn rồi thử lại hoặc đăng một báo cáo lên diễn đàn.",
 	"notificationNotionErrorNoObjectsTitle": "Thêm tích hợp vào các trang Notion bạn muốn nhập vào",
-	"notificationNotionErrorNoObjectsText": "Chọn tài liệu Notion → … → Add Connections → Confirm Integration"
+	"notificationNotionErrorNoObjectsText": "Chọn tài liệu Notion → … → Add Connections → Confirm Integration",
+	"challengeTitle": "Please enter the following numbers in the extension"
 }

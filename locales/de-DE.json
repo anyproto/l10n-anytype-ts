@@ -1426,5 +1426,6 @@
 	"notificationGalleryImportErrorTitle": "Etwas ist schiefgelaufen",
 	"notificationGalleryImportErrorText": "Hoppla! „%s“ wurde nicht installiert. Bitte überprüfe deine Internetverbindung und versuche es erneut oder schreibe einen Bericht im Forum.",
 	"notificationNotionErrorNoObjectsTitle": "Integration in die zu importierenden Notion-Seiten hinzufügen",
-	"notificationNotionErrorNoObjectsText": "Notion-Dokument auswählen → … -> Verbindungen hinzufügen -> Integration bestätigen"
+	"notificationNotionErrorNoObjectsText": "Notion-Dokument auswählen → … -> Verbindungen hinzufügen -> Integration bestätigen",
+	"challengeTitle": "Please enter the following numbers in the extension"
 }

@@ -1426,5 +1426,6 @@
 	"notificationGalleryImportErrorTitle": "Bir şeyler ters gitti",
 	"notificationGalleryImportErrorText": "Hay aksi! %s yüklenemedi. Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin. Bu da işe yaramazsa forumda bize bildirin.",
 	"notificationNotionErrorNoObjectsTitle": "İçe aktarmak istediğiniz Notion sayfalarına entegrasyon ekleyin",
-	"notificationNotionErrorNoObjectsText": "Notion dokümanını seçin → … -> Bağlantı Ekleyin -> Entegrasyonu onaylayın"
+	"notificationNotionErrorNoObjectsText": "Notion dokümanını seçin → … -> Bağlantı Ekleyin -> Entegrasyonu onaylayın",
+	"challengeTitle": "Please enter the following numbers in the extension"
 }

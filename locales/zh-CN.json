@@ -40,9 +40,9 @@
 	"commonToday": "今天",
 	"commonTomorrow": "明天",
 	"commonYesterday": "昨天",
-	"commonLastWeek": "Previous 7 days",
-	"commonLastMonth": "Previous 30 days",
-	"commonOlder": "Older",
+	"commonLastWeek": "过去 7 天",
+	"commonLastMonth": "过去 30 天",
+	"commonOlder": "较早的",
 	"commonPhrase": "恢复短语",
 	"commonCopy": "复制",
 	"commonOpen": "打开",
@@ -1426,5 +1426,6 @@
 	"notificationGalleryImportErrorTitle": "出现了一些错误",
 	"notificationGalleryImportErrorText": "完蛋！\"%s\" 未正常加载。请检查您的互联网连接，再次尝试或者到论坛上进行反馈",
 	"notificationNotionErrorNoObjectsTitle": "将集成添加到您想要导入的 Notion 页面",
-	"notificationNotionErrorNoObjectsText": "选择 Notion 文档 -> … -> 添加连接 -> 确认集成"
+	"notificationNotionErrorNoObjectsText": "选择 Notion 文档 -> … -> 添加连接 -> 确认集成",
+	"challengeTitle": "请在扩展中输入以下数字"
 }
