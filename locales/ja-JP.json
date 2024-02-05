@@ -158,7 +158,7 @@
 	"electronMenuLogs": "ログを表示",
 	"electronMenuImport": "インポート",
 	"electronMenuExport": "エクスポート",
-	"electronMenuSaveAs": "ファイルに保存",
+	"electronMenuSaveAs": "ファイルとして保存",
 	"electronMenuDebugSpace": "スペースデバッグ",
 	"electronMenuDebugObject": "現在のオブジェクトデバッグ",
 	"electronMenuDebugProcess": "デバッグを処理",
