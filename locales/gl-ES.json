@@ -619,7 +619,7 @@
 	"popupSettingsSpaceShareInviteLinkTitle": "Ligazón de convite",
 	"popupSettingsSpaceShareInviteLinkLabel": "Send this link to invite others. Assign access rights upon their request approval.",
 	"popupSettingsSpaceShareInvitesLimit": "You can add up to %s %s",
-	"popupSettingsSpaceShareMembersAndRequestsTitle": "Members and requests",
+	"popupSettingsSpaceShareMembersAndRequestsTitle": "Membros e solicitudes",
 	"popupSettingsSpaceShareMembersRequested": "Solicitado",
 	"popupSettingsSpaceShareMembersViewRequest": "Ver solicitude",
 	"popupSettingsSpaceShareRemoveMember": "Eliminar membro",
