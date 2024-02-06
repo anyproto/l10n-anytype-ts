@@ -1110,6 +1110,7 @@
 	"menuQuickCaptureGroups": "Listes",
 	"menuQuickCapturePinned": "Épinglé",
 	"menuQuickCaptureTooltipSearch": "Recherche par type",
+	"menuQuickCaptureTooltipClipboard": "Créer un objet depuis le presse-papiers",
 	"menuQuickCaptureOpenType": "Ouvrir le type",
 	"menuQuickCapturePin": "Épingler en haut",
 	"menuQuickCaptureUnpin": "Retirer l'épingle",
