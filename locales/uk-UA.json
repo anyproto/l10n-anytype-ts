@@ -1110,6 +1110,7 @@
 	"menuQuickCaptureGroups": "Списки",
 	"menuQuickCapturePinned": "Закріплено",
 	"menuQuickCaptureTooltipSearch": "Пошук за типом",
+	"menuQuickCaptureTooltipClipboard": "Create object from clipboard",
 	"menuQuickCaptureOpenType": "Відкрити тип",
 	"menuQuickCapturePin": "Закріпити",
 	"menuQuickCaptureUnpin": "Відкріпити",
