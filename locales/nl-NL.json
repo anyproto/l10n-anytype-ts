@@ -1110,6 +1110,7 @@
 	"menuQuickCaptureGroups": "Lijsten",
 	"menuQuickCapturePinned": "Vastgezet",
 	"menuQuickCaptureTooltipSearch": "Zoektype",
+	"menuQuickCaptureTooltipClipboard": "Create object from clipboard",
 	"menuQuickCaptureOpenType": "Type openen",
 	"menuQuickCapturePin": "Zet vast bovenaan",
 	"menuQuickCaptureUnpin": "Maak los",
