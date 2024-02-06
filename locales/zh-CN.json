@@ -1110,6 +1110,7 @@
 	"menuQuickCaptureGroups": "列表",
 	"menuQuickCapturePinned": "固定通知",
 	"menuQuickCaptureTooltipSearch": "搜索类型",
+	"menuQuickCaptureTooltipClipboard": "从剪贴板创建对象",
 	"menuQuickCaptureOpenType": "打开类型",
 	"menuQuickCapturePin": "置顶",
 	"menuQuickCaptureUnpin": "取消固定",
