@@ -1110,6 +1110,7 @@
 	"menuQuickCaptureGroups": "リスト",
 	"menuQuickCapturePinned": "Pinned",
 	"menuQuickCaptureTooltipSearch": "Search types",
+	"menuQuickCaptureTooltipClipboard": "Create object from clipboard",
 	"menuQuickCaptureOpenType": "タイプを開く",
 	"menuQuickCapturePin": "Pin on top",
 	"menuQuickCaptureUnpin": "Unpin",
