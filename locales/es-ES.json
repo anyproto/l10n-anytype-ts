@@ -1110,6 +1110,7 @@
 	"menuQuickCaptureGroups": "Listas",
 	"menuQuickCapturePinned": "Fijada",
 	"menuQuickCaptureTooltipSearch": "Buscar Tipos",
+	"menuQuickCaptureTooltipClipboard": "Crear objeto desde el portapapeles",
 	"menuQuickCaptureOpenType": "Tipo abierto",
 	"menuQuickCapturePin": "Fijar",
 	"menuQuickCaptureUnpin": "Desfijar",
