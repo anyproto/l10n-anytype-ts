@@ -1110,6 +1110,7 @@
 	"menuQuickCaptureGroups": "列表",
 	"menuQuickCapturePinned": "Pinned",
 	"menuQuickCaptureTooltipSearch": "Search types",
+	"menuQuickCaptureTooltipClipboard": "Create object from clipboard",
 	"menuQuickCaptureOpenType": "打開類別",
 	"menuQuickCapturePin": "Pin on top",
 	"menuQuickCaptureUnpin": "取消釘選",
