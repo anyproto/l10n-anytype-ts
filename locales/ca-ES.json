@@ -1110,6 +1110,7 @@
 	"menuQuickCaptureGroups": "Llistes",
 	"menuQuickCapturePinned": "Fixat",
 	"menuQuickCaptureTooltipSearch": "Search types",
+	"menuQuickCaptureTooltipClipboard": "Create object from clipboard",
 	"menuQuickCaptureOpenType": "Obre el tipus",
 	"menuQuickCapturePin": "Pin on top",
 	"menuQuickCaptureUnpin": "Unpin",
