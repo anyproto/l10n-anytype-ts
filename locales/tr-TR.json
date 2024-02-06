@@ -1110,6 +1110,7 @@
 	"menuQuickCaptureGroups": "Listeler",
 	"menuQuickCapturePinned": "Sabitlendi",
 	"menuQuickCaptureTooltipSearch": "Arama tipi",
+	"menuQuickCaptureTooltipClipboard": "Create object from clipboard",
 	"menuQuickCaptureOpenType": "Türü aç",
 	"menuQuickCapturePin": "Başa sabitle",
 	"menuQuickCaptureUnpin": "Sabitlemeyi kaldır",
