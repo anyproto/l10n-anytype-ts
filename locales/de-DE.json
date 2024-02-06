@@ -334,6 +334,11 @@
 	"pageMainTypeRecommendedLayout": "Empfohlenes Layout",
 	"pageMainTypeNewSetOfObjects": "Neues Set von Objekten",
 	"pageMainTypeNoTemplates": "Dieser Objekttyp hat keine Vorlagen",
+	"pageMainIndexComponentNotFound": "Seitenkomponente &quot;%s&quot; nicht gefunden",
+	"pageMainArchiveEmpty": "Dein Papierkorb ist leer",
+	"pageMainBlockEmpty": "Block nicht gefunden",
+	"pageMainRelationObjectsCreated": "%s erstellt",
+	"pageMainMediaNotFound": "Datei nicht gefunden",
 	"pageAuthLoginInvalidPhrase": "Ungültige Wiederherstellungsphrase",
 	"pageAuthDeletedAccountDeletionTitle": "Dieser Account ist zur Löschung vorgesehen in %s",
 	"pageAuthOnboardAccountDataLocation": "Speicherort der Benutzerkontodaten",
@@ -347,10 +352,6 @@
 	"pageHeadControlButtonsReposition": "Neu anordnen",
 	"pageHeadSimpleCreateSet": "Set erstellen",
 	"pageHeadSimpleInstall": "Installieren",
-	"pageMainIndexComponentNotFound": "Seitenkomponente &quot;%s&quot; nicht gefunden",
-	"pageMainArchiveEmpty": "Dein Papierkorb ist leer",
-	"pageMainBlockEmpty": "Block nicht gefunden",
-	"pageMainRelationObjectsCreated": "%s erstellt",
 	"editorControlIcon": "Icon",
 	"editorControlCover": "Titelbild",
 	"editorControlLayout": "Layout",
@@ -1427,5 +1428,5 @@
 	"notificationGalleryImportErrorText": "Hoppla! „%s“ wurde nicht installiert. Bitte überprüfe deine Internetverbindung und versuche es erneut oder schreibe einen Bericht im Forum.",
 	"notificationNotionErrorNoObjectsTitle": "Integration in die zu importierenden Notion-Seiten hinzufügen",
 	"notificationNotionErrorNoObjectsText": "Notion-Dokument auswählen → … -> Verbindungen hinzufügen -> Integration bestätigen",
-	"challengeTitle": "Please enter the following numbers in the extension"
+	"challengeTitle": "Bitte gib die folgenden Zahlen in die Erweiterung ein"
 }
