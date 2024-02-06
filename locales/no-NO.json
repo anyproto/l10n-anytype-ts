@@ -1110,6 +1110,7 @@
 	"menuQuickCaptureGroups": "Lister",
 	"menuQuickCapturePinned": "Festet",
 	"menuQuickCaptureTooltipSearch": "Søketyper",
+	"menuQuickCaptureTooltipClipboard": "Create object from clipboard",
 	"menuQuickCaptureOpenType": "Åpne type",
 	"menuQuickCapturePin": "Fest på toppen",
 	"menuQuickCaptureUnpin": "Løsne",
