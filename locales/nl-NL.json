@@ -334,6 +334,11 @@
 	"pageMainTypeRecommendedLayout": "Aanbevolen layout",
 	"pageMainTypeNewSetOfObjects": "Nieuwe set objecten",
 	"pageMainTypeNoTemplates": "Dit objecttype heeft geen sjablonen",
+	"pageMainIndexComponentNotFound": "Paginacomponent &quot;%s&quot; niet gevonden",
+	"pageMainArchiveEmpty": "Je prullenbak is leeg",
+	"pageMainBlockEmpty": "Blok niet gevonden",
+	"pageMainRelationObjectsCreated": "%s aangemaakt",
+	"pageMainMediaNotFound": "Bestand niet gevonden",
 	"pageAuthLoginInvalidPhrase": "Ongeldige herstelzin",
 	"pageAuthDeletedAccountDeletionTitle": "Dit account is gepland voor verwijdering in %s",
 	"pageAuthOnboardAccountDataLocation": "Locatie accountgegevens",
@@ -347,10 +352,6 @@
 	"pageHeadControlButtonsReposition": "Herpositioneer",
 	"pageHeadSimpleCreateSet": "Set aanmaken",
 	"pageHeadSimpleInstall": "Installeren",
-	"pageMainIndexComponentNotFound": "Paginacomponent &quot;%s&quot; niet gevonden",
-	"pageMainArchiveEmpty": "Je prullenbak is leeg",
-	"pageMainBlockEmpty": "Blok niet gevonden",
-	"pageMainRelationObjectsCreated": "%s aangemaakt",
 	"editorControlIcon": "Icoon",
 	"editorControlCover": "Omslag",
 	"editorControlLayout": "Opmaak",
@@ -1109,6 +1110,7 @@
 	"menuQuickCaptureGroups": "Lijsten",
 	"menuQuickCapturePinned": "Vastgezet",
 	"menuQuickCaptureTooltipSearch": "Zoektype",
+	"menuQuickCaptureTooltipClipboard": "Maak object aan vanaf klembord",
 	"menuQuickCaptureOpenType": "Type openen",
 	"menuQuickCapturePin": "Zet vast bovenaan",
 	"menuQuickCaptureUnpin": "Maak los",
@@ -1427,5 +1429,5 @@
 	"notificationGalleryImportErrorText": "Oeps! \"%s\" werd niet geïnstalleerd. Controleer uw internetverbinding en probeer het opnieuw of reporteer op het forum.",
 	"notificationNotionErrorNoObjectsTitle": "Voegt integratie toe aan de Notion pagina’s die je wilt importeren",
 	"notificationNotionErrorNoObjectsText": "Selecteer Notion document -> ... -> Voeg verbindingen toe -> Bevestig integratie",
-	"challengeTitle": "Please enter the following numbers in the extension"
+	"challengeTitle": "Voer alsjeblieft de volgende nummers in in de extensie"
 }
