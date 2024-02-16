@@ -1504,5 +1504,8 @@
 	"spaceStatus5": "RemoteWaitingDeletion",
 	"spaceStatus6": "RemoteDeleted",
 	"spaceStatus7": "Verwijderd",
-	"challengeTitle": "Voer alsjeblieft de volgende nummers in in de extensie"
+	"spaceStatus8": "Actief",
+	"spaceStatus9": "Aan het aansluiten",
+	"challengeTitle": "Voer alsjeblieft de volgende nummers in in de extensie",
+	"webclipperEmptySelection": "Selectie is leeg"
 }
