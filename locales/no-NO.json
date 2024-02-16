@@ -1504,5 +1504,8 @@
 	"spaceStatus5": "RemoteWaitingDeletion",
 	"spaceStatus6": "RemoteDeleted",
 	"spaceStatus7": "Slettet",
-	"challengeTitle": "Vennligst tast inn følgende tall i nettleserutvidelsen"
+	"spaceStatus8": "Aktiv",
+	"spaceStatus9": "Kobler til",
+	"challengeTitle": "Vennligst tast inn følgende tall i nettleserutvidelsen",
+	"webclipperEmptySelection": "Selection is empty"
 }
