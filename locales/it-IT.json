@@ -1504,5 +1504,8 @@
 	"spaceStatus5": "InAttesaDiCancellazioneRemota",
 	"spaceStatus6": "CancellatoDaRemoto",
 	"spaceStatus7": "Eliminato",
-	"challengeTitle": "Si prega di inserire i seguenti numeri nell'estensione"
+	"spaceStatus8": "Attivo",
+	"spaceStatus9": "Accesso in corso",
+	"challengeTitle": "Si prega di inserire i seguenti numeri nell'estensione",
+	"webclipperEmptySelection": "Selection is empty"
 }
