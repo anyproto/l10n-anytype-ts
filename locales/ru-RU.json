@@ -1504,5 +1504,8 @@
 	"spaceStatus5": "RemoteWaitingDeletion",
 	"spaceStatus6": "RemoteDeleted",
 	"spaceStatus7": "Удалено",
-	"challengeTitle": "Пожалуйста, введите следующие цифры в расширении"
+	"spaceStatus8": "Active",
+	"spaceStatus9": "Joining",
+	"challengeTitle": "Пожалуйста, введите следующие цифры в расширении",
+	"webclipperEmptySelection": "Selection is empty"
 }
