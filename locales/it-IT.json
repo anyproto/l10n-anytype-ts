@@ -354,7 +354,7 @@
 	"pageMainArchiveEmpty": "Il Cestino è vuoto",
 	"pageMainBlockEmpty": "Blocco non trovato",
 	"pageMainRelationObjectsCreated": "%s creato",
-	"pageMainMediaNotFound": "File not found",
+	"pageMainMediaNotFound": "File non trovato",
 	"pageMainImportTitle": "Download del manifest",
 	"pageMainInviteTitle": "Download dell'invito",
 	"pageMainInviteError": "Dati dell'invito non corretti",
@@ -1507,5 +1507,5 @@
 	"spaceStatus8": "Attivo",
 	"spaceStatus9": "Accesso in corso",
 	"challengeTitle": "Si prega di inserire i seguenti numeri nell'estensione",
-	"webclipperEmptySelection": "Selection is empty"
+	"webclipperEmptySelection": "La selezione è vuota"
 }
