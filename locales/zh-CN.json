@@ -1504,5 +1504,8 @@
 	"spaceStatus5": "RemoteWaitingDeletion",
 	"spaceStatus6": "RemoteDeleted",
 	"spaceStatus7": "已删除",
-	"challengeTitle": "请在扩展中输入以下数字"
+	"spaceStatus8": "Active",
+	"spaceStatus9": "Joining",
+	"challengeTitle": "请在扩展中输入以下数字",
+	"webclipperEmptySelection": "Selection is empty"
 }

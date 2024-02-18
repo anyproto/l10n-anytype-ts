@@ -1504,5 +1504,8 @@
 	"spaceStatus5": "RemoteWaitingDeletion",
 	"spaceStatus6": "RemoteDeleted",
 	"spaceStatus7": "Apagado",
-	"challengeTitle": "Please enter the following numbers in the extension"
+	"spaceStatus8": "Active",
+	"spaceStatus9": "Joining",
+	"challengeTitle": "Please enter the following numbers in the extension",
+	"webclipperEmptySelection": "Selection is empty"
 }
