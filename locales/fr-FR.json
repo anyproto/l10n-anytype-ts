@@ -1499,7 +1499,7 @@
 	"spaceStatus0": "Inconnu",
 	"spaceStatus1": "Chargement",
 	"spaceStatus2": "Ok",
-	"spaceStatus3": "Missing",
+	"spaceStatus3": "Manquant",
 	"spaceStatus4": "Erreur",
 	"spaceStatus5": "RemoteWaitingDeletion",
 	"spaceStatus6": "RemoteDeleted",
