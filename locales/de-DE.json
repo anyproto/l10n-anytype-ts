@@ -1481,7 +1481,7 @@
 	"notificationGallerySuccessTitle": "<b>„%s“</b> wurde installiert",
 	"notificationGallerySuccessText": "Experience was successfully installed to the <b>\"%s\"</b> space. You can now open and start using it.",
 	"notificationGalleryErrorTitle": "Etwas ist schiefgelaufen",
-	"notificationGalleryErrorText": "Oops! <b>\"%s\"</b> wasn't installed. Please check your internet connection and try again or post a report on forum.",
+	"notificationGalleryErrorText": "Hoppla! <b>„%s“</b> wurde nicht installiert. Bitte überprüfe deine Internetverbindung und versuche es erneut oder schreibe einen Bericht im Forum.",
 	"notificationNotionErrorNoObjectsTitle": "Integration in die zu importierenden Notion-Seiten hinzufügen",
 	"notificationNotionErrorNoObjectsText": "Notion-Dokument auswählen → … -> Verbindungen hinzufügen -> Integration bestätigen",
 	"notificationJoinSuccessText": "<b>%s</b> has requested to join <b>\"%s\"</b> space",
