@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "Importovat do prostoru",
 	"electronMenuExport": "Exportovat prostor",
-	"electronMenuSaveAs": "Uložit jako soubor",
+	"electronMenuSaveAs": "Exportovat objekt",
 	"electronMenuDebugSpace": "Mezera",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",
