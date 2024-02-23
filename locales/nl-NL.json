@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Toon logboeken",
 	"electronMenuImport": "In ruimte importeren",
 	"electronMenuExport": "Ruimte exporteren",
-	"electronMenuSaveAs": "Opslaan als bestand",
+	"electronMenuSaveAs": "Exporteer object",
 	"electronMenuDebugSpace": "Ruimte",
 	"electronMenuDebugObject": "Huidige object",
 	"electronMenuDebugProcess": "Proces",
