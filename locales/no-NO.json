@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Vis logger",
 	"electronMenuImport": "Importer til rom",
 	"electronMenuExport": "Eksporter rom",
-	"electronMenuSaveAs": "Lagre som fil",
+	"electronMenuSaveAs": "Eksporter objekt",
 	"electronMenuDebugSpace": "Rom",
 	"electronMenuDebugObject": "Gjeldende objekt",
 	"electronMenuDebugProcess": "Behandler",
