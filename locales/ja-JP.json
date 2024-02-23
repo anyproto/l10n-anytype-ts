@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "スペースへインポート",
 	"electronMenuExport": "スペースをエクスポート",
-	"electronMenuSaveAs": "ファイルとして保存",
+	"electronMenuSaveAs": "オブジェクトをエクスポート",
 	"electronMenuDebugSpace": "スペース",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",
