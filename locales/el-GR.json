@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "Import to Space",
 	"electronMenuExport": "Export Space",
-	"electronMenuSaveAs": "Αποθήκευση ως αρχείο",
+	"electronMenuSaveAs": "Export Object",
 	"electronMenuDebugSpace": "Χώρος",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",
