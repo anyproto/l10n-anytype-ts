@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "导入到空间",
 	"electronMenuExport": "导出空间",
-	"electronMenuSaveAs": "另存为文件",
+	"electronMenuSaveAs": "导出对象",
 	"electronMenuDebugSpace": "空间",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",
