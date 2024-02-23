@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "Evrene aktar",
 	"electronMenuExport": "Evrenden dışa aktar",
-	"electronMenuSaveAs": "Dosya olarak kaydet",
+	"electronMenuSaveAs": "Nesneyi dışa aktar",
 	"electronMenuDebugSpace": "Alan",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",
