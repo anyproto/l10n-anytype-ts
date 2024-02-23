@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "Impor ke Ruang",
 	"electronMenuExport": "Ekspor Ruang",
-	"electronMenuSaveAs": "Simpan sebagai Berkas",
+	"electronMenuSaveAs": "Ekspor Objek",
 	"electronMenuDebugSpace": "Ruang",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",
