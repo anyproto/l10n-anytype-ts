@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "Importă în spațiu",
 	"electronMenuExport": "Exportă spațiu",
-	"electronMenuSaveAs": "Salvează ca fișier ",
+	"electronMenuSaveAs": "Exportă obiectul",
 	"electronMenuDebugSpace": "Spaţiu",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",
