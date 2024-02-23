@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "Importovať do Priestoru",
 	"electronMenuExport": "Exporotvať Priestor",
-	"electronMenuSaveAs": "Uložiť ako súbor",
+	"electronMenuSaveAs": "Export Object",
 	"electronMenuDebugSpace": "Priestor",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",
