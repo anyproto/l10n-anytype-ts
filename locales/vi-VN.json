@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "Nhập vào Không gian",
 	"electronMenuExport": "Xuất Không gian ra",
-	"electronMenuSaveAs": "Lưu thành tệp",
+	"electronMenuSaveAs": "Xuất Đối tượng",
 	"electronMenuDebugSpace": "Không gian",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",
