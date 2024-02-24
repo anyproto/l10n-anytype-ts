@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "Importa a un espai",
 	"electronMenuExport": "Exporta a un espai",
-	"electronMenuSaveAs": "Desa com a fitxer",
+	"electronMenuSaveAs": "Exporta l'objecte",
 	"electronMenuDebugSpace": "Espai",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",

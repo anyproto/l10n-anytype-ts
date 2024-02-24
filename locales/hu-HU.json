@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "Import to Space",
 	"electronMenuExport": "Export Space",
-	"electronMenuSaveAs": "Mentés fájlként",
+	"electronMenuSaveAs": "Export Object",
 	"electronMenuDebugSpace": "Tér",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",

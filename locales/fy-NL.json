@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "Yn romte ymportearje",
 	"electronMenuExport": "Romte eksportearje",
-	"electronMenuSaveAs": "As bestân bewarje",
+	"electronMenuSaveAs": "Objekt eksportearje",
 	"electronMenuDebugSpace": "Spaasje",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",

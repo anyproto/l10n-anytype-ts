@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "Importuj do przestrzeni",
 	"electronMenuExport": "Eksportuj przestrzeń",
-	"electronMenuSaveAs": "Zapisz jako plik",
+	"electronMenuSaveAs": "Export Object",
 	"electronMenuDebugSpace": "Przestrzeń",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",

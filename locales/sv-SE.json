@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "Importera till yta",
 	"electronMenuExport": "Exportera yta",
-	"electronMenuSaveAs": "Spara som fil",
+	"electronMenuSaveAs": "Exportera objekt",
 	"electronMenuDebugSpace": "Utrymme",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",

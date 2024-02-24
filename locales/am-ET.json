@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Show Logs",
 	"electronMenuImport": "Import to Space",
 	"electronMenuExport": "Export Space",
-	"electronMenuSaveAs": "እንደ ፋይል አስቀምጥ",
+	"electronMenuSaveAs": "Export Object",
 	"electronMenuDebugSpace": "Space",
 	"electronMenuDebugObject": "Current Object",
 	"electronMenuDebugProcess": "Process",

@@ -160,7 +160,7 @@
 	"electronMenuLogs": "Переглянути логи",
 	"electronMenuImport": "Імпортувати в Простір",
 	"electronMenuExport": "Експортувати Простір",
-	"electronMenuSaveAs": "Зберегти як файл",
+	"electronMenuSaveAs": "Експортувати Обʼєкт",
 	"electronMenuDebugSpace": "Простір",
 	"electronMenuDebugObject": "Поточний Об'єкт",
 	"electronMenuDebugProcess": "Процес",
