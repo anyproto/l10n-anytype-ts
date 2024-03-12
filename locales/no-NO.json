@@ -1496,6 +1496,8 @@
 	"notificationLeaveSuccessText": "<b>%s<\/b> ønsker å forlate <b>\"%s\"<\/b>-rommet",
 	"notificationApproveSuccessText": "\nDin forespørsel om å bli med i <b>\"%s\"<\/b>-rommet har blitt godkjent med <b>%s<\/b> tilgangsrettigheter. Rommet vil være tilgjengelig på kontoen din snart.",
 	"notificationRemoveSuccessText": "Du ble fjernet fra <b>\"%s\"<\/b>-rommet",
+	"notificationDeclineSuccessText": "Your request to join the <b>\"%s\"<\/b> space has been declined.",
+	"notificationPermissionSuccessText": "Your access rights were changed to <b>\"%s\"<\/b> in the <b>\"%s\"<\/b> space.",
 	"notificationButtonSpace": "Gå til rom",
 	"notificationButtonRequest": "Vis forespørsel",
 	"participantStatus0": "Kobler til",
