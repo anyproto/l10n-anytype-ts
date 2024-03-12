@@ -1496,6 +1496,8 @@
 	"notificationLeaveSuccessText": "<b>%s<\/b> wil de <b>\"%s\"<\/b> ruimte verlaten",
 	"notificationApproveSuccessText": "Je verzoek om aan te sluiten bij de  <b>\"%s\"<\/b> ruimte is goedgekeurd met <b>%s<\/b> toegangsrechten De ruimte zal binnenkort beschikbaar zijn in jouw account.",
 	"notificationRemoveSuccessText": "Je werd verwijderd uit de <b>\"%s\"<\/b> ruimte",
+	"notificationDeclineSuccessText": "Your request to join the <b>\"%s\"<\/b> space has been declined.",
+	"notificationPermissionSuccessText": "Your access rights were changed to <b>\"%s\"<\/b> in the <b>\"%s\"<\/b> space.",
 	"notificationButtonSpace": "Ga naar ruimte",
 	"notificationButtonRequest": "Bekijk verzoek",
 	"participantStatus0": "Aan het aansluiten",
