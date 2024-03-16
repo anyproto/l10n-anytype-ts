@@ -661,7 +661,7 @@
 	"popupSettingsSpaceHomepageText": "Pasirink Objektą, kurį nori rodyti prisijungimo metu",
 	"popupSettingsSpaceShareTitle": "Sharing",
 	"popupSettingsSpaceShareInviteLinkTitle": "Pakvietimo nuoroda",
-	"popupSettingsSpaceShareInviteLinkLabel": "Send this link to invite someone. When they request to join, you'll set their access rights.",
+	"popupSettingsSpaceShareInviteLinkLabel": "Share this link to invite others to your Space. Once they request to join, you can set their access rights.",
 	"popupSettingsSpaceShareInvitesLimit": "Tu gali pakviesti iki %s %s",
 	"popupSettingsSpaceShareMembersTitle": "Members",
 	"popupSettingsSpaceShareJoinRequest": "Join Request",
