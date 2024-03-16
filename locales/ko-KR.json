@@ -661,7 +661,7 @@
 	"popupSettingsSpaceHomepageText": "로그인 시 표시할 개체를 선택하세요.",
 	"popupSettingsSpaceShareTitle": "Sharing",
 	"popupSettingsSpaceShareInviteLinkTitle": "초대 링크",
-	"popupSettingsSpaceShareInviteLinkLabel": "Send this link to invite someone. When they request to join, you'll set their access rights.",
+	"popupSettingsSpaceShareInviteLinkLabel": "Share this link to invite others to your Space. Once they request to join, you can set their access rights.",
 	"popupSettingsSpaceShareInvitesLimit": "You can add up to %s %s",
 	"popupSettingsSpaceShareMembersTitle": "Members",
 	"popupSettingsSpaceShareJoinRequest": "Join Request",
