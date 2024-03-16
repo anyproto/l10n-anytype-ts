@@ -661,7 +661,7 @@
 	"popupSettingsSpaceHomepageText": "Pilih Objek yang akan dimunculkan saat masuk",
 	"popupSettingsSpaceShareTitle": "Berbagi",
 	"popupSettingsSpaceShareInviteLinkTitle": "Tautan undangan",
-	"popupSettingsSpaceShareInviteLinkLabel": "Send this link to invite someone. When they request to join, you'll set their access rights.",
+	"popupSettingsSpaceShareInviteLinkLabel": "Share this link to invite others to your Space. Once they request to join, you can set their access rights.",
 	"popupSettingsSpaceShareInvitesLimit": "Kamu bisa menambah hingga %s %s",
 	"popupSettingsSpaceShareMembersTitle": "Anggota",
 	"popupSettingsSpaceShareJoinRequest": "Permintaan Bergabung",
