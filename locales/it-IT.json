@@ -661,7 +661,7 @@
 	"popupSettingsSpaceHomepageText": "Seleziona un Oggetto da mostrare quando accedi",
 	"popupSettingsSpaceShareTitle": "Sharing",
 	"popupSettingsSpaceShareInviteLinkTitle": "Link di invito",
-	"popupSettingsSpaceShareInviteLinkLabel": "Send this link to invite someone. When they request to join, you'll set their access rights.",
+	"popupSettingsSpaceShareInviteLinkLabel": "Share this link to invite others to your Space. Once they request to join, you can set their access rights.",
 	"popupSettingsSpaceShareInvitesLimit": "Puoi aggiungere fino a %s %s",
 	"popupSettingsSpaceShareMembersTitle": "Membri",
 	"popupSettingsSpaceShareJoinRequest": "Richiesta di Partecipazione",
