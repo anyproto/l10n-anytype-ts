@@ -661,7 +661,7 @@
 	"popupSettingsSpaceHomepageText": "選擇登入時要顯示的物件",
 	"popupSettingsSpaceShareTitle": "Sharing",
 	"popupSettingsSpaceShareInviteLinkTitle": "邀請連結",
-	"popupSettingsSpaceShareInviteLinkLabel": "Send this link to invite someone. When they request to join, you'll set their access rights.",
+	"popupSettingsSpaceShareInviteLinkLabel": "Share this link to invite others to your Space. Once they request to join, you can set their access rights.",
 	"popupSettingsSpaceShareInvitesLimit": "You can add up to %s %s",
 	"popupSettingsSpaceShareMembersTitle": "Members",
 	"popupSettingsSpaceShareJoinRequest": "Join Request",
