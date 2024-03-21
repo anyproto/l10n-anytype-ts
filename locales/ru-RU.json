@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "Как только владелец сообщества одобрит ваш запрос, вы присоединитесь к разделу с определенными правами доступа.",
 	"popupInviteInviteConfirmTitle": "Запрос отправлен",
 	"popupInviteInviteConfirmText": "Вы получите уведомление, когда владелец сообщества одобрит ваш запрос.",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s запросил доступ к %s",
 	"popupInviteConfirmButtonConfirmReader": "Предоставить доступ на чтение",
 	"popupInviteConfirmButtonConfirmEditor": "Предоставить доступ к редактированию ",
