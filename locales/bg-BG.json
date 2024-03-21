@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "Когато собственикът на пространството приеме вашата заявка, вие ще се присъедините с правата за достъп, определени от него\/нея.",
 	"popupInviteInviteConfirmTitle": "Заявката беше изпратена",
 	"popupInviteInviteConfirmText": "Ще получите известие, когато собственикът на пространството приеме вашата заявка за присъединяване.",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s поиска да се присъедини към %s",
 	"popupInviteConfirmButtonConfirmReader": "Дайте достъп за четене",
 	"popupInviteConfirmButtonConfirmEditor": "Дайте достъп за редактиране",
