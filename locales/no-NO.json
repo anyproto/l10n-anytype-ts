@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "Når eieren av rommet godkjenner forespørselen din, vil du bli med i rommet med tilgangsrettigheter eieren har satt.",
 	"popupInviteInviteConfirmTitle": "Forespørsel sendt",
 	"popupInviteInviteConfirmText": "Du vil motta et varsel når eieren av rommet godkjenner forespørselen din.",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s ba om å bli med i %s",
 	"popupInviteConfirmButtonConfirmReader": "Gi lesetilgang",
 	"popupInviteConfirmButtonConfirmEditor": "Gi redigeringstilgang",
