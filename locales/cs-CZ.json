@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "Jakmile vlastník prostoru schválí váš požadavek, připojíte se k prostoru s přístupovými právy určených vlastníkem .",
 	"popupInviteInviteConfirmTitle": "Žádost odeslána",
 	"popupInviteInviteConfirmText": "Obdržíte upozornění, když vlastník prostoru vaši žádost schválí.",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s požádal o připojení k %s",
 	"popupInviteConfirmButtonConfirmReader": "Udělit přístup ke čtení",
 	"popupInviteConfirmButtonConfirmEditor": "Povolit přístup k úpravám",
