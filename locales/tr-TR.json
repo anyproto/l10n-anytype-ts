@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "Alan sahibi talebinizi onayladığında, alana erişim hakları sahibinin belirlediği şekilde katılırsınız.",
 	"popupInviteInviteConfirmTitle": "İstek gönderildi",
 	"popupInviteInviteConfirmText": "Alan sahibi talebinizi onayladığında bir bildirim alacaksınız.",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s, %s alanına katılmak istiyor",
 	"popupInviteConfirmButtonConfirmReader": "Okuma erişimi ver",
 	"popupInviteConfirmButtonConfirmEditor": "Düzenleme erişimi ver",
