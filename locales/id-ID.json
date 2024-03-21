@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "Ketika pemilik ruang menyetujui permintaanmu, kamu akan bergabung ke ruang ini dengan hak akses yang telah ditentukan.",
 	"popupInviteInviteConfirmTitle": "Permintaan terkirim",
 	"popupInviteInviteConfirmText": "Kamu akan menerima pemberitahuan ketika pemilik ruang menyetujui permintaanmu.",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s meminta bergabung ke %s",
 	"popupInviteConfirmButtonConfirmReader": "Izinkan akses baca",
 	"popupInviteConfirmButtonConfirmEditor": "Izinkan akses sunting",
