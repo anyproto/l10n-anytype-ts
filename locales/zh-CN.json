@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "一旦空间所有者批准你的请求，你将与访问权所有者一起加入此空间。",
 	"popupInviteInviteConfirmTitle": "已发送请求",
 	"popupInviteInviteConfirmText": "当空间所有者批准你的请求后，你将收到通知。",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s 请求加入 %s",
 	"popupInviteConfirmButtonConfirmReader": "授予读取权限",
 	"popupInviteConfirmButtonConfirmEditor": "授予编辑权限",
