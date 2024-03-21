@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "Zodra de eigenaar van de ruimte jouw verzoek heeft goedgekeurd, zul je toetreden tot de ruimte met de toegangsrechten die door de eigenaar zijn bepaald.",
 	"popupInviteInviteConfirmTitle": "Verzoek verzonden",
 	"popupInviteInviteConfirmText": "Je zult een melding ontvangen wanneer de eigenaar van de ruimte je verzoek zal goedkeuren.",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s verzocht om zich aan te sluiten %s",
 	"popupInviteConfirmButtonConfirmReader": "Geef leesrechten",
 	"popupInviteConfirmButtonConfirmEditor": "Geef bewerkingsrechten",
