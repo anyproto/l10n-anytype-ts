@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "Sobald der Spacebesitzer Ihre Anfrage genehmigt, werden Sie dem Space beitreten, wobei der Eigentümer die Zugriffsrechte festgelegt.",
 	"popupInviteInviteConfirmTitle": "Anfrage gesendet",
 	"popupInviteInviteConfirmText": "Sie erhalten eine Benachrichtigung, wenn der Spacebesitzer Ihre Anfrage angenommen hat.",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s beantragte den Beitritt zu %s",
 	"popupInviteConfirmButtonConfirmReader": "Lesezugriff gewähren",
 	"popupInviteConfirmButtonConfirmEditor": "Bearbeitungszugriff gewähren",
