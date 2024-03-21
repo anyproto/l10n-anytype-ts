@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "Odată ce proprietarul spațiului aprobă cererea ta, te vei alătura spațiului cu drepturile de acces determinate de proprietar.",
 	"popupInviteInviteConfirmTitle": "Cerere trimisă",
 	"popupInviteInviteConfirmText": "Vei primi o notificare atunci când proprietarul spațiului va aproba cererea ta.",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s a cerut să se alăture %s",
 	"popupInviteConfirmButtonConfirmReader": "Acordă acces citire",
 	"popupInviteConfirmButtonConfirmEditor": "Acordă acces editare",
