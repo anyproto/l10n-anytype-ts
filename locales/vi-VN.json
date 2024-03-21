@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "Một khi chủ không gian chấp thuận yêu cầu, bạn sẽ gia nhập không gian với các quyền truy cập do chủ không gian đặt cho.",
 	"popupInviteInviteConfirmTitle": "Đã gửi yêu cầu",
 	"popupInviteInviteConfirmText": "Bạn sẽ nhận được thông báo khi chủ không gian chấp thuận yêu cầu của bạn.",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s yêu cầu gia nhập %s",
 	"popupInviteConfirmButtonConfirmReader": "Cấp quyền đọc",
 	"popupInviteConfirmButtonConfirmEditor": "Cấp quyền sửa",
