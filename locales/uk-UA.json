@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "Once the space owner approves your request, you'll join the space with the access rights owner determined.",
 	"popupInviteInviteConfirmTitle": "Запит надіслано",
 	"popupInviteInviteConfirmText": "You will receive a notification when the space owner will approve your request.",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s хоче приєднатися до %s",
 	"popupInviteConfirmButtonConfirmReader": "Надати доступ для читання",
 	"popupInviteConfirmButtonConfirmEditor": "Надати доступ для редагування",
