@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "Kai tik Erdvės savininkas priims tavo prašymą, tu galėsi prisijungti prie Erdvės su priegos teisėmis, kurias nustatė savininkas.",
 	"popupInviteInviteConfirmTitle": "Prašymas išsiųstas",
 	"popupInviteInviteConfirmText": "Tu gausi pranešimą, kai Erdvės savininkas priims tavo prašymą.",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s prasė prisijungti prie %s",
 	"popupInviteConfirmButtonConfirmReader": "Suteikti skaitymo prieigą",
 	"popupInviteConfirmButtonConfirmEditor": "Sukteikti redagavimo prieigą",
