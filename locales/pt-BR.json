@@ -764,6 +764,7 @@
 	"popupInviteRequestNote": "Após aprovação do proprietário, você irá juntar-se ao espaço com direitos determinados pelo proprietário.",
 	"popupInviteInviteConfirmTitle": "Solicitação enviada",
 	"popupInviteInviteConfirmText": "Você receberá uma notificação quando o proprietário do espaço aprovar a sua solicitação.",
+	"popupInviteInviteConfirmCancel": "Manage spaces",
 	"popupInviteConfirmTitle": "%s solicitou a adesão a %s",
 	"popupInviteConfirmButtonConfirmReader": "Conceder acesso de leitura",
 	"popupInviteConfirmButtonConfirmEditor": "Conceder acesso de edição ",
