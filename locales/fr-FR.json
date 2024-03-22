@@ -764,7 +764,7 @@
 	"popupInviteRequestNote": "Une fois que le propriétaire de l'espace a approuvé votre demande, vous rejoindrez l'espace avec les droits d'accès déterminés par le propriétaire.",
 	"popupInviteInviteConfirmTitle": "Demande envoyée",
 	"popupInviteInviteConfirmText": "Vous recevrez une notification lorsque le propriétaire de l'espace approuvera votre demande.",
-	"popupInviteInviteConfirmCancel": "Manage spaces",
+	"popupInviteInviteConfirmCancel": "Gérer les espaces",
 	"popupInviteConfirmTitle": "%s a demandé à rejoindre %s",
 	"popupInviteConfirmButtonConfirmReader": "Accorder un accès en lecture",
 	"popupInviteConfirmButtonConfirmEditor": "Accorder un accès à l'édition",
