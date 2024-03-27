@@ -668,7 +668,7 @@
 	"popupSettingsSpaceShareTitle": "Deling",
 	"popupSettingsSpaceShareInviteLinkTitle": "Invitasjonslenke",
 	"popupSettingsSpaceShareInviteLinkLabel": "Del denne lenken for å invitere andre til ditt rom. Når de ber om å bli med, kan du sette deres tilgangsrettigheter.",
-	"popupSettingsSpaceShareInvitesLimit": "Du kan legge til opp til %s %s og opp til %s %s",
+	"popupSettingsSpaceShareInvitesLimit": "Du kan legge til opp til %s %s",
 	"popupSettingsSpaceShareMembersTitle": "Medlemmer",
 	"popupSettingsSpaceShareJoinRequest": "Medlemsforespørsel",
 	"popupSettingsSpaceShareLeaveRequest": "Leave Request",
