@@ -668,7 +668,7 @@
 	"popupSettingsSpaceShareTitle": "分享",
 	"popupSettingsSpaceShareInviteLinkTitle": "邀请链接",
 	"popupSettingsSpaceShareInviteLinkLabel": "分享此链接来邀请他人进入您的空间。一旦他们请求加入，您可以设置他们的访问权限。",
-	"popupSettingsSpaceShareInvitesLimit": "You can add up to %s %s and up to %s %s",
+	"popupSettingsSpaceShareInvitesLimit": "您最多可以添加到 %s %s",
 	"popupSettingsSpaceShareMembersTitle": "成员",
 	"popupSettingsSpaceShareJoinRequest": "加入请求",
 	"popupSettingsSpaceShareLeaveRequest": "退出请求",
