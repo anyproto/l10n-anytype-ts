@@ -668,7 +668,7 @@
 	"popupSettingsSpaceShareTitle": "Delen",
 	"popupSettingsSpaceShareInviteLinkTitle": "Uitnodigingslink",
 	"popupSettingsSpaceShareInviteLinkLabel": "Deel deze link om anderen uit te nodigen voor jouw ruimte. Zodra ze vragen om deel te nemen, kun je hun toegangsrechten instellen.",
-	"popupSettingsSpaceShareInvitesLimit": "You can add up to %s %s and up to %s %s",
+	"popupSettingsSpaceShareInvitesLimit": "Je kunt toevoegen tot %s %s",
 	"popupSettingsSpaceShareMembersTitle": "Leden",
 	"popupSettingsSpaceShareJoinRequest": "Deelnameverzoek",
 	"popupSettingsSpaceShareLeaveRequest": "Afmeldverzoek",
