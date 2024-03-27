@@ -668,7 +668,7 @@
 	"popupSettingsSpaceShareTitle": "Sdílení",
 	"popupSettingsSpaceShareInviteLinkTitle": "Zvací odkaz",
 	"popupSettingsSpaceShareInviteLinkLabel": "Sdílejte tento odkaz s lidmi které chcete pozvat do vaší skupiny. Jakmile požádají o připojení, můžete nastavit jejich přístupová práva.",
-	"popupSettingsSpaceShareInvitesLimit": "You can add up to %s %s and up to %s %s",
+	"popupSettingsSpaceShareInvitesLimit": "Můžete přidat až do %s %s",
 	"popupSettingsSpaceShareMembersTitle": "Členové",
 	"popupSettingsSpaceShareJoinRequest": "Žádosti o připojení",
 	"popupSettingsSpaceShareLeaveRequest": "Leave Request",
