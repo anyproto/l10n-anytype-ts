@@ -668,7 +668,7 @@
 	"popupSettingsSpaceShareTitle": "Sharing",
 	"popupSettingsSpaceShareInviteLinkTitle": "Link de convite",
 	"popupSettingsSpaceShareInviteLinkLabel": "Share this link to invite others to your Space. Once they request to join, you can set their access rights.",
-	"popupSettingsSpaceShareInvitesLimit": "You can add up to %s %s and up to %s %s",
+	"popupSettingsSpaceShareInvitesLimit": "Você pode adicionar até %s %s",
 	"popupSettingsSpaceShareMembersTitle": "Members",
 	"popupSettingsSpaceShareJoinRequest": "Join Request",
 	"popupSettingsSpaceShareLeaveRequest": "Leave Request",

@@ -668,7 +668,7 @@
 	"popupSettingsSpaceShareTitle": "Chia sẻ",
 	"popupSettingsSpaceShareInviteLinkTitle": "Link mời",
 	"popupSettingsSpaceShareInviteLinkLabel": "Share this link to invite others to your Space. Once they request to join, you can set their access rights.",
-	"popupSettingsSpaceShareInvitesLimit": "You can add up to %s %s and up to %s %s",
+	"popupSettingsSpaceShareInvitesLimit": "Bạn có thể thêm tối đa %s %s",
 	"popupSettingsSpaceShareMembersTitle": "Thành viên",
 	"popupSettingsSpaceShareJoinRequest": "Yêu cầu gia nhập",
 	"popupSettingsSpaceShareLeaveRequest": "Yêu cầu rời",

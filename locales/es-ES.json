@@ -668,7 +668,7 @@
 	"popupSettingsSpaceShareTitle": "Compartir",
 	"popupSettingsSpaceShareInviteLinkTitle": "Enlace de invitación",
 	"popupSettingsSpaceShareInviteLinkLabel": "Comparte este enlace para invitar a otros a tu espacio. Una vez que soliciten unirse, puedes establecer sus derechos de acceso.",
-	"popupSettingsSpaceShareInvitesLimit": "Puedes agregar hasta %s %s y hasta %s %s",
+	"popupSettingsSpaceShareInvitesLimit": "Puedes añadir hasta %s %s",
 	"popupSettingsSpaceShareMembersTitle": "Miembros",
 	"popupSettingsSpaceShareJoinRequest": "Solicitud para unirse",
 	"popupSettingsSpaceShareLeaveRequest": "Retirar solicitud",

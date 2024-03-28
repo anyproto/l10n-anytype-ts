@@ -668,7 +668,7 @@
 	"popupSettingsSpaceShareTitle": "Udostępnianie",
 	"popupSettingsSpaceShareInviteLinkTitle": "Link z zaproszeniem",
 	"popupSettingsSpaceShareInviteLinkLabel": "Udostępnij ten link, aby zaprosić inne osoby do swojego obszaru. Gdy poproszą o dołączenie, możesz ustawić ich prawa dostępu.",
-	"popupSettingsSpaceShareInvitesLimit": "Możesz dodać maksymalnie %s %s i maksymalnie %s %s",
+	"popupSettingsSpaceShareInvitesLimit": "You can add up to %s %s",
 	"popupSettingsSpaceShareMembersTitle": "Członkowie",
 	"popupSettingsSpaceShareJoinRequest": "Dołącz do prośby",
 	"popupSettingsSpaceShareLeaveRequest": "Wniosek o urlop",

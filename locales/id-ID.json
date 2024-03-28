@@ -668,7 +668,7 @@
 	"popupSettingsSpaceShareTitle": "Berbagi",
 	"popupSettingsSpaceShareInviteLinkTitle": "Tautan undangan",
 	"popupSettingsSpaceShareInviteLinkLabel": "Bagikan tautan ini untuk mengundang orang lain ke Ruangmu. Begitu mereka meminta bergabung, kamu bisa mengatur hak akses mereka.",
-	"popupSettingsSpaceShareInvitesLimit": "Kamu bisa menambahkan hingga %s %s dan %s %s",
+	"popupSettingsSpaceShareInvitesLimit": "Kamu bisa menambah hingga %s %s",
 	"popupSettingsSpaceShareMembersTitle": "Anggota",
 	"popupSettingsSpaceShareJoinRequest": "Permintaan Bergabung",
 	"popupSettingsSpaceShareLeaveRequest": "Permintaan Keluar",
