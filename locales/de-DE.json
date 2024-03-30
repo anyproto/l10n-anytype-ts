@@ -132,6 +132,7 @@
 	"commonYou": "du",
 	"commonApprove": "Genehmigen",
 	"commonAreYouSure": "Bist du sicher?",
+	"commonVersion": "Version",
 	"commonLCCollection": "Sammlung",
 	"commonLCSet": "Set",
 	"commonDeletionWarningTitle": "Möchtest du wirklich %s %s löschen?",
