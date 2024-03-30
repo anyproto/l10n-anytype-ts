@@ -132,6 +132,7 @@
 	"commonYou": "คุณ",
 	"commonApprove": "อนุมัติ",
 	"commonAreYouSure": "Are you sure?",
+	"commonVersion": "เวอร์ชัน",
 	"commonLCCollection": "Collection",
 	"commonLCSet": "Set",
 	"commonDeletionWarningTitle": "Are you sure you want to delete %s %s?",
