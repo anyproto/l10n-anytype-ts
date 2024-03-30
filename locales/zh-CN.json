@@ -132,6 +132,7 @@
 	"commonYou": "你",
 	"commonApprove": "接受",
 	"commonAreYouSure": "你确定吗？",
+	"commonVersion": "版本",
 	"commonLCCollection": "集锦",
 	"commonLCSet": "集合",
 	"commonDeletionWarningTitle": "您确定要删除 %s %s 吗？",
