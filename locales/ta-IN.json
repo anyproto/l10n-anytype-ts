@@ -132,6 +132,7 @@
 	"commonYou": "you",
 	"commonApprove": "அனுமதி",
 	"commonAreYouSure": "Are you sure?",
+	"commonVersion": "Version",
 	"commonLCCollection": "Collection",
 	"commonLCSet": "Set",
 	"commonDeletionWarningTitle": "Are you sure you want to delete %s %s?",
