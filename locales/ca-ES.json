@@ -514,6 +514,7 @@
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "Afegeix capçaleres per crear un índex",
 	"blockFeaturedQuery": "Query",
+	"blockFeaturedIdentity": "Identity",
 	"blockFeaturedTypeMenuOpenType": "Obre el tipus",
 	"blockFeaturedTypeMenuChangeType": "Canvia el tipus",
 	"blockFeaturedTypeMenuTurnSetIntoCollection": "Converteix el conjunt en col·lecció",
