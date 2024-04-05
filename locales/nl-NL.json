@@ -514,6 +514,7 @@
 	"blockEmbedSource": "Bron",
 	"blockTableOfContentsAdd": "Voeg koppen toe om een inhoudsopgave te maken",
 	"blockFeaturedQuery": "Query",
+	"blockFeaturedIdentity": "Identity",
 	"blockFeaturedTypeMenuOpenType": "Type openen",
 	"blockFeaturedTypeMenuChangeType": "Type wijzigen",
 	"blockFeaturedTypeMenuTurnSetIntoCollection": "Zet set om naar collectie",
