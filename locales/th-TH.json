@@ -514,6 +514,7 @@
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "Add headings to create a table of contents",
 	"blockFeaturedQuery": "Query",
+	"blockFeaturedIdentity": "Identity",
 	"blockFeaturedTypeMenuOpenType": "Open type",
 	"blockFeaturedTypeMenuChangeType": "Change type",
 	"blockFeaturedTypeMenuTurnSetIntoCollection": "Turn set into collection",
