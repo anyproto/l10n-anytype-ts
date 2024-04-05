@@ -514,6 +514,7 @@
 	"blockEmbedSource": "출처",
 	"blockTableOfContentsAdd": "제목을 추가하여 목차 만들기",
 	"blockFeaturedQuery": "질의",
+	"blockFeaturedIdentity": "Identity",
 	"blockFeaturedTypeMenuOpenType": "오픈타입",
 	"blockFeaturedTypeMenuChangeType": "유형 변경",
 	"blockFeaturedTypeMenuTurnSetIntoCollection": "세트를 컬렉션으로 전환",
