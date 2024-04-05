@@ -514,6 +514,7 @@
 	"blockEmbedSource": "Kaynak",
 	"blockTableOfContentsAdd": "İçindekiler tablosu oluşturmak için başlıklar ekleyin",
 	"blockFeaturedQuery": "Sorgu",
+	"blockFeaturedIdentity": "Identity",
 	"blockFeaturedTypeMenuOpenType": "Türü aç",
 	"blockFeaturedTypeMenuChangeType": "Türü değiştir",
 	"blockFeaturedTypeMenuTurnSetIntoCollection": "Kümeyi koleksiyona dönüştür",
