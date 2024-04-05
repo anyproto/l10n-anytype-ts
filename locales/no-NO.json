@@ -514,6 +514,7 @@
 	"blockEmbedSource": "Kilde",
 	"blockTableOfContentsAdd": "Legg til overskrifter for å lage en innholdsfortegnelse",
 	"blockFeaturedQuery": "Spørring",
+	"blockFeaturedIdentity": "Identity",
 	"blockFeaturedTypeMenuOpenType": "Åpne type",
 	"blockFeaturedTypeMenuChangeType": "Endre type",
 	"blockFeaturedTypeMenuTurnSetIntoCollection": "Gjør sett til samling",
