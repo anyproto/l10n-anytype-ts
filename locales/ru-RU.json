@@ -514,6 +514,7 @@
 	"blockEmbedSource": "Источник",
 	"blockTableOfContentsAdd": "Добавьте заголовки для создания таблицы содержания",
 	"blockFeaturedQuery": "Запрос",
+	"blockFeaturedIdentity": "Identity",
 	"blockFeaturedTypeMenuOpenType": "Открыть тип",
 	"blockFeaturedTypeMenuChangeType": "Изменить тип",
 	"blockFeaturedTypeMenuTurnSetIntoCollection": "Превратить набор в коллекцию",
