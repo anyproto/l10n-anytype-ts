@@ -514,6 +514,7 @@
 	"blockEmbedSource": "Quelle",
 	"blockTableOfContentsAdd": "Überschriften hinzufügen, um ein Inhaltsverzeichnis zu erstellen",
 	"blockFeaturedQuery": "Abfrage",
+	"blockFeaturedIdentity": "Identity",
 	"blockFeaturedTypeMenuOpenType": "Typ öffnen",
 	"blockFeaturedTypeMenuChangeType": "Typ ändern",
 	"blockFeaturedTypeMenuTurnSetIntoCollection": "Set in eine Collection umwandeln",
