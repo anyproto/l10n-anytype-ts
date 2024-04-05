@@ -514,6 +514,7 @@
 	"blockEmbedSource": "Zdroj",
 	"blockTableOfContentsAdd": "Přidat záhlaví k vytvoření obsahu",
 	"blockFeaturedQuery": "Query",
+	"blockFeaturedIdentity": "Identity",
 	"blockFeaturedTypeMenuOpenType": "Otevřít typ",
 	"blockFeaturedTypeMenuChangeType": "Změnit typ",
 	"blockFeaturedTypeMenuTurnSetIntoCollection": "Přeměnit do kolekce",
