@@ -514,6 +514,7 @@
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "目次を作成するために見出しを追加",
 	"blockFeaturedQuery": "クエリー",
+	"blockFeaturedIdentity": "Identity",
 	"blockFeaturedTypeMenuOpenType": "タイプを開く",
 	"blockFeaturedTypeMenuChangeType": "タイプを変更",
 	"blockFeaturedTypeMenuTurnSetIntoCollection": "セットをコレクションに変更",
