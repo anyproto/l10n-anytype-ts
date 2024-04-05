@@ -514,6 +514,7 @@
 	"blockEmbedSource": "Source",
 	"blockTableOfContentsAdd": "Προσθέστε κεφαλίδες για δημιουργία ενός πίνακα περιεχομένων",
 	"blockFeaturedQuery": "Ερώτημα",
+	"blockFeaturedIdentity": "Identity",
 	"blockFeaturedTypeMenuOpenType": "Άνοιγμα Τύπου",
 	"blockFeaturedTypeMenuChangeType": "Αλλαγή Τύπου",
 	"blockFeaturedTypeMenuTurnSetIntoCollection": "Μετατροπή Συνόλου σε Συλλογή",
