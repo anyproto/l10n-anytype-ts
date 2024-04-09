@@ -748,6 +748,7 @@
 	"popupMembershipFreeTitleStep2": "Enter the code sent to your email",
 	"popupMembershipFreeText": "We need your email to keep spam at bay and the fun in play!",
 	"popupMembershipFreeCheckboxText": "I'd like to get updates on products and enjoy free perks!",
+	"popupMembershipFreeEnterCode": "Masukkan kod",
 	"popupMembershipPaidTitle": "Pick your unique name",
 	"popupMembershipPaidText": "This name acts like a personal domain, making it easier for others to find you",
 	"popupMembershipPaidPlaceholder": "Myself",
