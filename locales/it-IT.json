@@ -748,6 +748,7 @@
 	"popupMembershipFreeTitleStep2": "Enter the code sent to your email",
 	"popupMembershipFreeText": "We need your email to keep spam at bay and the fun in play!",
 	"popupMembershipFreeCheckboxText": "I'd like to get updates on products and enjoy free perks!",
+	"popupMembershipFreeEnterCode": "Enter code",
 	"popupMembershipPaidTitle": "Pick your unique name",
 	"popupMembershipPaidText": "Questo è il tuo nome univoco sulla rete Anytype, che conferma la vostra iscrizione. Funge da dominio personale e non può essere cambiato.",
 	"popupMembershipPaidPlaceholder": "Myself",
