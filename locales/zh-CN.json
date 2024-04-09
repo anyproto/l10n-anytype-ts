@@ -748,6 +748,7 @@
 	"popupMembershipFreeTitleStep2": "输入发送到您邮箱的代码",
 	"popupMembershipFreeText": "我们需要您的邮箱来隔绝垃圾信息以及使用时的乐趣！",
 	"popupMembershipFreeCheckboxText": "我想获得产品的更新并享受免费优惠！",
+	"popupMembershipFreeEnterCode": "输入兑换码",
 	"popupMembershipPaidTitle": "挑选你独特的名字",
 	"popupMembershipPaidText": "这是您在 Anytype 网络上独有的名字，正在确认您的会员资格。它将作为您的个人域名，且不能更改。",
 	"popupMembershipPaidPlaceholder": "我自己",
