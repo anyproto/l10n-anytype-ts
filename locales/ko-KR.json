@@ -748,6 +748,7 @@
 	"popupMembershipFreeTitleStep2": "이메일로 전송된 코드를 입력하세요",
 	"popupMembershipFreeText": "We need your email to keep spam at bay and the fun in play!",
 	"popupMembershipFreeCheckboxText": "I'd like to get updates on products and enjoy free perks!",
+	"popupMembershipFreeEnterCode": "Enter code",
 	"popupMembershipPaidTitle": "Pick your unique name",
 	"popupMembershipPaidText": "This name acts like a personal domain, making it easier for others to find you",
 	"popupMembershipPaidPlaceholder": "Myself",
