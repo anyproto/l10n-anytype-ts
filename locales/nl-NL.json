@@ -754,6 +754,7 @@
 	"popupMembershipPaidPlaceholder": "Ikzelf",
 	"popupMembershipPayByCard": "Betaal met kaart",
 	"popupMembershipPayByCrypto": "Betaal met crypto",
+	"popupMembershipPaidBy": "Betaald door %s",
 	"popupMembershipResend": "Verstuur opnieuw",
 	"popupMembershipCountdown": "over %s seconden",
 	"popupMembershipStatusWaitASecond": "Even geduld...",
@@ -765,11 +766,6 @@
 	"popupMembershipChangeEmail": "Wijzig e-mailadres",
 	"popupMembershipManagePayment": "Beheer betalingen",
 	"popupMembershipWriteToAnyteam": "Schrijf naar Anyteam",
-	"popupMembershipPaidBy": "Betaald door %s",
-	"popupMembershipPaymentMethod0": "Kaart",
-	"popupMembershipPaymentMethod1": "Crypto",
-	"popupMembershipPaymentMethod2": "ApplePay",
-	"popupMembershipPaymentMethod3": "GooglePay",
 	"popupMembershipWhatsIncluded": "Wat is inbegrepen",
 	"popupMembershipSuccessTitle": "Welkom bij het netwerk, %s",
 	"popupMembershipSuccessTextCuriosity": "Hulde voor jouw nieuwsgierigheid!",
@@ -1704,5 +1700,10 @@
 	"spaceStatus9": "Aan het aansluiten",
 	"spaceStatus10": "Aan het verwijderen",
 	"challengeTitle": "Voer alsjeblieft de volgende nummers in in de extensie",
-	"webclipperEmptySelection": "Selectie is leeg"
+	"webclipperEmptySelection": "Selectie is leeg",
+	"paymentMethod0": "Geen",
+	"paymentMethod1": "Kaart",
+	"paymentMethod2": "Crypto",
+	"paymentMethod3": "ApplePay",
+	"paymentMethod4": "GooglePay"
 }
