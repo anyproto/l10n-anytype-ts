@@ -748,7 +748,7 @@
 	"popupMembershipFreeTitleStep2": "Enter the code sent to your email",
 	"popupMembershipFreeText": "We need your email to keep spam at bay and the fun in play!",
 	"popupMembershipFreeCheckboxText": "I'd like to get updates on products and enjoy free perks!",
-	"popupMembershipFreeEnterCode": "Enter code",
+	"popupMembershipFreeEnterCode": "Inserisci il codice",
 	"popupMembershipPaidTitle": "Pick your unique name",
 	"popupMembershipPaidText": "Questo è il tuo nome univoco sulla rete Anytype, che conferma la vostra iscrizione. Funge da dominio personale e non può essere cambiato.",
 	"popupMembershipPaidPlaceholder": "Myself",
@@ -1703,7 +1703,7 @@
 	"webclipperEmptySelection": "La selezione è vuota",
 	"paymentMethod0": "Nessuno",
 	"paymentMethod1": "Scheda",
-	"paymentMethod2": "Crypto",
+	"paymentMethod2": "Cripto",
 	"paymentMethod3": "ApplePay",
 	"paymentMethod4": "GooglePay"
 }
