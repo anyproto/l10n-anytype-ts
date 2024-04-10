@@ -748,7 +748,7 @@
 	"popupMembershipFreeTitleStep2": "Renseignez le code reçu par courriel",
 	"popupMembershipFreeText": "Nous avons besoin de votre adresse courriel pour éviter les pourriels et continuer à nous amuser !",
 	"popupMembershipFreeCheckboxText": "Je souhaite recevoir des informations sur les nouveautés et bénéficier d'avantages gratuits !",
-	"popupMembershipFreeEnterCode": "Enter code",
+	"popupMembershipFreeEnterCode": "Saisir le code",
 	"popupMembershipPaidTitle": "Choisissez votre nom unique",
 	"popupMembershipPaidText": "Ceci est votre nom unique sur le réseau Anytype, confirmant votre abonnement. Il agit comme votre domaine personnel et ne peut pas être changé.",
 	"popupMembershipPaidPlaceholder": "Moi",
@@ -1704,6 +1704,6 @@
 	"paymentMethod0": "Aucun",
 	"paymentMethod1": "Carte",
 	"paymentMethod2": "Crypto",
-	"paymentMethod3": "ApplePay",
-	"paymentMethod4": "GooglePay"
+	"paymentMethod3": "Apple Pay",
+	"paymentMethod4": "Google Pay"
 }
