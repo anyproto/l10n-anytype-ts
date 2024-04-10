@@ -754,6 +754,7 @@
 	"popupMembershipPaidPlaceholder": "我自己",
 	"popupMembershipPayByCard": "银行卡支付",
 	"popupMembershipPayByCrypto": "加密货币支付",
+	"popupMembershipPaidBy": "由 %s 支付",
 	"popupMembershipResend": "重新发送",
 	"popupMembershipCountdown": " 在 %s 秒后",
 	"popupMembershipStatusWaitASecond": "等一小会…",
@@ -765,11 +766,6 @@
 	"popupMembershipChangeEmail": "更改电子邮件地址",
 	"popupMembershipManagePayment": "管理付款",
 	"popupMembershipWriteToAnyteam": "给 Anytype 团队写信",
-	"popupMembershipPaidBy": "由 %s 支付",
-	"popupMembershipPaymentMethod0": "卡片",
-	"popupMembershipPaymentMethod1": "加密货币",
-	"popupMembershipPaymentMethod2": "Apple Pay",
-	"popupMembershipPaymentMethod3": "Google Pay",
 	"popupMembershipWhatsIncluded": "包含的内容",
 	"popupMembershipSuccessTitle": "欢迎来到 Anytype 网络， %s",
 	"popupMembershipSuccessTextCuriosity": "为你的好奇心干杯大的！",
@@ -1704,5 +1700,10 @@
 	"spaceStatus9": "正在加入",
 	"spaceStatus10": "正在移除",
 	"challengeTitle": "请在扩展中输入以下数字",
-	"webclipperEmptySelection": "选中内容为空"
+	"webclipperEmptySelection": "选中内容为空",
+	"paymentMethod0": "无",
+	"paymentMethod1": "卡片",
+	"paymentMethod2": "Crypto",
+	"paymentMethod3": "ApplePay",
+	"paymentMethod4": "GooglePay"
 }
