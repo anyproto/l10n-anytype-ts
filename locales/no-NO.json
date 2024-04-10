@@ -754,6 +754,7 @@
 	"popupMembershipPaidPlaceholder": "Meg selv",
 	"popupMembershipPayByCard": "Betal med kort",
 	"popupMembershipPayByCrypto": "Betal med krypto",
+	"popupMembershipPaidBy": "Betalt av %s",
 	"popupMembershipResend": "Send på nytt",
 	"popupMembershipCountdown": " in %s sec",
 	"popupMembershipStatusWaitASecond": "Vent et øyeblikk...",
@@ -765,11 +766,6 @@
 	"popupMembershipChangeEmail": "Endre e-post",
 	"popupMembershipManagePayment": "Administrer betaling",
 	"popupMembershipWriteToAnyteam": "Skriv til Anyteam",
-	"popupMembershipPaidBy": "Betalt av %s",
-	"popupMembershipPaymentMethod0": "Kort",
-	"popupMembershipPaymentMethod1": "Krypto",
-	"popupMembershipPaymentMethod2": "ApplePay",
-	"popupMembershipPaymentMethod3": "GooglePay",
 	"popupMembershipWhatsIncluded": "Hva er inkludert",
 	"popupMembershipSuccessTitle": "Velkommen til nettverket, %s",
 	"popupMembershipSuccessTextCuriosity": "Big cheers for your curiosity!",
@@ -1704,5 +1700,10 @@
 	"spaceStatus9": "Kobler til",
 	"spaceStatus10": "Fjerner",
 	"challengeTitle": "Vennligst tast inn følgende tall i nettleserutvidelsen",
-	"webclipperEmptySelection": "Markeringen er tom"
+	"webclipperEmptySelection": "Markeringen er tom",
+	"paymentMethod0": "Ingen",
+	"paymentMethod1": "Kort",
+	"paymentMethod2": "Crypto",
+	"paymentMethod3": "ApplePay",
+	"paymentMethod4": "GooglePay"
 }
