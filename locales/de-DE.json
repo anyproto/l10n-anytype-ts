@@ -1703,7 +1703,7 @@
 	"webclipperEmptySelection": "Auswahl ist leer",
 	"paymentMethod0": "Keine",
 	"paymentMethod1": "Karte",
-	"paymentMethod2": "Crypto",
+	"paymentMethod2": "Kryptowährung",
 	"paymentMethod3": "ApplePay",
 	"paymentMethod4": "GooglePay"
 }
