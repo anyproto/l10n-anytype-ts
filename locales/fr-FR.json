@@ -751,7 +751,7 @@
 	"popupMembershipFreeCheckboxText": "Je souhaite recevoir des informations sur les nouveautés et bénéficier d'avantages gratuits !",
 	"popupMembershipFreeEnterCode": "Saisir le code",
 	"popupMembershipCurrentEmailTitle": "Get updates and enjoy free perks!",
-	"popupMembershipCurrentEmailText": "It is not linked to your account in any way.",
+	"popupMembershipCurrentEmailText": "It is not linked to your vault in any way.",
 	"popupMembershipCurrentEmailSuccess": "Now you're subscribed!",
 	"popupMembershipPaidTitle": "Choisissez votre nom unique",
 	"popupMembershipPaidText": "Ceci est votre nom unique sur le réseau Anytype, confirmant votre abonnement. Il agit comme votre domaine personnel et ne peut pas être changé.",
