@@ -751,7 +751,7 @@
 	"popupMembershipFreeCheckboxText": "I'd like to get updates on products and enjoy free perks!",
 	"popupMembershipFreeEnterCode": "Masukkan kod",
 	"popupMembershipCurrentEmailTitle": "Get updates and enjoy free perks!",
-	"popupMembershipCurrentEmailText": "It is not linked to your account in any way.",
+	"popupMembershipCurrentEmailText": "It is not linked to your vault in any way.",
 	"popupMembershipCurrentEmailSuccess": "Now you're subscribed!",
 	"popupMembershipPaidTitle": "Pick your unique name",
 	"popupMembershipPaidText": "This name acts like a personal domain, making it easier for others to find you",
