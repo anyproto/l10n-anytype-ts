@@ -751,7 +751,7 @@
 	"popupMembershipFreeCheckboxText": "我想获得产品的更新并享受免费优惠！",
 	"popupMembershipFreeEnterCode": "输入兑换码",
 	"popupMembershipCurrentEmailTitle": "Get updates and enjoy free perks!",
-	"popupMembershipCurrentEmailText": "It is not linked to your account in any way.",
+	"popupMembershipCurrentEmailText": "It is not linked to your vault in any way.",
 	"popupMembershipCurrentEmailSuccess": "Now you're subscribed!",
 	"popupMembershipPaidTitle": "挑选你独特的名字",
 	"popupMembershipPaidText": "这是您在 Anytype 网络上独有的名字，正在确认您的会员资格。它将作为您的个人域名，且不能更改。",
