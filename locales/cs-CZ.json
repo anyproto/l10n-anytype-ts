@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Tento typ byl odstraněn",
 	"onboardingTypeDeleted1Description": "Pokud chcete nadále používat tento objekt, změňte typ tohoto objektu.",
 	"onboardingSourceDeleted1Title": "Zkontrolujte prosím nainstalované typy a vztahy",
-	"onboardingSourceDeleted1Description": "Některé objekty v této sadě používají typy nebo vztahy, které byly odstraněny z vašeho prostoru. Navštivte tržiště a znovu nainstalujte tyto entity a pokračujte v používání sad.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Toto je vložená sada",
 	"onboardingInlineSet1Description": "Gratulujeme! Můžete vložit sadu nebo kolekci a upravit ji pomocí filtrů a zobrazení, aniž byste změnili původní instanci.",
 	"onboardingInlineSet2Title": "Zobrazení",
