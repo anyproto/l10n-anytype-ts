@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Этот Тип был удален",
 	"onboardingTypeDeleted1Description": "Если вы хотите продолжать использовать этот Объект, измените этот Тип Объекта.",
 	"onboardingSourceDeleted1Title": "Пожалуйста, проверьте ваши Установленные Типы и Свойства",
-	"onboardingSourceDeleted1Description": "Некоторые Объекты в этом Наборе используют Типы или Свойства, которые были удалены из вашего Пространства. Посетите Библиотеку, чтобы переустановить эти объекты и продолжить использовать свой Набор.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Это встроенный набор",
 	"onboardingInlineSet1Description": "Поздравляем! Вы можете внедрить набор или коллекцию и изменить их с помощью фильтров и представлений, не изменяя исходный экземпляр.",
 	"onboardingInlineSet2Title": "Представления",
