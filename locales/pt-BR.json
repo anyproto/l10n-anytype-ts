@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Este tipo foi excluído",
 	"onboardingTypeDeleted1Description": "Se você quiser continuar usando este Objeto, altere o seu Tipo.",
 	"onboardingSourceDeleted1Title": "Por favor, verifique seus Tipos e Relações instaladas",
-	"onboardingSourceDeleted1Description": "Alguns objetos deste Conjunto usam Tipos ou Relações que foram removidos do seu Espaço. Visite o Mercado para reinstalar essas entidades e continuar usando o Conjunto.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Isso é um conjunto embutido",
 	"onboardingInlineSet1Description": "Parabéns! Você pode incorporar um Conjunto ou Coleção e modificá-lo usando Filtros e Exibições sem alterar a instância original.",
 	"onboardingInlineSet2Title": "Exibições",
