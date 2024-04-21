@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Loại này đã bị xoá",
 	"onboardingTypeDeleted1Description": "Nếu bạn muốn tiếp tục dùng Đối tượng này, hãy thay đổi Loại của nó.",
 	"onboardingSourceDeleted1Title": "Hãy kiểm tra các Loại & Liên hệ đã cài đặt",
-	"onboardingSourceDeleted1Description": "Một vài Đối tượng trong Tập này có Loại hoặc Liên hệ đã bị bỏ khỏi Không gian của bạn. Hãy đến Thương trường để cài lại các thực thể này và tiếp tục sử dụng Tập của bạn.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Đây là Tập trong dòng",
 	"onboardingInlineSet1Description": "Xin chúc mừng! Bạn có thể nhúng một Tập hoặc Bộ vào và biến đổi nó bằng các Bộ lọc và Chế độ xem mà không làm ảnh hưởng đến bản gốc.",
 	"onboardingInlineSet2Title": "Các chế độ xem",
