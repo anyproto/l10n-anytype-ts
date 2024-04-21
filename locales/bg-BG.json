@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "This Type has been deleted",
 	"onboardingTypeDeleted1Description": "If you want to keep using this Object, change this Object Type.",
 	"onboardingSourceDeleted1Title": "Please check your Installed Types & Relations",
-	"onboardingSourceDeleted1Description": "Някои Обекти в тази Група използват Типове или Връзки, които са премахнати от вашето пространство. Посетете сайта, за да инсталирате отново тези образувания и да продължите да използвате вашата Група.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Това е вградена Група",
 	"onboardingInlineSet1Description": "Поздравления! Можете да вградите набор или колекция и да го промените с помощта на филтри и изгледи, без да променяте оригиналния екземпляр.",
 	"onboardingInlineSet2Title": "Views",
