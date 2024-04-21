@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "此類別已被刪除",
 	"onboardingTypeDeleted1Description": "如果您想繼續使用此物件，請更改此物件的類別。",
 	"onboardingSourceDeleted1Title": "請檢查您已安裝的類別與關聯",
-	"onboardingSourceDeleted1Description": "一些在此集合中的物件使用了已從您的空間中移除的類別或關聯。請造訪市場，重新安裝它們並繼續使用您的集合。",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "這是內聯集合",
 	"onboardingInlineSet1Description": "恭喜！您可以嵌入一個集合或集錦，並在不改變原始實例的同時通過篩選器和視圖進行修改。",
 	"onboardingInlineSet2Title": "視圖",
