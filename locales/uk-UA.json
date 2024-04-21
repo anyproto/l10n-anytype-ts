@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Цей Тип було видалено",
 	"onboardingTypeDeleted1Description": "Якщо хочете користуватися цим Об'єктом, змініть його Тип.",
 	"onboardingSourceDeleted1Title": "Будь ласка, перевірте встановлені Типи та Відношення",
-	"onboardingSourceDeleted1Description": "Деякі Об'єкти в цьому Наборі використовують Типи або Відношення, які були видалені з вашого Простору. Відвідайте Бібліотеку, аби перевстановити ці об'єкти й продовжити використовувати ваші Набори.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Це вбудований Набір",
 	"onboardingInlineSet1Description": "Вітання! Ви можете вбудовувати Набір або Колекцію і коригувати їх за допомогою Фільтрів та Подань без зміни оригінального набору (колекції).",
 	"onboardingInlineSet2Title": "Подання",
