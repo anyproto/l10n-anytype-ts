@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Denne type er blevet slettet",
 	"onboardingTypeDeleted1Description": "Hvis du vil fortsætte med at bruge dette objekt, skal du ændre dens objekttype.",
 	"onboardingSourceDeleted1Title": "Tjek venligst dine installerede typer & relationer",
-	"onboardingSourceDeleted1Description": "Nogle objekter i dette sæt bruger typer eller relationer, der er blevet fjernet fra dit rum. Besøg markedspladsen for at geninstallere disse enheder og fortsætte med at bruge dit sæt.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "This is Inline Set",
 	"onboardingInlineSet1Description": "Congratulations! You can embed a Set or Collection and modify it using Filters and Views without altering the original instance.",
 	"onboardingInlineSet2Title": "Visninger",

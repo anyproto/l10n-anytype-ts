@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Questo Tipo è stato eliminato",
 	"onboardingTypeDeleted1Description": "Se si desidera continuare a utilizzare questo Oggetto, modificare questo Tipo dell'Oggetto.",
 	"onboardingSourceDeleted1Title": "Controlla i Tipi e le Relazioni installati",
-	"onboardingSourceDeleted1Description": "Alcuni Oggetti in questo Insieme usano Tipi o Relazioni che sono stati rimossi dal tuo Spazio. Visita il Negozio per reinstallare queste entità e continua a usare il tuo Insieme.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Questo è un Insieme Incorporato",
 	"onboardingInlineSet1Description": "Congratulazioni! Puoi incorporare un Insieme o una Collezione e modificarla utilizzando Filtri e Viste senza alterare l'istanza originale.",
 	"onboardingInlineSet2Title": "Viste",

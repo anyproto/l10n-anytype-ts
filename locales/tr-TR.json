@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Bu Tür silindi",
 	"onboardingTypeDeleted1Description": "Bu Nesneyi kullanmaya devam etmek istiyorsanız Nesne Türünü değiştirin.",
 	"onboardingSourceDeleted1Title": "Lütfen kurulu Türlerinizi ve Bağıntılarınızı kontrol edin",
-	"onboardingSourceDeleted1Description": "Bu Kümedeki bazı Nesneler, Alanınızdan kaldırılan Türleri veya Bağıntıları kullanır. Bunları yeniden yüklemek ve Kümenizi kullanmaya devam etmek için Market'i ziyaret edin.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Bu bir satır içi seti",
 	"onboardingInlineSet1Description": "Tebrikler! Bir kümeyi veya koleksiyonu yerleştirebilir ve orijinal örneği değiştirmeden filtreleri ya da görünümleri kullanarak değiştirebilirsiniz.",
 	"onboardingInlineSet2Title": "Görünümler",

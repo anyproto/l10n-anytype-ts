@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Acest tip a fost șters",
 	"onboardingTypeDeleted1Description": "Dacă doriţi să continuaţi să utilizaţi acest obiect, schimbaţi acest tip de obiect.",
 	"onboardingSourceDeleted1Title": "Te rugăm să verifici tipurile și relațiile instalate",
-	"onboardingSourceDeleted1Description": "Unele obiecte din acest Set folosesc tipuri sau relații care au fost eliminate din spațiul dvs. Vizitați bazarul pentru a reinstala aceste entități și continuați să folosiți setul dvs.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Acesta este un set în linie",
 	"onboardingInlineSet1Description": "Felicitări! Puteți încorpora un set sau colecta și să îl modificați folosind filtre și vizualizări fără a modifica instanța inițială.",
 	"onboardingInlineSet2Title": "Vizualizări",

@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "このタイプは削除されました。",
 	"onboardingTypeDeleted1Description": "このオブジェクトを使い続けたい場合は、このオブジェクトタイプを変更してください。",
 	"onboardingSourceDeleted1Title": "インストールされているタイプとリレーションを確認してください",
-	"onboardingSourceDeleted1Description": "このセットにある一部のオブジェクトは、スペースから削除されたタイプまたはリレーションを使用していました。 セットを使用し続けるためには、マーケットプレイスにアクセスしてこれらのエンティティを再インストールしてください。",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "これはインラインセットです",
 	"onboardingInlineSet1Description": "おめでとうございます!　セットもしくはコレクションの埋め込みと変更は元のインスタンスを変えずに、フィルターとビューを使用することができます。",
 	"onboardingInlineSet2Title": "ビュー",

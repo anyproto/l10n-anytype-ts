@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "此类型已被删除",
 	"onboardingTypeDeleted1Description": "如果您想继续使用此对象，请更改此对象类型。",
 	"onboardingSourceDeleted1Title": "请检查您已安装的类型与关联",
-	"onboardingSourceDeleted1Description": "一些在此集合中的对象使用了已从您的空间中移除的类型或关联。请访问市场，重新安装它们并继续使用您的集合。",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "这是内联集合",
 	"onboardingInlineSet1Description": "恭喜！您可以嵌入一个集合或集锦，并在不改变原始实例的同时通过筛选器和视图进行修改。",
 	"onboardingInlineSet2Title": "视图",

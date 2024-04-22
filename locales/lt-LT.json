@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Šis Tipas buvo ištrintas",
 	"onboardingTypeDeleted1Description": "Jei nori tęsti šio Objekto naudojimą, pakeisk jo Tipą.",
 	"onboardingSourceDeleted1Title": "Prašome patikrinti savo įdiegtus Tipus ir Sąryšius",
-	"onboardingSourceDeleted1Description": "Kai kure Objektai šiame Rinkinyje naudoja Tipus ar Sąryšius, kurie buvo ištrinti iš tavo Erdvės. Jei nori toliau naudotis savo Rinkiniu, aplankyk Parduotuvę ir pakartotinai įdiek trūkstamus objektus.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Čia yra įterptas Rinkinys",
 	"onboardingInlineSet1Description": "Sveikiname! Tu gali įterpti Sąrašą arba Kolekciją ir ją modifikuoti filtrais ar rodymais, nepakeisdamas originalaus egzemplioriaus.",
 	"onboardingInlineSet2Title": "Rodiniai",

@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Dit type is verwijderd",
 	"onboardingTypeDeleted1Description": "Als je dit object wilt blijven gebruiken, wijzig dan dit object type.",
 	"onboardingSourceDeleted1Title": "Controleer alsjeblieft jouw geïnstalleerde types en relaties",
-	"onboardingSourceDeleted1Description": "Sommige objecten in deze set gebruiken types of relaties die uit jouw ruimte zijn verwijderd. Bezoek de marktplaats om deze entiteiten opnieuw te installeren en door te gaan met het gebruik van jouw set.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Dit is een inline set",
 	"onboardingInlineSet1Description": "Gefeliciteerd! Je kunt een set of collectie insluiten en aanpassen met filters en weergaven zonder de oorspronkelijke opzet te wijzigen.",
 	"onboardingInlineSet2Title": "Weergaven",

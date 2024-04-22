@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Die Typ wurde gelöscht",
 	"onboardingTypeDeleted1Description": "Du musst den Objekttyp ändern, um dieses Objekt weiter verwenden zu können.",
 	"onboardingSourceDeleted1Title": "Bitte überprüfe deine installierten Typen und Relationen",
-	"onboardingSourceDeleted1Description": "Einige Objekte in diesem Set verwenden Typen oder Relationen, die aus deinem Space entfernt wurden. Besuche den Marketplace, um diese Entitäten neu zu installieren und das Set weiterzuverwenden.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Dies ist ein Inline-Set",
 	"onboardingInlineSet1Description": "Herzlichen Glückwunsch! Du kannst ein Set oder eine Sammlung einbetten und mit Hilfe von Filtern und Ansichten ändern, ohne die ursprüngliche Instanz zu verändern.",
 	"onboardingInlineSet2Title": "Ansichten",

@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Denne typen har blitt slettet",
 	"onboardingTypeDeleted1Description": "Hvis du vil fortsette å bruke dette objektet, endre denne objekttypen.",
 	"onboardingSourceDeleted1Title": "Vennligst sjekk dine installerte typer og relasjoner",
-	"onboardingSourceDeleted1Description": "Noen objekter i dette settet bruker typer eller relasjoner som har blitt fjernet fra ditt område. Besøk Markedsplassen for å reinstallere disse typene og relasjonene, slik at du kan fortsette å bruke settet ditt.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Dette er et innfelt sett",
 	"onboardingInlineSet1Description": "Gratulerer! Du kan legge inn et sett eller en samling og endre det ved hjelp av filtre og visninger uten å endre den opprinnelige instansen.",
 	"onboardingInlineSet2Title": "Visninger",

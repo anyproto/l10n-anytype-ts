@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Este Tipo ha sido eliminado",
 	"onboardingTypeDeleted1Description": "Si deseas seguir usando este Objeto, cambia este Tipo de Objeto.",
 	"onboardingSourceDeleted1Title": "Por favor, revisa tus Tipos y Relaciones instalados",
-	"onboardingSourceDeleted1Description": "Algunos objetos en este Set usan Tipos o Relaciones que has sido eliminados de su espacio. Visita el Marketplace para volver a instalar estas entidades y continuar usando tu Set.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Este es un conjunto en línea",
 	"onboardingInlineSet1Description": "¡Enhorabuena! Puedes incrustar un conjunto o colección y modificarlo utilizando filtros y vistas sin alterar la instancia original.",
 	"onboardingInlineSet2Title": "Vistas",

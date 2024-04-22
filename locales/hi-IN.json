@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "इस प्रकार को हटा दिया गया है",
 	"onboardingTypeDeleted1Description": "यदि आप इस ऑब्जेक्ट का उपयोग करना चाहते हैं, तो इस ऑब्जेक्ट प्रकार को बदलें।",
 	"onboardingSourceDeleted1Title": "कृपया अपने स्थापित प्रकार और संबंधों की जाँच करें",
-	"onboardingSourceDeleted1Description": "इस सेट में कुछ ऑब्जेक्ट प्रकार या संबंधों का उपयोग करते हैं जो आपके स्थान से हटा दिए गए हैं।इन संस्थाओं को फिर से स्थापित करने के लिए मार्केटप्लेस पर जाएं और अपने सेट का उपयोग जारी रखें।",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "This is Inline Set",
 	"onboardingInlineSet1Description": "Congratulations! You can embed a Set or Collection and modify it using Filters and Views without altering the original instance.",
 	"onboardingInlineSet2Title": "दृश्य",

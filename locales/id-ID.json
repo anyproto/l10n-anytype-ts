@@ -1519,7 +1519,7 @@
 	"onboardingTypeDeleted1Title": "Tipe ini telah dihapus",
 	"onboardingTypeDeleted1Description": "Jika kamu ingin tetap menggunakan Objek ini, gantilah Tipenya.",
 	"onboardingSourceDeleted1Title": "Tolong periksa Tipe dan Relasimu yang terpasang",
-	"onboardingSourceDeleted1Description": "Beberapa objek di Set ini menggunakan Tipe atau Relasi yang sudah dihapus dari Ruangmu. Kunjungi Pasar untuk memasang ulang tipe dan relasi ini untuk kembali menggunakan Set.",
+	"onboardingSourceDeleted1Description": "Some Objects in this Set use Types or Relations that have been removed from your Space. Visit the Library to re-install these entities and continue using your Set.",
 	"onboardingInlineSet1Title": "Ini adalah Set Dalam-Baris",
 	"onboardingInlineSet1Description": "Selamat! Kamu bisa menyematkan Set atau Koleksi dan mengubahnya menggunakan penyaring atau tampilan tanpa mengubah Set atau Koleksi aslinya.",
 	"onboardingInlineSet2Title": "Tampilan",
