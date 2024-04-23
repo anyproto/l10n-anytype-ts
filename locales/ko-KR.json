@@ -633,7 +633,7 @@
 	"popupSettingsSpaceIndexInfoLabel": "암호화 및 로컬 우선",
 	"popupSettingsSpaceIndexShareShareTitle": "스페이스 공유하기",
 	"popupSettingsSpaceIndexShareShareText": "초대 링크를 생성하여 다른 멤버와 스페이스를 공유하세요",
-	"popupSettingsSpaceIndexShareDefaultText": "기본 스페이스는 공유할 수 없습니다. 공유할 스페이스를 새로 만드세요.",
+	"popupSettingsSpaceIndexShareDefaultText": "Entry space can’t be shared. Create a new one to share",
 	"popupSettingsSpaceIndexShareInviteText": "초대 링크를 생성하여 다른 멤버와 스페이스를 공유하세요",
 	"popupSettingsSpaceIndexShareLinkTitle": "초대 링크",
 	"popupSettingsSpaceIndexShareLinkText": "다른 사람들이 내 스페이스에 참여할 수 있도록 이 초대 링크를 공유하세요",
