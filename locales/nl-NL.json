@@ -633,7 +633,7 @@
 	"popupSettingsSpaceIndexInfoLabel": "Encrypted & local-first",
 	"popupSettingsSpaceIndexShareShareTitle": "Ruimte delen",
 	"popupSettingsSpaceIndexShareShareText": "Genereer uitnodigingslink en deel de ruimte met andere leden",
-	"popupSettingsSpaceIndexShareDefaultText": "Default space can’t be shared. Create a new one to share",
+	"popupSettingsSpaceIndexShareDefaultText": "Entry space can’t be shared. Create a new one to share",
 	"popupSettingsSpaceIndexShareInviteText": "Genereer uitnodigingslink en deel de ruimte met andere leden",
 	"popupSettingsSpaceIndexShareLinkTitle": "Invitation link",
 	"popupSettingsSpaceIndexShareLinkText": "Share this invite link so that others can join your Space",
