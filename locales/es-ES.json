@@ -633,7 +633,7 @@
 	"popupSettingsSpaceIndexInfoLabel": "Encrypted & local-first",
 	"popupSettingsSpaceIndexShareShareTitle": "Compartir espacio",
 	"popupSettingsSpaceIndexShareShareText": "Generar enlace de invitación y compartir el espacio con otros miembros",
-	"popupSettingsSpaceIndexShareDefaultText": "Default space can’t be shared. Create a new one to share",
+	"popupSettingsSpaceIndexShareDefaultText": "Entry space can’t be shared. Create a new one to share",
 	"popupSettingsSpaceIndexShareInviteText": "Generar enlace de invitación y compartir el espacio con otros miembros",
 	"popupSettingsSpaceIndexShareLinkTitle": "Invitation link",
 	"popupSettingsSpaceIndexShareLinkText": "Share this invite link so that others can join your Space",
