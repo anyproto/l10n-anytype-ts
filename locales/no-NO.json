@@ -633,7 +633,7 @@
 	"popupSettingsSpaceIndexInfoLabel": "Encrypted & local-first",
 	"popupSettingsSpaceIndexShareShareTitle": "Del rom",
 	"popupSettingsSpaceIndexShareShareText": "Generer invitasjonslenke og del rommet med andre medlemmer",
-	"popupSettingsSpaceIndexShareDefaultText": "Standardrommet kan ikke deles. Opprett et nytt for å dele.",
+	"popupSettingsSpaceIndexShareDefaultText": "Entry space can’t be shared. Create a new one to share",
 	"popupSettingsSpaceIndexShareInviteText": "Generer invitasjonslenke og del rommet med andre medlemmer",
 	"popupSettingsSpaceIndexShareLinkTitle": "Invitasjonslenke",
 	"popupSettingsSpaceIndexShareLinkText": "Del denne invitasjonslenken slik at andre kan bli med i rommet ditt",
