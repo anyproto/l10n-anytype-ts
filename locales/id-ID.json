@@ -1084,6 +1084,7 @@
 	"menuBlockActionsSectionsColor": "Warna",
 	"menuBlockActionsSectionsDataview": "Tampilan data",
 	"menuBlockActionsCreateNew": "Buat %s baru",
+	"menuBlockActionsExistingFile": "Use existing file",
 	"menuBlockAddNewRelation": "Relasi baru",
 	"menuBlockAddSectionsText": "Teks",
 	"menuBlockAddSectionsList": "Daftar",
