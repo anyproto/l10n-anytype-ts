@@ -1084,6 +1084,7 @@
 	"menuBlockActionsSectionsColor": "Χρώμα",
 	"menuBlockActionsSectionsDataview": "Προβολή Δεδομένων",
 	"menuBlockActionsCreateNew": "Δημιουργία νέου %s",
+	"menuBlockActionsExistingFile": "Use existing file",
 	"menuBlockAddNewRelation": "Νέα Σχέση",
 	"menuBlockAddSectionsText": "Κείμενο",
 	"menuBlockAddSectionsList": "Λίστα",
