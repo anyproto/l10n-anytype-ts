@@ -1084,6 +1084,7 @@
 	"menuBlockActionsSectionsColor": "色",
 	"menuBlockActionsSectionsDataview": "データビュー",
 	"menuBlockActionsCreateNew": "新しい%sを作成",
+	"menuBlockActionsExistingFile": "Use existing file",
 	"menuBlockAddNewRelation": "新しいリレーション",
 	"menuBlockAddSectionsText": "テキスト",
 	"menuBlockAddSectionsList": "リスト",
