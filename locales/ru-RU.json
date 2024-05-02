@@ -1084,6 +1084,7 @@
 	"menuBlockActionsSectionsColor": "Цвет",
 	"menuBlockActionsSectionsDataview": "Представление данных",
 	"menuBlockActionsCreateNew": "Создать новый %s",
+	"menuBlockActionsExistingFile": "Use existing file",
 	"menuBlockAddNewRelation": "Новое свойство",
 	"menuBlockAddSectionsText": "Текст",
 	"menuBlockAddSectionsList": "Список",
