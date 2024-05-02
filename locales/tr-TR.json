@@ -1084,6 +1084,7 @@
 	"menuBlockActionsSectionsColor": "Renk",
 	"menuBlockActionsSectionsDataview": "Veri görünümü",
 	"menuBlockActionsCreateNew": "Yeni %s oluştur",
+	"menuBlockActionsExistingFile": "Use existing file",
 	"menuBlockAddNewRelation": "Yeni ilişki",
 	"menuBlockAddSectionsText": "Metin",
 	"menuBlockAddSectionsList": "Liste",
