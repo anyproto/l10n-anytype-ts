@@ -1084,6 +1084,7 @@
 	"menuBlockActionsSectionsColor": "रंग",
 	"menuBlockActionsSectionsDataview": "आँकड़ों का खाका",
 	"menuBlockActionsCreateNew": "नया %s बनाएँ",
+	"menuBlockActionsExistingFile": "Use existing file",
 	"menuBlockAddNewRelation": "नया संबंध",
 	"menuBlockAddSectionsText": "लेख",
 	"menuBlockAddSectionsList": "सूची",
