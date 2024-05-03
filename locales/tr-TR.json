@@ -142,6 +142,7 @@
 	"commonReset": "Sıfırla",
 	"commonUpdate": "Güncelle",
 	"commonOwner": "Owner",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "Koleksiyon",
 	"commonLCSet": "Küme",
 	"commonDeletionWarningTitle": "%s %s öğesini silmek istediğine emin misin?",
