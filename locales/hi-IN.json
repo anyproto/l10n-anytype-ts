@@ -142,6 +142,7 @@
 	"commonReset": "Reset",
 	"commonUpdate": "Update",
 	"commonOwner": "Owner",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "संग्रह",
 	"commonLCSet": "तय करना",
 	"commonDeletionWarningTitle": "क्या आप वाकई हटाना चाहते हैं %s %s?",
