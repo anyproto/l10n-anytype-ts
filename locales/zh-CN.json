@@ -142,6 +142,7 @@
 	"commonReset": "重置",
 	"commonUpdate": "更新",
 	"commonOwner": "所有者",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "集锦",
 	"commonLCSet": "集合",
 	"commonDeletionWarningTitle": "您确定要删除 %s %s 吗？",
