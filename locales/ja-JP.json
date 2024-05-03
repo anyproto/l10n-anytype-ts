@@ -142,6 +142,7 @@
 	"commonReset": "リセット",
 	"commonUpdate": "更新",
 	"commonOwner": "所有者",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "コレクション",
 	"commonLCSet": "セット",
 	"commonDeletionWarningTitle": "%s %sを削除してもよろしいですか？",
