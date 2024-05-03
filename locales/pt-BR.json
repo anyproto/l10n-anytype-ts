@@ -142,6 +142,7 @@
 	"commonReset": "Redefinir",
 	"commonUpdate": "Atualizar",
 	"commonOwner": "Dono",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "Coleção",
 	"commonLCSet": "Conjunto",
 	"commonDeletionWarningTitle": "Tem certeza que deseja excluir %s %s?",
