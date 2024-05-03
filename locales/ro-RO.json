@@ -1084,6 +1084,7 @@
 	"menuBlockActionsSectionsColor": "Culoare",
 	"menuBlockActionsSectionsDataview": "Vezidata",
 	"menuBlockActionsCreateNew": "Crează %s nou",
+	"menuBlockActionsExistingFile": "Use existing file",
 	"menuBlockAddNewRelation": "Relație nouă",
 	"menuBlockAddSectionsText": "Text",
 	"menuBlockAddSectionsList": "Listă",

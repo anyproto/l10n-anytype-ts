@@ -1084,6 +1084,7 @@
 	"menuBlockActionsSectionsColor": "Szín",
 	"menuBlockActionsSectionsDataview": "Dataview",
 	"menuBlockActionsCreateNew": "Create new %s",
+	"menuBlockActionsExistingFile": "Use existing file",
 	"menuBlockAddNewRelation": "Új kapcsolat",
 	"menuBlockAddSectionsText": "Szöveg",
 	"menuBlockAddSectionsList": "Lista",

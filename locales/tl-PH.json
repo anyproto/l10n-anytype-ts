@@ -1084,6 +1084,7 @@
 	"menuBlockActionsSectionsColor": "Kulay",
 	"menuBlockActionsSectionsDataview": "Dataview",
 	"menuBlockActionsCreateNew": "Create new %s",
+	"menuBlockActionsExistingFile": "Use existing file",
 	"menuBlockAddNewRelation": "Bagong kaugnayan",
 	"menuBlockAddSectionsText": "Teksto",
 	"menuBlockAddSectionsList": "Listahan",

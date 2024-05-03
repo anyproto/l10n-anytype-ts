@@ -1084,6 +1084,7 @@
 	"menuBlockActionsSectionsColor": "색상",
 	"menuBlockActionsSectionsDataview": "데이터뷰",
 	"menuBlockActionsCreateNew": "새 %s 만들기",
+	"menuBlockActionsExistingFile": "Use existing file",
 	"menuBlockAddNewRelation": "새 관계",
 	"menuBlockAddSectionsText": "텍스트",
 	"menuBlockAddSectionsList": "리스트",

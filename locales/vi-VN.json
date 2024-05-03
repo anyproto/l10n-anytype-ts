@@ -1084,6 +1084,7 @@
 	"menuBlockActionsSectionsColor": "Màu",
 	"menuBlockActionsSectionsDataview": "Khung dữ liệu",
 	"menuBlockActionsCreateNew": "Tạo %s mới",
+	"menuBlockActionsExistingFile": "Use existing file",
 	"menuBlockAddNewRelation": "Liên hệ mới",
 	"menuBlockAddSectionsText": "Văn bản",
 	"menuBlockAddSectionsList": "Dạng danh sách",

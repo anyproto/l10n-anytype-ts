@@ -1084,6 +1084,7 @@
 	"menuBlockActionsSectionsColor": "Farbe",
 	"menuBlockActionsSectionsDataview": "Datenansicht",
 	"menuBlockActionsCreateNew": "Erstelle neues %s",
+	"menuBlockActionsExistingFile": "Use existing file",
 	"menuBlockAddNewRelation": "Neue Relation",
 	"menuBlockAddSectionsText": "Text",
 	"menuBlockAddSectionsList": "Liste",
