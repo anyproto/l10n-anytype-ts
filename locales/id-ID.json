@@ -142,6 +142,7 @@
 	"commonReset": "Atur ulang",
 	"commonUpdate": "Perbarui",
 	"commonOwner": "Pemilik",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "Koleksi",
 	"commonLCSet": "Set",
 	"commonDeletionWarningTitle": "Apa kamu yakin ingin menghapus %s %s?",
