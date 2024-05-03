@@ -142,6 +142,7 @@
 	"commonReset": "초기화",
 	"commonUpdate": "업데이트",
 	"commonOwner": "소유자",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "컬렉션",
 	"commonLCSet": "세트",
 	"commonDeletionWarningTitle": "%s %s 을(를) 삭제하시겠습니까?",
