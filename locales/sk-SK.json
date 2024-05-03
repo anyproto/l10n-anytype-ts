@@ -142,6 +142,7 @@
 	"commonReset": "Reset",
 	"commonUpdate": "Update",
 	"commonOwner": "Owner",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "Kolekcia",
 	"commonLCSet": "Set",
 	"commonDeletionWarningTitle": "Ste si istý, že chcete zmazať %s %s?",
