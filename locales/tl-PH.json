@@ -142,6 +142,7 @@
 	"commonReset": "Reset",
 	"commonUpdate": "Update",
 	"commonOwner": "Owner",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "Koleksyon",
 	"commonLCSet": "Set",
 	"commonDeletionWarningTitle": "Sigurado ka bang gusto mong tanggalin ang %s %s?",
