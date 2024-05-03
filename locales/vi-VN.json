@@ -142,6 +142,7 @@
 	"commonReset": "Đặt lại",
 	"commonUpdate": "Cập nhật",
 	"commonOwner": "Owner",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "Bộ",
 	"commonLCSet": "Tập",
 	"commonDeletionWarningTitle": "Bạn có chắc chắn muốn xóa %s %s không?",
