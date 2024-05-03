@@ -142,6 +142,7 @@
 	"commonReset": "Сброс",
 	"commonUpdate": "Обновить",
 	"commonOwner": "Владелец",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "Коллекция",
 	"commonLCSet": "Набор",
 	"commonDeletionWarningTitle": "Вы уверены, что хотите удалить %s %s?",
