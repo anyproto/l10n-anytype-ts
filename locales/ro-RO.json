@@ -142,6 +142,7 @@
 	"commonReset": "Reset",
 	"commonUpdate": "Update",
 	"commonOwner": "Owner",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "Colecție",
 	"commonLCSet": "Setează",
 	"commonDeletionWarningTitle": "Ești sigur că vrei să ștergi %s %s?",
