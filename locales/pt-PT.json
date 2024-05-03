@@ -142,6 +142,7 @@
 	"commonReset": "Repor",
 	"commonUpdate": "Atualizar",
 	"commonOwner": "Proprietário",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "Collection",
 	"commonLCSet": "Set",
 	"commonDeletionWarningTitle": "Tens a certeza que queres eliminar %s %s?",
