@@ -142,6 +142,7 @@
 	"commonReset": "Reset",
 	"commonUpdate": "Update",
 	"commonOwner": "Owner",
+	"commonUpdateProgress": "Downloading update... %s\/%s",
 	"commonLCCollection": "Samling",
 	"commonLCSet": "Sæt",
 	"commonDeletionWarningTitle": "Er du sikker på du vil slette %s %s?",
