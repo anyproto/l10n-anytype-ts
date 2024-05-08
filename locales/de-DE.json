@@ -394,7 +394,7 @@
 	"pageAuthDeletedAccountDeletionTitle": "Dieser Tresor ist zur Löschung vorgesehen in %s",
 	"pageAuthOnboardPersonalSpace": "Persönlicher Space",
 	"pageAuthOnboardMoreInfo": "Mehr Informationen",
-	"pageAuthSetupImportTitle": "⚡️ Congratulations!",
+	"pageAuthSetupImportTitle": "⚡️ Glückwunsch!",
 	"pageAuthSetupImportText": "You're now using the new & improved version of Anytype. It's still encrypted, offline-first and the safest app for your personal information. We're excited to hear your feedback about the new features. First, let's get your data imported.",
 	"pageAuthSetupImportBackup": "Backup importieren",
 	"pageAuthSetupEntering": "Tresor wird betreten...",
