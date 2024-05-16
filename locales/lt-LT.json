@@ -1060,6 +1060,7 @@
 	"popupUsecaseListEmptyFilter": "Nėra jokių Idėjų pavadinimu <b>\"%s\"<\/b>",
 	"popupUsecaseBannerText": "Pristatome pirmiausiai vietinį bendradarbiavimą! Co-kurk, dalinkis ir kolaboruok erdvėse!",
 	"popupRelationTitle": "Redaguoti %d %s",
+	"popupRelationEmpty": "There are no relations shown yet",
 	"menuVaultPeer": "%d\/%d peers",
 	"menuVaultPathText": "Tavo raktiniai failai bus laikomi čia. Spausk pakeisti vietą",
 	"menuSmileGallery": "Ikonėlės",
