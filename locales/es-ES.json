@@ -1060,6 +1060,7 @@
 	"popupUsecaseListEmptyFilter": "No hay experiencias llamadas <b>«%s»<\/b>.",
 	"popupUsecaseBannerText": "¡Colaboración con base local! ¡Crea y colabora en espacios compartidos!",
 	"popupRelationTitle": "Edit %d %s",
+	"popupRelationEmpty": "There are no relations shown yet",
 	"menuVaultPeer": "%d\/%d pares",
 	"menuVaultPathText": "Tus archivos fundamentales se almacenarán aquí. Haz clic para cambiar la ruta.",
 	"menuSmileGallery": "Emojis",
