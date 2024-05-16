@@ -1060,6 +1060,7 @@
 	"popupUsecaseListEmptyFilter": "Er zijn geen Experiences genaamd <b>\"%s\"<\/b>",
 	"popupUsecaseBannerText": "Introductie van local-first samenwerking! Maak samen aan, deel en werk samen in ruimten!",
 	"popupRelationTitle": "Edit %d %s",
+	"popupRelationEmpty": "There are no relations shown yet",
 	"menuVaultPeer": "%d\/%d peers",
 	"menuVaultPathText": "Jouw sleutelbestanden zullen hier worden opgeslagen. Klik om het pad te wijzigen",
 	"menuSmileGallery": "Emojis",
