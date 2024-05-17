@@ -1068,6 +1068,7 @@
 	"menuSmileEmpty": "<b>There are no items named <span>\"%s\"<\/span><\/b>Try to find a new one or upload your image",
 	"menuSmileRecent": "Được dùng gần đây",
 	"menuSmileSearch": "Kết quả tìm",
+	"menuSmileRandom": "Random emoji",
 	"menuBlockCoverEdit": "Chỉnh vị trí",
 	"menuBlockCoverEmpty": "Không tìm thấy ảnh bìa",
 	"menuBlockCoverEmptyFilter": "<b>Không có bìa tên <span>\"%s\"<\/span><\/b>Hãy thử tìm một cái khác hoặc tải ảnh của bạn lên",
