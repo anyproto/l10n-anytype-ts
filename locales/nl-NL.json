@@ -1068,6 +1068,7 @@
 	"menuSmileEmpty": "<b>Er zijn geen onderdelen genaamd <span>‘%s’<\/span><\/b>Probeer een nieuwe te vinden of upload jouw afbeelding",
 	"menuSmileRecent": "Recent gebruikt",
 	"menuSmileSearch": "Zoekresultaten",
+	"menuSmileRandom": "Random emoji",
 	"menuBlockCoverEdit": "Herpositioneer",
 	"menuBlockCoverEmpty": "Er zijn geen omslagen gevonden",
 	"menuBlockCoverEmptyFilter": "<b>Er zijn geen omslagen genaamd <span>‘%s’<\/span><\/b>Probeer een nieuwe te vinden of upload je afbeelding",
