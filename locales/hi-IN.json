@@ -1068,6 +1068,7 @@
 	"menuSmileEmpty": "<b>There are no items named <span>\"%s\"<\/span><\/b>Try to find a new one or upload your image",
 	"menuSmileRecent": "हाल ही में उपयोग किया गया",
 	"menuSmileSearch": "खोज के परिणाम",
+	"menuSmileRandom": "Random emoji",
 	"menuBlockCoverEdit": "स्थान बदलने",
 	"menuBlockCoverEmpty": "कोई कवर नहीं मिला",
 	"menuBlockCoverEmptyFilter": "<b> कोई भी कवर नहीं हैं जिसका नाम <span>\"%s\"<\/span> <\/b> एक नया खोजने या अपनी छवि अपलोड करने का प्रयास करें",
