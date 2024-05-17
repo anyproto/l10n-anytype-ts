@@ -1060,7 +1060,7 @@
 	"popupUsecaseListEmptyFilter": "Il n'y a aucune expérience nommée <b>\"%s\"<\/b>",
 	"popupUsecaseBannerText": "Découvrez la collaboration qui met la priorié au local ! Co-créer, partager et collaborer sur des espaces !",
 	"popupRelationTitle": "Modifier %d %s",
-	"popupRelationEmpty": "There are no relations shown yet",
+	"popupRelationEmpty": "Il n'y a pas encore d’associations affichées",
 	"menuVaultPeer": "Pairs %d\/%d",
 	"menuVaultPathText": "Vos fichiers clés seront stockés ici. Cliquez pour changer l'emplacement",
 	"menuSmileGallery": "Emojis",
