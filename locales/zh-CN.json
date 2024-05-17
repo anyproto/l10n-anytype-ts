@@ -1068,6 +1068,7 @@
 	"menuSmileEmpty": "<b>没有名为 <span>\"%s\"<\/span> 的条目。 <\/b> 尝试查找另一个或上传您的图片。",
 	"menuSmileRecent": "最近使用的",
 	"menuSmileSearch": "搜索结果",
+	"menuSmileRandom": "Random emoji",
 	"menuBlockCoverEdit": "重新定位",
 	"menuBlockCoverEmpty": "没有发现封面",
 	"menuBlockCoverEmptyFilter": "<b>没有名为 <span>\"%s\"<\/span> 的封面 <\/b> 尝试查找新图片或上传您的图片",
