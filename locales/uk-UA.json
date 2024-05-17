@@ -1068,6 +1068,7 @@
 	"menuSmileEmpty": "<b>There are no items named <span>\"%s\"<\/span><\/b>Try to find a new one or upload your image",
 	"menuSmileRecent": "Нещодавні",
 	"menuSmileSearch": "Результати пошуку",
+	"menuSmileRandom": "Random emoji",
 	"menuBlockCoverEdit": "Перемістити",
 	"menuBlockCoverEmpty": "Обкладинки не знайдено",
 	"menuBlockCoverEmptyFilter": "<b>Немає обкладинок з такою назвою <span>\"%s\"<\/span><\/b>Спробуйте знайти нову або завантажити своє зображення",
