@@ -1068,6 +1068,7 @@
 	"popupUsecaseBannerText": "로컬 우선의 협업을 소개합니다! 스페이스에서 공동 제작 공유 및 협업하세요!",
 	"popupRelationTitle": "%d %s 편집",
 	"popupRelationEmpty": "아직 표시된 관계는 없습니다",
+	"popupRelationAddToView": "Add relations to the view",
 	"menuVaultPeer": "%d\/%d 피어",
 	"menuVaultPathText": "여기에 키 파일이 저장됩니다. 경로를 변경하려면 클릭하십시오.",
 	"menuSmileGallery": "이모티콘",
