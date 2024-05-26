@@ -1068,6 +1068,7 @@
 	"popupUsecaseBannerText": "Introducing local-first collaboration! Co-create, share and collaborate on Spaces!",
 	"popupRelationTitle": "%d %s bearbeiten",
 	"popupRelationEmpty": "There are no relations shown yet",
+	"popupRelationAddToView": "Add relations to the view",
 	"menuVaultPeer": "%d\/%d peers",
 	"menuVaultPathText": "Deine Schlüsseldateien werden hier gespeichert. Klicke hier, um den Pfad zu ändern",
 	"menuSmileGallery": "Emojis",
