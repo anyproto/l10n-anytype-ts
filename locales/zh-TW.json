@@ -1068,6 +1068,7 @@
 	"popupUsecaseBannerText": "這是一個本地為主的合作空間！享受在這個空間中共同創造、分享和合作！",
 	"popupRelationTitle": "編輯 %d %s",
 	"popupRelationEmpty": "目前沒有任何關聯",
+	"popupRelationAddToView": "Add relations to the view",
 	"menuVaultPeer": "%d\/%d 節點",
 	"menuVaultPathText": "您的密鑰檔案將存儲在這裡。點擊以變更路徑",
 	"menuSmileGallery": "表情符號",
