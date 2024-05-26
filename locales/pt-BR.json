@@ -1068,6 +1068,7 @@
 	"popupUsecaseBannerText": "Introduzindo a colaboração local! Criar, compartilhar e colaborar em Espaços!",
 	"popupRelationTitle": "Editar %d %s",
 	"popupRelationEmpty": "Não há relações para serem exibidas",
+	"popupRelationAddToView": "Add relations to the view",
 	"menuVaultPeer": "%d\/%d peers",
 	"menuVaultPathText": "Seus dados serão armazenados aqui. Clique para mudar o destino",
 	"menuSmileGallery": "Emojis",
