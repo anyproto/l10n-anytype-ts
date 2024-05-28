@@ -1067,7 +1067,7 @@
 	"popupUsecaseListEmptyFilter": "Keine Erfahrungen mit dem Namen <b>\"%s\"<\/b>",
 	"popupUsecaseBannerText": "Introducing local-first collaboration! Co-create, share and collaborate on Spaces!",
 	"popupRelationTitle": "%d %s bearbeiten",
-	"popupRelationEmpty": "There are no relations shown yet",
+	"popupRelationEmpty": "Es werden noch keine Relationen angezeigt",
 	"popupRelationAddToView": "Beziehungen zur Ansicht hinzufügen",
 	"menuVaultPeer": "%d\/%d peers",
 	"menuVaultPathText": "Deine Schlüsseldateien werden hier gespeichert. Klicke hier, um den Pfad zu ändern",
