@@ -868,6 +868,8 @@
 	"popupConfirmRelationOptionRemoveText": "删除关联选项会影响到您的对象。一旦确认，操作将无法撤消。",
 	"popupConfirmDeleteWarningTitle": "您确定要删除 %s %s 吗？",
 	"popupConfirmDeleteWarningText": "这些对象的数据将被永久删除，此操作不可逆转！",
+	"popupConfirmActionRestrictedTitle": "Action restricted!",
+	"popupConfirmActionRestrictedText": "You cannot do this in read-only space",
 	"popupInviteRequestTitle": "加入空间",
 	"popupInviteRequestText": "你已被邀请加入由 <b>%s<\/b> 创建的 <b>%s<\/b> 空间。发送请求以使空间所有者批准你的加入。",
 	"popupInviteRequestMessagePlaceholder": "向空间所有者留下一条私密评论",
