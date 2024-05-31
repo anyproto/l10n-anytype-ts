@@ -868,6 +868,8 @@
 	"popupConfirmRelationOptionRemoveText": "Excluir opções de relação pode afetar seus objetos. Uma vez confirmada, a ação não pode ser desfeita.",
 	"popupConfirmDeleteWarningTitle": "Are you sure you want to delete %s %s?",
 	"popupConfirmDeleteWarningText": "Esses objetos serão excluídos irrevogavelmente. Você não pode desfazer esta ação.",
+	"popupConfirmActionRestrictedTitle": "Action restricted!",
+	"popupConfirmActionRestrictedText": "You cannot do this in read-only space",
 	"popupInviteRequestTitle": "Juntar-se a um espaço",
 	"popupInviteRequestText": "Você foi convidado para se juntar ao espaço <b>%s<\/b>, criado por <b>%s<\/b>. Envie uma solicitação para que o proprietário do espaço permita seu acesso.",
 	"popupInviteRequestMessagePlaceholder": "Deixe um comentário privado para o proprietário do espaço",
