@@ -868,6 +868,8 @@
 	"popupConfirmRelationOptionRemoveText": "Menghapus relasi dapat memengaruhi objek-objekmu. Tindakan ini tidak dapat dibatalkan.",
 	"popupConfirmDeleteWarningTitle": "Yakin ingin menghapus %s %s?",
 	"popupConfirmDeleteWarningText": "Objek berikut akan dihapus secara permanen. Kamu tidak bisa membatalkan tindakan ini.",
+	"popupConfirmActionRestrictedTitle": "Action restricted!",
+	"popupConfirmActionRestrictedText": "You cannot do this in read-only space",
 	"popupInviteRequestTitle": "Bergabung dengan ruang",
 	"popupInviteRequestText": "Kamu diundang bergabung ke ruang <b>%s<\/b> buatan <b>%s<\/b>. Kirimkan permintaan supaya pemilik ruang dapat mengizinkanmu bergabung.",
 	"popupInviteRequestMessagePlaceholder": "Tinggalkan komentar untuk pemilik ruang",
