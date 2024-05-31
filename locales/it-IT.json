@@ -868,6 +868,8 @@
 	"popupConfirmRelationOptionRemoveText": "L'eliminazione delle opzioni di relazione può influenzare i tuoi oggetti. Una volta confermata, l'azione non potrà essere annullata.",
 	"popupConfirmDeleteWarningTitle": "Sei sicuro di voler eliminare %s %s?",
 	"popupConfirmDeleteWarningText": "Questi oggetti verranno eliminati irrevocabilmente. Non è possibile annullare questa azione.",
+	"popupConfirmActionRestrictedTitle": "Action restricted!",
+	"popupConfirmActionRestrictedText": "You cannot do this in read-only space",
 	"popupInviteRequestTitle": "Unisciti a uno spazio",
 	"popupInviteRequestText": "Sei stato invitato a unirti allo spazio <b>%s<\/b>, creato da <b>%s<\/b>. Invia una richiesta così il proprietario dello spazio può farti entrare.",
 	"popupInviteRequestMessagePlaceholder": "Lascia un commento privato per il proprietario dello spazio",
