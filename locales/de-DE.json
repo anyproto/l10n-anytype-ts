@@ -868,6 +868,8 @@
 	"popupConfirmRelationOptionRemoveText": "Deleting relation options can affect your objects. Once confirmed, the action cannot be undone.",
 	"popupConfirmDeleteWarningTitle": "Bist du sicher, dass du %s %s löschen möchtest?",
 	"popupConfirmDeleteWarningText": "Diese Objekte werden endgültig gelöscht. Du kannst diese Aktion nicht rückgängig machen.",
+	"popupConfirmActionRestrictedTitle": "Action restricted!",
+	"popupConfirmActionRestrictedText": "You cannot do this in read-only space",
 	"popupInviteRequestTitle": "Einem Space beitreten",
 	"popupInviteRequestText": "Sie wurden eingeladen, dem Space <b>%s<\/b>, erstellt von <b>%s<\/b> beizutreten. Senden Sie eine Anfrage, damit der Spacebesitzer Sie einladen kann.",
 	"popupInviteRequestMessagePlaceholder": "Einen privaten Kommentar für einen Spacebesitzer hinterlassen",
