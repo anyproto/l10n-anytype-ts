@@ -868,6 +868,8 @@
 	"popupConfirmRelationOptionRemoveText": "刪除關聯選項將會影響您既有的物件。一旦確認後，更改將無法被恢復。",
 	"popupConfirmDeleteWarningTitle": "確定要刪除 %s %s 嗎？",
 	"popupConfirmDeleteWarningText": "這些物件將被永久刪除，此操作不可逆！",
+	"popupConfirmActionRestrictedTitle": "Action restricted!",
+	"popupConfirmActionRestrictedText": "You cannot do this in read-only space",
 	"popupInviteRequestTitle": "加入空間",
 	"popupInviteRequestText": "您已被邀請加入由 <b>%s<\/b>建立的<b>%s<\/b>空間。發送一個請求，以便空間所有者能讓您加入。",
 	"popupInviteRequestMessagePlaceholder": "向空間所有者留下私密的評論。",
