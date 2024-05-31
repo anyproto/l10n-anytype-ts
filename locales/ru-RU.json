@@ -868,6 +868,8 @@
 	"popupConfirmRelationOptionRemoveText": "Deleting relation options can affect your objects. Once confirmed, the action cannot be undone.",
 	"popupConfirmDeleteWarningTitle": "Are you sure you want to delete %s %s?",
 	"popupConfirmDeleteWarningText": "Элементы в корзине будут безвозвратно удалены. Вы не сможете отменить это действие.",
+	"popupConfirmActionRestrictedTitle": "Action restricted!",
+	"popupConfirmActionRestrictedText": "You cannot do this in read-only space",
 	"popupInviteRequestTitle": "Присоединиться к пространству",
 	"popupInviteRequestText": "Вас пригласили присоединиться к пространству <b>%s<\/b>, созданному <b>%s<\/b>. Отправьте запрос, чтобы владелец пространства смог принять вас.",
 	"popupInviteRequestMessagePlaceholder": "Оставить приватный комментарий владельцу пространства",
