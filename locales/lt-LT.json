@@ -868,6 +868,8 @@
 	"popupConfirmRelationOptionRemoveText": "Sąryšio parinkties ištrynimas gali paveikti tavo objektus. Patvirtinęs (-usi), negalėsi atstatyti.",
 	"popupConfirmDeleteWarningTitle": "Are you sure you want to delete %s %s?",
 	"popupConfirmDeleteWarningText": "Šie objektai bus negrįžtamai ištrinti. Negali atstatyti po šio veiksmo.",
+	"popupConfirmActionRestrictedTitle": "Action restricted!",
+	"popupConfirmActionRestrictedText": "You cannot do this in read-only space",
 	"popupInviteRequestTitle": "Prisijungti prie Erdvės",
 	"popupInviteRequestText": "Tu buvai pakviestas į Erdvę <b>%s<\/b>, kurį sukūrė <b>%s<\/b>. Siųsk prašymą, kad galėtų tave Erdvės savininkas pridėti.",
 	"popupInviteRequestMessagePlaceholder": "Palik privačią žinutę Erdvės savininkui",
