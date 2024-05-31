@@ -868,6 +868,8 @@
 	"popupConfirmRelationOptionRemoveText": "Deleting relation options can affect your objects. Once confirmed, the action cannot be undone.",
 	"popupConfirmDeleteWarningTitle": "Are you sure you want to delete %s %s?",
 	"popupConfirmDeleteWarningText": "Tyto objekty budou trvale odstraněny. Tuto akci nelze vrátit zpět.",
+	"popupConfirmActionRestrictedTitle": "Action restricted!",
+	"popupConfirmActionRestrictedText": "You cannot do this in read-only space",
 	"popupInviteRequestTitle": "Připojit se k prostoru",
 	"popupInviteRequestText": "Byli jste pozváni do prostoru <b>%s<\/b> , vytvořené <b>%s<\/b>. Pošlete žádost, aby Vám vlastník prostoru mohl umožnit se přidat.",
 	"popupInviteRequestMessagePlaceholder": "Zanechte soukromý komentář pro vlastníka prostoru",
