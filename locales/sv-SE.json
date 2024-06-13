@@ -149,7 +149,7 @@
 	"commonSet": "Set",
 	"commonCreateNewObject": "Create new Object",
 	"commonCreateObjectWithName": "Create Object \"%s\"",
-	"commonCreateObject": "Create Object",
+	"commonCreateObject": "Skapa objekt",
 	"pluralDay": "dag|dagar",
 	"pluralObject": "Objekt|Objekt",
 	"pluralLCObject": "objekt|objekt",
