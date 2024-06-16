@@ -1473,7 +1473,7 @@
 	"widgetBin": "Papierkorb",
 	"widgetOptions": "Einstellungen",
 	"widgetToggle": "Ein-\/Ausblenden",
-	"widgetEmptyLabel": "There are no Objects here",
+	"widgetEmptyLabel": "Hier gibt es keine Objekte",
 	"widgetEmptyLabelCreate": "There are no Objects here,<br\/>create the first one",
 	"widgetShowAll": "See all Objects",
 	"phrasePlaceholder": "Bitte gib deinen Schlüssel ein",
