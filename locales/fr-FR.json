@@ -1582,7 +1582,7 @@
 	"libMenuChangeSource": "Changer le %s source",
 	"libMenuOpenSource": "Ouvrir le %s source",
 	"libMenuOpenFullscreen": "Ouvrir en plein écran",
-	"libMenuCopyUrl": "Copy URL",
+	"libMenuCopyUrl": "Copier l'URL",
 	"libActionUninstallTypeTitle": "Voulez-vous supprimer le type \"%s \" ?",
 	"libActionUninstallTypeText": "Ce Type et tous les Modèles associés seront supprimés. Si vous avez créé des Objets avec ce Type, ils peuvent devenir plus difficiles à localiser.",
 	"libActionUninstallRelationTitle": "Voulez-vous supprimer la relation \"%s \" ?",
