@@ -873,7 +873,7 @@
 	"popupConfirmDeleteWarningTitle": "您确定要删除 %s %s 吗？",
 	"popupConfirmDeleteWarningText": "这些对象的数据将被永久删除，此操作不可逆转！",
 	"popupConfirmActionRestrictedTitle": "动作受限！",
-	"popupConfirmActionRestrictedText": "您不能在只读空间内完成此操作",
+	"popupConfirmActionRestrictedText": "您不能在只读空间内做这个",
 	"popupInviteRequestTitle": "加入空间",
 	"popupInviteRequestText": "你已被邀请加入由 <b>%s<\/b> 创建的 <b>%s<\/b> 空间。发送请求以使空间所有者批准你的加入。",
 	"popupInviteRequestMessagePlaceholder": "向空间所有者留下一条私密评论",
