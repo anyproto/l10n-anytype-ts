@@ -1561,8 +1561,6 @@
 	"onboardingCalendarDescription": "선택한 날짜 속성을 기반으로 캘린더에 오브젝트를 표시합니다.",
 	"onboardingTemplateSelectTitle": "새 템플릿 선택기",
 	"onboardingTemplateSelectDescription": "오브젝트를 만들 때 템플릿을 쉽게 전환할 수 있습니다.",
-	"onboardingSpaceSelectTitle": "스페이스 생성 및 공유",
-	"onboardingSpaceSelectDescription": "여기를 클릭하여 새 스페이스를 만들고 다른 사람들과 공유하세요!",
 	"onboardingQuickCaptureTitle": "다른 오브젝트 유형 사용하기",
 	"onboardingQuickCaptureDescription": "오브젝트를 분류하고 연결하기 위한 유형을 선택합니다.",
 	"onboardingShareSpaceTitle": "스페이스에서 공동 제작, 공유 및 협업을 하세요!",
