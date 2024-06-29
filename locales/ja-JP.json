@@ -1561,8 +1561,6 @@
 	"onboardingCalendarDescription": "選択した日付に基づいて、カレンダーにオブジェクトを表示。",
 	"onboardingTemplateSelectTitle": "新しいテンプレートセレクター",
 	"onboardingTemplateSelectDescription": "オブジェクト作成中にテンプレートを簡単に切り替える。",
-	"onboardingSpaceSelectTitle": "Create and Share Spaces",
-	"onboardingSpaceSelectDescription": "Click here to create a new space and share it with others!",
 	"onboardingQuickCaptureTitle": "Use Different Object Types",
 	"onboardingQuickCaptureDescription": "Select types for your objects to categorize and connect them.",
 	"onboardingShareSpaceTitle": "Co-create, share and collaborate on Spaces!",
