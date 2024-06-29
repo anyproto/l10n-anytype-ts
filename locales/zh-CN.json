@@ -1561,8 +1561,6 @@
 	"onboardingCalendarDescription": "根据所选日期属性在日历上显示对象。",
 	"onboardingTemplateSelectTitle": "新模板选择器",
 	"onboardingTemplateSelectDescription": "在创建对象时轻松切换模板。",
-	"onboardingSpaceSelectTitle": "创建并共享空间",
-	"onboardingSpaceSelectDescription": "点击这里创建一个新的空间并与其他人分享！",
 	"onboardingQuickCaptureTitle": "使用不同的对象类型",
 	"onboardingQuickCaptureDescription": "选择对象类型，以进行分类和连接。",
 	"onboardingShareSpaceTitle": "在空间上共同共创、分享和协作！",
