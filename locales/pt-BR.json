@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Aqui sua equação será processada com <span class='icon tex'><\/span>. Clique para editar",
 	"blockEmbedEmpty": "Bloco embutido %s está vazio. Clique para editar.",
 	"blockEmbedSource": "Fonte",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Adicione cabeçalhos para criar um índice",
 	"blockFeaturedQuery": "Consulta",
 	"blockFeaturedIdentity": "Identidade",
