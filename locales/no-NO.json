@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Her vil likningen din bli gjengitt med <span class='icon tex'><\/span>. Klikk for å redigere",
 	"blockEmbedEmpty": "%s innebygd blokk er tom. Klikk for å redigere.",
 	"blockEmbedSource": "Kilde",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Legg til overskrifter for å lage en innholdsfortegnelse",
 	"blockFeaturedQuery": "Spørring",
 	"blockFeaturedIdentity": "Identitet",
