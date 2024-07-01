@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "此处您的方程将以 <span class='icon tex'><\/span>呈现。点击编辑",
 	"blockEmbedEmpty": "%s 嵌入块为空。点击进行编辑。",
 	"blockEmbedSource": "来源",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "添加标题以创建目录",
 	"blockFeaturedQuery": "查询",
 	"blockFeaturedIdentity": "标识",
