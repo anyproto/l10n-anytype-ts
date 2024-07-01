@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Тут буде показано ваше рівняння з <span class='icon tex'><\/span>. Натисніть для редагування",
 	"blockEmbedEmpty": "Блок вставлення %s порожній. Натисніть для редагування.",
 	"blockEmbedSource": "Джерело",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Додати заголовки для створення таблиці вмісту",
 	"blockFeaturedQuery": "Запит",
 	"blockFeaturedIdentity": "Identity",
