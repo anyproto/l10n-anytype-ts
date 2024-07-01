@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Aquí será mostrada a súa ecuación con <span class='icon tex'><\/span>. Faga clic para editar",
 	"blockEmbedEmpty": "O bloque incrustado %s está baleiro. Faga clic para editar.",
 	"blockEmbedSource": "Fonte",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Engadir títulos para crear un índice",
 	"blockFeaturedQuery": "Consulta",
 	"blockFeaturedIdentity": "Identidade",
