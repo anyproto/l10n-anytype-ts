@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Here your equation will be rendered with <span class='icon tex'><\/span>. Click to edit",
 	"blockEmbedEmpty": "",
 	"blockEmbedSource": "Source",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Προσθέστε κεφαλίδες για δημιουργία ενός πίνακα περιεχομένων",
 	"blockFeaturedQuery": "Ερώτημα",
 	"blockFeaturedIdentity": "Identity",
