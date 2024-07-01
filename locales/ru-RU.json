@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Здесь ваше уравнение будет отображено с <span class='icon tex'><\/span>. Нажмите, чтобы изменить",
 	"blockEmbedEmpty": "Блок вставки %s пуст. Нажмите, чтобы редактировать.",
 	"blockEmbedSource": "Источник",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Добавьте заголовки для создания таблицы содержания",
 	"blockFeaturedQuery": "Запрос",
 	"blockFeaturedIdentity": "Личные данные",
