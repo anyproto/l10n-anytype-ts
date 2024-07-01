@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Dyn fergeliking sil hjir toand wurde mei <span class='icon tex'><\/span>. Klik om te bewurkjen",
 	"blockEmbedEmpty": "%s ynslútblok is leech. Klik om te bewurkjen.",
 	"blockEmbedSource": "Boarne",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Foegje koppen ta om in ynhâldsopjefte te meitsjen",
 	"blockFeaturedQuery": "Enkête",
 	"blockFeaturedIdentity": "Identity",
