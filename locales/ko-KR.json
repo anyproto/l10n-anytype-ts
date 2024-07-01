@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "방정식은 <span class='icon tex'><\/span>로 표시됩니다. 수정하려면 클릭하세요.",
 	"blockEmbedEmpty": "%s 임베드 블록이 비어있습니다. 수정하려면 클릭하세요. ",
 	"blockEmbedSource": "출처",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "제목을 추가하여 목차 만들기",
 	"blockFeaturedQuery": "쿼리",
 	"blockFeaturedIdentity": "신원",
