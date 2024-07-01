@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Ici, votre équation sera rendue avec <span class='icon tex'><\/span>. Cliquez pour modifier",
 	"blockEmbedEmpty": "Le bloc d'intégration %s est vide. Cliquez pour le modifier.",
 	"blockEmbedSource": "Source",
+	"blockEmbedOffline": "Vous n’êtes pas connecté·e à internet",
 	"blockTableOfContentsAdd": "Ajouter des en-têtes pour créer une table des matières",
 	"blockFeaturedQuery": "Requête",
 	"blockFeaturedIdentity": "Identité",
