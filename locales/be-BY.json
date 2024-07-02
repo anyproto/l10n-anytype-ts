@@ -535,7 +535,7 @@
 	"blockEmbedLatexEmpty": "Тут будзе адлюстравана ваша ўраўненне з<span class='icon tex'><\/span>Націсніце, каб змяніць",
 	"blockEmbedEmpty": "Блок устаўкі %s пусты. Націсні для праўкі",
 	"blockEmbedSource": "Крыніца",
-	"blockEmbedOffline": "You are not connected to the Internet",
+	"blockEmbedOffline": "Вы не падключаны да Інтэрнэту",
 	"blockTableOfContentsAdd": "Дадайце загалоўкі для стварэння зместу",
 	"blockFeaturedQuery": "Запыт",
 	"blockFeaturedIdentity": "Асабістыя даныя",
