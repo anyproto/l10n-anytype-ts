@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Tutaj twoje równanie zostanie wyrenderowane za pomocą <span class='icon tex'><\/span>. Kliknij, aby edytować",
 	"blockEmbedEmpty": "%s blok osadzania jest pusty. Kliknij, aby edytować.",
 	"blockEmbedSource": "Źródło",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Dodaj nagłówki do spisu treści",
 	"blockFeaturedQuery": "Zapytanie",
 	"blockFeaturedIdentity": "Tożsamość",

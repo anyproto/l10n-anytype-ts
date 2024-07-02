@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Här kommer din ekvation att renderas med <span class='icon tex'><\/span>. Klicka för att redigera",
 	"blockEmbedEmpty": "%s inbäddat block är tomt. Klicka för att redigera.",
 	"blockEmbedSource": "Källa",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Lägg till rubriker för att skapa en innehållsförteckning",
 	"blockFeaturedQuery": "Förfrågan",
 	"blockFeaturedIdentity": "Identity",

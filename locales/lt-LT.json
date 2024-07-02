@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Čia tavo lygtis bus piešiama su <span class='icon tex'><\/span>. Spausk, kad redaguotum",
 	"blockEmbedEmpty": "%s svetainės iškarpa tuščia. Spausk, kad redaguotum.",
 	"blockEmbedSource": "Šaltinis",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Pridėk antraščių, kad galėtum sukurti puslapio turinį",
 	"blockFeaturedQuery": "Užklausa",
 	"blockFeaturedIdentity": "Tapatybė",

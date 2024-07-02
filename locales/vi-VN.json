@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Phương trình của bạn sẽ được hiển thị bằng <span class='icon tex'><\/span> ở đây. Nhấp để sửa",
 	"blockEmbedEmpty": "Khối nhúng %s trống. Nhấp để sửa.",
 	"blockEmbedSource": "Nguồn",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Thêm đầu mục để tạo mục lục",
 	"blockFeaturedQuery": "Truy vấn",
 	"blockFeaturedIdentity": "Danh tính",

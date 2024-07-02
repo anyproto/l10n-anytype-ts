@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Hier zal je vergelijking worden weergegeven met <span class='icon tex'><\/span>. Klik om te bewerken",
 	"blockEmbedEmpty": "%s insluitblok is leeg. Klik om te bewerken.",
 	"blockEmbedSource": "Bron",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Voeg koppen toe om een inhoudsopgave te maken",
 	"blockFeaturedQuery": "Query",
 	"blockFeaturedIdentity": "Identiteit",

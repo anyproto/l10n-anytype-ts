@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Aici ecuația dvs. va fi redată cu <span class='icon tex'><\/span>. Faceți clic pentru a edita",
 	"blockEmbedEmpty": "Bloc: %s este gol. Faceţi clic pentru a edita.",
 	"blockEmbedSource": "Sursă",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Adaugă antete pentru a crea un tabel de conținut",
 	"blockFeaturedQuery": "Interogare",
 	"blockFeaturedIdentity": "Identity",

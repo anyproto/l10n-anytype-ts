@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Denkleminiz <span class='icon tex'><\/span> bu şekilde görünecektir. Düzenlemek için tıklayın.",
 	"blockEmbedEmpty": "%s gömülü blok boş. Düzenlemek için tıklayın.",
 	"blockEmbedSource": "Kaynak",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "İçindekiler tablosu oluşturmak için başlıklar ekleyin",
 	"blockFeaturedQuery": "Sorgu",
 	"blockFeaturedIdentity": "Identity",

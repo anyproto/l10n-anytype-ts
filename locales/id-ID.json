@@ -535,6 +535,7 @@
 	"blockEmbedLatexEmpty": "Di sini persamaanmu akan dirender dengan <span class='icon tex'><\/span>. Klik untuk menyunting.",
 	"blockEmbedEmpty": "Balok semat %s kosong. Klik untuk menyunting.",
 	"blockEmbedSource": "Sumber",
+	"blockEmbedOffline": "You are not connected to the Internet",
 	"blockTableOfContentsAdd": "Tambahkan tajuk untuk membuat daftar isi",
 	"blockFeaturedQuery": "Kueri",
 	"blockFeaturedIdentity": "Identitas",
