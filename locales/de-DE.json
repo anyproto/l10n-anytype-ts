@@ -535,7 +535,7 @@
 	"blockEmbedLatexEmpty": "Deine Gleichung wird hier mit <span class='icon tex'><\/span> gerendert. Zum Bearbeiten klicken",
 	"blockEmbedEmpty": "Einbettungsblock %s ist leer. Zum Bearbeiten klicken.",
 	"blockEmbedSource": "Quelle",
-	"blockEmbedOffline": "You are not connected to the Internet",
+	"blockEmbedOffline": "Du bist nicht mit dem Internet verbunden",
 	"blockTableOfContentsAdd": "Überschriften hinzufügen, um ein Inhaltsverzeichnis zu erstellen",
 	"blockFeaturedQuery": "Abfrage",
 	"blockFeaturedIdentity": "Identität",
