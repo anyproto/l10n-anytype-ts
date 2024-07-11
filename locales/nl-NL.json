@@ -823,6 +823,7 @@
 	"popupMembershipWriteToAnyteam": "Schrijf naar Anyteam",
 	"popupMembershipManageOnMobilePlatform": "Beheer beschikbaar op mobiel platform",
 	"popupMembershipPaidOnOtherPlatform": "Je hebt op een ander platform al een lidmaatschap verworven, annuleer eerst het lidmaatschap.",
+	"popupMembershipPaidByCrypto": "To upgrade your membership using cryptocurrency, please contact Anytype.",
 	"popupMembershipWhatsIncluded": "Wat is inbegrepen",
 	"popupMembershipSuccessTitle": "Welkom bij het netwerk, %s",
 	"popupMembershipSuccessTextCuriosity": "Hulde voor jouw nieuwsgierigheid!",
