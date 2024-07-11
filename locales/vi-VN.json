@@ -823,6 +823,7 @@
 	"popupMembershipWriteToAnyteam": "Viết gửi đến Anyteam",
 	"popupMembershipManageOnMobilePlatform": "Manage available on Mobile platform",
 	"popupMembershipPaidOnOtherPlatform": "Bạn đã lấy tư cách hội viên trên nền tảng khác, vui lòng huỷ tư cách trước.",
+	"popupMembershipPaidByCrypto": "To upgrade your membership using cryptocurrency, please contact Anytype.",
 	"popupMembershipWhatsIncluded": "Bao gồm những gì:",
 	"popupMembershipSuccessTitle": "Chào mừng đến với mạng, %s",
 	"popupMembershipSuccessTextCuriosity": "Ăn mừng cho sự tò mò của bạn thôi!",
