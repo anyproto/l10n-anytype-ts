@@ -823,6 +823,7 @@
 	"popupMembershipWriteToAnyteam": "Напісаць у Anyteam",
 	"popupMembershipManageOnMobilePlatform": "Кіраванне даступна на мабільнай платформе",
 	"popupMembershipPaidOnOtherPlatform": "Вы ўжо падпісаліся на іншай платформе, спачатку адмяніце сваё членства.",
+	"popupMembershipPaidByCrypto": "To upgrade your membership using cryptocurrency, please contact Anytype.",
 	"popupMembershipWhatsIncluded": "Што ўключана",
 	"popupMembershipSuccessTitle": "Вітаем вас у сетцы, %s",
 	"popupMembershipSuccessTextCuriosity": "Вялікі дзякуй за вашу цікаўнасць!",
