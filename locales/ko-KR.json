@@ -823,6 +823,7 @@
 	"popupMembershipWriteToAnyteam": "Anyteam에 쓰기",
 	"popupMembershipManageOnMobilePlatform": "모바일 플랫폼에서 관리 가능",
 	"popupMembershipPaidOnOtherPlatform": "다른 플랫폼에서 이미 멤버십 플랜을 구독하였습니다. 먼저 해당 멤버십을 해지하세요.",
+	"popupMembershipPaidByCrypto": "To upgrade your membership using cryptocurrency, please contact Anytype.",
 	"popupMembershipWhatsIncluded": "포함된 내용",
 	"popupMembershipSuccessTitle": "네트워크에 오신 것을 환영합니다, %s",
 	"popupMembershipSuccessTextCuriosity": "여러분의 호기심에 큰 박수를 보냅니다!",
