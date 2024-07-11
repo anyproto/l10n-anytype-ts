@@ -823,6 +823,7 @@
 	"popupMembershipWriteToAnyteam": "Skriv til Anyteam",
 	"popupMembershipManageOnMobilePlatform": "Administrasjon tilgjengelig på mobilplattformen",
 	"popupMembershipPaidOnOtherPlatform": "Du har allerede skaffet deg et medlemskap på en annen plattform, vennligst avbryt dette først.",
+	"popupMembershipPaidByCrypto": "To upgrade your membership using cryptocurrency, please contact Anytype.",
 	"popupMembershipWhatsIncluded": "Hva er inkludert",
 	"popupMembershipSuccessTitle": "Velkommen til nettverket, %s",
 	"popupMembershipSuccessTextCuriosity": "Stor applaus for din nysgjerrighet!",
