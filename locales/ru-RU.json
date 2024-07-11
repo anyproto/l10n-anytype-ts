@@ -823,6 +823,7 @@
 	"popupMembershipWriteToAnyteam": "Написать в команду Anytype",
 	"popupMembershipManageOnMobilePlatform": "Manage available on Mobile platform",
 	"popupMembershipPaidOnOtherPlatform": "You've already acquired Membership plan on another platform, please cancel Membership first.",
+	"popupMembershipPaidByCrypto": "To upgrade your membership using cryptocurrency, please contact Anytype.",
 	"popupMembershipWhatsIncluded": "Что включено",
 	"popupMembershipSuccessTitle": "Добро пожаловать в сеть, %s",
 	"popupMembershipSuccessTextCuriosity": "Большое спасибо за Ваше любопытство!",
