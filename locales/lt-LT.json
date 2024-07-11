@@ -823,6 +823,7 @@
 	"popupMembershipWriteToAnyteam": "Rašyti „Anyteam“",
 	"popupMembershipManageOnMobilePlatform": "Valdymas per mobiliąją programėlę",
 	"popupMembershipPaidOnOtherPlatform": "Tu jau turi Narystės planą kitoje platformoje, prašome pirmausiai atšaukti Narystę.",
+	"popupMembershipPaidByCrypto": "To upgrade your membership using cryptocurrency, please contact Anytype.",
 	"popupMembershipWhatsIncluded": "Kas įtraukta",
 	"popupMembershipSuccessTitle": "Sveikas(-a) atvykęs(-usi) į tinklą, %s",
 	"popupMembershipSuccessTextCuriosity": "Dideli sveikinimai už tavo smalsumą!",
