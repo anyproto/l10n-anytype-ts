@@ -823,6 +823,7 @@
 	"popupMembershipWriteToAnyteam": "给 Anytype 团队写信",
 	"popupMembershipManageOnMobilePlatform": "可以在移动平台上进行管理",
 	"popupMembershipPaidOnOtherPlatform": "您已在其他平台购买了会员计划，请先取消会员资格。",
+	"popupMembershipPaidByCrypto": "To upgrade your membership using cryptocurrency, please contact Anytype.",
 	"popupMembershipWhatsIncluded": "包含的内容",
 	"popupMembershipSuccessTitle": "欢迎来到 Anytype 网络， %s",
 	"popupMembershipSuccessTextCuriosity": "为你的好奇心干杯大的！",
