@@ -823,6 +823,7 @@
 	"popupMembershipWriteToAnyteam": "Scrivi a Anyteam",
 	"popupMembershipManageOnMobilePlatform": "Manage available on Mobile platform",
 	"popupMembershipPaidOnOtherPlatform": "You've already acquired Membership plan on another platform, please cancel Membership first.",
+	"popupMembershipPaidByCrypto": "To upgrade your membership using cryptocurrency, please contact Anytype.",
 	"popupMembershipWhatsIncluded": "Cosa è incluso",
 	"popupMembershipSuccessTitle": "Benvenuto\/a nella rete, %s",
 	"popupMembershipSuccessTextCuriosity": "Un grande applauso per la tua curiosità!",
