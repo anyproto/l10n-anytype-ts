@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Inga objekt hittades",
 	"popupSearchNoObjects": "<b>Det finns inga föremål med namnet <span>\"%s\"<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Det finns inga föremål med namnet <span>\"%s\"<\/span><\/b>. Försök skapa ett nytt eller sök efter något annat",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Senaste föremål",
 	"popupSearchAddRelation": "Lägg till relation",
 	"popupSearchTooltipSearchByBacklinks": "Show related objects",
