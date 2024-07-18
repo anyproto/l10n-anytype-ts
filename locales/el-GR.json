@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Δε βρέθηκαν Αντικείμενα",
 	"popupSearchNoObjects": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Δεν υπάρχουν Αντικείμενα με όνομα <span>\"%s\"<\/span><\/b>Δοκιμάστε να δημιουργήσετε ένα νέο, ή αναζητήστε κάτι άλλο",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Πρόσφατα Αντικείμενα",
 	"popupSearchAddRelation": "Προσθήκη Σχέσης",
 	"popupSearchTooltipSearchByBacklinks": "Show related objects",
