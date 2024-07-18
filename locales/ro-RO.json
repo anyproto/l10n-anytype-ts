@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Nu a fost găsit niciun obiect",
 	"popupSearchNoObjects": "<b>Nu există nici un obiect numit <span>\"%s\"<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Nu există nici un obiect numit <span>\"%s\"<\/span><\/b>Încearcă să creezi unul nou sau caută altceva",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Obiecte recente",
 	"popupSearchAddRelation": "Adaugă relație",
 	"popupSearchTooltipSearchByBacklinks": "Show related objects",
