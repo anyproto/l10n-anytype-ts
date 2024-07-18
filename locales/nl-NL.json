@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Geen objecten gevonden",
 	"popupSearchNoObjects": "<b>Er zijn geen objecten genaamd <span>‘%s’<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Er zijn geen objecten genaamd <span>‘%s’<\/span><\/b>Probeer een nieuwe aan te maken of zoek op iets anders",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Recente objecten",
 	"popupSearchAddRelation": "Relatie toevoegen",
 	"popupSearchTooltipSearchByBacklinks": "Gerelateerde objecten tonen",
