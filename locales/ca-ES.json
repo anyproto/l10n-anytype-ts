@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "No s'ha trobat cap objecte",
 	"popupSearchNoObjects": "<b>No hi ha cap objecte anomenat <span>%s<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try creating a new one or search for something else",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Recent Objects",
 	"popupSearchAddRelation": "Afegeix Relació",
 	"popupSearchTooltipSearchByBacklinks": "Show related objects",
