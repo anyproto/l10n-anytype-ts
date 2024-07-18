@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Аб'екты не знойдзены",
 	"popupSearchNoObjects": "<b>Няма аб'ектаў з назвай <span>\"%s\"<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Няма аб'ектаў з назвай <span>\"%s\"<\/span><\/b>Паспрабуйце стварыць новы або знайдзіце нешта яшчэ",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Нядаўнія аб’екты",
 	"popupSearchAddRelation": "Дадаць Уласцівасць",
 	"popupSearchTooltipSearchByBacklinks": "Паказаць звязаныя аб'екты",
