@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "未找到物件",
 	"popupSearchNoObjects": "<b>沒有名爲<span>「%s」的物件<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>沒有名爲<span>「%s」<\/span><\/b>的物件。建立新物件或搜尋其他內容吧",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "最近使用的物件",
 	"popupSearchAddRelation": "添加關聯",
 	"popupSearchTooltipSearchByBacklinks": "顯示關聯物件",
