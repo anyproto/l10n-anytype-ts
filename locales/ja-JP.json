@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "オブジェクトが見つかりません",
 	"popupSearchNoObjects": "<b><span>\"%s\"<\/span>という名前のオブジェクトはありません<\/b>",
 	"popupSearchEmptyFilter": "<b><span>\"%s\"<\/span>の名前があるオブジェクトはありません<\/b>新しいものを作成するか、他のものを検索してみてください",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "最近のオブジェクト",
 	"popupSearchAddRelation": "リレーションを追加",
 	"popupSearchTooltipSearchByBacklinks": "Show related objects",
