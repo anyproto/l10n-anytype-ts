@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Žádné objekty nenalezeny",
 	"popupSearchNoObjects": "<b>Nejsou žádné objekty s názvem <span>\"%s\"<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Nejsou žádné objekty s názvem <span>\"%s\"<\/span><\/b>Zkuste vytvořit nové, nebo hledat něco jiného",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Nedávné objekty",
 	"popupSearchAddRelation": "Add Relation",
 	"popupSearchTooltipSearchByBacklinks": "Show related objects",
