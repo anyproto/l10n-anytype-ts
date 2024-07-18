@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Gjin objekten fûn",
 	"popupSearchNoObjects": "<b>Der binne gjin objekten mei de namme <span>‘%s’<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Der binne gjin objekten mei de namme <span>‘%s’<\/span><\/b>Probearje in nije oan te meitsjen of sykje op wat oars",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Resinte objekten",
 	"popupSearchAddRelation": "Add Relation",
 	"popupSearchTooltipSearchByBacklinks": "Show related objects",
