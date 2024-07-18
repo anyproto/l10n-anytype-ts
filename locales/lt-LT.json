@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Nerasta Objektų",
 	"popupSearchNoObjects": "<b>Nėra jokių Objektų su pavadinimu <span>\"%s\"<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Nėra jokių Objektų su pavadinimu <span>\"%s\"<\/span><\/b>Pabandyk sukurti naują arba ieškoti kažko kito",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Naujausi Objektai",
 	"popupSearchAddRelation": "Pridėti Sąryšį",
 	"popupSearchTooltipSearchByBacklinks": "Rodyti susijusius objektus",
