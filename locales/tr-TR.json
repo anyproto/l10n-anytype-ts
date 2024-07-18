@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Nesne bulunamadı",
 	"popupSearchNoObjects": "<b>Bulunamadı<span>\"%s\"<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b><span>\"%s\"<\/span> adında bir Nesne bulunamadı<\/b>Yeni bir tane oluşturun veya başka bir şey arayın",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Son Nesneler",
 	"popupSearchAddRelation": "Add Relation",
 	"popupSearchTooltipSearchByBacklinks": "Show related objects",
