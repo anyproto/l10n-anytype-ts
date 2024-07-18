@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Objek tidak ditemukan",
 	"popupSearchNoObjects": "<b>Tidak ada Objek bernama <span>\"%s\"<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Tidak ada Objek bernama <span>\"%s\"<\/span><\/b>Coba buat baru atau telusuri yang lain",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Baru Dibuka",
 	"popupSearchAddRelation": "Tambah Relasi",
 	"popupSearchTooltipSearchByBacklinks": "Tampilkan objek terkait",
