@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "오브젝트를 찾을 수 없습니다",
 	"popupSearchNoObjects": "<b><span>\"%s\"<\/span>라는 이름의 오브젝트가 없습니다.<\/b>",
 	"popupSearchEmptyFilter": "<b><span>\"%s\"<\/span>라는 이름의 오브젝트가 없습니다.<\/b> 새로 만들거나 다른 항목을 검색해 보세요.",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "최근 오브젝트",
 	"popupSearchAddRelation": "관계 추가",
 	"popupSearchTooltipSearchByBacklinks": "관련 오브젝트 표시",
