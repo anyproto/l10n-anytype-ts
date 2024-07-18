@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Ingen objekter funnet",
 	"popupSearchNoObjects": "<b>Det finnes ingen objekter kalt <span>\"%s\"<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Det finnes ingen objekter med navnet <span>\"%s\"<\/span><\/b>Prøv å lage et nytt eller søk etter noe annet",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Nylige objekter",
 	"popupSearchAddRelation": "Legg til relasjon",
 	"popupSearchTooltipSearchByBacklinks": "Vis relaterte objekter",
