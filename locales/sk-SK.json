@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Žiadne objekty neboli nájdené",
 	"popupSearchNoObjects": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Neexistujú žiadne objekty s názvom <span>\"%s\"<\/span><\/b>Skúste vytvoriť nový alebo vyhľadajte niečo iné",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Nedávne objekty",
 	"popupSearchAddRelation": "Add Relation",
 	"popupSearchTooltipSearchByBacklinks": "Show related objects",
