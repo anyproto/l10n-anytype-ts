@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Объекты не найдены",
 	"popupSearchNoObjects": "<b>Нет объектов под именем <span>\"%s\"<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Нет объектов с названием <span>\"%s\"<\/span><\/b>Попробуйте создать новый или найдите что-то ещё",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Недавние объекты",
 	"popupSearchAddRelation": "Добавить связь",
 	"popupSearchTooltipSearchByBacklinks": "Показать связанные объекты",
