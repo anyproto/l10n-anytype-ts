@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Không tìm thấy Đối tượng nào",
 	"popupSearchNoObjects": "<b>Không có Đối tượng tên <span>\"%s\"<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Không có Đối tượng tên <span>\"%s\"<\/span><\/b>Hãy thử tạo một cái mới hoặc tìm cái gì đấy khác",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Các Đối tượng gần đây",
 	"popupSearchAddRelation": "Thêm Liên hệ",
 	"popupSearchTooltipSearchByBacklinks": "Hiện các đối tượng liên quan",
