@@ -908,6 +908,7 @@
 	"popupSearchEmpty": "Няма намерени Обекти",
 	"popupSearchNoObjects": "<b>Няма обекти с име <span>\"%s\"<\/span><\/b>",
 	"popupSearchEmptyFilter": "<b>Няма обекти с име <span>\"%s\"<\/span><\/b>Опитайте да създадете нов или потърсете нещо друго",
+	"popupSearchEmptyFilterReadonly": "<b>There are no Objects named <span>\"%s\"<\/span><\/b>Try to search for something else",
 	"popupSearchRecentObjects": "Скорошни Обекти",
 	"popupSearchAddRelation": "Add Relation",
 	"popupSearchTooltipSearchByBacklinks": "Show related objects",
