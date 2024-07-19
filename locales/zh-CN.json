@@ -1086,7 +1086,7 @@
 	"popupRelationAddToView": "目前尚未显示任何关联",
 	"popupShareTitle": "与你所关心的人分享 Anytype",
 	"popupShareLabel": "感谢分享 Anytype",
-	"popupShareLinkText": "The everything app for those who celebrate trust & autonomy. <a href=\"%s\">https:\/\/simple-sharing.anytype.io\/<\/a>",
+	"popupShareLinkText": "The everything app for those who celebrate trust & autonomy. <a href=\"%s\">%s<\/a>",
 	"menuVaultPeer": "%d\/%d 节点",
 	"menuVaultPathText": "您的密钥文件将存储在这里。点击更改路径",
 	"menuSmileGallery": "表情符号",
