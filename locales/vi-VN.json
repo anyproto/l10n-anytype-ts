@@ -1086,7 +1086,7 @@
 	"popupRelationAddToView": "Thêm liên hệ vào chế độ xem",
 	"popupShareTitle": "Chia sẻ Anytype cho những người bạn quan tâm",
 	"popupShareLabel": "Cảm ơn đã chia sẻ Anytype",
-	"popupShareLinkText": "Ứng dụng mọi điều cho những người tán dương niềm tin & sự tự trị. <a href=\"%s\">https:\/\/simple-sharing.anytype.io\/<\/a>",
+	"popupShareLinkText": "The everything app for those who celebrate trust & autonomy. <a href=\"%s\">%s<\/a>",
 	"menuVaultPeer": "%d\/%d máy",
 	"menuVaultPathText": "Các tệp khoá của bạn sẽ được giữ ở đây. Nhấp để đổi đường dẫn",
 	"menuSmileGallery": "Emoji",
