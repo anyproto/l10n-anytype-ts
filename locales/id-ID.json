@@ -1086,7 +1086,7 @@
 	"popupRelationAddToView": "Tambahkan relasi ke tampilan",
 	"popupShareTitle": "Bagikan Anytype dengan orang-orang yang kamu sayangi",
 	"popupShareLabel": "Terima kasih telah membagikan Anytype",
-	"popupShareLinkText": "The everything app for those who celebrate trust & autonomy. <a href=\"%s\">https:\/\/simple-sharing.anytype.io\/<\/a>",
+	"popupShareLinkText": "The everything app for those who celebrate trust & autonomy. <a href=\"%s\">%s<\/a>",
 	"menuVaultPeer": "%d\/%d peers",
 	"menuVaultPathText": "Your key files will be stored here. Click to change the path",
 	"menuSmileGallery": "Emoji",
