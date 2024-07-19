@@ -1086,7 +1086,7 @@
 	"popupRelationAddToView": "뷰에 관계 추가",
 	"popupShareTitle": "Share Anytype with those you care about",
 	"popupShareLabel": "Thanks for sharing Anytype",
-	"popupShareLinkText": "The everything app for those who celebrate trust & autonomy. <a href=\"%s\">https:\/\/simple-sharing.anytype.io\/<\/a>",
+	"popupShareLinkText": "The everything app for those who celebrate trust & autonomy. <a href=\"%s\">%s<\/a>",
 	"menuVaultPeer": "%d\/%d 피어",
 	"menuVaultPathText": "여기에 키 파일이 저장됩니다. 경로를 변경하려면 클릭하십시오.",
 	"menuSmileGallery": "이모티콘",
