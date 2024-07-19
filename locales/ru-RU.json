@@ -1086,7 +1086,7 @@
 	"popupRelationAddToView": "Добавить отношения к виду",
 	"popupShareTitle": "Поделиться Anytype со всеми желающими",
 	"popupShareLabel": "Спасибо за то, что поделились Anytype",
-	"popupShareLinkText": "Приложение для тех, кто ценит доверие и самостоятельность.  <a href=\"%s\">https:\/\/simple-sharing.anytype.io\/<\/a>",
+	"popupShareLinkText": "The everything app for those who celebrate trust & autonomy. <a href=\"%s\">%s<\/a>",
 	"menuVaultPeer": "%d\/%d узлы",
 	"menuVaultPathText": "Здесь будут храниться Ваши ключевые файлы. Нажмите, чтобы изменить путь",
 	"menuSmileGallery": "Эмодзи",
