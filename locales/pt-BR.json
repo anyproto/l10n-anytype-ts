@@ -238,7 +238,7 @@
 	"electronMenuFlagAnalytics": "Analytics",
 	"electronMenuFlagMw": "Middleware",
 	"electronMenuFlagMwRequest": "Requisição\/Resposta",
-	"electronMenuFlagMwEvent": "Common events",
+	"electronMenuFlagMwEvent": "Eventos usuais",
 	"electronMenuFlagMwSync": "Sincronizar eventos",
 	"electronMenuFlagMwFile": "Eventos de Arquivo",
 	"electronMenuFlagMwJson": "Logs JSON",
