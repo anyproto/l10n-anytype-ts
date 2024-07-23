@@ -1335,7 +1335,7 @@
 	"menuSyncStatusInfoLocalOnlyTitle": "Chỉ cục bộ",
 	"menuSyncStatusInfoLocalOnlyMessage": "Sao lưu dữ liệu vô hiệu",
 	"menuSyncStatusInfoP2pTitle": "Kết nối ngang hàng",
-	"menuSyncStatusEmptyLocal": "There are no objects to show in Local-Only mode",
+	"menuSyncStatusEmptyLocal": "You are in a local-only mode and your data not backed up to Anytype nodes. You can enable network backup anytime upon logging in to the application.",
 	"menuSyncStatusEmpty": "There are no objects to show",
 	"previewEdit": "Sửa Link",
 	"previewObjectTemplateIsBundled": "Mẫu được gói kèm",
