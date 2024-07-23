@@ -1335,7 +1335,7 @@
 	"menuSyncStatusInfoLocalOnlyTitle": "Kun lokalt",
 	"menuSyncStatusInfoLocalOnlyMessage": "Sikkerhetskopiering er deaktivert",
 	"menuSyncStatusInfoP2pTitle": "P2P-tilkobling",
-	"menuSyncStatusEmptyLocal": "There are no objects to show in Local-Only mode",
+	"menuSyncStatusEmptyLocal": "You are in a local-only mode and your data not backed up to Anytype nodes. You can enable network backup anytime upon logging in to the application.",
 	"menuSyncStatusEmpty": "There are no objects to show",
 	"previewEdit": "Endre lenke",
 	"previewObjectTemplateIsBundled": "Malen er inkludert",
