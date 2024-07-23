@@ -1335,7 +1335,7 @@
 	"menuSyncStatusInfoLocalOnlyTitle": "僅限本地",
 	"menuSyncStatusInfoLocalOnlyMessage": "資料備份已停用",
 	"menuSyncStatusInfoP2pTitle": "點對點連線",
-	"menuSyncStatusEmptyLocal": "There are no objects to show in Local-Only mode",
+	"menuSyncStatusEmptyLocal": "You are in a local-only mode and your data not backed up to Anytype nodes. You can enable network backup anytime upon logging in to the application.",
 	"menuSyncStatusEmpty": "There are no objects to show",
 	"previewEdit": "編輯連結",
 	"previewObjectTemplateIsBundled": "樣板已綁定",
