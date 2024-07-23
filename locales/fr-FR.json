@@ -1335,7 +1335,7 @@
 	"menuSyncStatusInfoLocalOnlyTitle": "Local uniquement",
 	"menuSyncStatusInfoLocalOnlyMessage": "La sauvegarde des données est désactivée",
 	"menuSyncStatusInfoP2pTitle": "Connexion P2P",
-	"menuSyncStatusEmptyLocal": "There are no objects to show in Local-Only mode",
+	"menuSyncStatusEmptyLocal": "You are in a local-only mode and your data not backed up to Anytype nodes. You can enable network backup anytime upon logging in to the application.",
 	"menuSyncStatusEmpty": "There are no objects to show",
 	"previewEdit": "Modifier un lien",
 	"previewObjectTemplateIsBundled": "Le modèle est compilé",
