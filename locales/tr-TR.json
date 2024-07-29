@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Güncellemeler kontrol ediliyor...",
 	"spellcheckAdd": "Sözlüğe ekle",
 	"headerTooltipPath": "Aramak için tıkla",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Ara",
 	"headerGraphTooltipFilters": "Filtreler",
 	"headerGraphTooltipSettings": "Ayarlar",
