@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "업데이트 확인 중...",
 	"spellcheckAdd": "사전에 추가",
 	"headerTooltipPath": "클릭해서 검색",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "검색",
 	"headerGraphTooltipFilters": "필터",
 	"headerGraphTooltipSettings": "설정",
