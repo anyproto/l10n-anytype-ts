@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Checking for update...",
 	"spellcheckAdd": "Add to dictionary",
 	"headerTooltipPath": "Click to search",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "தேடு",
 	"headerGraphTooltipFilters": "Filters",
 	"headerGraphTooltipSettings": "Settings",
