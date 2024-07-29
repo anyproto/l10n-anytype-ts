@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Semak kemaskini...",
 	"spellcheckAdd": "Tambah ke kamus",
 	"headerTooltipPath": "Klik untuk cari",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Cari",
 	"headerGraphTooltipFilters": "Filters",
 	"headerGraphTooltipSettings": "Settings",
