@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "正在檢查更新…",
 	"spellcheckAdd": "新增到詞典",
 	"headerTooltipPath": "點擊搜尋",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "搜尋",
 	"headerGraphTooltipFilters": "過濾",
 	"headerGraphTooltipSettings": "設置",
