@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Memeriksa pembaruan ...",
 	"spellcheckAdd": "Tambah ke kamus",
 	"headerTooltipPath": "Klik untuk menelusuri",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Telusuri",
 	"headerGraphTooltipFilters": "Saringan",
 	"headerGraphTooltipSettings": "Setelan",
