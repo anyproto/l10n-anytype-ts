@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Controleren op update…",
 	"spellcheckAdd": "Toevoegen aan woordenboek",
 	"headerTooltipPath": "Klik om te zoeken",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Zoeken",
 	"headerGraphTooltipFilters": "Filters",
 	"headerGraphTooltipSettings": "Instellingen",
