@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Έλεγχος για ενημέρωση…",
 	"spellcheckAdd": "Προσθήκη στο λεξικό",
 	"headerTooltipPath": "Κλικ για αναζήτηση",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Αναζήτηση",
 	"headerGraphTooltipFilters": "Φίλτρα",
 	"headerGraphTooltipSettings": "Ρυθμίσεις",
