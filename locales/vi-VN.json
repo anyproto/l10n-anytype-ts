@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Đang kiểm tra bản cập nhật...",
 	"spellcheckAdd": "Thêm vào từ điển",
 	"headerTooltipPath": "Nhấp để tìm",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Tìm kiếm",
 	"headerGraphTooltipFilters": "Bộ lọc",
 	"headerGraphTooltipSettings": "Cài đặt",
