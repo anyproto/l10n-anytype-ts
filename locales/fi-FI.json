@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Tarkistetaan päivityksiä...",
 	"spellcheckAdd": "Lisää sanakirjaan",
 	"headerTooltipPath": "Napsauta etsiäksesi",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Etsi",
 	"headerGraphTooltipFilters": "Filters",
 	"headerGraphTooltipSettings": "Asetukset",
