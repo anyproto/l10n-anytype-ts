@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "正在检查更新…",
 	"spellcheckAdd": "添加到词典",
 	"headerTooltipPath": "点击搜索",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "搜索",
 	"headerGraphTooltipFilters": "筛选",
 	"headerGraphTooltipSettings": "设置",
