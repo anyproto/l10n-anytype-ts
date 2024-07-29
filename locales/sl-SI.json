@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Preverjam za posodobitve ...",
 	"spellcheckAdd": "Dodaj v slovar",
 	"headerTooltipPath": "Klik za iskanje",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Išči",
 	"headerGraphTooltipFilters": "Filters",
 	"headerGraphTooltipSettings": "Settings",
