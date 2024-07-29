@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Se caută actualizări...",
 	"spellcheckAdd": "Adaugă în dicţionar",
 	"headerTooltipPath": "Apasă pentru a căuta",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Caută",
 	"headerGraphTooltipFilters": "Filtre",
 	"headerGraphTooltipSettings": "Setări",
