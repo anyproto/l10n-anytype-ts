@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Kontrola aktualizací...",
 	"spellcheckAdd": "Přidat do slovníku",
 	"headerTooltipPath": "Kliknutím vyhledáte",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Hledat",
 	"headerGraphTooltipFilters": "Filtry",
 	"headerGraphTooltipSettings": "Nastavení",
