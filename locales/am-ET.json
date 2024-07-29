@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Checking for update...",
 	"spellcheckAdd": "Add to dictionary",
 	"headerTooltipPath": "ለመፈለግ ይጫኑ",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "ይፈልጉ",
 	"headerGraphTooltipFilters": "Filters",
 	"headerGraphTooltipSettings": "Settings",
