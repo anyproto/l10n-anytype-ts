@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Перевірка наявності оновлень...",
 	"spellcheckAdd": "Додати до словника",
 	"headerTooltipPath": "Натисніть для пошуку",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Пошук",
 	"headerGraphTooltipFilters": "Фільтри",
 	"headerGraphTooltipSettings": "Налаштування",
