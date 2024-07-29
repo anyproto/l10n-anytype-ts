@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "A procurar atualizações...",
 	"spellcheckAdd": "Adicionar ao dicionário",
 	"headerTooltipPath": "Clica para pesquisar",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Pesquisar",
 	"headerGraphTooltipFilters": "Filters",
 	"headerGraphTooltipSettings": "Settings",
