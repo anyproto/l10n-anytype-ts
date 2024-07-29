@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Проверка наличия обновлений...",
 	"spellcheckAdd": "Добавить в словарь",
 	"headerTooltipPath": "Нажмите для поиска",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Поиск",
 	"headerGraphTooltipFilters": "Фильтры",
 	"headerGraphTooltipSettings": "Настройки",
