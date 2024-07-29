@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Checking for update...",
 	"spellcheckAdd": "Add to dictionary",
 	"headerTooltipPath": "Click to search",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "ਖੋਜ",
 	"headerGraphTooltipFilters": "Filters",
 	"headerGraphTooltipSettings": "Settings",
