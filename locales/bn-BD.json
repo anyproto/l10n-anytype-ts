@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "আপডেটের জন্য চেক করা হচ্ছে...",
 	"spellcheckAdd": "অভিধানে যুক্ত করুন",
 	"headerTooltipPath": "খোঁজ করার জন্য ক্লিক করুন",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "খুঁজুন",
 	"headerGraphTooltipFilters": "Filters",
 	"headerGraphTooltipSettings": "Settings",
