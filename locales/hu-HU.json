@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Frissítések keresése...",
 	"spellcheckAdd": "Hozzáadás a szótárhoz",
 	"headerTooltipPath": "Kattints ide a kereséshez",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Keresés",
 	"headerGraphTooltipFilters": "Szűrés",
 	"headerGraphTooltipSettings": "Beállítások",
