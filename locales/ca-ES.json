@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "S'està comprovant si hi ha actualitzacions",
 	"spellcheckAdd": "Afegeix al diccionari",
 	"headerTooltipPath": "Cliqueu per cercar",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Cerca",
 	"headerGraphTooltipFilters": "Filtres",
 	"headerGraphTooltipSettings": "Configuració",
