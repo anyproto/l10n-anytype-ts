@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "更新を確認中…",
 	"spellcheckAdd": "辞書に追加",
 	"headerTooltipPath": "クリックして検索",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "検索",
 	"headerGraphTooltipFilters": "フィルター",
 	"headerGraphTooltipSettings": "設定",
