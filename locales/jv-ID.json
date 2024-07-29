@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Checking for update...",
 	"spellcheckAdd": "Tambah ing bausastra",
 	"headerTooltipPath": "Click to search",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Pados",
 	"headerGraphTooltipFilters": "Filters",
 	"headerGraphTooltipSettings": "Settings",
