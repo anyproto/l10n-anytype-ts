@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Checking for update...",
 	"spellcheckAdd": "Add to dictionary",
 	"headerTooltipPath": "Click to search",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "खोज्नुहोस्",
 	"headerGraphTooltipFilters": "Filters",
 	"headerGraphTooltipSettings": "Settings",
