@@ -295,6 +295,7 @@
 	"progressUpdateCheck": "Söker efter uppdateringar ..",
 	"spellcheckAdd": "Lägg till i ordlista",
 	"headerTooltipPath": "Klicka för att söka",
+	"headerObjectLocked": "Locked",
 	"headerGraphTooltipSearch": "Sök",
 	"headerGraphTooltipFilters": "Filter",
 	"headerGraphTooltipSettings": "Inställningar",
