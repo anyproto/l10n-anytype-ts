@@ -311,7 +311,7 @@
 	"authDisclaimer": "Працягваючы,  вы згаджаецеся з нашымі <a href=\"%s\">Умовы выкарыстання<\/a> і <a href=\"%s\">палітыка прыватнасці<\/a>",
 	"authLoginSubmit": "Увайсці ў Сховішча",
 	"authLoginLostPhrase": "Я згубіў свой Ключ",
-	"authRegisterTitle": "Дадаць імя і выяву профілю",
+	"authRegisterTitle": "Дадаць імя і аватар профілю",
 	"authRegisterLabel": "Новы профіль",
 	"authRegisterName": "Увядзіце сваё імя",
 	"authRegisterSubmit": "Стварыць",
