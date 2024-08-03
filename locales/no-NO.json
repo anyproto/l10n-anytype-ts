@@ -819,7 +819,7 @@
 	"popupMembershipStatusWaitASecond": "Vent et øyeblikk...",
 	"popupMembershipStatusNameAvailable": "Dette navnet er tilgjengelig!",
 	"popupMembershipStatusNameNotAvailable": "Oops! Dette navnet er allerede tatt!",
-	"popupMembershipCurrentStatus": "Gjeldande status",
+	"popupMembershipCurrentStatus": "Nåværende status",
 	"popupMembershipValidUntil": "Gyldig til",
 	"popupMembershipForever": "Alltid",
 	"popupMembershipChangeEmail": "Endre e-post",
