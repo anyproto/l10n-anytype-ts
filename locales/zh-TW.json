@@ -931,7 +931,7 @@
 	"popupExportTitle": "匯出物件",
 	"popupExportFormat": "匯出格式",
 	"popupExportOk": "匯出",
-	"popupHelpPrevious": "以前",
+	"popupHelpPrevious": "上一頁",
 	"popupHelpNext": "下一步",
 	"popupIndexComponentNotFound": "組件 %s 未找到",
 	"popupShortcutMain": "主介面",
