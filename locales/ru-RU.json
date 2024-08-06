@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Пустой переключатель. Нажмите или перетащите блок внутрь",
 	"blockTextWrap": "Завернуть",
 	"blockTextUnwrap": "Развернуть",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Синхронизация...",
 	"blockLinkArchived": "Удалено",
 	"blockDataviewCreateNewCollection": "Создать новую коллекцию",
