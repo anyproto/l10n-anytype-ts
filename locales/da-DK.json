@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Empty toggle. Click or drop Block inside",
 	"blockTextWrap": "Ombryd",
 	"blockTextUnwrap": "Ombryd ikke",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Synkroniserer...",
 	"blockLinkArchived": "Slettet",
 	"blockDataviewCreateNewCollection": "Opret ny samling",
