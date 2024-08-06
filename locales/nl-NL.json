@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Lege schakelaar. Klik of sleep een blok er in",
 	"blockTextWrap": "Omsluiten",
 	"blockTextUnwrap": "Ontsluiten",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Synchroniseren…",
 	"blockLinkArchived": "Verwijderd",
 	"blockDataviewCreateNewCollection": "Nieuwe collectie creëren",
