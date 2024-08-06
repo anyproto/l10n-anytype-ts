@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Conmutador baleiro. Fai clic ou solta Bloquear dentro",
 	"blockTextWrap": "Envolver",
 	"blockTextUnwrap": "Desenvolver",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Sincronizando...",
 	"blockLinkArchived": "Borrado",
 	"blockDataviewCreateNewCollection": "Crear nova Colección",
