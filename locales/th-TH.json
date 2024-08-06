@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Empty toggle. Click or drop Block inside",
 	"blockTextWrap": "Wrap",
 	"blockTextUnwrap": "Unwrap",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "กำลัง Sync...",
 	"blockLinkArchived": "ลบทิ้งแล้ว",
 	"blockDataviewCreateNewCollection": "Create new Collection",
