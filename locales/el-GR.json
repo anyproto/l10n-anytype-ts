@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Άδειος διακόπτης. Κάντε κλικ ή αφήστε το μπλοκ μέσα.",
 	"blockTextWrap": "Τυλίγω|Μαζεύω",
 	"blockTextUnwrap": "Unwrap",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Συγχρονισμός...",
 	"blockLinkArchived": "Διεγράφη",
 	"blockDataviewCreateNewCollection": "Δημιουργία νέας Συλλογής",
