@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "空的折疊清單。按一下此處添加內容或拖動區塊到這裡",
 	"blockTextWrap": "文字換行",
 	"blockTextUnwrap": "展開",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "同步中…",
 	"blockLinkArchived": "已刪除",
 	"blockDataviewCreateNewCollection": "新建集錦",
