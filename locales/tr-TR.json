@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Boş anahtar. Tıklayın veya Bloğun içine sürükleyin.",
 	"blockTextWrap": "Kaydır",
 	"blockTextUnwrap": "Kaydırma",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Senkronize ediliyor...",
 	"blockLinkArchived": "Silindi",
 	"blockDataviewCreateNewCollection": "Yeni koleksiyon oluştur",
