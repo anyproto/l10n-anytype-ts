@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Khối đóng mở trống. Nhấp hoặc kéo thả Khối vào trong",
 	"blockTextWrap": "Xuống hàng",
 	"blockTextUnwrap": "Đừng xuống hàng",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Đang đồng bộ...",
 	"blockLinkArchived": "Đã xoá",
 	"blockDataviewCreateNewCollection": "Tạo Bộ mới",
