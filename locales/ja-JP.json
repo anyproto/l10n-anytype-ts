@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "空のトグル。ブロックをクリックまたは中にドロップ",
 	"blockTextWrap": "ラップ",
 	"blockTextUnwrap": "アンラップ",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "同期中...",
 	"blockLinkArchived": "削除済み",
 	"blockDataviewCreateNewCollection": "新しいコレクションを作成",
