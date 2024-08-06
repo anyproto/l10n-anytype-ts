@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Bloc dépliant vide. Cliquez ou déposez un bloc à l'intérieur.",
 	"blockTextWrap": "Enrouler",
 	"blockTextUnwrap": "Dérouler",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Synchronisation en cours...",
 	"blockLinkArchived": "Supprimé",
 	"blockDataviewCreateNewCollection": "Créer une nouvelle collection",
