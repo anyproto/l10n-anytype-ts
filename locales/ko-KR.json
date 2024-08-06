@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "빈 토글. 블록을 클릭하거나 드롭합니다.",
 	"blockTextWrap": "자동 줄 바꿈",
 	"blockTextUnwrap": "자동 줄 바꿈 해제",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "동기화 중...",
 	"blockLinkArchived": "삭제됨",
 	"blockDataviewCreateNewCollection": "새 컬렉션 생성",
