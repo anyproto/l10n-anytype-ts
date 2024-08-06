@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Empty toggle. Click or drop Block inside",
 	"blockTextWrap": "Ajustat",
 	"blockTextUnwrap": "No ajustat",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Sincronitzant...",
 	"blockLinkArchived": "Eliminat",
 	"blockDataviewCreateNewCollection": "Crea una Col·lecció nova",
