@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Порожній перемикач. Натисніть або закиньте блок всередину",
 	"blockTextWrap": "Згорнути",
 	"blockTextUnwrap": "Розгорнути",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Синхронізація...",
 	"blockLinkArchived": "Видалено",
 	"blockDataviewCreateNewCollection": "Створити Колекцію",
