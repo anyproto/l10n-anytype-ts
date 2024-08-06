@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Празен превключвател. Щракнете или пуснете Блокиране вътре",
 	"blockTextWrap": "Обвиване",
 	"blockTextUnwrap": "Разгръщане",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Синхронизиране...",
 	"blockLinkArchived": "Изтрито",
 	"blockDataviewCreateNewCollection": "Създаване на нова Колекция",
