@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Tuščias išskleidžiamas turinys. Spausk arba numesk bloką į vidų",
 	"blockTextWrap": "Laužyk tekstą",
 	"blockTextUnwrap": "Nelaužyk teksto",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Sinchronizuojama...",
 	"blockLinkArchived": "Ištrintas",
 	"blockDataviewCreateNewCollection": "Sukurti naują Kolekciją",
