@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Tom växlingsknapp. Klicka eller släpp Block inuti",
 	"blockTextWrap": "Omslag",
 	"blockTextUnwrap": "Veckla upp",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Synkroniserar...",
 	"blockLinkArchived": "Raderad",
 	"blockDataviewCreateNewCollection": "Skapa ny samling",

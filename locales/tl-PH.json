@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Empty toggle. Click or drop Block inside",
 	"blockTextWrap": "Balutin",
 	"blockTextUnwrap": "Alisin sa pagka-balot",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Nag-sysync...",
 	"blockLinkArchived": "Nabura",
 	"blockDataviewCreateNewCollection": "Gumawa ng bagong Collection",

@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Empty toggle. Click or drop Block inside",
 	"blockTextWrap": "ይጠቅልሉ",
 	"blockTextUnwrap": "Unwrap",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Syncing...",
 	"blockLinkArchived": "Deleted",
 	"blockDataviewCreateNewCollection": "Create new Collection",

@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Pusty przełącznik. Kliknij lub upuść pozycję Blokuj w środku",
 	"blockTextWrap": "Zwiń",
 	"blockTextUnwrap": "Rozwiń",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Synchronizowanie...",
 	"blockLinkArchived": "Usunięte",
 	"blockDataviewCreateNewCollection": "Utwórz nową kolekcję",

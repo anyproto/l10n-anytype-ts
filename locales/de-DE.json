@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Leerer Umschalter. Klicken oder Ablegen des Blocks innerhalb",
 	"blockTextWrap": "Zeilenumbruch aktivieren",
 	"blockTextUnwrap": "Zeilenumbruch deaktivieren",
+	"blockTextPlain": "Reiner Text",
 	"blockLinkSyncing": "Synchronisiere...",
 	"blockLinkArchived": "Gelöscht",
 	"blockDataviewCreateNewCollection": "Neue Sammlung anlegen",

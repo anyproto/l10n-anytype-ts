@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Prázdny prepínač. Kliknite alebo presuňte blok dovnútra",
 	"blockTextWrap": "Zalamovať",
 	"blockTextUnwrap": "Nezalamovať",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Synchronizujem…",
 	"blockLinkArchived": "Odstránené",
 	"blockDataviewCreateNewCollection": "Vytvoriť novú kolekciu",

@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Nincsenek alpontok. Kattints vagy húzz ide egy elemet.",
 	"blockTextWrap": "Wrap",
 	"blockTextUnwrap": "Unwrap",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Szinkronizálás...",
 	"blockLinkArchived": "Törölve",
 	"blockDataviewCreateNewCollection": "Create new Collection",

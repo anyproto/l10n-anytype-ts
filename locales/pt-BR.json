@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Alternador vazio. Clique ou solte o bloco dentro",
 	"blockTextWrap": "Quebrar linha",
 	"blockTextUnwrap": "Expandir",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Sincronizando...",
 	"blockLinkArchived": "Apagado",
 	"blockDataviewCreateNewCollection": "Criar Coleção\n",

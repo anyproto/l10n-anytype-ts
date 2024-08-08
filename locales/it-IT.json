@@ -489,6 +489,7 @@
 	"blockTextToggleEmpty": "Toggle vuoto. Fare clic o rilasciare il blocco all'interno",
 	"blockTextWrap": "Avvolgi",
 	"blockTextUnwrap": "Srotola",
+	"blockTextPlain": "Plain Text",
 	"blockLinkSyncing": "Sincronizzazione...",
 	"blockLinkArchived": "Eliminato",
 	"blockDataviewCreateNewCollection": "Crea una nuova Collezione",
