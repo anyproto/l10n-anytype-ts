@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "Instal·la",
 	"menuObjectSetDefaultTemplate": "Set as the default Template",
 	"menuObjectCreateWidget": "Create Widget",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "Afegeix a les relacions destacades",
 	"menuItemRelationViewFeaturedRemove": "Elimina de les relacions destacades",
 	"menuItemFilterTimeAgo": "Fa %d %s",
