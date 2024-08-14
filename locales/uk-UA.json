@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "Встановити",
 	"menuObjectSetDefaultTemplate": "Set as the default Template",
 	"menuObjectCreateWidget": "Create Widget",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "Додати до обраних Відносин",
 	"menuItemRelationViewFeaturedRemove": "Видалити з обраних Відносин",
 	"menuItemFilterTimeAgo": "%d %s тому",
