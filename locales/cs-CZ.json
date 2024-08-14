@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "Instalovat",
 	"menuObjectSetDefaultTemplate": "Set as the default Template",
 	"menuObjectCreateWidget": "Create Widget",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "Přidat do doporučených vztahů",
 	"menuItemRelationViewFeaturedRemove": "Odstranit z doporučených vztahů",
 	"menuItemFilterTimeAgo": "%d před %s",
