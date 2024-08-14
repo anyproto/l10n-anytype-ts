@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "Installa",
 	"menuObjectSetDefaultTemplate": "Imposta come Modello predefinito",
 	"menuObjectCreateWidget": "Crea Widget",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "Aggiungi alle Relazioni in evidenza",
 	"menuItemRelationViewFeaturedRemove": "Rimuovi dalle Relazioni in evidenza",
 	"menuItemFilterTimeAgo": "%d %s fa",
