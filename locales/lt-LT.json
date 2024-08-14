@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "Įdiegti",
 	"menuObjectSetDefaultTemplate": "Set as the default Template",
 	"menuObjectCreateWidget": "Sukurti valdiklį",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "Pridėti prie Išskirtinių Sąryšių",
 	"menuItemRelationViewFeaturedRemove": "Pašalinti iš Išskirtinių Sąryšių",
 	"menuItemFilterTimeAgo": "prieš %d %s",
