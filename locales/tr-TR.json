@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "Kur",
 	"menuObjectSetDefaultTemplate": "Set as the default Template",
 	"menuObjectCreateWidget": "Widget Oluştur",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "Öne Çıkan Bağıntılara Ekle",
 	"menuItemRelationViewFeaturedRemove": "Öne Çıkan Bağıntılardan Kaldır",
 	"menuItemFilterTimeAgo": "%d %s önce",
