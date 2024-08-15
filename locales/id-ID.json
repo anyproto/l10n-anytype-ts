@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "Pasang",
 	"menuObjectSetDefaultTemplate": "Jadikan Templat bawaan",
 	"menuObjectCreateWidget": "Buat Gawit",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "Tambah ke Relasi pilihan",
 	"menuItemRelationViewFeaturedRemove": "Hapus dari Relasi pilihan",
 	"menuItemFilterTimeAgo": "%d %s yang lalu",

@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "Instalează",
 	"menuObjectSetDefaultTemplate": "Set as the default Template",
 	"menuObjectCreateWidget": "Create Widget",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "Adaugă la relațiile recomandate",
 	"menuItemRelationViewFeaturedRemove": "Șterge din relațiile recomandate",
 	"menuItemFilterTimeAgo": "%d %s în urmă",

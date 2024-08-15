@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "Install",
 	"menuObjectSetDefaultTemplate": "Set as the default Template",
 	"menuObjectCreateWidget": "Create Widget",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "Ավելացնել ընտրյալ Կապերի մեջ",
 	"menuItemRelationViewFeaturedRemove": "Հանել ընտրյալ Կապերից",
 	"menuItemFilterTimeAgo": "%d %s ago",

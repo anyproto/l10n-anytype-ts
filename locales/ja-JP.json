@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "インストール",
 	"menuObjectSetDefaultTemplate": "Set as the default Template",
 	"menuObjectCreateWidget": "ウィジェットとして追加",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "このリレーションにスターを付ける",
 	"menuItemRelationViewFeaturedRemove": "このリレーションのスターを外す",
 	"menuItemFilterTimeAgo": "%d %s 前",

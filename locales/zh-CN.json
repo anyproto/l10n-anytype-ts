@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "安装",
 	"menuObjectSetDefaultTemplate": "设置为默认模板",
 	"menuObjectCreateWidget": "创建小工具",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "添加到精选关联",
 	"menuItemRelationViewFeaturedRemove": "从精选关联中移除",
 	"menuItemFilterTimeAgo": "%d %s 之前",

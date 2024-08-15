@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "Installer",
 	"menuObjectSetDefaultTemplate": "Set as the default Template",
 	"menuObjectCreateWidget": "Create Widget",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "Tilføj til fremhævede relationer",
 	"menuItemRelationViewFeaturedRemove": "Fjern fra fremhævede relationer",
 	"menuItemFilterTimeAgo": "%d %s siden",

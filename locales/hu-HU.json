@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "Telepítés",
 	"menuObjectSetDefaultTemplate": "Set as the default Template",
 	"menuObjectCreateWidget": "Create Widget",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "Hozzáadás a kiemeltekhez",
 	"menuItemRelationViewFeaturedRemove": "Törlés a kiemeltekből",
 	"menuItemFilterTimeAgo": "%d %s ago",

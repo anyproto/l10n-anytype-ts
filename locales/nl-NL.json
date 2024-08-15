@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "Installeren",
 	"menuObjectSetDefaultTemplate": "Set as the default Template",
 	"menuObjectCreateWidget": "Widget creëren",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "Aan aanbevolen relaties toevoegen",
 	"menuItemRelationViewFeaturedRemove": "Uit aanbevolen relaties verwijderen",
 	"menuItemFilterTimeAgo": "%d %s geleden",

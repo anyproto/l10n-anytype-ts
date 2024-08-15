@@ -1284,6 +1284,7 @@
 	"menuObjectInstall": "Cài",
 	"menuObjectSetDefaultTemplate": "Đặt làm Mẫu mặc định",
 	"menuObjectCreateWidget": "Tạo widget",
+	"menuObjectDownloadOpen": "Download and Open",
 	"menuItemRelationViewFeaturedAdd": "Thêm vào các Liên hệ nổi bật",
 	"menuItemRelationViewFeaturedRemove": "Bỏ khỏi các Liên hệ nổi bật",
 	"menuItemFilterTimeAgo": "%d %s trước",
