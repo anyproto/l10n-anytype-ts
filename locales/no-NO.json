@@ -152,6 +152,7 @@
 	"commonCreateObjectWithName": "Opprett objekt \"%s\"",
 	"commonCreateObject": "Opprett objekt",
 	"commonUrl": "Url",
+	"commonDoNotShowAgain": "Don’t show this again",
 	"pluralDay": "dag|dager",
 	"pluralObject": "Objekt|Objekter",
 	"pluralLCObject": "objekt|objekter",
