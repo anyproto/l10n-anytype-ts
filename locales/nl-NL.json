@@ -152,6 +152,7 @@
 	"commonCreateObjectWithName": "Object \"%s\" creëren",
 	"commonCreateObject": "Object creëren",
 	"commonUrl": "URL",
+	"commonDoNotShowAgain": "Don’t show this again",
 	"pluralDay": "dag|dagen",
 	"pluralObject": "Object|Objecten",
 	"pluralLCObject": "object|objecten",
