@@ -152,6 +152,7 @@
 	"commonCreateObjectWithName": "Nesne oluşturun \"%s\"",
 	"commonCreateObject": "Nesne oluşturun",
 	"commonUrl": "URL",
+	"commonDoNotShowAgain": "Don’t show this again",
 	"pluralDay": "gün|günler",
 	"pluralObject": "Nesne|Nesneler",
 	"pluralLCObject": "nesne|nesneler",
