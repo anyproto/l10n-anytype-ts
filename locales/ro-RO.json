@@ -152,6 +152,7 @@
 	"commonCreateObjectWithName": "Crează Obiectul \"%s\"",
 	"commonCreateObject": "Crează Obiect",
 	"commonUrl": "Url",
+	"commonDoNotShowAgain": "Don’t show this again",
 	"pluralDay": "zi|zile",
 	"pluralObject": "Obiect|Obiecte",
 	"pluralLCObject": "obiect|obiecte",
