@@ -152,6 +152,7 @@
 	"commonCreateObjectWithName": "オブジェクト\"%s\"を作成",
 	"commonCreateObject": "オブジェクトを作成",
 	"commonUrl": "URL",
+	"commonDoNotShowAgain": "Don’t show this again",
 	"pluralDay": "日|日",
 	"pluralObject": "オブジェクト|オブジェクト",
 	"pluralLCObject": "オブジェクト|オブジェクト",
