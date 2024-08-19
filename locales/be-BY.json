@@ -152,6 +152,7 @@
 	"commonCreateObjectWithName": "Стварыць аб'ект \"%s\"",
 	"commonCreateObject": "Стварыць Аб'ект",
 	"commonUrl": "Url",
+	"commonDoNotShowAgain": "Don’t show this again",
 	"pluralDay": "дзень|дзён",
 	"pluralObject": "Аб'ект|Абʼекты",
 	"pluralLCObject": "Aб'ект|Aб'ектаў",
