@@ -152,6 +152,7 @@
 	"commonCreateObjectWithName": "Create Object \"%s\"",
 	"commonCreateObject": "Create Object",
 	"commonUrl": "Url",
+	"commonDoNotShowAgain": "Don’t show this again",
 	"pluralDay": "օր|օրեր",
 	"pluralObject": "Օբյեկտ|Օբյեկտներ",
 	"pluralLCObject": "object|objects",
