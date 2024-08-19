@@ -152,6 +152,7 @@
 	"commonCreateObjectWithName": "创建对象 “%s”",
 	"commonCreateObject": "创建对象",
 	"commonUrl": "URL",
+	"commonDoNotShowAgain": "Don’t show this again",
 	"pluralDay": "天|天",
 	"pluralObject": "对象|对象",
 	"pluralLCObject": "对象|对象",
