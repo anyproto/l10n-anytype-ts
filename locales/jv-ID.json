@@ -152,6 +152,7 @@
 	"commonCreateObjectWithName": "Create Object \"%s\"",
 	"commonCreateObject": "Create Object",
 	"commonUrl": "URL",
+	"commonDoNotShowAgain": "Don’t show this again",
 	"pluralDay": "dina|dina",
 	"pluralObject": "Object|Objects",
 	"pluralLCObject": "object|objects",
