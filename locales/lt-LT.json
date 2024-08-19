@@ -152,6 +152,7 @@
 	"commonCreateObjectWithName": "Sukurti objektą \"%s\"",
 	"commonCreateObject": "Sukurti Objektą",
 	"commonUrl": "Nuoroda",
+	"commonDoNotShowAgain": "Don’t show this again",
 	"pluralDay": "diena|dienos",
 	"pluralObject": "Objektas|Objektai",
 	"pluralLCObject": "objektas|objektai",
