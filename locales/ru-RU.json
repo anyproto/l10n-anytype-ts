@@ -152,6 +152,7 @@
 	"commonCreateObjectWithName": "Создать объект \"%s\"",
 	"commonCreateObject": "Создать объект",
 	"commonUrl": "Url-адрес",
+	"commonDoNotShowAgain": "Don’t show this again",
 	"pluralDay": "день|дней",
 	"pluralObject": "Объект|Объекты",
 	"pluralLCObject": "объект|объекты",
