@@ -152,6 +152,7 @@
 	"commonCreateObjectWithName": "Create Object \"%s\"",
 	"commonCreateObject": "Create Object",
 	"commonUrl": "Url",
+	"commonDoNotShowAgain": "Don’t show this again",
 	"pluralDay": "dag|dage",
 	"pluralObject": "Objekt|Objekter",
 	"pluralLCObject": "object|objects",
