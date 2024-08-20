@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Copy",
 	"electronMenuCut": "Cut",
 	"electronMenuPaste": "ለጥፍ",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "ሁሉንም ይምረጡ",
 	"electronMenuSearch": "ይፈልጉ",
 	"electronMenuPrint": "Print",
