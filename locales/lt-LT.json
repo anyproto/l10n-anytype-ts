@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Kopijuoti",
 	"electronMenuCut": "Iškirpti",
 	"electronMenuPaste": "Įklijuoti",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Pažymėti viską",
 	"electronMenuSearch": "Ieškoti",
 	"electronMenuPrint": "Spausdinti",
