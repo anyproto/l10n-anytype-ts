@@ -207,6 +207,7 @@
 	"electronMenuCopy": "복사",
 	"electronMenuCut": "잘라내기",
 	"electronMenuPaste": "붙여넣기",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "전체 선택",
 	"electronMenuSearch": "검색",
 	"electronMenuPrint": "인쇄",
