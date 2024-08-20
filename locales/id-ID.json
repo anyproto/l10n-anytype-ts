@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Salin",
 	"electronMenuCut": "Potong",
 	"electronMenuPaste": "Tempel",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Pilih semua",
 	"electronMenuSearch": "Telusuri",
 	"electronMenuPrint": "Cetak",
