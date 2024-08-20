@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Kopiraj",
 	"electronMenuCut": "Izreži",
 	"electronMenuPaste": "Prilepi",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Izberi vse",
 	"electronMenuSearch": "Išči",
 	"electronMenuPrint": "Print",
