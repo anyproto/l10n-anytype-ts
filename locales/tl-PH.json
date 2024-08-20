@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Kopya",
 	"electronMenuCut": "Cut",
 	"electronMenuPaste": "Paste",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Piliin lahat",
 	"electronMenuSearch": "Hanapin",
 	"electronMenuPrint": "Print",
