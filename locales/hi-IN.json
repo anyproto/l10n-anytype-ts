@@ -207,6 +207,7 @@
 	"electronMenuCopy": "प्रति बनाएं",
 	"electronMenuCut": "काटें",
 	"electronMenuPaste": "चिपकाएँ",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "सभी का चयन करें",
 	"electronMenuSearch": "खोज...",
 	"electronMenuPrint": "Print",
