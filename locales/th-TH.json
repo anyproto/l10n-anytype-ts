@@ -207,6 +207,7 @@
 	"electronMenuCopy": "คัดลอก",
 	"electronMenuCut": "ตัด",
 	"electronMenuPaste": "วาง",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "เลือกทั้งหมด",
 	"electronMenuSearch": "ค้นหา",
 	"electronMenuPrint": "Print",
