@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Kopiearje",
 	"electronMenuCut": "Knippe",
 	"electronMenuPaste": "Plakke",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Alles selektearje",
 	"electronMenuSearch": "Sykje",
 	"electronMenuPrint": "Print",
