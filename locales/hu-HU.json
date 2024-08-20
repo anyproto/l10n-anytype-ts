@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Másolás",
 	"electronMenuCut": "Kivágás",
 	"electronMenuPaste": "Beillesztés",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Összes kijelölése",
 	"electronMenuSearch": "Keresés",
 	"electronMenuPrint": "Print",
