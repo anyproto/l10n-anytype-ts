@@ -207,6 +207,7 @@
 	"electronMenuCopy": "复制",
 	"electronMenuCut": "剪切",
 	"electronMenuPaste": "粘贴",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "全选",
 	"electronMenuSearch": "搜索",
 	"electronMenuPrint": "打印",
