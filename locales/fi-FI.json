@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Kopioi",
 	"electronMenuCut": "Leikkaa",
 	"electronMenuPaste": "Liitä",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Valitse kaikki",
 	"electronMenuSearch": "Etsi",
 	"electronMenuPrint": "Print",
