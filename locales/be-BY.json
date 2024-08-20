@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Капіяваць",
 	"electronMenuCut": "Выразаць",
 	"electronMenuPaste": "Уставіць",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Выбраць усё",
 	"electronMenuSearch": "Пошук",
 	"electronMenuPrint": "Друкаваць",
