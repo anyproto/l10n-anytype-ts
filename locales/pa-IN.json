@@ -207,6 +207,7 @@
 	"electronMenuCopy": "ਕਾਪੀ ਕਰੋ",
 	"electronMenuCut": "Cut",
 	"electronMenuPaste": "Paste",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "ਸਾਰੇ ਚੁਣੋ",
 	"electronMenuSearch": "ਖੋਜ",
 	"electronMenuPrint": "Print",
