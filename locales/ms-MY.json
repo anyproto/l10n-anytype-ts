@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Salin",
 	"electronMenuCut": "Potong",
 	"electronMenuPaste": "Tampal",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Pilih semua",
 	"electronMenuSearch": "Cari",
 	"electronMenuPrint": "Print",
