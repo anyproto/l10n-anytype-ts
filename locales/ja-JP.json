@@ -207,6 +207,7 @@
 	"electronMenuCopy": "コピー",
 	"electronMenuCut": "切り取り",
 	"electronMenuPaste": "貼り付け",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "すべて選択",
 	"electronMenuSearch": "検索",
 	"electronMenuPrint": "印刷",
