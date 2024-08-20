@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Αντιγραφή",
 	"electronMenuCut": "Αποκοπή",
 	"electronMenuPaste": "Επικόλληση",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Επιλογή όλων",
 	"electronMenuSearch": "Αναζήτηση",
 	"electronMenuPrint": "Print",
