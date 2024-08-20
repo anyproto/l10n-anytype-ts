@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Kopier",
 	"electronMenuCut": "Klip",
 	"electronMenuPaste": "Indsæt",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Vælg alle",
 	"electronMenuSearch": "Søg",
 	"electronMenuPrint": "Print",
