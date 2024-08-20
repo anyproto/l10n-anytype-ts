@@ -207,6 +207,7 @@
 	"electronMenuCopy": "நகல்",
 	"electronMenuCut": "வெட்டு",
 	"electronMenuPaste": "ஓட்டு",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "எல்லாம் தேர்ந்தெடு",
 	"electronMenuSearch": "தேடு",
 	"electronMenuPrint": "Print",
