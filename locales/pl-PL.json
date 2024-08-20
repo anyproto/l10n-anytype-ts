@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Kopiuj",
 	"electronMenuCut": "Wytnij",
 	"electronMenuPaste": "Wklej",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Zaznacz wszystko",
 	"electronMenuSearch": "Szukaj",
 	"electronMenuPrint": "Drukuj",
