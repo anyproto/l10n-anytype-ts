@@ -207,6 +207,7 @@
 	"electronMenuCopy": "複製",
 	"electronMenuCut": "剪下",
 	"electronMenuPaste": "貼上",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "全選",
 	"electronMenuSearch": "搜尋",
 	"electronMenuPrint": "列印",
