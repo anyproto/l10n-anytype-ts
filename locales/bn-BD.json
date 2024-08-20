@@ -207,6 +207,7 @@
 	"electronMenuCopy": "কপি",
 	"electronMenuCut": "কাট",
 	"electronMenuPaste": "পেষ্ট করুন",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "সবগুলো নির্বাচন করুন",
 	"electronMenuSearch": "খুঁজুন",
 	"electronMenuPrint": "Print",
