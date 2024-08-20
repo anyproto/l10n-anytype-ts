@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Kopyala",
 	"electronMenuCut": "Kes",
 	"electronMenuPaste": "Yapıştır",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Tümünü seç",
 	"electronMenuSearch": "Ara",
 	"electronMenuPrint": "Yazdır",
