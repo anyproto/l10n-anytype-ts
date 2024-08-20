@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Copy",
 	"electronMenuCut": "Cut",
 	"electronMenuPaste": "Paste",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Pilih kabèh",
 	"electronMenuSearch": "Pados",
 	"electronMenuPrint": "Print",
