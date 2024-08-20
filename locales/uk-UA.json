@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Копіювати",
 	"electronMenuCut": "Вирізати",
 	"electronMenuPaste": "Вставити",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Вибрати все",
 	"electronMenuSearch": "Пошук",
 	"electronMenuPrint": "Print",
