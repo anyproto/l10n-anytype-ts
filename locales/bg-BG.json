@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Копиране",
 	"electronMenuCut": "Изрежи",
 	"electronMenuPaste": "Поставяне",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Избор на всичко",
 	"electronMenuSearch": "Търси",
 	"electronMenuPrint": "Print",
