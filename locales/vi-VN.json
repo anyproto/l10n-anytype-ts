@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Chép",
 	"electronMenuCut": "Cắt",
 	"electronMenuPaste": "Dán",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Chọn hết",
 	"electronMenuSearch": "Tìm kiếm",
 	"electronMenuPrint": "In",
