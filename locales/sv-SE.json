@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Kopiera",
 	"electronMenuCut": "Klipp ut",
 	"electronMenuPaste": "Klistra in",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Markera alla",
 	"electronMenuSearch": "Sök",
 	"electronMenuPrint": "Print",
