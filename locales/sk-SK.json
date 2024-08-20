@@ -207,6 +207,7 @@
 	"electronMenuCopy": "Kopírovať",
 	"electronMenuCut": "Vystrihnúť",
 	"electronMenuPaste": "Prilepiť",
+	"electronMenuPastePlain": "Paste without formatting",
 	"electronMenuSelectAll": "Vybrať všetko",
 	"electronMenuSearch": "Hľadať",
 	"electronMenuPrint": "Print",
