@@ -1805,7 +1805,7 @@
 	"notificationImportErrorText7": "The file exceeds the import limit of 1,000 rows or 10 columns. Please adjust your file and try again.",
 	"notificationImportErrorTitle8": "File Load Error",
 	"notificationImportErrorText8": "We couldn’t load your files. Please check your files and try again, or manually transfer the files.",
-	"notificationImportErrorTitle9": "Permission Denied",
+	"notificationImportErrorTitle9": "권한 거부됨",
 	"notificationImportErrorText9": "We don’t have permission to import into this Anytype space.",
 	"notificationJoinSuccessText": "<b>%s<\/b>이(가) <b>'%s'<\/b> 스페이스에 참여를 요청했습니다",
 	"notificationLeaveSuccessText": "<b>%s<\/b>이(가) <b>'%s'<\/b> 스페이스를 떠나려 합니다",
