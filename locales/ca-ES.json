@@ -422,7 +422,7 @@
 	"blockNameHeader2": "Títol 1",
 	"blockNameHeader3": "Títol 2",
 	"blockNameQuote": "Ressaltat",
-	"blockNameCallout": "Callout",
+	"blockNameCallout": "",
 	"blockNameCheckbox": "Casella de selecció",
 	"blockNameBulleted": "Llista de pics",
 	"blockNameNumbered": "Llista numerada",
