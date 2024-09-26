@@ -161,6 +161,7 @@
 	"commonFile": "Fil",
 	"commonMembers": "Members",
 	"commonNothingFound": "Nothing found",
+	"commonEntrySpace": "My First Space",
 	"pluralDay": "dag|dage",
 	"pluralObject": "Objekt|Objekter",
 	"pluralLCObject": "object|objects",
