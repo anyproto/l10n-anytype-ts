@@ -161,6 +161,7 @@
 	"commonFile": "Fichier",
 	"commonMembers": "Membres",
 	"commonNothingFound": "Aucun résultat",
+	"commonEntrySpace": "Mon premier espace",
 	"pluralDay": "jour|jours",
 	"pluralObject": "Objet|Objets",
 	"pluralLCObject": "objet|objets",
