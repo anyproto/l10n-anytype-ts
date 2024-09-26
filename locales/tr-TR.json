@@ -161,6 +161,7 @@
 	"commonFile": "Dosya",
 	"commonMembers": "Üyeler",
 	"commonNothingFound": "Hiçbir şey bulunamadı",
+	"commonEntrySpace": "My First Space",
 	"pluralDay": "gün|günler",
 	"pluralObject": "Nesne|Nesneler",
 	"pluralLCObject": "nesne|nesneler",
