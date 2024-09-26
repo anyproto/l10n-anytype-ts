@@ -161,6 +161,7 @@
 	"commonFile": "Soubor",
 	"commonMembers": "Members",
 	"commonNothingFound": "Nothing found",
+	"commonEntrySpace": "My First Space",
 	"pluralDay": "den | dny",
 	"pluralObject": "Objekt | Objekty",
 	"pluralLCObject": "object|objects",
