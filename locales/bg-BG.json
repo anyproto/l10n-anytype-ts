@@ -161,6 +161,7 @@
 	"commonFile": "Файл",
 	"commonMembers": "Members",
 	"commonNothingFound": "Nothing found",
+	"commonEntrySpace": "My First Space",
 	"pluralDay": "ден|дни",
 	"pluralObject": "Обект|Обекти",
 	"pluralLCObject": "object|objects",
