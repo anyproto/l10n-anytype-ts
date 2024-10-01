@@ -1563,7 +1563,7 @@
 	"sidebarObjectSort": "Сортировка",
 	"sidebarObjectOrphan": "Только несвязанные",
 	"sidebarObjectOrphanLabel": "Непривязанные объекты, не имеющие прямой связи или обратной связи с другими объектами на графе.",
-	"sidebarObjectEmpty": "Здесь пусто. Создайте свои первые объекты, чтобы начать работу.",
+	"sidebarObjectEmpty": "It’s empty here.<br\/><span class='small'>Create your first objects to get started.<\/span>",
 	"sidebarObjectSortCreated": "Дата создания",
 	"sidebarObjectSortUpdated": "Date updated",
 	"unsplashString": "Фото %s на %s",
