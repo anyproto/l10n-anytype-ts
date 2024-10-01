@@ -1563,7 +1563,7 @@
 	"sidebarObjectSort": "Trier",
 	"sidebarObjectOrphan": "Uniquement non liés",
 	"sidebarObjectOrphanLabel": "Objets non liés qui n'ont pas de lien direct ou de lien en retour avec d'autres objets dans le graphique.",
-	"sidebarObjectEmpty": "C'est vide ici.<br\/>Créez vos premiers objets pour commencer.",
+	"sidebarObjectEmpty": "It’s empty here.<br\/><span class='small'>Create your first objects to get started.<\/span>",
 	"sidebarObjectSortCreated": "Date de création",
 	"sidebarObjectSortUpdated": "Date de mise à jour",
 	"unsplashString": "Photo de %s sur %s",
