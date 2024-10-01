@@ -1563,7 +1563,7 @@
 	"sidebarObjectSort": "Sırala",
 	"sidebarObjectOrphan": "Sadece bağlantısız",
 	"sidebarObjectOrphanLabel": "Grafikteki diğer nesnelerle doğrudan bağlantısı veya geri bağlantısı olmayan bağlantısız nesneler.",
-	"sidebarObjectEmpty": "Burası boş.<br\/>Başlamak için ilk nesnelerinizi oluşturun.",
+	"sidebarObjectEmpty": "It’s empty here.<br\/><span class='small'>Create your first objects to get started.<\/span>",
 	"sidebarObjectSortCreated": "Oluşturma tarihi",
 	"sidebarObjectSortUpdated": "Güncellenme tarihi",
 	"unsplashString": "Eser sahibi; %s platformundan %s",

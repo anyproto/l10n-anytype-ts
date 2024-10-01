@@ -1563,7 +1563,7 @@
 	"sidebarObjectSort": "Sortierung",
 	"sidebarObjectOrphan": "Only unlinked",
 	"sidebarObjectOrphanLabel": "Unlinked objects that do not have a direct link or backlink with other objects in the graph.",
-	"sidebarObjectEmpty": "It’s empty here.<br\/>Create your first objects to get started.",
+	"sidebarObjectEmpty": "It’s empty here.<br\/><span class='small'>Create your first objects to get started.<\/span>",
 	"sidebarObjectSortCreated": "Erstellungsdatum",
 	"sidebarObjectSortUpdated": "Aktualisierungsdatum",
 	"unsplashString": "Veröffentlicht von %s am %s",
