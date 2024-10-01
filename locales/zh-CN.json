@@ -1563,7 +1563,7 @@
 	"sidebarObjectSort": "排序",
 	"sidebarObjectOrphan": "Only unlinked",
 	"sidebarObjectOrphanLabel": "与图中的其他对象没有直链或反链的无链接对象。",
-	"sidebarObjectEmpty": "It’s empty here.<br\/>Create your first objects to get started.",
+	"sidebarObjectEmpty": "It’s empty here.<br\/><span class='small'>Create your first objects to get started.<\/span>",
 	"sidebarObjectSortCreated": "创建日期",
 	"sidebarObjectSortUpdated": "",
 	"unsplashString": "由 %s 在 %s 拍摄的的照片",
