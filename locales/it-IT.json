@@ -61,7 +61,7 @@
 	"commonDone": "Fatto",
 	"commonUnlink": "Scollega",
 	"commonUnlinkFromType": "Unlink from Type",
-	"commonUnlinkFromObject": "Unlink from Object",
+	"commonUnlinkFromObject": "Scollega dall'Oggetto",
 	"commonUnlinkFromSet": "Unlink from Set",
 	"commonFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "Oggetto inesistente",
