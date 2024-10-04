@@ -916,7 +916,7 @@
 	"popupConfirmLostPhraseTextLinux": "<p>Currently, there are no methods of accessing your key, as we do not store a copy of it. Check out the other places where it might stored:<\/p> <ul class=\"last\"><li>In system password storage. We did it for you automatically<\/li><li>Inside a password manager if you use one<\/li><li>On a piece of paper stored in a secure place chosen prior<\/li><\/ul>",
 	"popupConfirmLostPhraseTextMac": "<p>Currently, there are no methods of accessing your key, as we do not store a copy of it. Check out the other places where it might stored:<\/p> <ul class=\"last\"><li>In system password storage. We did it for you automatically<\/li><li>Inside a password manager if you use one<\/li><li>On a piece of paper stored in a secure place chosen prior<\/li><\/ul>",
 	"popupConfirmMembershipUpgradeTitle": "Atualizar assinatura",
-	"popupConfirmMembershipUpgradeText": "Reach us for extra storage, space editors, or more shared spaces. Anytype team will provide details and conditions tailored to your needs.",
+	"popupConfirmMembershipUpgradeText": "Entre em contato conosco para obter armazenamento extra, editores de espaço ou mais espaços compartilhados. A equipe da Anytype fornecerá detalhes e condições personalizadas de acordo com suas necessidades.",
 	"popupConfirmMembershipUpgradeButton": "Entrar em contato com a equipe Anytype",
 	"popupConfirmRelationOptionRemoveText": "Excluir opções de relação pode afetar seus objetos. Uma vez confirmada, a ação não pode ser desfeita.",
 	"popupConfirmDeleteWarningTitle": "Are you sure you want to delete %s %s?",
