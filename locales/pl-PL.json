@@ -155,6 +155,7 @@
 	"commonSet": "Ustaw",
 	"commonCreateNewObject": "Utwórz nowy obiekt",
 	"commonCreateObjectWithName": "Utwórz obiekt %s\"",
+	"commonCreateObjectTypeWithName": "Create Object Type \"%s\"",
 	"commonCreateObject": "Utwórz obiekt",
 	"commonUrl": "URL",
 	"commonEdit": "Edytuj",
