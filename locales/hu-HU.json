@@ -155,6 +155,7 @@
 	"commonSet": "Set",
 	"commonCreateNewObject": "Új tárgy létrehozása ",
 	"commonCreateObjectWithName": "\"%s\" tárgy létrehozása ",
+	"commonCreateObjectTypeWithName": "Create Object Type \"%s\"",
 	"commonCreateObject": "Create Object",
 	"commonUrl": "Url",
 	"commonEdit": "Szerkesztés",
