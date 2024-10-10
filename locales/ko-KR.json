@@ -155,6 +155,7 @@
 	"commonSet": "세트",
 	"commonCreateNewObject": "새 오브젝트 만들기",
 	"commonCreateObjectWithName": "\"%s\" 오브젝트 만들기",
+	"commonCreateObjectTypeWithName": "Create Object Type \"%s\"",
 	"commonCreateObject": "오브젝트 만들기",
 	"commonUrl": "Url",
 	"commonEdit": "편집",
