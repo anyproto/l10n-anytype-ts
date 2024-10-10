@@ -155,6 +155,7 @@
 	"commonSet": "Tập",
 	"commonCreateNewObject": "Tạo Đối tượng mới",
 	"commonCreateObjectWithName": "Tạo Đối tượng \"%s\"",
+	"commonCreateObjectTypeWithName": "Create Object Type \"%s\"",
 	"commonCreateObject": "Tạo Đối tượng",
 	"commonUrl": "URL",
 	"commonEdit": "Chỉnh sửa",
