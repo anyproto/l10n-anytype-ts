@@ -155,6 +155,7 @@
 	"commonSet": "Sett",
 	"commonCreateNewObject": "Opprett nytt objekt",
 	"commonCreateObjectWithName": "Opprett objekt \"%s\"",
+	"commonCreateObjectTypeWithName": "Create Object Type \"%s\"",
 	"commonCreateObject": "Opprett objekt",
 	"commonUrl": "Url",
 	"commonEdit": "Rediger",
