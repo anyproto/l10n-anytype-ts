@@ -155,6 +155,7 @@
 	"commonSet": "Objセット",
 	"commonCreateNewObject": "新しいオブジェクトを作成",
 	"commonCreateObjectWithName": "オブジェクト\"%s\"を作成",
+	"commonCreateObjectTypeWithName": "Create Object Type \"%s\"",
 	"commonCreateObject": "オブジェクトを作成",
 	"commonUrl": "URL",
 	"commonEdit": "エディット",
