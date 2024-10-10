@@ -155,6 +155,7 @@
 	"commonSet": "तय करना",
 	"commonCreateNewObject": "Create new Object",
 	"commonCreateObjectWithName": "Create Object \"%s\"",
+	"commonCreateObjectTypeWithName": "Create Object Type \"%s\"",
 	"commonCreateObject": "Create Object",
 	"commonUrl": "Url",
 	"commonEdit": "संपादन",
