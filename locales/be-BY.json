@@ -155,6 +155,7 @@
 	"commonSet": "Набор",
 	"commonCreateNewObject": "Стварыць новы Аб'ект",
 	"commonCreateObjectWithName": "Стварыць аб'ект \"%s\"",
+	"commonCreateObjectTypeWithName": "Create Object Type \"%s\"",
 	"commonCreateObject": "Стварыць Аб'ект",
 	"commonUrl": "Url",
 	"commonEdit": "Рэдагаваць",
