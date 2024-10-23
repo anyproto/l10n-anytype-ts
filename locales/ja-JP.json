@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "タイプからリンク解除",
 	"commonUnlinkFromObject": "オブジェクトからリンク解除",
 	"commonUnlinkFromSet": "Objセットからリンク解除",
-	"commonFromCollection": "コレクションからリンク解除",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "存在しないオブジェクト",
 	"commonDeletedType": "タイプを削除",
 	"commonDeletedRelation": "削除済みのリレーション",
