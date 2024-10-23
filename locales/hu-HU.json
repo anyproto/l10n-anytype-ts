@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "Unlink from Type",
 	"commonUnlinkFromObject": "Unlink from Object",
 	"commonUnlinkFromSet": "Unlink from Set",
-	"commonFromCollection": "Unlink from Collection",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "Nem létező elem",
 	"commonDeletedType": "Típus törlése",
 	"commonDeletedRelation": "Törölt kapcsolat",
