@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "Scollega dal Tipo",
 	"commonUnlinkFromObject": "Scollega dall'Oggetto",
 	"commonUnlinkFromSet": "Scollega dall'Insieme",
-	"commonFromCollection": "Scollega dalla Collezione",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "Oggetto inesistente",
 	"commonDeletedType": "Tipologia eliminata",
 	"commonDeletedRelation": "Elimina relazione",
