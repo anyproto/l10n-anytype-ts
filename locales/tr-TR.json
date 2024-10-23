@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "Türden bağlantıyı kes",
 	"commonUnlinkFromObject": "Nesneden bağlantıyı kes",
 	"commonUnlinkFromSet": "Setten bağlantıyı kes",
-	"commonFromCollection": "Koleksiyondan bağlantıyı kes",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "Var olmayan nesne",
 	"commonDeletedType": "Silinmiş tür",
 	"commonDeletedRelation": "Silinmiş ilişki",

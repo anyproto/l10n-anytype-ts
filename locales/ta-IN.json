@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "Unlink from Type",
 	"commonUnlinkFromObject": "Unlink from Object",
 	"commonUnlinkFromSet": "Unlink from Set",
-	"commonFromCollection": "Unlink from Collection",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "இல்லாத பொருள்",
 	"commonDeletedType": "வகை நீக்கப்பட்டது",
 	"commonDeletedRelation": "அழிக்கப்பட்ட தொடர்பு",

@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "Отвязать от типа",
 	"commonUnlinkFromObject": "Отвязать от объекта",
 	"commonUnlinkFromSet": "Отвязать от набора",
-	"commonFromCollection": "Отвязать от коллекции",
+	"commonUnlinkFromCollection": "Отвязать от коллекции",
 	"commonDeletedObject": "Удаленный объект",
 	"commonDeletedType": "Удаленный тип",
 	"commonDeletedRelation": "Удалённое свойство",

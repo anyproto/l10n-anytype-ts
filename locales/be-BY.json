@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "Адвязаць ад Тыпу",
 	"commonUnlinkFromObject": "Адвязаць ад Аб'екта",
 	"commonUnlinkFromSet": "Адвязаць ад Набору",
-	"commonFromCollection": "Адвязаць ад Калекцыі",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "Неіснуючы аб'ект",
 	"commonDeletedType": "Выдалены тып",
 	"commonDeletedRelation": "Выдаленая Ўласцівасць",

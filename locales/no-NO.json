@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "Koble fra type",
 	"commonUnlinkFromObject": "Koble fra objekt",
 	"commonUnlinkFromSet": "Koble fra sett",
-	"commonFromCollection": "Koble fra samling",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "Ikke-eksisterende objekt",
 	"commonDeletedType": "Slettet type",
 	"commonDeletedRelation": "Slettet relasjon",

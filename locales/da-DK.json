@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "Unlink from Type",
 	"commonUnlinkFromObject": "Unlink from Object",
 	"commonUnlinkFromSet": "Unlink from Set",
-	"commonFromCollection": "Unlink from Collection",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "Ikke eksisterende objekt",
 	"commonDeletedType": "Slettet type",
 	"commonDeletedRelation": "Slettet relation",

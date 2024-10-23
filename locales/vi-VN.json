@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "Gỡ khỏi Loại",
 	"commonUnlinkFromObject": "Gỡ khỏi Đối tượng",
 	"commonUnlinkFromSet": "Gỡ khỏi Tập",
-	"commonFromCollection": "Gỡ khỏi Bộ",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "Đối tượng không tồn tại",
 	"commonDeletedType": "Loại đã xoá",
 	"commonDeletedRelation": "Liên hệ đã xoá",
