@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "与类型解除链接",
 	"commonUnlinkFromObject": "与对象解除链接",
 	"commonUnlinkFromSet": "与集合解除链接",
-	"commonFromCollection": "与集锦解除链接",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "不存在的对象",
 	"commonDeletedType": "已删除的类型",
 	"commonDeletedRelation": "已删除的关联",
