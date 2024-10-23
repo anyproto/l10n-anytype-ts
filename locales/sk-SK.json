@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "Odpojiť od Typu",
 	"commonUnlinkFromObject": "Odpojiť od Objektu",
 	"commonUnlinkFromSet": "Odpojiť od Množiny",
-	"commonFromCollection": "Odpojiť od Kolekcie",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "Neexistujúci objekt",
 	"commonDeletedType": "Vymazaný typ",
 	"commonDeletedRelation": "Vymazané prepojenie",
