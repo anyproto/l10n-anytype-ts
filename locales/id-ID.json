@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "Lepas taut dari Tipe",
 	"commonUnlinkFromObject": "Lepas taut dari Objek",
 	"commonUnlinkFromSet": "Lepas taut dari Set",
-	"commonFromCollection": "Lepas taut dari Koleksi",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "Objek tidak ada",
 	"commonDeletedType": "Tipe terhapus",
 	"commonDeletedRelation": "Relasi Terhapus",
