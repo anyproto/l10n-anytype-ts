@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "유형에서 연결 해제",
 	"commonUnlinkFromObject": "객체에서 연결 해제",
 	"commonUnlinkFromSet": "세트에서 연결 해제",
-	"commonFromCollection": "컬렉션에서 연결 해제",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "존재하지 않는 객체",
 	"commonDeletedType": "삭제된 유형",
 	"commonDeletedRelation": "삭제된 관계",
