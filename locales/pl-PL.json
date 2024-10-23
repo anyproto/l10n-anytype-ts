@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "Odłącz od typu",
 	"commonUnlinkFromObject": "Odłącz od obiektu",
 	"commonUnlinkFromSet": "Odłącz od zbioru",
-	"commonFromCollection": "Odłącz od kolekcji",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "Nieistniejący obiekt",
 	"commonDeletedType": "Usunięty typ",
 	"commonDeletedRelation": "Usunięta relacja",
