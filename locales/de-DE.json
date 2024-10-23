@@ -63,7 +63,7 @@
 	"commonUnlinkFromType": "Verlinkung mit Typ aufheben",
 	"commonUnlinkFromObject": "Verlinkung mit Objekt aufheben",
 	"commonUnlinkFromSet": "Verlinkung mit Set aufheben",
-	"commonFromCollection": "Verlinkung mit Kollektion aufheben",
+	"commonUnlinkFromCollection": "Unlink from Collection",
 	"commonDeletedObject": "Nicht existentes Objekt",
 	"commonDeletedType": "Gelöschter Typ",
 	"commonDeletedRelation": "Gelöschte Relation",
