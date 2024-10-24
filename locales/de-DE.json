@@ -1204,7 +1204,7 @@
 	"menuBlockRelationEditAddObjectType": "Objekttyp hinzufügen",
 	"menuBlockRelationEditFilterObjectTypes": "Objekttypen filtern...",
 	"menuBlockRelationEditToastOnCreate": "Relation <b>%s<\/b> wurde erstellt und zu deiner Bibliothek hinzugefügt",
-	"menuBlockRelationViewFeaturedRelations": "Empfohlene Relationen",
+	"menuBlockRelationViewFeaturedRelations": "Hervorgehobene Relationen",
 	"menuBlockRelationViewInThisObject": "In diesem Objekt",
 	"menuBlockRelationViewFromType": "Vom Typ \"%s\"",
 	"menuBlockStyleTurnText": "In Text umwandeln",
