@@ -1592,7 +1592,6 @@
 	"onboardingStoreRelation21": "<b>Het opzetten van relaties helpt je de weergave<\/b> en de structuur ervan beter te begrijpen. Je kunt ook collecties of sets maken op basis van relaties voor snelle toegang.",
 	"onboardingStoreRelation2Button": "Geweldig!",
 	"onboardingObjectCreationStart": "Object aan het maken",
-	"onboardingObjectCreationStart11": "<b>Let’s create an object from scratch.<\/b> The default object type is now ‘Page’, meaning that each new object is referred to as a Note unless you choose a different type. You can change the default object type anytime in the settings menu.",
 	"onboardingObjectCreationStart21": "<b>Choose here from the most popular object types<\/b>, such as Page, Task, or Collection. You can also select an object from the Type menu.",
 	"onboardingObjectCreationStart2Button": "Ik snap het!",
 	"onboardingObjectCreationFinish": "Object aan het maken",

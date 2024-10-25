@@ -1592,7 +1592,6 @@
 	"onboardingStoreRelation21": "<b>建立关联有助于您更好地理解图形<\/b>及其结构。您还可以根据关联创建集锦或集合，以便快速访问。",
 	"onboardingStoreRelation2Button": "很好！",
 	"onboardingObjectCreationStart": "创建对象",
-	"onboardingObjectCreationStart11": "<b>Let’s create an object from scratch.<\/b> The default object type is now ‘Page’, meaning that each new object is referred to as a Note unless you choose a different type. You can change the default object type anytime in the settings menu.",
 	"onboardingObjectCreationStart21": "<b>在这里从最受欢迎的对象类型中选择<\/b>，例如 Page、Task 或 Collection。你也可以从类型菜单中选择一个对象。",
 	"onboardingObjectCreationStart2Button": "我明白了！",
 	"onboardingObjectCreationFinish": "创建对象",

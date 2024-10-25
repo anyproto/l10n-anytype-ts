@@ -1592,7 +1592,6 @@
 	"onboardingStoreRelation21": "<b>Thành lập ra các Liên hệ sẽ giúp bạn hiểu tốt hơn về đồ thị<\/b> và cấu trúc của nó. Bạn cũng có thể tạo Bộ hoặc Tập theo các liên hệ để truy cập cho nhanh.",
 	"onboardingStoreRelation2Button": "Tuyệt!",
 	"onboardingObjectCreationStart": "Tạo Đối tượng",
-	"onboardingObjectCreationStart11": "<b>Hãy tạo một đối tượng từ con số không.<\/b> Loại đối tượng mặc định lúc này đang là 'Page', tức là mọi đối tượng mới bạn tạo đều là một Page trừ khi bạn chọn loại khác. Bạn có thể đổi loại đối tượng mặc định bất kỳ lúc nào trong menu cài đặt.",
 	"onboardingObjectCreationStart21": "<b>Chọn ở đây các đối tượng hay dùng nhất<\/b>, ví dụ như Trang, Tác vụ hoặc Bộ. Bạn cũng có thể chọn một đối tượng từ bảng chọn Loại.",
 	"onboardingObjectCreationStart2Button": "Hiểu rồi!",
 	"onboardingObjectCreationFinish": "Tạo Đối tượng",

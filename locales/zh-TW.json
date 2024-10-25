@@ -1592,7 +1592,6 @@
 	"onboardingStoreRelation21": "<b>建立關聯有助於您更好地理解關聯圖<\/b>及其結構。您還可以根據關聯創建集合或集錦，以便快速訪問。",
 	"onboardingStoreRelation2Button": "很好！",
 	"onboardingObjectCreationStart": "建立物件",
-	"onboardingObjectCreationStart11": "<b>Let’s create an object from scratch.<\/b> The default object type is now ‘Page’, meaning that each new object is referred to as a Note unless you choose a different type. You can change the default object type anytime in the settings menu.",
 	"onboardingObjectCreationStart21": "<b>Choose here from the most popular object types<\/b>, such as Page, Task, or Collection. You can also select an object from the Type menu.",
 	"onboardingObjectCreationStart2Button": "我明白了！",
 	"onboardingObjectCreationFinish": "建立物件",

@@ -1592,7 +1592,6 @@
 	"onboardingStoreRelation21": "<b>Establecer relaciones te ayuda a entender mejor el gráfico<\/b> y su estructura. También puedes crear colecciones o conjuntos basados en las relaciones para tener acceso rápido a tus objetos.",
 	"onboardingStoreRelation2Button": "¡Genial!",
 	"onboardingObjectCreationStart": "Creación de objetos",
-	"onboardingObjectCreationStart11": "<b>Vamos a crear un objeto desde cero.<\/b> El tipo de objeto por defecto es «Nota», es decir, que cada objeto nuevo será una página a menos que elijas otro tipo de objeto. Si quieres cambiar el tipo de objeto por defecto, puedes hacerlo en cualquier momento en el menú de ajustes.",
 	"onboardingObjectCreationStart21": "<b>Elige aquí entre los tipos de objeto más populares<\/b>, como página, tarea o colección. También puedes seleccionar un objeto desde menú de tipos.",
 	"onboardingObjectCreationStart2Button": "¡Entendido!",
 	"onboardingObjectCreationFinish": "Creación de objetos",
