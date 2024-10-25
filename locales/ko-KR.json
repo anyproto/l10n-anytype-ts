@@ -1592,7 +1592,6 @@
 	"onboardingStoreRelation21": "<b>관계 설정은 그래프<\/b>와 그 구조를 더 잘 이해할 수 있도록 도와줍니다. 빠른 액세스를 위해 관계를 기반으로 컬렉션 또는 세트를 만들 수도 있습니다.",
 	"onboardingStoreRelation2Button": "좋습니다!",
 	"onboardingObjectCreationStart": "오브젝트 생성",
-	"onboardingObjectCreationStart11": "<b>Let’s create an object from scratch.<\/b> The default object type is now ‘Page’, meaning that each new object is referred to as a Note unless you choose a different type. You can change the default object type anytime in the settings menu.",
 	"onboardingObjectCreationStart21": "<b>Choose here from the most popular object types<\/b>, such as Page, Task, or Collection. You can also select an object from the Type menu.",
 	"onboardingObjectCreationStart2Button": "알겠습니다!",
 	"onboardingObjectCreationFinish": "오브젝트 생성",
