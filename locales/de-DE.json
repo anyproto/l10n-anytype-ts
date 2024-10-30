@@ -812,7 +812,7 @@
 	"popupSettingsImportCsvCustom": "Individuell",
 	"popupSettingsImportNotionHelpTitle": "Wie importiere ich aus Notion",
 	"popupSettingsImportNotionHelpStep": "Schritt %s",
-	"popupSettingsImportNotionHelpStep11": "Open Settings.",
+	"popupSettingsImportNotionHelpStep11": "Einstellungen öffnen.",
 	"popupSettingsImportNotionHelpStep12": "Öffne \"Meine Verbindungen\" und dann \"Eigene Einbindungen entwickeln oder verwalten\".",
 	"popupSettingsImportNotionHelpStep13": "Klicke auf \"Neue Einbindung\" oder \"Neue Einbindung erstellen\".",
 	"popupSettingsImportNotionHelpStep14": "Wähle deinen Workspace und gib \"Namen\" für die Integration ein.",
