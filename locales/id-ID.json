@@ -172,6 +172,7 @@
 	"commonMenu": "Menu",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
+	"commonCalculate": "Calculate",
 	"pluralDay": "hari|hari",
 	"pluralObject": "Objek|Objek",
 	"pluralLCObject": "objek|objek",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "Hanya lokal",
 	"networkMode1Text": "Tidak mencadangkan; hanya menyinkron dalam jaringan lokal",
 	"networkMode2Title": "Swaladen (self-host)",
-	"networkMode2Text": "Cadangkan ke jaringan yang kamu ladeni (host) sendiri"
+	"networkMode2Text": "Cadangkan ke jaringan yang kamu ladeni (host) sendiri",
+	"formulaNone": "Pilih",
+	"formulaCount": "Count",
+	"formulaDistinct": "Count unique values",
+	"formulaEmpty": "Count empty",
+	"formulaNotEmpty": "Count not empty",
+	"formulaPercentEmpty": "Percentage empty",
+	"formulaPercentNotEmpty": "Percentage not empty",
+	"formulaSum": "Sum",
+	"formulaAverage": "Average",
+	"formulaMedian": "Median",
+	"formulaMin": "Minimum",
+	"formulaMax": "Maximum",
+	"formulaRange": "Range"
 }

@@ -172,6 +172,7 @@
 	"commonMenu": "Menu",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
+	"commonCalculate": "Calculate",
 	"pluralDay": "den | dny",
 	"pluralObject": "Objekt | Objekty",
 	"pluralLCObject": "object|objects",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "Pouze místní",
 	"networkMode1Text": "Nezálohujete; synchronizace v rámci místní sítě",
 	"networkMode2Title": "Samostatně hostované",
-	"networkMode2Text": "Zálohovat na vlastní hostovanou síť"
+	"networkMode2Text": "Zálohovat na vlastní hostovanou síť",
+	"formulaNone": "Zvolit",
+	"formulaCount": "Count",
+	"formulaDistinct": "Count unique values",
+	"formulaEmpty": "Count empty",
+	"formulaNotEmpty": "Count not empty",
+	"formulaPercentEmpty": "Percentage empty",
+	"formulaPercentNotEmpty": "Percentage not empty",
+	"formulaSum": "Sum",
+	"formulaAverage": "Average",
+	"formulaMedian": "Median",
+	"formulaMin": "Minimum",
+	"formulaMax": "Maximum",
+	"formulaRange": "Range"
 }

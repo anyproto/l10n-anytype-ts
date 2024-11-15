@@ -172,6 +172,7 @@
 	"commonMenu": "Меню",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
+	"commonCalculate": "Calculate",
 	"pluralDay": "дзень|дзён",
 	"pluralObject": "Аб'ект|Абʼекты",
 	"pluralLCObject": "Aб'ект|Aб'ектаў",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "Толькі лакальна",
 	"networkMode1Text": "Не стварайце рэзервовыя копіі; сінхранізуйце ў лакальнай сетцы",
 	"networkMode2Title": "Уласнае размяшчэнне",
-	"networkMode2Text": "Рэзервовае капіраванне на ўласным хостынгу"
+	"networkMode2Text": "Рэзервовае капіраванне на ўласным хостынгу",
+	"formulaNone": "Выбраць",
+	"formulaCount": "Count",
+	"formulaDistinct": "Count unique values",
+	"formulaEmpty": "Count empty",
+	"formulaNotEmpty": "Count not empty",
+	"formulaPercentEmpty": "Percentage empty",
+	"formulaPercentNotEmpty": "Percentage not empty",
+	"formulaSum": "Sum",
+	"formulaAverage": "Average",
+	"formulaMedian": "Median",
+	"formulaMin": "Minimum",
+	"formulaMax": "Maximum",
+	"formulaRange": "Range"
 }

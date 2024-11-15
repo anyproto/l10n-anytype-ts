@@ -172,6 +172,7 @@
 	"commonMenu": "Menu",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
+	"commonCalculate": "Calculate",
 	"pluralDay": "день|днів",
 	"pluralObject": "Об'єкт|Об'єктів",
 	"pluralLCObject": "object|objects",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "Винятково локально",
 	"networkMode1Text": "Не створювати резервні копії; синхронізуйте тільки у локальній мережі",
 	"networkMode2Title": "Власне розміщення",
-	"networkMode2Text": "Резервне копіювання до самостійно розміщеної мережі"
+	"networkMode2Text": "Резервне копіювання до самостійно розміщеної мережі",
+	"formulaNone": "Вибрати",
+	"formulaCount": "Count",
+	"formulaDistinct": "Count unique values",
+	"formulaEmpty": "Count empty",
+	"formulaNotEmpty": "Count not empty",
+	"formulaPercentEmpty": "Percentage empty",
+	"formulaPercentNotEmpty": "Percentage not empty",
+	"formulaSum": "Sum",
+	"formulaAverage": "Average",
+	"formulaMedian": "Median",
+	"formulaMin": "Minimum",
+	"formulaMax": "Maximum",
+	"formulaRange": "Range"
 }

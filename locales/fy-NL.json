@@ -172,6 +172,7 @@
 	"commonMenu": "Menu",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
+	"commonCalculate": "Calculate",
 	"pluralDay": "dei|dagen",
 	"pluralObject": "Objekt|Objekten",
 	"pluralLCObject": "object|objects",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "Allinnich lokaal",
 	"networkMode1Text": "Meitsje gjin reservekopy; syngronisearje binnen in lokaal netwurk",
 	"networkMode2Title": "Sels host",
-	"networkMode2Text": "Reservekopy meitsje nei dyn selshoste netwurk"
+	"networkMode2Text": "Reservekopy meitsje nei dyn selshoste netwurk",
+	"formulaNone": "Selektearje",
+	"formulaCount": "Count",
+	"formulaDistinct": "Count unique values",
+	"formulaEmpty": "Count empty",
+	"formulaNotEmpty": "Count not empty",
+	"formulaPercentEmpty": "Percentage empty",
+	"formulaPercentNotEmpty": "Percentage not empty",
+	"formulaSum": "Sum",
+	"formulaAverage": "Average",
+	"formulaMedian": "Median",
+	"formulaMin": "Minimum",
+	"formulaMax": "Maximum",
+	"formulaRange": "Range"
 }

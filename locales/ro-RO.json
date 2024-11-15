@@ -172,6 +172,7 @@
 	"commonMenu": "Menu",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
+	"commonCalculate": "Calculate",
 	"pluralDay": "zi|zile",
 	"pluralObject": "Obiect|Obiecte",
 	"pluralLCObject": "obiect|obiecte",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "Doar pe local",
 	"networkMode1Text": "Nu realiza o copie de rezervă; sincronizează în cadrul rețelei locale",
 	"networkMode2Title": "Auto-găzduit",
-	"networkMode2Text": "Creează o copie de rezervă pe propria rețea de găzduire"
+	"networkMode2Text": "Creează o copie de rezervă pe propria rețea de găzduire",
+	"formulaNone": "Selectează",
+	"formulaCount": "Count",
+	"formulaDistinct": "Count unique values",
+	"formulaEmpty": "Count empty",
+	"formulaNotEmpty": "Count not empty",
+	"formulaPercentEmpty": "Percentage empty",
+	"formulaPercentNotEmpty": "Percentage not empty",
+	"formulaSum": "Sum",
+	"formulaAverage": "Average",
+	"formulaMedian": "Median",
+	"formulaMin": "Minimum",
+	"formulaMax": "Maximum",
+	"formulaRange": "Range"
 }

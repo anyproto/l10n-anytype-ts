@@ -172,6 +172,7 @@
 	"commonMenu": "Menú",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
+	"commonCalculate": "Calculate",
 	"pluralDay": "dia|dies",
 	"pluralObject": "objecte|objectes",
 	"pluralLCObject": "objecte|objectes",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "Només local",
 	"networkMode1Text": "No facis una còpia de seguretat, sincronitza dins de la xarxa local",
 	"networkMode2Title": "Autoallotjat",
-	"networkMode2Text": "Fes una còpia de seguretat a una xarxa autoallotjada"
+	"networkMode2Text": "Fes una còpia de seguretat a una xarxa autoallotjada",
+	"formulaNone": "Select",
+	"formulaCount": "Count",
+	"formulaDistinct": "Count unique values",
+	"formulaEmpty": "Count empty",
+	"formulaNotEmpty": "Count not empty",
+	"formulaPercentEmpty": "Percentage empty",
+	"formulaPercentNotEmpty": "Percentage not empty",
+	"formulaSum": "Sum",
+	"formulaAverage": "Average",
+	"formulaMedian": "Median",
+	"formulaMin": "Minimum",
+	"formulaMax": "Maximum",
+	"formulaRange": "Range"
 }

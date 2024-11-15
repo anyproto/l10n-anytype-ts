@@ -172,6 +172,7 @@
 	"commonMenu": "Meny",
 	"commonSignUp": "Registrera dig",
 	"commonNotFound": "Not found",
+	"commonCalculate": "Calculate",
 	"pluralDay": "dag|dagar",
 	"pluralObject": "Objekt|Objekt",
 	"pluralLCObject": "objekt|objekt",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "Endast lokalt",
 	"networkMode1Text": "Säkerhetskopiera inte upp; synkronisera endast inom det lokala nätverket",
 	"networkMode2Title": "Självhosta",
-	"networkMode2Text": "Säkerhetskopiera till ditt självhostade nätverk"
+	"networkMode2Text": "Säkerhetskopiera till ditt självhostade nätverk",
+	"formulaNone": "Välj",
+	"formulaCount": "Count",
+	"formulaDistinct": "Count unique values",
+	"formulaEmpty": "Count empty",
+	"formulaNotEmpty": "Count not empty",
+	"formulaPercentEmpty": "Percentage empty",
+	"formulaPercentNotEmpty": "Percentage not empty",
+	"formulaSum": "Sum",
+	"formulaAverage": "Average",
+	"formulaMedian": "Median",
+	"formulaMin": "Minimum",
+	"formulaMax": "Maximum",
+	"formulaRange": "Range"
 }

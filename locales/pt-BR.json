@@ -172,6 +172,7 @@
 	"commonMenu": "Menu",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
+	"commonCalculate": "Calculate",
 	"pluralDay": "dia|dias",
 	"pluralObject": "Objeto|Objetos",
 	"pluralLCObject": "objeto|objetos",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "Apenas localmente",
 	"networkMode1Text": "Não fazer backup; sincronizar pela rede local",
 	"networkMode2Title": "Auto-Hospedado",
-	"networkMode2Text": "Faça o backup da sua rede auto-hospedada"
+	"networkMode2Text": "Faça o backup da sua rede auto-hospedada",
+	"formulaNone": "Selecionar",
+	"formulaCount": "Count",
+	"formulaDistinct": "Count unique values",
+	"formulaEmpty": "Count empty",
+	"formulaNotEmpty": "Count not empty",
+	"formulaPercentEmpty": "Percentage empty",
+	"formulaPercentNotEmpty": "Percentage not empty",
+	"formulaSum": "Sum",
+	"formulaAverage": "Average",
+	"formulaMedian": "Median",
+	"formulaMin": "Minimum",
+	"formulaMax": "Maximum",
+	"formulaRange": "Range"
 }

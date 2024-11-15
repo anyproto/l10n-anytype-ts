@@ -172,6 +172,7 @@
 	"commonMenu": "Меню",
 	"commonSignUp": "Зарегистрироваться",
 	"commonNotFound": "Не найдено",
+	"commonCalculate": "Вычислить",
 	"pluralDay": "день|дней",
 	"pluralObject": "Объект|Объекты",
 	"pluralLCObject": "объект|объекты",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "Локально",
 	"networkMode1Text": "Не сохранять резервные копии; синхронизация внутри локальной сети",
 	"networkMode2Title": "На собственном сервере",
-	"networkMode2Text": "Резервное копирование в вашей сети"
+	"networkMode2Text": "Резервное копирование в вашей сети",
+	"formulaNone": "Выбрать",
+	"formulaCount": "Кол-во",
+	"formulaDistinct": "Количество уникальных значений",
+	"formulaEmpty": "Количество пустых",
+	"formulaNotEmpty": "Количество не пустых",
+	"formulaPercentEmpty": "Процент пустых",
+	"formulaPercentNotEmpty": "Процент не пустых",
+	"formulaSum": "Сумма",
+	"formulaAverage": "Среднее",
+	"formulaMedian": "Медиана",
+	"formulaMin": "Минимум",
+	"formulaMax": "Максимум",
+	"formulaRange": "Диапазон"
 }

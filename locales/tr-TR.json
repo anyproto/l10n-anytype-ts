@@ -172,6 +172,7 @@
 	"commonMenu": "Menü",
 	"commonSignUp": "Kaydol",
 	"commonNotFound": "Bulunamadı",
+	"commonCalculate": "Calculate",
 	"pluralDay": "gün|günler",
 	"pluralObject": "Nesne|Nesneler",
 	"pluralLCObject": "nesne|nesneler",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "Yalnızca yerel",
 	"networkMode1Text": "Yedekleme; yerel ağ ile senkronize et",
 	"networkMode2Title": "Kişisel barındırma",
-	"networkMode2Text": "Kişisel depolama ağınıza yedekleyin"
+	"networkMode2Text": "Kişisel depolama ağınıza yedekleyin",
+	"formulaNone": "Seç",
+	"formulaCount": "Count",
+	"formulaDistinct": "Count unique values",
+	"formulaEmpty": "Count empty",
+	"formulaNotEmpty": "Count not empty",
+	"formulaPercentEmpty": "Percentage empty",
+	"formulaPercentNotEmpty": "Percentage not empty",
+	"formulaSum": "Sum",
+	"formulaAverage": "Average",
+	"formulaMedian": "Median",
+	"formulaMin": "Minimum",
+	"formulaMax": "Maximum",
+	"formulaRange": "Range"
 }

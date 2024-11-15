@@ -172,6 +172,7 @@
 	"commonMenu": "菜单",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
+	"commonCalculate": "Calculate",
 	"pluralDay": "天|天",
 	"pluralObject": "对象|对象",
 	"pluralLCObject": "对象|对象",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "仅本地",
 	"networkMode1Text": "不要备份；在本地网络内同步",
 	"networkMode2Title": "自托管",
-	"networkMode2Text": "备份到您的自托管网络"
+	"networkMode2Text": "备份到您的自托管网络",
+	"formulaNone": "选择",
+	"formulaCount": "Count",
+	"formulaDistinct": "Count unique values",
+	"formulaEmpty": "Count empty",
+	"formulaNotEmpty": "Count not empty",
+	"formulaPercentEmpty": "Percentage empty",
+	"formulaPercentNotEmpty": "Percentage not empty",
+	"formulaSum": "Sum",
+	"formulaAverage": "Average",
+	"formulaMedian": "Median",
+	"formulaMin": "Minimum",
+	"formulaMax": "Maximum",
+	"formulaRange": "Range"
 }
