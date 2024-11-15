@@ -172,6 +172,7 @@
 	"commonMenu": "Menu",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
+	"commonCalculate": "Calculate",
 	"pluralDay": "día|días",
 	"pluralObject": "Obxecto|Obxectos",
 	"pluralLCObject": "obxecto|obxectos",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "Só local",
 	"networkMode1Text": "Don't back up; sync within local network",
 	"networkMode2Title": "Hospedado polo usuario",
-	"networkMode2Text": "Back up to your self-hosted network"
+	"networkMode2Text": "Back up to your self-hosted network",
+	"formulaNone": "Seleccionar",
+	"formulaCount": "Count",
+	"formulaDistinct": "Count unique values",
+	"formulaEmpty": "Count empty",
+	"formulaNotEmpty": "Count not empty",
+	"formulaPercentEmpty": "Percentage empty",
+	"formulaPercentNotEmpty": "Percentage not empty",
+	"formulaSum": "Sum",
+	"formulaAverage": "Average",
+	"formulaMedian": "Median",
+	"formulaMin": "Minimum",
+	"formulaMax": "Maximum",
+	"formulaRange": "Range"
 }
