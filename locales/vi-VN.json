@@ -172,6 +172,7 @@
 	"commonMenu": "Bảng chọn",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
+	"commonCalculate": "Calculate",
 	"pluralDay": "ngày|ngày",
 	"pluralObject": "Đối tượng|Đối tượng",
 	"pluralLCObject": "đối tượng|đối tượng",
@@ -1898,5 +1899,18 @@
 	"networkMode1Title": "Cục bộ",
 	"networkMode1Text": "Không sao lưu; đồng bộ chỉ trong mạng cục bộ",
 	"networkMode2Title": "Tự lưu trữ",
-	"networkMode2Text": "Sao lưu lên mạng do bạn tự quản"
+	"networkMode2Text": "Sao lưu lên mạng do bạn tự quản",
+	"formulaNone": "Chọn",
+	"formulaCount": "Count",
+	"formulaDistinct": "Count unique values",
+	"formulaEmpty": "Count empty",
+	"formulaNotEmpty": "Count not empty",
+	"formulaPercentEmpty": "Percentage empty",
+	"formulaPercentNotEmpty": "Percentage not empty",
+	"formulaSum": "Sum",
+	"formulaAverage": "Average",
+	"formulaMedian": "Median",
+	"formulaMin": "Minimum",
+	"formulaMax": "Maximum",
+	"formulaRange": "Range"
 }
