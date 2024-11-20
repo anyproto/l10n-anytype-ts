@@ -172,7 +172,6 @@
 	"commonMenu": "選單",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
-	"commonCalculate": "Calculate",
 	"pluralDay": "天|天",
 	"pluralObject": "物件|物件",
 	"pluralLCObject": "物件|物件",
@@ -1900,7 +1899,7 @@
 	"networkMode1Text": "不要備份；僅在本地網路同步",
 	"networkMode2Title": "自行託管",
 	"networkMode2Text": "備份到您自部署的網路",
-	"formulaNone": "單選",
+	"formulaNone": "Calculate",
 	"formulaCount": "Count",
 	"formulaDistinct": "Count unique values",
 	"formulaEmpty": "Count empty",
@@ -1912,5 +1911,13 @@
 	"formulaMedian": "Median",
 	"formulaMin": "Minimum",
 	"formulaMax": "Maximum",
-	"formulaRange": "Range"
+	"formulaRange": "Range",
+	"formulaDateMin": "Earliest date",
+	"formulaDateMax": "Latest date",
+	"formulaDateRange": "Date range",
+	"formulaCheckboxCount": "Count all",
+	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxPercentEmpty": "Percentage unchecked",
+	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }
