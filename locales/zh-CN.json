@@ -172,7 +172,6 @@
 	"commonMenu": "菜单",
 	"commonSignUp": "注册",
 	"commonNotFound": "未找到",
-	"commonCalculate": "计算",
 	"pluralDay": "天|天",
 	"pluralObject": "对象|对象",
 	"pluralLCObject": "对象|对象",
@@ -1900,7 +1899,7 @@
 	"networkMode1Text": "不要备份；在本地网络内同步",
 	"networkMode2Title": "自托管",
 	"networkMode2Text": "备份到您的自托管网络",
-	"formulaNone": "选择",
+	"formulaNone": "Calculate",
 	"formulaCount": "Count",
 	"formulaDistinct": "Count unique values",
 	"formulaEmpty": "Count empty",
@@ -1912,5 +1911,13 @@
 	"formulaMedian": "Median",
 	"formulaMin": "Minimum",
 	"formulaMax": "最大值",
-	"formulaRange": "Range"
+	"formulaRange": "Range",
+	"formulaDateMin": "Earliest date",
+	"formulaDateMax": "Latest date",
+	"formulaDateRange": "Date range",
+	"formulaCheckboxCount": "Count all",
+	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxPercentEmpty": "Percentage unchecked",
+	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }
