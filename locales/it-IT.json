@@ -172,7 +172,6 @@
 	"commonMenu": "Menu",
 	"commonSignUp": "Registrati",
 	"commonNotFound": "Non trovato",
-	"commonCalculate": "Calculate",
 	"pluralDay": "giorno|giorni",
 	"pluralObject": "Oggetto|oggetti",
 	"pluralLCObject": "oggetto|oggetti",
@@ -1900,7 +1899,7 @@
 	"networkMode1Text": "Non effettuare il backup; sincronizza all'interno della rete locale",
 	"networkMode2Title": "Self-hosted",
 	"networkMode2Text": "Effettua il backup sulla tua rete self-hosted",
-	"formulaNone": "Seleziona",
+	"formulaNone": "Calculate",
 	"formulaCount": "Count",
 	"formulaDistinct": "Count unique values",
 	"formulaEmpty": "Count empty",
@@ -1912,5 +1911,13 @@
 	"formulaMedian": "Median",
 	"formulaMin": "Minimum",
 	"formulaMax": "Maximum",
-	"formulaRange": "Range"
+	"formulaRange": "Range",
+	"formulaDateMin": "Earliest date",
+	"formulaDateMax": "Latest date",
+	"formulaDateRange": "Date range",
+	"formulaCheckboxCount": "Count all",
+	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxPercentEmpty": "Percentage unchecked",
+	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }
