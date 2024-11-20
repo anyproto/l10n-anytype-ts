@@ -172,7 +172,6 @@
 	"commonMenu": "Menü",
 	"commonSignUp": "Registrieren",
 	"commonNotFound": "Nicht gefunden",
-	"commonCalculate": "Berechnen",
 	"pluralDay": "Tag|Tage",
 	"pluralObject": "Objekt|Objekte",
 	"pluralLCObject": "Objekt|Objekte",
@@ -1900,7 +1899,7 @@
 	"networkMode1Text": "Nicht sichern; im lokalen Netzwerk synchronisieren",
 	"networkMode2Title": "Selbst gehostet",
 	"networkMode2Text": "In deinem selbst gehosteten Netzwerk sichern",
-	"formulaNone": "Auswählen",
+	"formulaNone": "Calculate",
 	"formulaCount": "Zählen",
 	"formulaDistinct": "Eindeutige Werte zählen",
 	"formulaEmpty": "Leere zählen",
@@ -1912,5 +1911,13 @@
 	"formulaMedian": "Median",
 	"formulaMin": "Minimum",
 	"formulaMax": "Maximum",
-	"formulaRange": "Bereich"
+	"formulaRange": "Bereich",
+	"formulaDateMin": "Earliest date",
+	"formulaDateMax": "Latest date",
+	"formulaDateRange": "Date range",
+	"formulaCheckboxCount": "Count all",
+	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxPercentEmpty": "Percentage unchecked",
+	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }

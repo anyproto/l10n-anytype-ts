@@ -172,7 +172,6 @@
 	"commonMenu": "Меню",
 	"commonSignUp": "Зарегистрироваться",
 	"commonNotFound": "Не найдено",
-	"commonCalculate": "Вычислить",
 	"pluralDay": "день|дней",
 	"pluralObject": "Объект|Объекты",
 	"pluralLCObject": "объект|объекты",
@@ -1900,7 +1899,7 @@
 	"networkMode1Text": "Не сохранять резервные копии; синхронизация внутри локальной сети",
 	"networkMode2Title": "На собственном сервере",
 	"networkMode2Text": "Резервное копирование в вашей сети",
-	"formulaNone": "Выбрать",
+	"formulaNone": "Calculate",
 	"formulaCount": "Кол-во",
 	"formulaDistinct": "Количество уникальных значений",
 	"formulaEmpty": "Количество пустых",
@@ -1912,5 +1911,13 @@
 	"formulaMedian": "Медиана",
 	"formulaMin": "Минимум",
 	"formulaMax": "Максимум",
-	"formulaRange": "Диапазон"
+	"formulaRange": "Диапазон",
+	"formulaDateMin": "Earliest date",
+	"formulaDateMax": "Latest date",
+	"formulaDateRange": "Date range",
+	"formulaCheckboxCount": "Count all",
+	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxPercentEmpty": "Percentage unchecked",
+	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }

@@ -172,7 +172,6 @@
 	"commonMenu": "메뉴",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
-	"commonCalculate": "Calculate",
 	"pluralDay": "일|일",
 	"pluralObject": "객체|객체",
 	"pluralLCObject": "객체|객체",
@@ -1900,7 +1899,7 @@
 	"networkMode1Text": "백업하지 않고 로컬 네트워크 내에서 동기화",
 	"networkMode2Title": "자체 호스팅",
 	"networkMode2Text": "자체 호스팅된 네트워크로 백업",
-	"formulaNone": "선택",
+	"formulaNone": "Calculate",
 	"formulaCount": "Count",
 	"formulaDistinct": "Count unique values",
 	"formulaEmpty": "Count empty",
@@ -1912,5 +1911,13 @@
 	"formulaMedian": "Median",
 	"formulaMin": "Minimum",
 	"formulaMax": "Maximum",
-	"formulaRange": "Range"
+	"formulaRange": "Range",
+	"formulaDateMin": "Earliest date",
+	"formulaDateMax": "Latest date",
+	"formulaDateRange": "Date range",
+	"formulaCheckboxCount": "Count all",
+	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxPercentEmpty": "Percentage unchecked",
+	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }

@@ -172,7 +172,6 @@
 	"commonMenu": "Menu",
 	"commonSignUp": "Sign Up",
 	"commonNotFound": "Not found",
-	"commonCalculate": "Calculate",
 	"pluralDay": "diena|dienos",
 	"pluralObject": "Objektas|Objektai",
 	"pluralLCObject": "objektas|objektai",
@@ -1900,7 +1899,7 @@
 	"networkMode1Text": "Nedaryk atsarginės kopijos; sinchronizuok lokaliajame tinkle",
 	"networkMode2Title": "Savipriegloba",
 	"networkMode2Text": "Sukurk atsarginę kopiją savo saviprieglobos tinkle",
-	"formulaNone": "Pasirinkti",
+	"formulaNone": "Calculate",
 	"formulaCount": "Count",
 	"formulaDistinct": "Count unique values",
 	"formulaEmpty": "Count empty",
@@ -1912,5 +1911,13 @@
 	"formulaMedian": "Median",
 	"formulaMin": "Minimum",
 	"formulaMax": "Maximum",
-	"formulaRange": "Range"
+	"formulaRange": "Range",
+	"formulaDateMin": "Earliest date",
+	"formulaDateMax": "Latest date",
+	"formulaDateRange": "Date range",
+	"formulaCheckboxCount": "Count all",
+	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxPercentEmpty": "Percentage unchecked",
+	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }
