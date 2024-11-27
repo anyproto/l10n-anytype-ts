@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "Уставіць злева",
 	"menuDataviewRelationEditInsertRight": "Уставіць справа",
 	"menuDataviewRelationEditHideRelation": "Схаваць Уласцівасць",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "Дадаць тып Аб'екта",
 	"menuDataviewRelationEditFilterObjectTypes": "Фільтр тыпу аб'ектаў...",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "Не пазначаны",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "Пазначаны",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }
