@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "Вставити ліворуч",
 	"menuDataviewRelationEditInsertRight": "Вставити праворуч",
 	"menuDataviewRelationEditHideRelation": "Приховати Відношення",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "Додати Тип об'єкта",
 	"menuDataviewRelationEditFilterObjectTypes": "Фільтрувати Типи об'єктів...",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "Не позначено",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "Позначено",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }
