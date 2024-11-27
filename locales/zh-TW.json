@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "於左側插入",
 	"menuDataviewRelationEditInsertRight": "於右側插入",
 	"menuDataviewRelationEditHideRelation": "隱藏關聯",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "添加物件類型",
 	"menuDataviewRelationEditFilterObjectTypes": "篩選物件類型…",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "未勾選",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "已勾選",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }
