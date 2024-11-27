@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "Mata in till vänster",
 	"menuDataviewRelationEditInsertRight": "Mata in till höger",
 	"menuDataviewRelationEditHideRelation": "Dölj relation",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "Lägg till objekttyp",
 	"menuDataviewRelationEditFilterObjectTypes": "Filtrera objekttyper...",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "Unchecked",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "Checked",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }
