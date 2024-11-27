@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "Chèn bên trái",
 	"menuDataviewRelationEditInsertRight": "Chèn bên phải",
 	"menuDataviewRelationEditHideRelation": "Ẩn Liên hệ",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "Thêm loại Đối tượng",
 	"menuDataviewRelationEditFilterObjectTypes": "Lọc các loại Đối tượng...",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "Chưa tick",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "Đã tick",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }

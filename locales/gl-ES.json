@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "Inserir na esquerda",
 	"menuDataviewRelationEditInsertRight": "Inserir na dereita",
 	"menuDataviewRelationEditHideRelation": "Agochar relación",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "Engadir Tipo de obxecto",
 	"menuDataviewRelationEditFilterObjectTypes": "Filtrar tipos de obxecto...",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "Desmarcado",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "Marcado",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }

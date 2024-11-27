@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "왼쪽 삽입",
 	"menuDataviewRelationEditInsertRight": "오른쪽 삽입",
 	"menuDataviewRelationEditHideRelation": "관계 숨기기",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "오브젝트 유형 추가",
 	"menuDataviewRelationEditFilterObjectTypes": "오브젝트 유형 필터링...",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "선택 해제됨",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "선택됨",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }

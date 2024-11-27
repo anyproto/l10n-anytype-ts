@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "Insereix a l'esquerra",
 	"menuDataviewRelationEditInsertRight": "Insereix a la dreta",
 	"menuDataviewRelationEditHideRelation": "Amaga la relació",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "Afegeix un tipus d'objecte",
 	"menuDataviewRelationEditFilterObjectTypes": "Filtra tipus d'objecte",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "Sense marcar",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "Marcat",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }

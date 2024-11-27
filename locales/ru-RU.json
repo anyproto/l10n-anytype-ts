@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "Вставить слева",
 	"menuDataviewRelationEditInsertRight": "Вставить справа",
 	"menuDataviewRelationEditHideRelation": "Скрыть свойство",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "Добавить тип объекта",
 	"menuDataviewRelationEditFilterObjectTypes": "Фильтровать типы объектов...",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Диапазон",
 	"formulaCheckboxCount": "Подсчитать все",
 	"formulaCheckboxEmpty": "Посчитать отмеченные",
+	"formulaCheckboxEmptyShort": "Не отмечен",
 	"formulaCheckboxNotEmpty": "Посчитать неотмеченные ",
+	"formulaCheckboxNotEmptyShort": "Отмечен",
 	"formulaCheckboxPercentEmpty": "Процент неотмеченных",
 	"formulaCheckboxPercentNotEmpty": "Процент отмеченных"
 }

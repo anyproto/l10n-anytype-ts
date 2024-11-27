@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "Vložit vlevo",
 	"menuDataviewRelationEditInsertRight": "Vložit vpravo",
 	"menuDataviewRelationEditHideRelation": "Skrýt vztah",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "Přidat typ objektu",
 	"menuDataviewRelationEditFilterObjectTypes": "Filtrovat typy objektů...",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "Nezaškrtnuto",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "Zaškrtnuto",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }

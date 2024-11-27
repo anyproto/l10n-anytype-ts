@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "Links ynfoegje",
 	"menuDataviewRelationEditInsertRight": "Rjochts ynfoegje",
 	"menuDataviewRelationEditHideRelation": "Hide Relation",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "Add Object type",
 	"menuDataviewRelationEditFilterObjectTypes": "Filter Object types...",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "Net selektearre",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "Selektearre",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }

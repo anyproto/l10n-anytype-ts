@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "Sett inn til venstre",
 	"menuDataviewRelationEditInsertRight": "Sett inn til høyre",
 	"menuDataviewRelationEditHideRelation": "Skjul relasjon",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "Legg til objekttype",
 	"menuDataviewRelationEditFilterObjectTypes": "Filtrer objekttyper...",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "Ikke krysset av",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "Krysset av",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }

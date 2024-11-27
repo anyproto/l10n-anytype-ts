@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "Inserare la stânga",
 	"menuDataviewRelationEditInsertRight": "Inserare la dreapta",
 	"menuDataviewRelationEditHideRelation": "Ascunde relația",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "Adaugă tipul obiectului",
 	"menuDataviewRelationEditFilterObjectTypes": "Filtrează tipurile obiectului...",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "Nebifat",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "Bifat",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }
