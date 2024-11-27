@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "左に列を挿入",
 	"menuDataviewRelationEditInsertRight": "右に列を挿入",
 	"menuDataviewRelationEditHideRelation": "リレーションを隠す",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "オブジェクトタイプを追加",
 	"menuDataviewRelationEditFilterObjectTypes": "オブジェクトタイプを絞り込む…",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "未チェックされました",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "チェックされました",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }
