@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "Įterpti kairėje",
 	"menuDataviewRelationEditInsertRight": "Įterpti dešinėje",
 	"menuDataviewRelationEditHideRelation": "Paslėpti Sąryšį",
+	"menuDataviewRelationEditCalculate": "Calculate",
 	"menuDataviewRelationEditAddObjectType": "Pridėti Objekto tipą",
 	"menuDataviewRelationEditFilterObjectTypes": "Filtruoti Objektų tipus...",
 	"menuDataviewRelationEditToastOnCreate": "Relation <b>%s<\/b> has been created",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Range",
 	"formulaCheckboxCount": "Count all",
 	"formulaCheckboxEmpty": "Count unchecked",
+	"formulaCheckboxEmptyShort": "Nepažymėtas",
 	"formulaCheckboxNotEmpty": "Count checked",
+	"formulaCheckboxNotEmptyShort": "Pažymėtas",
 	"formulaCheckboxPercentEmpty": "Percentage unchecked",
 	"formulaCheckboxPercentNotEmpty": "Percentage checked"
 }
