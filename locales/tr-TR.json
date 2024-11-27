@@ -1263,6 +1263,7 @@
 	"menuDataviewRelationEditInsertLeft": "Sola ekle",
 	"menuDataviewRelationEditInsertRight": "Sağa ekle",
 	"menuDataviewRelationEditHideRelation": "İlişkiyi gizle",
+	"menuDataviewRelationEditCalculate": "Hesapla",
 	"menuDataviewRelationEditAddObjectType": "Nesne Türü Ekle",
 	"menuDataviewRelationEditFilterObjectTypes": "Nesne türlerini filtrele...",
 	"menuDataviewRelationEditToastOnCreate": "<b>%s<\/b> ilişkisi oluşturuldu",
@@ -1927,7 +1928,9 @@
 	"formulaDateRangeShort": "Aralık",
 	"formulaCheckboxCount": "Hepsini say",
 	"formulaCheckboxEmpty": "İşaretlenmemişleri say",
+	"formulaCheckboxEmptyShort": "İşaretsiz",
 	"formulaCheckboxNotEmpty": "İşeretlenenleri say",
+	"formulaCheckboxNotEmptyShort": "İşaretli",
 	"formulaCheckboxPercentEmpty": "İşaretlenmemiş yüzde",
 	"formulaCheckboxPercentNotEmpty": "İşaretli yüzde"
 }
