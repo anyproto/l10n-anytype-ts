@@ -1911,6 +1911,8 @@
 	"formulaPercentage": "Prosent",
 	"formulaMath": "Math",
 	"formulaDate": "Dato",
+	"formulaValue": "Count values",
+	"formulaValueShort": "Values",
 	"formulaDistinct": "Tell unike verdier",
 	"formulaDistinctShort": "Unik",
 	"formulaEmpty": "Tell tomme",
