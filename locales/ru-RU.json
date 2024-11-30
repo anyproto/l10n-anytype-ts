@@ -1911,6 +1911,8 @@
 	"formulaPercentage": "Проценты",
 	"formulaMath": "Вычислить",
 	"formulaDate": "Дата",
+	"formulaValue": "Count values",
+	"formulaValueShort": "Values",
 	"formulaDistinct": "Количество уникальных значений",
 	"formulaDistinctShort": "Уникальный",
 	"formulaEmpty": "Количество пустых",
