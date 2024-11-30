@@ -1911,6 +1911,8 @@
 	"formulaPercentage": "Percentage",
 	"formulaMath": "Math",
 	"formulaDate": "日期",
+	"formulaValue": "Count values",
+	"formulaValueShort": "Values",
 	"formulaDistinct": "Count unique values",
 	"formulaDistinctShort": "Unique",
 	"formulaEmpty": "Count empty",

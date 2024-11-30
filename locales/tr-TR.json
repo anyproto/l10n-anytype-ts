@@ -1911,6 +1911,8 @@
 	"formulaPercentage": "Yüzde",
 	"formulaMath": "Matematik",
 	"formulaDate": "Tarih",
+	"formulaValue": "Count values",
+	"formulaValueShort": "Values",
 	"formulaDistinct": "Benzersiz değerleri sayma",
 	"formulaDistinctShort": "Benzersiz",
 	"formulaEmpty": "Boş olanları sayma",
