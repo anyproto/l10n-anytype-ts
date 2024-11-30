@@ -1911,6 +1911,8 @@
 	"formulaPercentage": "Pourcentage",
 	"formulaMath": "Maths",
 	"formulaDate": "Date",
+	"formulaValue": "Count values",
+	"formulaValueShort": "Values",
 	"formulaDistinct": "Compter les valeurs uniques",
 	"formulaDistinctShort": "Unique",
 	"formulaEmpty": "Compter les vides",
