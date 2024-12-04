@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Surt",
 	"electronMenuFile": "Fitxer",
 	"electronMenuDirectory": "Mostra el Directori",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Feina",
 	"electronMenuDataDirectory": "Mostra el directori de treball",
 	"electronMenuConfigDirectory": "Configuració",
