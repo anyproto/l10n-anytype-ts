@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Выйсці",
 	"electronMenuFile": "Файл",
 	"electronMenuDirectory": "Паказаць каталог",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Праца",
 	"electronMenuDataDirectory": "Паказаць каталог з данымі",
 	"electronMenuConfigDirectory": "Канфігурацыя",
