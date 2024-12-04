@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Ukončiť",
 	"electronMenuFile": "Súbor",
 	"electronMenuDirectory": "Show Directory",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Práca",
 	"electronMenuDataDirectory": "Show Data Directory",
 	"electronMenuConfigDirectory": "Config",
