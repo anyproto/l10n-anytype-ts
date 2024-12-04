@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Metu",
 	"electronMenuFile": "File",
 	"electronMenuDirectory": "Show Directory",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Work",
 	"electronMenuDataDirectory": "Show Data Directory",
 	"electronMenuConfigDirectory": "Config",
