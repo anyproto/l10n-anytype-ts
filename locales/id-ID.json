@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Keluar",
 	"electronMenuFile": "Berkas",
 	"electronMenuDirectory": "Tampilkan Direktori",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Kerja",
 	"electronMenuDataDirectory": "Tampilkan Direktori Data",
 	"electronMenuConfigDirectory": "Konfigurasi",
