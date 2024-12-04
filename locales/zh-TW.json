@@ -216,6 +216,7 @@
 	"electronMenuQuit": "退出",
 	"electronMenuFile": "檔案",
 	"electronMenuDirectory": "顯示資料夾",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "工作",
 	"electronMenuDataDirectory": "數據資料夾",
 	"electronMenuConfigDirectory": "設定資料夾",
