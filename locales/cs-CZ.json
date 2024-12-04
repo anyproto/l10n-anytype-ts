@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Ukončit",
 	"electronMenuFile": "Soubor",
 	"electronMenuDirectory": "Zobrazit adresář",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Pracovní",
 	"electronMenuDataDirectory": "Zobrazit adresář dat",
 	"electronMenuConfigDirectory": "Config",
