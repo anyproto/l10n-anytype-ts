@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Stop",
 	"electronMenuFile": "Bestand",
 	"electronMenuDirectory": "Toon map",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Werk",
 	"electronMenuDataDirectory": "Gegevens",
 	"electronMenuConfigDirectory": "Instellingen",
