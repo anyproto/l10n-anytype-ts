@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Sair",
 	"electronMenuFile": "Arquivo",
 	"electronMenuDirectory": "Mostrar pasta",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Trabalho",
 	"electronMenuDataDirectory": "Show Data Directory",
 	"electronMenuConfigDirectory": "Configuração",

@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Ieși",
 	"electronMenuFile": "Fișier",
 	"electronMenuDirectory": "Afișează directorul de lucru",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Muncă",
 	"electronMenuDataDirectory": "Show Data Directory",
 	"electronMenuConfigDirectory": "Configurare",

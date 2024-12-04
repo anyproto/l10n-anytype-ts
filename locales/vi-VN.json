@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Thoát",
 	"electronMenuFile": "Tập tin",
 	"electronMenuDirectory": "Hiển thị thư mục",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Công việc",
 	"electronMenuDataDirectory": "Hiển thị thư mục dữ liệu",
 	"electronMenuConfigDirectory": "Cấu hình",

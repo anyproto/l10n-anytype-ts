@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Avslutt",
 	"electronMenuFile": "Fil",
 	"electronMenuDirectory": "Vis mappe",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Arbeid",
 	"electronMenuDataDirectory": "Vis data-mappe",
 	"electronMenuConfigDirectory": "Konfigurasjon",

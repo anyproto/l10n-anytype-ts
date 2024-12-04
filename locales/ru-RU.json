@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Выйти",
 	"electronMenuFile": "Файл",
 	"electronMenuDirectory": "Открыть каталог",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Работа",
 	"electronMenuDataDirectory": "Данные",
 	"electronMenuConfigDirectory": "Конфигурация",

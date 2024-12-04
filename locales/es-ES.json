@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Salir",
 	"electronMenuFile": "Archivo",
 	"electronMenuDirectory": "Mostrar directorio",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Trabajo",
 	"electronMenuDataDirectory": "Datos",
 	"electronMenuConfigDirectory": "Configuración",

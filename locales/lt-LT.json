@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Išeiti",
 	"electronMenuFile": "Failas",
 	"electronMenuDirectory": "Rodyti katalogą",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Darbas",
 	"electronMenuDataDirectory": "Rodyti duomenų katalogą",
 	"electronMenuConfigDirectory": "Konfigūracija",

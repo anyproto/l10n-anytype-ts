@@ -216,6 +216,7 @@
 	"electronMenuQuit": "বন্ধ করুন",
 	"electronMenuFile": "File",
 	"electronMenuDirectory": "ডিরেক্টরি দেখাও",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Work",
 	"electronMenuDataDirectory": "Show Data Directory",
 	"electronMenuConfigDirectory": "Config",

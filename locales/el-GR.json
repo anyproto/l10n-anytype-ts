@@ -216,6 +216,7 @@
 	"electronMenuQuit": "Έξοδος",
 	"electronMenuFile": "Αρχείο",
 	"electronMenuDirectory": "Προβολή Καταλόγου",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "Εργασία",
 	"electronMenuDataDirectory": "Show Data Directory",
 	"electronMenuConfigDirectory": "Διαμόρφωση",

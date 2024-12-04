@@ -216,6 +216,7 @@
 	"electronMenuQuit": "終了",
 	"electronMenuFile": "ファイル",
 	"electronMenuDirectory": "ディレクトリを表示する",
+	"electronMenuCustomCss": "Apply custom CSS",
 	"electronMenuWorkDirectory": "作業",
 	"electronMenuDataDirectory": "Show Data Directory",
 	"electronMenuConfigDirectory": "コンフィグ",
