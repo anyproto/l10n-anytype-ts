@@ -686,7 +686,7 @@
 	"popupSettingsSpacesListDevice": "设备",
 	"popupSettingsDataManagementTitle": "数据管理",
 	"popupSettingsDataManagementLocalStorageTitle": "本地存储",
-	"popupSettingsDataManagementLocalStorageText": "为了节省您本地设备上的空间，您可以将所有的文件卸载到我们的加密备份节点。这些文件将会在您打开他们的时候被重新加载回来。",
+	"popupSettingsDataManagementLocalStorageText": "为了节省本地设备上的空间，您可以将所有文件卸载到我们的加密备份节点。当您尝试打开这些文件时，它们将被重新加载回来。",
 	"popupSettingsDataManagementLocalStorageTextLocalOnly": "为了节省此设备上的空间，您可以移除所有的文件。请小心：您的客户端正处于仅本地模式，并且数据没有被备份到外部节点。在移除它们之前，请确保您的文件已经被同步到您其他的设备。",
 	"popupSettingsDataManagementLocalStorageUsage": "已使用 %s",
 	"popupSettingsDataManagementOffloadFiles": "删除本地文件",
