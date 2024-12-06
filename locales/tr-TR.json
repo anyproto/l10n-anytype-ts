@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "Tüm alanlarınız tükendi",
 	"pageMainVoidText": "Görünüşe göre evi temizlediniz. Taze bir başlangıç yapmaya hazır mısınız?<br\/>İşleri yoluna koymak için yeni bir alan yaratın!",
 	"pageMainVoidCreateSpace": "Alan oluştur",
-	"pageDateVoidText": "Bu tarih için henüz bir şey yok",
+	"pageMainDateEmptyText": "Bu tarih için henüz bir şey yok",
 	"pageAuthLoginInvalidPhrase": "Geçersiz anahtar",
 	"pageAuthLoginShortPhrase": "Anahtar çok kısa",
 	"pageAuthDeletedAccountDeletionTitle": "Bu kasanın %s gün içinde silinmesi planlanıyor.",
