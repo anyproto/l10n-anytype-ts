@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "You're all out of spaces",
 	"pageMainVoidText": "Looks like you’ve cleaned the house. Ready to start fresh?<br\/>Create a new space to get things rolling!",
 	"pageMainVoidCreateSpace": "Create space",
-	"pageDateVoidText": "There is nothing here for this date yet",
+	"pageMainDateEmptyText": "There is nothing here for this date yet",
 	"pageAuthLoginInvalidPhrase": "無效的密鑰",
 	"pageAuthLoginShortPhrase": "Key is too short",
 	"pageAuthDeletedAccountDeletionTitle": "這個筆記庫已經計劃在 %s 內被刪除",
