@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "Hai esaurito gli spazi",
 	"pageMainVoidText": "Sembra che tu abbia fatto pulizia. Pronto per un nuovo inizio?<br\/>Crea un nuovo spazio per iniziare!",
 	"pageMainVoidCreateSpace": "Crea spazio",
-	"pageDateVoidText": "Non c'è ancora nulla per questa data",
+	"pageMainDateEmptyText": "There is nothing here for this date yet",
 	"pageAuthLoginInvalidPhrase": "Chiave non valida",
 	"pageAuthLoginShortPhrase": "La chiave è troppo corta",
 	"pageAuthDeletedAccountDeletionTitle": "Questa cassaforte è pianificata per l'eliminazione in %s",
