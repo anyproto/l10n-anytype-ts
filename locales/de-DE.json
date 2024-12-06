@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "Deine enthaltenen Spaces sind komplett ausgeschöpft. ",
 	"pageMainVoidText": "Looks like you’ve cleaned the house. Ready to start fresh?<br\/>Create a new space to get things rolling!",
 	"pageMainVoidCreateSpace": "Space erstellen",
-	"pageDateVoidText": "Für dieses Datum ist hier noch nichts eingetragen",
+	"pageMainDateEmptyText": "Für dieses Datum ist hier noch nichts eingetragen",
 	"pageAuthLoginInvalidPhrase": "Ungültiger Schlüssel",
 	"pageAuthLoginShortPhrase": "Schlüssel ist zu kurz",
 	"pageAuthDeletedAccountDeletionTitle": "Dieser Tresor ist zur Löschung vorgesehen in %s",
