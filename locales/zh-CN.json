@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "您已经退出全部空间",
 	"pageMainVoidText": "看起来你已经清理了房间。准备好从头开始了吗？<br\/>创建一个新的空间来开始吧！",
 	"pageMainVoidCreateSpace": "创建空间",
-	"pageDateVoidText": "此日期暂无任何内容",
+	"pageMainDateEmptyText": "There is nothing here for this date yet",
 	"pageAuthLoginInvalidPhrase": "无效密钥",
 	"pageAuthLoginShortPhrase": "密钥太短了",
 	"pageAuthDeletedAccountDeletionTitle": "此库计划于 %s 后删除",
