@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "Je hebt geen ruimten meer",
 	"pageMainVoidText": "Het lijkt erop dat je het huis hebt schoongemaakt. Klaar voor een frisse start?<br\/>Maak een nieuwe ruimte aan om te beginnen!",
 	"pageMainVoidCreateSpace": "Maak ruimte",
-	"pageDateVoidText": "There is nothing here for this date yet",
+	"pageMainDateEmptyText": "There is nothing here for this date yet",
 	"pageAuthLoginInvalidPhrase": "Ongeldige sleutel",
 	"pageAuthLoginShortPhrase": "De sleutel is te kort",
 	"pageAuthDeletedAccountDeletionTitle": "Deze kluis is voorzien om te worden verwijderd over %s",

@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "У вас няма прастор",
 	"pageMainVoidText": "Падобна, вы навялі парадак у хаце. Гатовы пачаць усё з чыстага ліста?<br\/>Стварыце новую прастору, каб пачаць дзейнічаць!",
 	"pageMainVoidCreateSpace": "Стварыць прастору",
-	"pageDateVoidText": "There is nothing here for this date yet",
+	"pageMainDateEmptyText": "There is nothing here for this date yet",
 	"pageAuthLoginInvalidPhrase": "Памылковы ключ",
 	"pageAuthLoginShortPhrase": "Ключ занадта кароткі",
 	"pageAuthDeletedAccountDeletionTitle": "Гэтае сховішча пазначанае для выдалення праз %s",

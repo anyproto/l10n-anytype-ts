@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "Kehabisan ruang",
 	"pageMainVoidText": "Kelihatannya kamu habis bersih-bersih. Siap memulai dari awal?<br\/>Buat ruang baru untuk memulai!",
 	"pageMainVoidCreateSpace": "Buat ruang",
-	"pageDateVoidText": "There is nothing here for this date yet",
+	"pageMainDateEmptyText": "There is nothing here for this date yet",
 	"pageAuthLoginInvalidPhrase": "Kunci tidak valid",
 	"pageAuthLoginShortPhrase": "Kunci terlalu pendek",
 	"pageAuthDeletedAccountDeletionTitle": "This vault is planned for deletion in %s",

@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "Nie masz już żadnych dostępnych przestrzeni",
 	"pageMainVoidText": "Looks like you’ve cleaned the house. Ready to start fresh?<br\/>Create a new space to get things rolling!",
 	"pageMainVoidCreateSpace": "Utwórz przestrzeń",
-	"pageDateVoidText": "There is nothing here for this date yet",
+	"pageMainDateEmptyText": "There is nothing here for this date yet",
 	"pageAuthLoginInvalidPhrase": "Nieprawidłowy klucz",
 	"pageAuthLoginShortPhrase": "Klucz jest zbyt krótki",
 	"pageAuthDeletedAccountDeletionTitle": "Ten magazyn jest planowany do usunięcia w %s",

@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "У вас больше нет свободного места",
 	"pageMainVoidText": "Похоже, вы навели порядок. Готовы начать с чистого листа? Создайте новое пространство, чтобы приступить!",
 	"pageMainVoidCreateSpace": "Создать пространство",
-	"pageDateVoidText": "There is nothing here for this date yet",
+	"pageMainDateEmptyText": "There is nothing here for this date yet",
 	"pageAuthLoginInvalidPhrase": "Неверный ключ",
 	"pageAuthLoginShortPhrase": "Ключ слишком короткий",
 	"pageAuthDeletedAccountDeletionTitle": "Данное хранилище планируется к удалению %s",

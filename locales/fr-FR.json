@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "Vous n'avez plus d'espaces",
 	"pageMainVoidText": "On dirait que vous avez nettoyé la maison. Prêt à commencer ?<br\/>Créez un nouvel espace pour faire bouger les choses!",
 	"pageMainVoidCreateSpace": "Créer un espace",
-	"pageDateVoidText": "Il n'y a encore rien ici pour cette date",
+	"pageMainDateEmptyText": "Il n'y a encore rien ici pour cette date",
 	"pageAuthLoginInvalidPhrase": "Clé invalide",
 	"pageAuthLoginShortPhrase": "Le nom est trop court",
 	"pageAuthDeletedAccountDeletionTitle": "Ce compte est prévu pour suppression dans %s",

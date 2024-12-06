@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "You're all out of spaces",
 	"pageMainVoidText": "Looks like you’ve cleaned the house. Ready to start fresh?<br\/>Create a new space to get things rolling!",
 	"pageMainVoidCreateSpace": "Create space",
-	"pageDateVoidText": "There is nothing here for this date yet",
+	"pageMainDateEmptyText": "There is nothing here for this date yet",
 	"pageAuthLoginInvalidPhrase": "Frase de recuperació no vàlida",
 	"pageAuthLoginShortPhrase": "Key is too short",
 	"pageAuthDeletedAccountDeletionTitle": "Està previst que aquest magatzem s'elimini en %s",
