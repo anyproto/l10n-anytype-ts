@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "You're all out of spaces",
 	"pageMainVoidText": "Looks like you’ve cleaned the house. Ready to start fresh?<br\/>Create a new space to get things rolling!",
 	"pageMainVoidCreateSpace": "Create space",
-	"pageDateVoidText": "There is nothing here for this date yet",
+	"pageMainDateEmptyText": "There is nothing here for this date yet",
 	"pageAuthLoginInvalidPhrase": "Ogiltig nyckel",
 	"pageAuthLoginShortPhrase": "Key is too short",
 	"pageAuthDeletedAccountDeletionTitle": "This vault is planned for deletion in %s",
