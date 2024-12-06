@@ -443,7 +443,7 @@
 	"pageMainVoidTitle": "You're all out of spaces",
 	"pageMainVoidText": "Looks like you’ve cleaned the house. Ready to start fresh?<br\/>Create a new space to get things rolling!",
 	"pageMainVoidCreateSpace": "스페이스 생성",
-	"pageDateVoidText": "There is nothing here for this date yet",
+	"pageMainDateEmptyText": "There is nothing here for this date yet",
 	"pageAuthLoginInvalidPhrase": "잘못된 키",
 	"pageAuthLoginShortPhrase": "키가 너무 짧습니다.",
 	"pageAuthDeletedAccountDeletionTitle": "이 보관소는 %s에 삭제될 예정입니다",
