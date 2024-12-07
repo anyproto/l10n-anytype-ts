@@ -328,6 +328,7 @@
 	"progressSaveFile": "Bezig met downloaden...",
 	"progressMigration": "Kluis herstellen...",
 	"progressRecoverAccount": "Bezig met migreren...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Controleren op update…",
 	"spellcheckAdd": "Toevoegen aan woordenboek",
 	"headerTooltipPath": "Klik om te zoeken",
