@@ -328,6 +328,7 @@
 	"progressSaveFile": "Выполняется загрузка...",
 	"progressMigration": "Восстановление хранилища...",
 	"progressRecoverAccount": "Миграция в процессе...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Проверка наличия обновлений...",
 	"spellcheckAdd": "Добавить в словарь",
 	"headerTooltipPath": "Нажмите для поиска",
