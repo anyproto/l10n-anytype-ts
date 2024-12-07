@@ -328,6 +328,7 @@
 	"progressSaveFile": "Download in progress...",
 	"progressMigration": "Recovering vault...",
 	"progressRecoverAccount": "Migration in progress...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "अद्यतन के लिए जाँच ...",
 	"spellcheckAdd": "शब्दकोश में जोड़ें",
 	"headerTooltipPath": "खोज करने के लिए क्लिक करें",
