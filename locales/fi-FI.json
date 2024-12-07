@@ -328,6 +328,7 @@
 	"progressSaveFile": "Download in progress...",
 	"progressMigration": "Recovering vault...",
 	"progressRecoverAccount": "Migration in progress...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Tarkistetaan päivityksiä...",
 	"spellcheckAdd": "Lisää sanakirjaan",
 	"headerTooltipPath": "Napsauta etsiäksesi",
