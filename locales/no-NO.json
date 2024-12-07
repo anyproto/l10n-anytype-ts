@@ -328,6 +328,7 @@
 	"progressSaveFile": "Nedlasting pågår...",
 	"progressMigration": "Gjenoppretter hvelv...",
 	"progressRecoverAccount": "Migrering pågår...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Sjekker for oppdatering...",
 	"spellcheckAdd": "Legg til i ordboken",
 	"headerTooltipPath": "Klikk for å søke",
