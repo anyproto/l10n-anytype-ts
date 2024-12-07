@@ -328,6 +328,7 @@
 	"progressSaveFile": "Download in progress...",
 	"progressMigration": "Recovering vault...",
 	"progressRecoverAccount": "Migration in progress...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Preverjam za posodobitve ...",
 	"spellcheckAdd": "Dodaj v slovar",
 	"headerTooltipPath": "Klik za iskanje",
