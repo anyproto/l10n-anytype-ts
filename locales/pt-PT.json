@@ -328,6 +328,7 @@
 	"progressSaveFile": "Download in progress...",
 	"progressMigration": "Recovering vault...",
 	"progressRecoverAccount": "Migration in progress...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "A procurar atualizações...",
 	"spellcheckAdd": "Adicionar ao dicionário",
 	"headerTooltipPath": "Clica para pesquisar",
