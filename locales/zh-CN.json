@@ -328,6 +328,7 @@
 	"progressSaveFile": "正在下载...",
 	"progressMigration": "正在恢复库...",
 	"progressRecoverAccount": "正在迁移...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "正在检查更新…",
 	"spellcheckAdd": "添加到词典",
 	"headerTooltipPath": "点击搜索",
