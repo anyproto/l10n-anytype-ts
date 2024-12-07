@@ -328,6 +328,7 @@
 	"progressSaveFile": "Download läuft...",
 	"progressMigration": "Tresor wird wiederhergestellt...",
 	"progressRecoverAccount": "Migration läuft...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Suche nach Updates...",
 	"spellcheckAdd": "Zum Wörterbuch hinzufügen",
 	"headerTooltipPath": "Klicken zum Suchen",
