@@ -328,6 +328,7 @@
 	"progressSaveFile": "Download in progress...",
 	"progressMigration": "Recovering vault...",
 	"progressRecoverAccount": "Migration in progress...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "업데이트 확인 중...",
 	"spellcheckAdd": "사전에 추가",
 	"headerTooltipPath": "클릭해서 검색",

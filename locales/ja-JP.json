@@ -328,6 +328,7 @@
 	"progressSaveFile": "Download in progress...",
 	"progressMigration": "Recovering vault...",
 	"progressRecoverAccount": "Migration in progress...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "更新を確認中…",
 	"spellcheckAdd": "辞書に追加",
 	"headerTooltipPath": "クリックして検索",

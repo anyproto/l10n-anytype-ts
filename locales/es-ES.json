@@ -328,6 +328,7 @@
 	"progressSaveFile": "Descarga en curso…",
 	"progressMigration": "Recuperando el arca…",
 	"progressRecoverAccount": "Migración en curso…",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Buscando actualizaciones…",
 	"spellcheckAdd": "Añadir al diccionario",
 	"headerTooltipPath": "Clic para buscar",

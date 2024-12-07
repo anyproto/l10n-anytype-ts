@@ -328,6 +328,7 @@
 	"progressSaveFile": "Download in progress...",
 	"progressMigration": "Recovering vault...",
 	"progressRecoverAccount": "Migration in progress...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Tinitingnan kung may update...",
 	"spellcheckAdd": "Isama sa diksyunaryo",
 	"headerTooltipPath": "Pindutin upang magsaliksik",

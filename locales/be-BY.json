@@ -328,6 +328,7 @@
 	"progressSaveFile": "Download in progress...",
 	"progressMigration": "Recovering vault...",
 	"progressRecoverAccount": "Migration in progress...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Праверка на наяўнасць абнаўленняў",
 	"spellcheckAdd": "Дадаць у слоўнік",
 	"headerTooltipPath": "Націсніце для пошуку",

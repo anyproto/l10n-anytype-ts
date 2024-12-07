@@ -328,6 +328,7 @@
 	"progressSaveFile": "Download in progress...",
 	"progressMigration": "Recovering vault...",
 	"progressRecoverAccount": "Migration in progress...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Checking for update...",
 	"spellcheckAdd": "Tambah ing bausastra",
 	"headerTooltipPath": "Click to search",

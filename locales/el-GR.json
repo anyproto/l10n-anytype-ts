@@ -328,6 +328,7 @@
 	"progressSaveFile": "Download in progress...",
 	"progressMigration": "Recovering vault...",
 	"progressRecoverAccount": "Migration in progress...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Έλεγχος για ενημέρωση…",
 	"spellcheckAdd": "Προσθήκη στο λεξικό",
 	"headerTooltipPath": "Κλικ για αναζήτηση",

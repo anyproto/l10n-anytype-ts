@@ -328,6 +328,7 @@
 	"progressSaveFile": "Download in progress...",
 	"progressMigration": "Recovering vault...",
 	"progressRecoverAccount": "Migration in progress...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Søger efter opdatering...",
 	"spellcheckAdd": "Føj til bibliotek",
 	"headerTooltipPath": "Klik for at søge",

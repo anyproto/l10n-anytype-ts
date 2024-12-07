@@ -328,6 +328,7 @@
 	"progressSaveFile": "Download in progress...",
 	"progressMigration": "Recovering vault...",
 	"progressRecoverAccount": "Migration in progress...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Kontrola aktualizací...",
 	"spellcheckAdd": "Přidat do slovníku",
 	"headerTooltipPath": "Kliknutím vyhledáte",

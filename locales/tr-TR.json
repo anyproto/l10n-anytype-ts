@@ -328,6 +328,7 @@
 	"progressSaveFile": "İndirme devam ediyor...",
 	"progressMigration": "Kasa kurtarılıyor...",
 	"progressRecoverAccount": "Geçiş işlemi devam ediyor ...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "Güncellemeler kontrol ediliyor...",
 	"spellcheckAdd": "Sözlüğe ekle",
 	"headerTooltipPath": "Aramak için tıklayın",
