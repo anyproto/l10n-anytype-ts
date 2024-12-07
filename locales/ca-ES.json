@@ -328,6 +328,7 @@
 	"progressSaveFile": "S'està descarregant...",
 	"progressMigration": "S'està recuperant el compte...",
 	"progressRecoverAccount": "S'està migrant...",
+	"progressUpdate": "Update...",
 	"progressUpdateCheck": "S'està comprovant si hi ha actualitzacions",
 	"spellcheckAdd": "Afegeix al diccionari",
 	"headerTooltipPath": "Cliqueu per cercar",
