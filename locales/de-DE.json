@@ -1690,7 +1690,7 @@
 	"libMenuOpenFullscreen": "Im Vollbild öffnen",
 	"libMenuCopyUrl": "URL kopieren",
 	"libActionUninstallTypeTitle": "Möchtest du den Typ „%s“ entfernen?",
-	"libActionUninstallTypeText": "This Type will be removed. If you have created any Objects with this Type, they may become more difficult to locate.",
+	"libActionUninstallTypeText": "Dieser Typ wird entfernt. Wenn du Objekte mit diesem Typ erstellt hast, kann es schwieriger werden, sie zu finden.",
 	"libActionUninstallRelationTitle": "Möchtest du die Relation „%s“ entfernen?",
 	"libActionUninstallRelationText": "Diese Relation wird aus deiner Bibliothek entfernt. Wenn du Objekte erstellt hast, mit denen diese Relation verknüpft ist, kannst du den Wert der Relation nicht mehr bearbeiten.",
 	"utilLoadMoreText": "%s mehr %s anzeigen",
