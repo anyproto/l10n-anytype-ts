@@ -1642,7 +1642,7 @@
 	"onboardingTemplateSelectTitle": "Новый выбор шаблонов",
 	"onboardingTemplateSelectDescription": "Легко переключать шаблоны при создании объектов.",
 	"onboardingSpacesTitle": "Пространства",
-	"onboardingSpacesText": "<b>This is your Space.<\/b>Click here to share it with others, customize its name and icon, or securely migrate from other apps to protect your data.",
+	"onboardingSpacesText": "<b>This is your Space.<\/b> Click here to share it with others, customize its name and icon, or securely migrate from other apps.",
 	"onboardingAllObjectTitle": "Все объекты",
 	"onboardingAllObjectText": "<b>Все в Anytype - это объект.<\/b> Все объекты - это место, где живет всё ваше содержимое.",
 	"onboardingWidgetsTitle": "Виджеты",

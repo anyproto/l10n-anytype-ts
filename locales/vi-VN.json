@@ -1642,7 +1642,7 @@
 	"onboardingTemplateSelectTitle": "Bộ chọn Mẫu Mới",
 	"onboardingTemplateSelectDescription": "Dễ dàng chuyển mẫu khi bạn tạo đối tượng.",
 	"onboardingSpacesTitle": "Các Không gian",
-	"onboardingSpacesText": "<b>This is your Space.<\/b>Click here to share it with others, customize its name and icon, or securely migrate from other apps to protect your data.",
+	"onboardingSpacesText": "<b>This is your Space.<\/b> Click here to share it with others, customize its name and icon, or securely migrate from other apps.",
 	"onboardingAllObjectTitle": "Tất cả các Đối tượng",
 	"onboardingAllObjectText": "<b>Mọi thứ trong Anytype đều là đối tượng.<\/b> Tất cả các đối tượng là nơi chứa toàn bộ nội dung của bạn.",
 	"onboardingWidgetsTitle": "Widget",

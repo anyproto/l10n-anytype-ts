@@ -1642,7 +1642,7 @@
 	"onboardingTemplateSelectTitle": "新模板",
 	"onboardingTemplateSelectDescription": "在建立物件時你可以隨時切換模板",
 	"onboardingSpacesTitle": "空間",
-	"onboardingSpacesText": "<b>This is your Space.<\/b>Click here to share it with others, customize its name and icon, or securely migrate from other apps to protect your data.",
+	"onboardingSpacesText": "<b>This is your Space.<\/b> Click here to share it with others, customize its name and icon, or securely migrate from other apps.",
 	"onboardingAllObjectTitle": "所有物件",
 	"onboardingAllObjectText": "<b>Anytype中的一切都是物件<\/b> 您所建立的一切都存放於物件中",
 	"onboardingWidgetsTitle": "小工具",
