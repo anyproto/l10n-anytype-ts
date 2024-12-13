@@ -1642,7 +1642,7 @@
 	"onboardingTemplateSelectTitle": "Yeni Taslak Seçicisi",
 	"onboardingTemplateSelectDescription": "Nesneleri oluştururken şablonlarınızı kolayca değiştirin.",
 	"onboardingSpacesTitle": "Alanlar",
-	"onboardingSpacesText": "<b>Burası sizin Alanınız.<\/b>Alanınızı başkalarıyla paylaşmak, adını ve simgesini özelleştirmek, verilerinizi korumak için veya diğer uygulamalardan güvenli bir şekilde geçiş yapmak için buraya tıklayın.",
+	"onboardingSpacesText": "<b>This is your Space.<\/b> Click here to share it with others, customize its name and icon, or securely migrate from other apps.",
 	"onboardingAllObjectTitle": "Tüm Nesneler",
 	"onboardingAllObjectText": "<b>Anytype'daki her şey bir Nesnedir.<\/b> Tüm bu nesneler tüm içeriğinizin yaşadığı yerdir.",
 	"onboardingWidgetsTitle": "Widgetlar",
