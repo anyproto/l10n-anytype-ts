@@ -1642,7 +1642,7 @@
 	"onboardingTemplateSelectTitle": "Pemilih Templat Baru",
 	"onboardingTemplateSelectDescription": "Ganti tempat dengan mudah ketika membuat objek.",
 	"onboardingSpacesTitle": "Ruang",
-	"onboardingSpacesText": "<b>Ini adalah Ruangmu.<\/b> Klik di sini untuk membagikannya, mengganti nama dan ikonnya, atau memigrasikannya dengan aman ke aplikasi lain untuk melindungi datamu.",
+	"onboardingSpacesText": "<b>This is your Space.<\/b> Click here to share it with others, customize its name and icon, or securely migrate from other apps.",
 	"onboardingAllObjectTitle": "Semua Objek",
 	"onboardingAllObjectText": "<b>Semua hal di Anytype adalah Objek.<\/b> Semua objek adalah tempat kontenmu berada.",
 	"onboardingWidgetsTitle": "Gawit",
