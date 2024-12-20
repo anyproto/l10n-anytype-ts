@@ -1447,6 +1447,7 @@
 	"toastRelationRemoved": "Vztah <b>%s<\/b> byl odstraněn z Vaší knihovny",
 	"toastSetDefaultTemplate": "Tato šablona byla nastavena jako výchozí",
 	"toastFileLimitReached": "Your local storage exceeds syncing limit. Locally stored files won't be synced",
+	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"textColor-grey": "Šedá",
 	"textColor-yellow": "Žlutá",
 	"textColor-orange": "Jantarová",
