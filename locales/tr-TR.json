@@ -1447,7 +1447,7 @@
 	"toastRelationRemoved": "<b>%s<\/b> ilişkisi kitaplığınızdan kaldırıldı.",
 	"toastSetDefaultTemplate": "Bu şablon varsayılan olarak ayarlandı",
 	"toastFileLimitReached": "Yerel depolama alanınız senkronizasyon sınırını aşıyor. Yerel olarak depolanan dosyalar senkronize edilmeyecek.",
-	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
+	"toastChatAttachmentsLimitReached": "Bir seferde yalnızca %s %s yükleyebilirsiniz",
 	"textColor-grey": "Gri",
 	"textColor-yellow": "Sarı",
 	"textColor-orange": "Amber",
