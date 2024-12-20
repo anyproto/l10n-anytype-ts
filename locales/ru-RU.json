@@ -1447,6 +1447,7 @@
 	"toastRelationRemoved": "Свойство <b>%s<\/b> было удалено из вашей библиотеки",
 	"toastSetDefaultTemplate": "Этот шаблон был присвоен умолчанию",
 	"toastFileLimitReached": "Ваше локальное хранилище превысило лимит синхронизации.  Сохраненные файлы на устройстве не будут синхронизированы",
+	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"textColor-grey": "Серый",
 	"textColor-yellow": "Жёлтый",
 	"textColor-orange": "Янтарный",
