@@ -1447,6 +1447,7 @@
 	"toastRelationRemoved": "Relasjonen <b>%s<\/b> har blitt fjernet fra biblioteket ditt",
 	"toastSetDefaultTemplate": "Denne malen ble satt som standard",
 	"toastFileLimitReached": "Lokal lagring overstiger synkroniseringsgrensen. Lokalt lagrede filer vil ikke bli synkronisert",
+	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"textColor-grey": "Grå",
 	"textColor-yellow": "Gul",
 	"textColor-orange": "Oransje",
