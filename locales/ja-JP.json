@@ -1447,6 +1447,7 @@
 	"toastRelationRemoved": "オブジェクトタイプ <b>%s<\/b> がライブラリから削除されました",
 	"toastSetDefaultTemplate": "このテンプレートはデフォルトに設定されています",
 	"toastFileLimitReached": "Your local storage exceeds syncing limit. Locally stored files won't be synced",
+	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"textColor-grey": "灰",
 	"textColor-yellow": "黄",
 	"textColor-orange": "アンバー",
