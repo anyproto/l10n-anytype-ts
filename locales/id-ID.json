@@ -1447,6 +1447,7 @@
 	"toastRelationRemoved": "Relasi <b>%s<\/b> telah dihapus dari Pustakamu",
 	"toastSetDefaultTemplate": "Templat ini diatur sebagai bawaan",
 	"toastFileLimitReached": "Penyimpanan lokalmu melebihi batas sinkronisasi. Berkas yang tersimpan secara lokal tidak akan disinkronkan.",
+	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"textColor-grey": "Abu-abu",
 	"textColor-yellow": "Kuning",
 	"textColor-orange": "Jingga",
