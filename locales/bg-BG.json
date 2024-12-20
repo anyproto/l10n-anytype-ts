@@ -1447,6 +1447,7 @@
 	"toastRelationRemoved": "Relation <b>%s<\/b> has been removed from your Library",
 	"toastSetDefaultTemplate": "Този шаблон беше зададен по подразбиране",
 	"toastFileLimitReached": "Your local storage exceeds syncing limit. Locally stored files won't be synced",
+	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"textColor-grey": "Сив",
 	"textColor-yellow": "Жълт",
 	"textColor-orange": "Кехлибар",

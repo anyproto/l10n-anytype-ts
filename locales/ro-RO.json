@@ -1447,6 +1447,7 @@
 	"toastRelationRemoved": "Relația <b>%s<\/b> a fost ștearsă din biblioteca ta",
 	"toastSetDefaultTemplate": "Acest șablon a fost setat ca implicit",
 	"toastFileLimitReached": "Your local storage exceeds syncing limit. Locally stored files won't be synced",
+	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"textColor-grey": "Gri",
 	"textColor-yellow": "Galben",
 	"textColor-orange": "Chihlimbar",

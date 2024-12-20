@@ -1447,6 +1447,7 @@
 	"toastRelationRemoved": "關聯 <b>%s<\/b> 已從您的資料庫中移除",
 	"toastSetDefaultTemplate": "此範本已設定為預設",
 	"toastFileLimitReached": "本機的儲存空間超出同步限制。在本機儲存的檔案不會同步",
+	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"textColor-grey": "灰色",
 	"textColor-yellow": "黃色",
 	"textColor-orange": "琥珀色",

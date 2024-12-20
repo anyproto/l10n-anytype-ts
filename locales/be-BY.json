@@ -1447,6 +1447,7 @@
 	"toastRelationRemoved": "Уласцівасць <b>%s<\/b> была выдалена з вашай Бібліятэкі",
 	"toastSetDefaultTemplate": "Гэты шаблон быў усталяваны як прадвызначаны",
 	"toastFileLimitReached": "Ваша лакальнае сховішча перавышае ліміт сінхранізацыі. Файлы, якія захоўваюцца ў лакальным сховішчы, не будуць сінхранізаваныя",
+	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"textColor-grey": "Шэры",
 	"textColor-yellow": "Жоўты",
 	"textColor-orange": "Бурштынавы",
