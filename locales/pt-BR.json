@@ -1447,6 +1447,7 @@
 	"toastRelationRemoved": "Relação <b>%s<\/b> foi removida da sua biblioteca",
 	"toastSetDefaultTemplate": "O modelo foi definido como padrão",
 	"toastFileLimitReached": "Your local storage exceeds syncing limit. Locally stored files won't be synced",
+	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"textColor-grey": "cinza",
 	"textColor-yellow": "Amarelo",
 	"textColor-orange": "Âmbar",
