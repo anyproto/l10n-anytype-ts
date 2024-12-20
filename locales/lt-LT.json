@@ -1447,6 +1447,7 @@
 	"toastRelationRemoved": "Sąryšis <b>%s<\/b> buvo pašalintas iš tavo Bibliotekos",
 	"toastSetDefaultTemplate": "Šis šablonas buvo nustatytas numatytuoju",
 	"toastFileLimitReached": "Tavo vietinė saugykla viršija sinchronizavimo ribas. Vietiniai failai nebus sinchronizuojami",
+	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"textColor-grey": "Pilka",
 	"textColor-yellow": "Geltona",
 	"textColor-orange": "Gintarinė",
