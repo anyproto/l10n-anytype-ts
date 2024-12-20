@@ -1447,6 +1447,7 @@
 	"toastRelationRemoved": "Liên hệ <b>%s<\/b> đã bị bỏ khỏi Thư viện của bạn",
 	"toastSetDefaultTemplate": "Mẫu này được đặt làm mặc định",
 	"toastFileLimitReached": "Dung lượng cục bộ nhiều hơn giới hạn đồng bộ của bạn. Những tệp cục bộ sẽ không được đồng bộ",
+	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"textColor-grey": "Xám",
 	"textColor-yellow": "Vàng",
 	"textColor-orange": "Hổ phách",
