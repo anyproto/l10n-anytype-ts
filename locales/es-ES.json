@@ -1864,7 +1864,7 @@
 	"notificationImportErrorText5": "No se han encontrado objetos en la integración de Notion proporcionada. Abre Notion y comprueba que has añadido la integración a las páginas que deseas exportar. Consulta las preguntas frecuentes para obtener más detalles.",
 	"notificationImportErrorText6": "El usuario ha cancelado la importación.",
 	"notificationImportErrorText7": "El número de líneas del archivo CSV es superior a 1000. Prueba a dividir el archivo en partes más pequeñas.",
-	"notificationImportErrorText8": "Error al subir un archivo. Comprueba si tienes suficiente espacio y vuelve a intentarlo.",
+	"notificationImportErrorText8": "Error al subir un archivo. Comprueba si tienes almacenamiento suficiente y vuelve a intentarlo.",
 	"notificationImportErrorText9": "No tenemos permiso para importar nada a este espacio de Anytype.",
 	"notificationImportErrorText10": "Se ha producido un error al interpretar el HTML. Comprueba el formato de tu archivo HTML.",
 	"notificationImportErrorText11": "El formato del archivo AnyBlock importado no es compatible. Es posible que el archivo se haya exportado desde una versión de Anytype antigua o incompatible. Prueba a actualizar Anytype y exportarlo de nuevo.",
