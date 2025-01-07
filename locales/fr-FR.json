@@ -948,8 +948,8 @@
 	"popupConfirmOpenExternalLinkText": "Vous essayez d’ouvrir une URL potentiellement dangereuse. Êtes-vous sûr de vouloir continuer ?",
 	"popupConfirmChatDeleteMessageTitle": "Supprimer ce message ?",
 	"popupConfirmChatDeleteMessageText": "Il ne pourra pas être restauré après confirmation",
-	"popupConfirmSpeedLimitTitle": "Hold up! Turbo typing detected!",
-	"popupConfirmSpeedLimitText": "Looks like you're sending messages at lightning speed. Give it a sec before your next one.",
+	"popupConfirmSpeedLimitTitle": "Attendez ! Frappe turbo détectée !",
+	"popupConfirmSpeedLimitText": "Il semble que vous envoyez des messages à la vitesse de la foudre. Attendez un instant avant le suivant.",
 	"popupInviteRequestTitle": "Rejoindre un espace",
 	"popupInviteRequestText": "Vous avez été invité à rejoindre l'espace <b>%s<\/b> créé par <b>%s<\/b>. Envoyez une demande afin que le propriétaire de l'espace vous accorde l'accès.",
 	"popupInviteRequestMessagePlaceholder": "Laisser un commentaire privé au propriétaire de l'espace",
@@ -1026,6 +1026,7 @@
 	"popupShortcutMainBasics19": "Ouvrir le menu de capture rapide",
 	"popupShortcutMainBasics20": "Basculer vers l'espace suivant\/précédent",
 	"popupShortcutMainBasics21": "Changer de mode de couleur (clair\/sombre)",
+	"popupShortcutMainBasics22": "Verrouiller l'application avec un code PIN",
 	"popupShortcutMainStructuring": "Structure",
 	"popupShortcutMainStructuring1": "Créer un nouveau bloc de texte",
 	"popupShortcutMainStructuring2": "Créer un saut de ligne dans un bloc de texte",
@@ -1552,7 +1553,6 @@
 	"widgetEmptyLabelCreate": "Il n'y a aucun objet ici, <br\/>créez votre premier objet",
 	"widgetShowAll": "Voir tous les objets",
 	"phrasePlaceholder": "Veuillez entrer votre clé",
-	"navigationAccount": "Espaces",
 	"spaceAccessType0": "Espace privé",
 	"spaceAccessType1": "Espace d'entrée",
 	"spaceAccessType2": "Espace partagé",
@@ -1951,6 +1951,6 @@
 	"formulaCheckboxNotEmptyShort": "Coché",
 	"formulaCheckboxPercentEmpty": "Pourcentage non sélectionné",
 	"formulaCheckboxPercentNotEmpty": "Pourcentage sélectionné",
-	"timeFormat12": "12 hour",
-	"timeFormat24": "24 hour"
+	"timeFormat12": "12 heures",
+	"timeFormat24": "24 heures"
 }
