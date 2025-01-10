@@ -709,7 +709,7 @@
 	"popupSettingsSpaceIndexSpaceTypePersonalTooltipTitle": "Crittografia end-to-end (E2EE)",
 	"popupSettingsSpaceIndexSpaceTypePersonalTooltipText": "Questo spazio è stato creato con la crittografia end-to-end, garantendo la privacy e la sicurezza dei dati degli utenti e consentendo un'interazione sicura online e offline.",
 	"popupSettingsSpaceIndexInfoLabel": "Crittografato & local-first",
-	"popupSettingsSpaceIndexShareShareTitle": "Share Space",
+	"popupSettingsSpaceIndexShareShareTitle": "Spazio condiviso",
 	"popupSettingsSpaceIndexShareShareText": "Genera link di invito e condividi lo spazio con altri membri",
 	"popupSettingsSpaceIndexShareDefaultText": "Lo spazio di ingresso non può essere condiviso. Crea un nuovo spazio da condividere.",
 	"popupSettingsSpaceIndexShareInviteText": "Genera link di invito e condividi lo spazio con altri membri",
