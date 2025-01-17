@@ -951,7 +951,7 @@
 	"popupConfirmActionRestrictedText": "Vous ne pouvez pas faire cela dans un espace en lecture seule",
 	"popupConfirmActionReconcileText": "Cette opération supprimera l'espace de stockage incorrectement occupé dans le stockage de fichiers distant. Êtes-vous sûr ?",
 	"popupConfirmOpenExternalLinkTitle": "Êtes-vous sûr(e) ?",
-	"popupConfirmOpenExternalLinkText": "You are trying to open url that is potentially harmful. Are you sure you want to proceed?<br\/>Url: %s",
+	"popupConfirmOpenExternalLinkText": "Vous essayez d’ouvrir une URL potentiellement dangereuse. Êtes-vous sûr de vouloir continuer ?<br\/>URL : %s",
 	"popupConfirmChatDeleteMessageTitle": "Supprimer ce message ?",
 	"popupConfirmChatDeleteMessageText": "Il ne pourra pas être restauré après confirmation",
 	"popupConfirmSpeedLimitTitle": "Attendez ! Frappe turbo détectée !",
