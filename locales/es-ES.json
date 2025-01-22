@@ -1401,7 +1401,7 @@
 	"menuSyncStatusEmptyLocal": "Tu arca está en modo solo local, por lo que tus datos no se están sincronizando con los nodos de Anytype.",
 	"menuSyncStatusEmpty": "No hay objetos que mostrar.",
 	"menuPublishTitle": "Publicar en la web",
-	"menuPublishInfoTooltip": "Published object will be uploaded to our publishing server and will be accessible via the URL as a static, unencrypted HTML page. Linked objects will not be published. Currently, not all blocks are supported for publishing, such as sets, collections, and relations.",
+	"menuPublishInfoTooltip": "Publicar un objeto consiste en subirlo a nuestro servidor de publicación, donde estará accesible por medio de una URL como página HTML estática y sin cifrar. No se publicarán los objetos enlazados. Por el momento, tampoco es posible publicar algunos tipos de bloque, como los de conjuntos, colecciones y relaciones.",
 	"menuPublishLabelJoin": "Botón para unirse al espacio",
 	"menuPublishButtonPublish": "Publicar",
 	"menuPublishButtonUnpublish": "No publicar",
