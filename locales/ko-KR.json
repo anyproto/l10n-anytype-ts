@@ -1835,6 +1835,7 @@
 	"errorSpaceMakeShareable102": "스페이스가 삭제된 것 같습니다. 장치가 동기화되었는지 확인하세요.",
 	"errorSpaceMakeShareable103": "죄송합니다! 요청이 실패했습니다. 인터넷 연결을 확인한 후 다시 시도하세요.",
 	"errorSpaceMakeShareable104": "이 스페이스의 한도에 도달했습니다. 멤버십을 업그레이드하거나 지원팀에 문의하여 도움을 받으세요.",
+	"errorPublishingCreate103": "Looks like some files are over 100 MB. Please remove or slim them down and try again.",
 	"errorIncorrectEmail": "잘못된 이메일",
 	"origin0": "비어 있음",
 	"origin1": "클립보드",
