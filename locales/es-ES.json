@@ -1835,6 +1835,7 @@
 	"errorSpaceMakeShareable102": "Parece que este espacio se ha eliminado. Asegúrate de que tus dispositivos están sincronizados.",
 	"errorSpaceMakeShareable103": "¡Huy! La solicitud ha fallado. Comprueba tu conexión a Internet e inténtalo de nuevo.",
 	"errorSpaceMakeShareable104": "Has alcanzado el límite de este espacio. Amplía tu suscripción o ponte en contacto con el soporte técnico.",
+	"errorPublishingCreate103": "Algunos archivos parecen superar los 100 MB. Elimínalos o reduce su tamaño e inténtalo de nuevo.",
 	"errorIncorrectEmail": "Correo electrónico incorrecto",
 	"origin0": "Vacío",
 	"origin1": "Portapapeles",
