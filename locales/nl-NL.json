@@ -1835,6 +1835,7 @@
 	"errorSpaceMakeShareable102": "Het lijkt erop dat de ruimte is verwijderd. Zorg ervoor dat jouw apparaten zijn gesynchroniseerd.",
 	"errorSpaceMakeShareable103": "Oeps! De aanvraag is mislukt. Controleer jouw internetverbinding en probeer het opnieuw.",
 	"errorSpaceMakeShareable104": "Limiet bereikt voor deze ruimte. Upgrade jouw lidmaatschap of neem contact op met ondersteuning voor hulp.",
+	"errorPublishingCreate103": "Looks like some files are over 100 MB. Please remove or slim them down and try again.",
 	"errorIncorrectEmail": "Onjuist e-mailadres",
 	"origin0": "Leeg",
 	"origin1": "Klembord",

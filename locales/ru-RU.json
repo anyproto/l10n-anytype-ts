@@ -1835,6 +1835,7 @@
 	"errorSpaceMakeShareable102": "Похоже, пространство было удалено. Пожалуйста, убедитесь, что ваши устройства синхронизированы.",
 	"errorSpaceMakeShareable103": "Упс! Ошибка запроса. Пожалуйста, проверьте подключение к Интернету и повторите попытку.",
 	"errorSpaceMakeShareable104": "Достигнут лимит для этого пространства. Пожалуйста, обновите ваше членство или обратитесь в службу поддержки.",
+	"errorPublishingCreate103": "Looks like some files are over 100 MB. Please remove or slim them down and try again.",
 	"errorIncorrectEmail": "Некорректный E-mail",
 	"origin0": "Пусто",
 	"origin1": "Буфер обмена",

@@ -1835,6 +1835,7 @@
 	"errorSpaceMakeShareable102": "Здаецца, Прастора была выдалена. Калі ласка, пераканайцеся, што вашы прылады сінхранізаваны.",
 	"errorSpaceMakeShareable103": "Ой! Запыт не выкананы. Праверце падключэнне да Інтэрнэту і паўтарыце спробу.",
 	"errorSpaceMakeShareable104": "Для гэтай прасторы дасягнуты ліміт. Калі ласка, абнавіце сваё членства або звярніцеся ў службу падтрымкі за дапамогай.",
+	"errorPublishingCreate103": "Looks like some files are over 100 MB. Please remove or slim them down and try again.",
 	"errorIncorrectEmail": "Няправільны e-mail",
 	"origin0": "Пуста",
 	"origin1": "Буфер абмену",

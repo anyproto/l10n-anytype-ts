@@ -1835,6 +1835,7 @@
 	"errorSpaceMakeShareable102": "Es sieht so aus, als ob der Space gelöscht wurde. Bitte stelle sicher, dass deine Geräte synchronisiert sind.",
 	"errorSpaceMakeShareable103": "Hoppla! Die Anfrage ist fehlgeschlagen. Bitte überprüfe deine Internetverbindung und versuche es erneut.",
 	"errorSpaceMakeShareable104": "Limit für diesen Space erreicht. Bitte upgrade deine Mitgliedschaft oder kontaktiere den Support für Hilfe.",
+	"errorPublishingCreate103": "Looks like some files are over 100 MB. Please remove or slim them down and try again.",
 	"errorIncorrectEmail": "Falsche E-Mail-Adresse",
 	"origin0": "Leer",
 	"origin1": "Zwischenablage",

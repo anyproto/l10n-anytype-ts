@@ -1835,6 +1835,7 @@
 	"errorSpaceMakeShareable102": "看起来空间已被删除。请确保您的设备已同步。",
 	"errorSpaceMakeShareable103": "哎呀！请求失败。请检查您的互联网连接，然后重试。",
 	"errorSpaceMakeShareable104": "此空间人数已到达上限。请升级您的会员资格或联系客服以获取帮助。",
+	"errorPublishingCreate103": "Looks like some files are over 100 MB. Please remove or slim them down and try again.",
 	"errorIncorrectEmail": "电子邮件不正确",
 	"origin0": "空的",
 	"origin1": "剪贴板",
