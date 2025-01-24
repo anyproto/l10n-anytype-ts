@@ -1835,7 +1835,7 @@
 	"errorSpaceMakeShareable102": "Alan silinmiş gibi görünüyor. Lütfen cihazlarınızın senkronize olduğundan emin olun.",
 	"errorSpaceMakeShareable103": "Hay aksi! İstek başarısız oldu. Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin.",
 	"errorSpaceMakeShareable104": "Bu alan için sınıra ulaşıldı. Lütfen üyeliğinizi yükseltin veya yardım için destek ekibiyle iletişime geçin.",
-	"errorPublishingCreate103": "Looks like some files are over 100 MB. Please remove or slim them down and try again.",
+	"errorPublishingCreate103": "Bazı dosyalar 100 MB'ın üzerinde gibi görünüyor. Lütfen büyük boyutlu dosyaları kaldırın veya küçültün, ardından tekrar deneyin.",
 	"errorIncorrectEmail": "Yanlış e-posta",
 	"origin0": "Boş",
 	"origin1": "Pano",
