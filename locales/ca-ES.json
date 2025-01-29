@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Reconciliar",
 	"electronMenuDebugNet": "Xarxa",
 	"electronMenuDebugLog": "Export log",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Tanca la finestra",
 	"electronMenuEdit": "Edita",
 	"electronMenuUndo": "Desfés",
