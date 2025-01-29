@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Stem af",
 	"electronMenuDebugNet": "Netwerk",
 	"electronMenuDebugLog": "Exporteer logboek",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Sluit venster",
 	"electronMenuEdit": "Bewerken",
 	"electronMenuUndo": "Ongedaan maken",
