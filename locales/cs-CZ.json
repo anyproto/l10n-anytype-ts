@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Reconcile",
 	"electronMenuDebugNet": "Síť",
 	"electronMenuDebugLog": "Export log",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Zavřít okno",
 	"electronMenuEdit": "Editovat",
 	"electronMenuUndo": "Vrátit zpět",
