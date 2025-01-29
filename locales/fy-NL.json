@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Reconcile",
 	"electronMenuDebugNet": "Netwurk",
 	"electronMenuDebugLog": "Export log",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Close Window",
 	"electronMenuEdit": "Bewurkje",
 	"electronMenuUndo": "Ungedien meitsje",
