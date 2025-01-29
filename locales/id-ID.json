@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Reconcile",
 	"electronMenuDebugNet": "Jaringan",
 	"electronMenuDebugLog": "Ekspor log",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Tutup Jendela",
 	"electronMenuEdit": "Sunting",
 	"electronMenuUndo": "Urungkan",
