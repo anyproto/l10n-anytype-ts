@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Reconciliere",
 	"electronMenuDebugNet": "Rețea",
 	"electronMenuDebugLog": "Export log",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Închideţi fereastra",
 	"electronMenuEdit": "Editează",
 	"electronMenuUndo": "Anulează",
