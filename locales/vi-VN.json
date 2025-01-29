@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Cân đối hoá",
 	"electronMenuDebugNet": "Mạng",
 	"electronMenuDebugLog": "Export log",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Đóng cửa sổ",
 	"electronMenuEdit": "Chỉnh sửa",
 	"electronMenuUndo": "Hoàn tác",
