@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Сверка",
 	"electronMenuDebugNet": "Сеть",
 	"electronMenuDebugLog": "Экспорт логов",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Закрыть окно",
 	"electronMenuEdit": "Изменить",
 	"electronMenuUndo": "Отменить",

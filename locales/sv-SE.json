@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Förena",
 	"electronMenuDebugNet": "Nätverk",
 	"electronMenuDebugLog": "Exportera logg",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Stäng fönster",
 	"electronMenuEdit": "Redigera",
 	"electronMenuUndo": "Ångra",

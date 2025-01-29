@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Avstemme",
 	"electronMenuDebugNet": "Nettverk",
 	"electronMenuDebugLog": "Eksporter logg",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Lukk vindu",
 	"electronMenuEdit": "Rediger",
 	"electronMenuUndo": "Angre",

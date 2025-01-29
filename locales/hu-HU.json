@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Reconcile",
 	"electronMenuDebugNet": "Hálózat",
 	"electronMenuDebugLog": "Export log",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Close Window",
 	"electronMenuEdit": "Szerkesztés",
 	"electronMenuUndo": "Visszavonás",

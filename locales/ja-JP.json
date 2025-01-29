@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Reconcile",
 	"electronMenuDebugNet": "ネットワーク",
 	"electronMenuDebugLog": "Export log",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "ウィンドウを閉じる",
 	"electronMenuEdit": "エディット",
 	"electronMenuUndo": "元に戻す",

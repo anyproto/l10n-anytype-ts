@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Reconcile",
 	"electronMenuDebugNet": "Мрежа",
 	"electronMenuDebugLog": "Export log",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Close Window",
 	"electronMenuEdit": "Редактиране",
 	"electronMenuUndo": "Отмяна",
