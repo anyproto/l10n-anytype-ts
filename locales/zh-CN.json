@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Reconcile",
 	"electronMenuDebugNet": "网络",
 	"electronMenuDebugLog": "导出日志",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "关闭窗口",
 	"electronMenuEdit": "编辑",
 	"electronMenuUndo": "撤销",
