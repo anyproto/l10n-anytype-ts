@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Conciliar",
 	"electronMenuDebugNet": "Rede",
 	"electronMenuDebugLog": "Exportar registro",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": " Fechar Janela",
 	"electronMenuEdit": "Editar",
 	"electronMenuUndo": "Desfazer",
