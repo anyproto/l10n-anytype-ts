@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Reconcile",
 	"electronMenuDebugNet": "Network",
 	"electronMenuDebugLog": "Export log",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Sulje ikkuna",
 	"electronMenuEdit": "Muokkaa",
 	"electronMenuUndo": "Kumoa",
