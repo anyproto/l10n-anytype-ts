@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Riconciliazione",
 	"electronMenuDebugNet": "Rete",
 	"electronMenuDebugLog": "Esporta log",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Chiudi Finestra",
 	"electronMenuEdit": "Modifica",
 	"electronMenuUndo": "Annulla",
