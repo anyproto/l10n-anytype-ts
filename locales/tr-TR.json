@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Uzlaştırma",
 	"electronMenuDebugNet": "Ağ",
 	"electronMenuDebugLog": "Günlüğü dışa aktar",
+	"electronMenuDebugProfiler": "CPU izini dışa aktar",
 	"electronMenuClose": "Pencereyi kapat",
 	"electronMenuEdit": "Düzenle",
 	"electronMenuUndo": "Geri al",
