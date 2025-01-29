@@ -244,6 +244,7 @@
 	"electronMenuDebugReconcile": "Пагадзіцца",
 	"electronMenuDebugNet": "Сетка",
 	"electronMenuDebugLog": "Export log",
+	"electronMenuDebugProfiler": "Export CPU trace",
 	"electronMenuClose": "Закрыць акно",
 	"electronMenuEdit": "Рэдагаваць",
 	"electronMenuUndo": "Скасаваць",
