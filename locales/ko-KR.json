@@ -1544,7 +1544,7 @@
 	"widget2Description": "항목 보기 위젯",
 	"widget3Name": "컴팩트 리스트",
 	"widget3Description": "간소화된 항목 보기 위젯 ",
-	"widget4Name": "보기",
+	"widget4Name": "List View",
 	"widget4Description": "세트 또는 컬렉션 레이아웃 위젯",
 	"widgetFavorite": "즐겨찾기",
 	"widgetRecent": "최근 수정됨",
