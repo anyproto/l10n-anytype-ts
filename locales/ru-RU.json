@@ -1544,7 +1544,7 @@
 	"widget2Description": "Виджет в виде списка",
 	"widget3Name": "Компактный список",
 	"widget3Description": "Виджет с компактным списком",
-	"widget4Name": "Вид",
+	"widget4Name": "List View",
 	"widget4Description": "Виджет с макетом наборов или коллекций",
 	"widgetFavorite": "Избранное",
 	"widgetRecent": "Недавно изменённые",
