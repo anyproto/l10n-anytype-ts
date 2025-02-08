@@ -1376,7 +1376,7 @@
 	"syncButtonNameError2": "Version incompatible",
 	"syncButtonNameError3": "Aucun accès",
 	"syncButtonNameOffline": "Pas d'internet",
-	"syncButtonStaging": "Staging",
+	"syncButtonStaging": "Mise en place",
 	"menuSyncStatusTitle": "Statut de synchronisation",
 	"menuSyncStatusNetworkMessageE2EE": "Chiffrement de bout en bout",
 	"menuSyncStatusP2PNoDevicesConnected": "Aucun périphérique n’est connecté",
