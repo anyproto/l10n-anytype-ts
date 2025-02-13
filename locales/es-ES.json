@@ -875,7 +875,7 @@
 	"popupLogoutTitle": "Asegúrate de guardar tu clave de acceso",
 	"popupLogoutText": "No tenemos forma de recuperar tu clave de inicio de sesión, ya que solo la conoces tú. Por favor, guárdala antes de cerrar la sesión.",
 	"popupLogoutCopyButton": "Mostrar y copiar la clave",
-	"popupLogoutLogoutButton": "I saved it, logout",
+	"popupLogoutLogoutButton": "La guardé, cerrar sesión",
 	"popupSpaceCreateLabel": "Cifrado y con base local",
 	"popupSpaceCreateCreate": "Crear desde cero",
 	"popupSpaceCreateImport": "Importar mis datos",
