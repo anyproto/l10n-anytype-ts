@@ -1856,7 +1856,7 @@
 	"errorSpaceMakeShareable102": "Wygląda na to, że spacja została usunięta. Upewnij się, że Twoje urządzenia są zsynchronizowane.",
 	"errorSpaceMakeShareable103": "Oops! Żądanie nie powiodło się. Sprawdź swoje połączenie internetowe i spróbuj ponownie.",
 	"errorSpaceMakeShareable104": "Osiągnięto limit dla tej przestrzeni. Ulepsz swoje członkostwo lub skontaktuj się z pomocą techniczną.",
-	"errorPublishingCreate103": "Looks like some files are over 100 MB. Please remove or slim them down and try again.",
+	"errorPublishingCreate103": "Looks like some files are over 10MB. Please remove or slim them down and try again.",
 	"errorIncorrectEmail": "Nieprawidłowy e-mail",
 	"origin0": "Pusty",
 	"origin1": "Schowek",

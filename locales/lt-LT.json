@@ -1856,7 +1856,7 @@
 	"errorSpaceMakeShareable102": "Atrodo, kad erdvė buvo ištrinta. Įsitikink, kad visi įrenginiai sinchronizavosi.",
 	"errorSpaceMakeShareable103": "Oi! Užklausa nepavyko. Patikrink savo interneto ryšį ir bandyk vėl.",
 	"errorSpaceMakeShareable104": "Pasiekta erdvės riba. Atnaujink savo narystę arba susisiek su pagalbos tarnyba.",
-	"errorPublishingCreate103": "Looks like some files are over 100 MB. Please remove or slim them down and try again.",
+	"errorPublishingCreate103": "Looks like some files are over 10MB. Please remove or slim them down and try again.",
 	"errorIncorrectEmail": "Neteisingas el. pašto adresas",
 	"origin0": "Tuščia",
 	"origin1": "Iškarpinė",

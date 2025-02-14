@@ -1856,7 +1856,7 @@
 	"errorSpaceMakeShareable102": "Có vẻ như không gian đã bị xoá. Hãy đảm bảo các thiết bị của bạn được đồng bộ.",
 	"errorSpaceMakeShareable103": "Chết dở. Yêu cầu thất bại. Hãy kiểm tra kết nối Internet của bạn và thử lại.",
 	"errorSpaceMakeShareable104": "Không gian này đã đạt giới hạn. Hãy nâng cấp tư cách hội viên hoặc liên hệ bộ phận hỗ trợ để được giúp.",
-	"errorPublishingCreate103": "Looks like some files are over 100 MB. Please remove or slim them down and try again.",
+	"errorPublishingCreate103": "Looks like some files are over 10MB. Please remove or slim them down and try again.",
 	"errorIncorrectEmail": "E-mail không chính xác",
 	"origin0": "Trống",
 	"origin1": "Clipboard",

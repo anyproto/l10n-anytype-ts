@@ -1856,7 +1856,7 @@
 	"errorSpaceMakeShareable102": "Det ser ut som om rommet har blitt slettet. Vennligst sørg for at enhetene dine er synkronisert.",
 	"errorSpaceMakeShareable103": "Oops! Forespørselen mislyktes. Vennligst sjekk internettforbindelsen din og prøv igjen.",
 	"errorSpaceMakeShareable104": "Grensen er nådd for dette rommet. Vennligst oppgrader medlemskapet ditt eller kontakt support for hjelp.",
-	"errorPublishingCreate103": "Looks like some files are over 100 MB. Please remove or slim them down and try again.",
+	"errorPublishingCreate103": "Looks like some files are over 10MB. Please remove or slim them down and try again.",
 	"errorIncorrectEmail": "Feil e-post",
 	"origin0": "Tom",
 	"origin1": "Utklippstavle",
