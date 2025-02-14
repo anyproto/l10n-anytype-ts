@@ -1856,7 +1856,7 @@
 	"errorSpaceMakeShareable102": "Ser ud til, at rummet er slettet. Man bør sørge for at holde sine enheder synkroniseret.",
 	"errorSpaceMakeShareable103": "Ups! Anmodningen mislykkedes. Tjek internetforbindelsen og forsøg igen.",
 	"errorSpaceMakeShareable104": "Grænse nået for dette rum. Opgradér medlemskabet eller kontakt supporten for assistance.",
-	"errorPublishingCreate103": "Ser ud til, at nogle filer overstiger 100 MB. Fjern dem eller gør dem mindre, og forsøg igen.",
+	"errorPublishingCreate103": "Looks like some files are over 10MB. Please remove or slim them down and try again.",
 	"errorIncorrectEmail": "Forkert e-mail",
 	"origin0": "Tom",
 	"origin1": "Udklipsholder",
