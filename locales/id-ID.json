@@ -1856,7 +1856,7 @@
 	"errorSpaceMakeShareable102": "Kelihatannya ruang ini sudah dihapus. Tolong pastikan bahwa perangkatmu tersinkron dengan baik.",
 	"errorSpaceMakeShareable103": "Ups! Permintaan gagal. Tolong periksa koneksi internetmu lalu coba lagi.",
 	"errorSpaceMakeShareable104": "Limit reached for this space. Please upgrade your membership or contact support for assistance.",
-	"errorPublishingCreate103": "Kelihatannya beberapa berkas berukuran lebih dari 100 MB. Silakan hapus atau kecilkan ukurannya, lalu coba lagi.",
+	"errorPublishingCreate103": "Looks like some files are over 10MB. Please remove or slim them down and try again.",
 	"errorIncorrectEmail": "Surel salah",
 	"origin0": "Kosong",
 	"origin1": "Papan kerani",
