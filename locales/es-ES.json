@@ -467,7 +467,7 @@
 	"pageAuthSetupImportBackup": "Importar copia de respaldo",
 	"pageAuthSetupEntering": "Entrando en tu arca…",
 	"pageAuthMigrateTitle": "La migración está en curso…",
-	"pageAuthMigrateText": "No llevará mucho tiempo. Gracias por tu paciencia.",
+	"pageAuthMigrateText": "Puede llevar algún tiempo. Gracias por tu paciencia.",
 	"pageAuthMigrateErrorTitle": "No hay suficiente espacio",
 	"pageAuthMigrateErrorText": "Libera algo de espacio y vuelve a ejecutar el proceso.",
 	"pageAuthMigrateTryAgain": "Intentar de nuevo",

@@ -467,7 +467,7 @@
 	"pageAuthSetupImportBackup": "Importer une sauvegarde",
 	"pageAuthSetupEntering": "Entrée dans votre espace...",
 	"pageAuthMigrateTitle": "Migration en cours...",
-	"pageAuthMigrateText": "Cela ne devrait pas prendre longtemps. Merci pour votre patience.",
+	"pageAuthMigrateText": "It can take some time. Thanks for your patience.",
 	"pageAuthMigrateErrorTitle": "Espace insuffisant",
 	"pageAuthMigrateErrorText": "Veuillez libérer de l'espace et exécuter le processus à nouveau.",
 	"pageAuthMigrateTryAgain": "Réessayer",

@@ -467,7 +467,7 @@
 	"pageAuthSetupImportBackup": "Yedeklemeyi içe aktar",
 	"pageAuthSetupEntering": "Kasaya giriliyor...",
 	"pageAuthMigrateTitle": "Geçiş işlemi devam ediyor...",
-	"pageAuthMigrateText": "Bu uzun sürmeyecek. Sabrınız için teşekkürler.",
+	"pageAuthMigrateText": "It can take some time. Thanks for your patience.",
 	"pageAuthMigrateErrorTitle": "Yeterli yer yok",
 	"pageAuthMigrateErrorText": "Lütfen biraz yer açın ve işlemi tekrarlayın.",
 	"pageAuthMigrateTryAgain": "Tekrar dene",
