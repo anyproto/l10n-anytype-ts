@@ -467,7 +467,7 @@
 	"pageAuthSetupImportBackup": "Импортировать резервную копию",
 	"pageAuthSetupEntering": "Входим в Хранилище...",
 	"pageAuthMigrateTitle": "Миграция в процессе...",
-	"pageAuthMigrateText": "Это не должно занять много времени. Спасибо за ваше терпение.",
+	"pageAuthMigrateText": "It can take some time. Thanks for your patience.",
 	"pageAuthMigrateErrorTitle": "Недостаточно места",
 	"pageAuthMigrateErrorText": "Пожалуйста, освободите немного места и запустите процесс снова.",
 	"pageAuthMigrateTryAgain": "Попробовать снова",
