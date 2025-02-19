@@ -467,7 +467,7 @@
 	"pageAuthSetupImportBackup": "Backup importieren",
 	"pageAuthSetupEntering": "Tresor wird betreten...",
 	"pageAuthMigrateTitle": "Migration läuft...",
-	"pageAuthMigrateText": "It can take some time. Thanks for your patience.",
+	"pageAuthMigrateText": "Es kann einige Zeit dauern. Vielen Dank für deine Geduld.",
 	"pageAuthMigrateErrorTitle": "Nicht genügend Platz",
 	"pageAuthMigrateErrorText": "Please clear some space and run the process again.",
 	"pageAuthMigrateTryAgain": "Erneut versuchen",
