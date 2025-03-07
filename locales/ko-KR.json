@@ -671,6 +671,7 @@
 	"popupSettingsAccountPersonalInformationDescriptionPlaceholder": "본인에 대한 소개",
 	"popupSettingsAccountAnytypeIdentityTitle": "Anytype 아이디",
 	"popupSettingsAccountDeleteTitle": "보관소 삭제",
+	"popupSettingsEthereumIdentityTitle": "Ethereum Address",
 	"popupSettingsSpaceTitle": "스페이스",
 	"popupSettingsProfileTitle": "프로필",
 	"popupSettingsApplicationTitle": "애플리케이션",
