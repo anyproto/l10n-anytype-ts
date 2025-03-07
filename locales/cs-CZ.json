@@ -671,6 +671,7 @@
 	"popupSettingsAccountPersonalInformationDescriptionPlaceholder": "A few words about yourself",
 	"popupSettingsAccountAnytypeIdentityTitle": "Anytype Identity",
 	"popupSettingsAccountDeleteTitle": "Smazat trezor",
+	"popupSettingsEthereumIdentityTitle": "Ethereum Address",
 	"popupSettingsSpaceTitle": "Prostor",
 	"popupSettingsProfileTitle": "Profil",
 	"popupSettingsApplicationTitle": "Aplikace",
