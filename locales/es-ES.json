@@ -1514,7 +1514,7 @@
 	"toastInviteCopy": "Se ha copiado el enlace de invitación",
 	"toastInviteGenerate": "Se ha creado el enlace de invitación",
 	"toastInviteRevoke": "Se ha eliminado el enlace de invitación.",
-	"toastImportStart": "Import process has started and may take some time",
+	"toastImportStart": "Ha comenzado el proceso de importación y puede durar un poco.",
 	"toastObjectTypeAdded": "El tipo de objeto <b>%s<\/b> se ha añadido a tu biblioteca",
 	"toastRelationAdded": "La propiedad <b>%s<\/b> se ha añadido a tu biblioteca",
 	"toastObjectTypeRemoved": "El tipo de objeto <b>%s<\/b> se ha eliminado de tu biblioteca",
