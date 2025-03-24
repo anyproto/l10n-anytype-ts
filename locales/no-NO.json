@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Any-Block-import",
 	"popupSettingsImportMarkdownTitle": "Markdown-import",
 	"popupSettingsExportTitle": "Eksporter rom",
-	"popupSettingsExportText": "Velg applikasjon eller format for datakilden",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Eksporter data",
 	"popupSettingsExportMarkdownTitle": "Eksporter rom til Markdown",
 	"popupSettingsExportMarkdownText1": "Alle dataene dine i arbeidsområdet, bortsett fra kolonner og tekstfargestil, vil bli eksportert til markdown. Det er et gratis og lesbart format som kan åpnes og redigeres med mange gratis og vakre applikasjoner.",
