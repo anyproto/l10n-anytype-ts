@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Import Any-Bloc",
 	"popupSettingsImportMarkdownTitle": "Importă Markdown",
 	"popupSettingsExportTitle": "Exportă spațiu",
-	"popupSettingsExportText": "Alegeți aplicația sau formatul sursei de date",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Exportă datele",
 	"popupSettingsExportMarkdownTitle": "Exportă Spațiul în Markdown",
 	"popupSettingsExportMarkdownText1": "Toate datele din spațiul de lucru, cu excepția coloanelor și a stilului culorii texte, vor fi exportate în Markdown. Este un format gratuit și lizibil care poate fi deschis și editat cu multe aplicații gratuite și frumoase.",
