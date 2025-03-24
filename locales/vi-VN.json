@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Nhập Any-Block vào",
 	"popupSettingsImportMarkdownTitle": "Nhập Markdown vào",
 	"popupSettingsExportTitle": "Xuất Không gian ra",
-	"popupSettingsExportText": "Chọn ứng dụng hoặc định dạng của nguồn dữ liệu",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Xuất dữ liệu ra",
 	"popupSettingsExportMarkdownTitle": "Xuất Không gian dưới dạng Markdown",
 	"popupSettingsExportMarkdownText1": "Toàn bộ dữ liệu trong không gian làm việc của bạn ngoài các cột và màu sẽ được xuất ra dưới dạng Markdown. Nó là một định dạng miễn phí và dễ đọc, có thể được mở và chỉnh sửa bằng nhiều phần mềm đẹp và miễn phí.",
