@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Importeer Any-blok",
 	"popupSettingsImportMarkdownTitle": "Importeer markdown",
 	"popupSettingsExportTitle": "Exporteer ruimte",
-	"popupSettingsExportText": "Kies toepassing of opmaak van gegevensbron",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Exporteer gegevens",
 	"popupSettingsExportMarkdownTitle": "Exporteer ruimte naar markdown",
 	"popupSettingsExportMarkdownText1": "Al jouw werkruimte gegevens, behalve kolommen en tekstkleurstijlen, zullen worden geëxporteerd naar markdown. Het is een gratis en leesbaar formaat dat geopend en bewerkt kan worden met vele gratis en mooie applicaties.",
