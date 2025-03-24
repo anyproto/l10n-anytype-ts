@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "從 Any-Block 匯入",
 	"popupSettingsImportMarkdownTitle": "從 Markdown 匯入",
 	"popupSettingsExportTitle": "匯出空間",
-	"popupSettingsExportText": "選擇資料來源的應用程式或格式",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "匯出資料",
 	"popupSettingsExportMarkdownTitle": "將空間匯出到 Markdown",
 	"popupSettingsExportMarkdownText1": "除了列和文本顏色樣式之外的所有工作區資料都將匯出到 Markdown。 它是一種免費且可讀的格式，可以使用許多免費且美觀的應用程式打開和編輯。",
