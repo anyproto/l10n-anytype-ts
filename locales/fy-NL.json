@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Any-Block-ymport",
 	"popupSettingsImportMarkdownTitle": "Markdown-ymport",
 	"popupSettingsExportTitle": "Romte eksportearje",
-	"popupSettingsExportText": "Kies tapassing of opmaak fan gegevensboarne",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Gegevens eksportearje",
 	"popupSettingsExportMarkdownTitle": "Romte nei Markdown eksportearje",
 	"popupSettingsExportMarkdownText1": "All your workspace data except columns and text color styling will be exported to markdown. It's a free and readable format that can be opened and edited with many free and beautiful applications.",
