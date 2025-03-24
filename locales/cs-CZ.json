@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Importovat z Any-Block",
 	"popupSettingsImportMarkdownTitle": "Importovat Markdown",
 	"popupSettingsExportTitle": "Exportovat prostor",
-	"popupSettingsExportText": "Vyberte aplikaci nebo formát zdroje dat",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Exportovat data",
 	"popupSettingsExportMarkdownTitle": "Exportovat prostor do Markdown",
 	"popupSettingsExportMarkdownText1": "Veškerá data pracovního prostoru kromě sloupců a barevného formátovaní textu budou exportována do markdown. Je to bezplatný a čitelný formát, který může být otevřen a upravován s mnoha bezplatnými a krásnými aplikacemi.",
