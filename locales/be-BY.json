@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Імпарт з Any-Block",
 	"popupSettingsImportMarkdownTitle": "Імпарт з Markdown",
 	"popupSettingsExportTitle": "Экспарт Прасторы",
-	"popupSettingsExportText": "Выберыце праграму або фармат крыніцы даных",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Экспартаваць даныя",
 	"popupSettingsExportMarkdownTitle": "Экспартаваць у Markdown",
 	"popupSettingsExportMarkdownText1": "Усе даныя вашай прасторы, за выключэннем калонак і каляровай стылістыкі тэксту, будуць экспартаваны ў фармат markdown. Гэта свабодны і зручны для чытання фармат, які можна адчыняць і рэдагаваць з дапамогай шматлікіх бясплатных і прыгожых праграм.",
