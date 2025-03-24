@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Importowanie dowolnego bloku",
 	"popupSettingsImportMarkdownTitle": "Importowanie języka Markdown",
 	"popupSettingsExportTitle": "Eksportuj przestrzeń",
-	"popupSettingsExportText": "Wybierz aplikacją lub format danych źródłowych",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Eksportuj dane",
 	"popupSettingsExportMarkdownTitle": "Eksportuj przestrzeń do Markdown",
 	"popupSettingsExportMarkdownText1": "Wszystkie dane obszaru roboczego z wyjątkiem kolumn i stylów kolorów tekstu zostaną wyeksportowane do formatu Markdown. Jest to darmowy i czytelny format, który można otwierać i edytować za pomocą wielu darmowych i pięknych aplikacji.",
