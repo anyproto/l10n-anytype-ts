@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Anyブロックインポート",
 	"popupSettingsImportMarkdownTitle": "マークダウンインポート",
 	"popupSettingsExportTitle": "スペースをエクスポート",
-	"popupSettingsExportText": "データソースのアプリもしくはフォーマットを選択",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "データをエクスポート",
 	"popupSettingsExportMarkdownTitle": "スペースをマークダウンとしてエクスポート",
 	"popupSettingsExportMarkdownText1": "列とテキストカラーのスタイル以外のワークスペースのデータはマークダウン形式でエクスポートされます。 これは自由で読みやすい形式で、色々な無料で美しいアプリケーションで開いたり編集したりできます。",

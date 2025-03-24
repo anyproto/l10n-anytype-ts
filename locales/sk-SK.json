@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Any-Block import",
 	"popupSettingsImportMarkdownTitle": "Markdown import",
 	"popupSettingsExportTitle": "Exporotvať Priestor",
-	"popupSettingsExportText": "Vybrať aplikáciu alebo formát zdroja údajov",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Export údajov",
 	"popupSettingsExportMarkdownTitle": "Exportovať Priestor do Markdownu",
 	"popupSettingsExportMarkdownText1": "All your workspace data except columns and text color styling will be exported to markdown. It's a free and readable format that can be opened and edited with many free and beautiful applications.",

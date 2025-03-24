@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Any-Block importas",
 	"popupSettingsImportMarkdownTitle": "Markdown importas",
 	"popupSettingsExportTitle": "Eksportuoti Erdvę",
-	"popupSettingsExportText": "Pasirink duomenų šaltinio programą ar formatą",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Eksportuoti duomenis",
 	"popupSettingsExportMarkdownTitle": "Eksportuoti Erdvę į markdown",
 	"popupSettingsExportMarkdownText1": "Visi tavo darbo aplinkos duomenys, išskyrus stulepius ir teksto stiliaus spalvinimą, bus eksportuoti į markdown formatą. Tai yra nemokamas ir įskaitomas formatas, kurį galima atidaryti su viena iš daugelio nemokamų ir patogių programų.",

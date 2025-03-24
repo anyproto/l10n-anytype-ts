@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Impor Any-Block",
 	"popupSettingsImportMarkdownTitle": "Impor Markdown",
 	"popupSettingsExportTitle": "Ekspor Ruang",
-	"popupSettingsExportText": "Pilih aplikasi atau format dari sumber data",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Ekspor data",
 	"popupSettingsExportMarkdownTitle": "Ekspor Ruang ke Markdown",
 	"popupSettingsExportMarkdownText1": "Semua data ruang kerjamu selain kolom dan gaya warna teks akan diekspor ke Markdown yang merupakan format bebas yang bisa dibuka dan disunting oleh berbagai aplikasi gratis dan bagus lainnya.",

@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Any-Block Import",
 	"popupSettingsImportMarkdownTitle": "Markdown Import",
 	"popupSettingsExportTitle": "Export Space",
-	"popupSettingsExportText": "Choose application or format of data source",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Export data",
 	"popupSettingsExportMarkdownTitle": "Export Space to Markdown",
 	"popupSettingsExportMarkdownText1": "All your workspace data except columns and text color styling will be exported to markdown. It's a free and readable format that can be opened and edited with many free and beautiful applications.",

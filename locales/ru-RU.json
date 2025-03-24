@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Импорт из Any-Блок",
 	"popupSettingsImportMarkdownTitle": "Импорт Markown",
 	"popupSettingsExportTitle": "Экспортировать пространство",
-	"popupSettingsExportText": "Выберите приложение или формат источника данных",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Экспортировать данные",
 	"popupSettingsExportMarkdownTitle": "Экспортировать пространство в Markdown",
 	"popupSettingsExportMarkdownText1": "Все данные вашей рабочей области, за исключением столбцов и цветового оформления текста, будут экспортированы в markdown. Это бесплатный и удобочитаемый формат, который можно открывать и редактировать с помощью множества бесплатных и красивых приложений.",

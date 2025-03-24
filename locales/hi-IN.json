@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Any-Block Import",
 	"popupSettingsImportMarkdownTitle": "Markdown Import",
 	"popupSettingsExportTitle": "Export Space",
-	"popupSettingsExportText": "डेटा स्रोत का एप्लिकेशन या प्रारूप चुनें",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "निर्यात जानकारी",
 	"popupSettingsExportMarkdownTitle": "Export Space to Markdown",
 	"popupSettingsExportMarkdownText1": "कॉलम और टेक्स्ट कलर स्टाइल को छोड़कर आपके सभी कार्यक्षेत्र डेटा को मार्कडाउन में निर्यात किया जाएगा।यह एक स्वतंत्र और पठनीय प्रारूप है जिसे कई स्वतंत्र और सुंदर अनुप्रयोगों के साथ खोला और संपादित किया जा सकता है।",

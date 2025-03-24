@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Importar Any-Block",
 	"popupSettingsImportMarkdownTitle": "Importar Markdown",
 	"popupSettingsExportTitle": "Exportar Espaço",
-	"popupSettingsExportText": "Escolher um aplicativo ou formato da fonte de dados",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Exportar dados",
 	"popupSettingsExportMarkdownTitle": "Exportar espaço para Markdown",
 	"popupSettingsExportMarkdownText1": "Todos os dados do seu espaço de trabalho, exceto colunas e estilo de cor de texto serão exportados para markdown. É um formato livre e legível que pode ser aberto e editado com muitas aplicações gratuitas e bonitas.",
