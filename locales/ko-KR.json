@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Any-Block 가져오기",
 	"popupSettingsImportMarkdownTitle": "마크다운 가져오기",
 	"popupSettingsExportTitle": "스페이스 내보내기",
-	"popupSettingsExportText": "데이터 소스의 애플리케이션 또는 형식 선택",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "데이터 내보내기",
 	"popupSettingsExportMarkdownTitle": "스페이스를 마크다운으로 내보내기",
 	"popupSettingsExportMarkdownText1": "열과 텍스트 색상 스타일을 제외한 모든 작업 공간 데이터가 마크다운으로 내보내집니다. 이는 많은 아름다운 무료 응용 프로그램을 사용하여 열고 편집할 수 있는 읽기 쉬운 무료 형식입니다.",
