@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Importera Any-Block",
 	"popupSettingsImportMarkdownTitle": "Importera markdown",
 	"popupSettingsExportTitle": "Exportera yta",
-	"popupSettingsExportText": "Välj program eller format för datakälla",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Exportera data",
 	"popupSettingsExportMarkdownTitle": "Exportera yta till markdown",
 	"popupSettingsExportMarkdownText1": "All din arbetsytas data utom kolumner och textfärgstil kommer att exporteras till markdown. Det är ett fritt och läsbart format som kan öppnas och redigeras med många fria och vackra applikationer.",
