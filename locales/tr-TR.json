@@ -790,7 +790,7 @@
 	"popupSettingsImportProtobufTitle": "Any-Block olarak dışa aktar",
 	"popupSettingsImportMarkdownTitle": "Markdown olarak dışa aktar",
 	"popupSettingsExportTitle": "Alanı dışa aktar",
-	"popupSettingsExportText": "Veri kaynağının uygulama veya formatını seçin",
+	"popupSettingsExportText": "Choose the format for your data export",
 	"popupSettingsExportOk": "Veriyi Dışa Aktar",
 	"popupSettingsExportMarkdownTitle": "Uzayı Markdown'a aktar",
 	"popupSettingsExportMarkdownText1": "Tüm iş alanı verileriniz sütunlar ve metin rengi biçimlendirmeleri hariç Markdown'a aktarılacaktır. Bu ücretsiz ve okunabilir bir formattır ayrıca birçok ücretsiz ve kullanışlı uygulama ile de açılıp düzenlenebilir.",
