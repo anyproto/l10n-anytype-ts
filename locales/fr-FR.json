@@ -514,7 +514,7 @@
 	"pageSettingsSpaceIndexInviteMembers": "Invite Members",
 	"pageSettingsSpaceIndexQRCode": "Code QR",
 	"pageSettingsSpaceIndexSpaceMembers": "Membres de l'espace",
-	"pageSettingsSpaceIndexEntrySpaceTooltip": "Entry Space cannot be shared.<br\/>Create a new one to invite members.",
+	"pageSettingsSpaceIndexEntrySpaceTooltip": "L'espace d'entrée ne peut pas être partagé.<br \/>Créer un nouveau pour inviter<br \/>des membres.",
 	"pageSettingsSpaceDeleteSpace": "Supprimer l'espace",
 	"editorControlIcon0": "Ajouter une icône",
 	"editorControlIcon1": "Icône",
