@@ -201,6 +201,7 @@
 	"commonSystemRelations": "System Properties",
 	"commonApply": "Apply",
 	"commonDescription": "Description",
+	"commonYourName": "Your Name",
 	"pluralDay": "araw|mga araw",
 	"pluralObject": "Object|Objects",
 	"pluralLCObject": "object|objects",
