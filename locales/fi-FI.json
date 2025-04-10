@@ -201,6 +201,7 @@
 	"commonSystemRelations": "System Properties",
 	"commonApply": "Käytä",
 	"commonDescription": "Description",
+	"commonYourName": "Your Name",
 	"pluralDay": "päivä|päivää",
 	"pluralObject": "Olio|Oliota",
 	"pluralLCObject": "object|objects",
