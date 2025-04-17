@@ -683,6 +683,7 @@
 	"blockChatEditing": "Рэдагаванне паведамлення",
 	"blockChatReplying": "Адказ %s",
 	"blockChatFormReadonly": "Толькі рэдактары могуць адпраўляць паведамленні. Звяжыцеся з уладальнікам, каб запытаць доступ.",
+	"blockChatCopyText": "Copy text",
 	"popupSettingsTitle": "Налады",
 	"popupSettingsAccountPersonalInformationTitle": "Асабістая інфармацыя",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Ваша імя",

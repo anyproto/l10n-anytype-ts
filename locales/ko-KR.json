@@ -683,6 +683,7 @@
 	"blockChatEditing": "메시지 수정",
 	"blockChatReplying": "%s에게 답장 중",
 	"blockChatFormReadonly": "편집자들만 메세지를 보낼 수 있습니다. 소유자에게 연락해서 권한을 요청하세요.",
+	"blockChatCopyText": "Copy text",
 	"popupSettingsTitle": "설정",
 	"popupSettingsAccountPersonalInformationTitle": "개인 정보",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "당신의 이름",

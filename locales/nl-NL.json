@@ -683,6 +683,7 @@
 	"blockChatEditing": "Bericht aan het bewerken",
 	"blockChatReplying": "Reagerend op: %s",
 	"blockChatFormReadonly": "Alleen bewerkers kunnen berichten verzenden. Contacteer de eigenaar om toegang te krijgen.",
+	"blockChatCopyText": "Copy text",
 	"popupSettingsTitle": "Instellingen",
 	"popupSettingsAccountPersonalInformationTitle": "Persoonlijke gegevens",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Jouw naam",

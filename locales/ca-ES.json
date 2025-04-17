@@ -683,6 +683,7 @@
 	"blockChatEditing": "Editant missatge",
 	"blockChatReplying": "Replying to %s",
 	"blockChatFormReadonly": "Only editors can send messages. Contact the owner to request access.",
+	"blockChatCopyText": "Copy text",
 	"popupSettingsTitle": "Configuració",
 	"popupSettingsAccountPersonalInformationTitle": "Informació personal",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "El teu nom",
