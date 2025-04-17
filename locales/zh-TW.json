@@ -683,6 +683,7 @@
 	"blockChatEditing": "訊息編輯中",
 	"blockChatReplying": "回覆 %s",
 	"blockChatFormReadonly": "Only editors can send messages. Contact the owner to request access.",
+	"blockChatCopyText": "Copy text",
 	"popupSettingsTitle": "設置",
 	"popupSettingsAccountPersonalInformationTitle": "個人資訊",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "您的名字",
