@@ -683,6 +683,7 @@
 	"blockChatEditing": "Editando mensaje",
 	"blockChatReplying": "Respondiendo a %s",
 	"blockChatFormReadonly": "Solo pueden enviar mensajes los editores. Solicita acceso a la persona que ha creado esto.",
+	"blockChatCopyText": "Copy text",
 	"popupSettingsTitle": "Ajustes",
 	"popupSettingsAccountPersonalInformationTitle": "Datos personales",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Tu nombre",
