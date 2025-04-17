@@ -683,6 +683,7 @@
 	"blockChatEditing": "Đang sửa tin nhắn",
 	"blockChatReplying": "Đang trả lời %s",
 	"blockChatFormReadonly": "Only editors can send messages. Contact the owner to request access.",
+	"blockChatCopyText": "Copy text",
 	"popupSettingsTitle": "Cài đặt",
 	"popupSettingsAccountPersonalInformationTitle": "Thông tin cá nhân",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Tên của bạn",
