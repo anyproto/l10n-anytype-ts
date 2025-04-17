@@ -683,6 +683,7 @@
 	"blockChatEditing": "Endrer melding",
 	"blockChatReplying": "Svarer til %s",
 	"blockChatFormReadonly": "Bare redaktører kan sende meldinger. Kontakt eieren for å be om tilgang.",
+	"blockChatCopyText": "Copy text",
 	"popupSettingsTitle": "Innstillinger",
 	"popupSettingsAccountPersonalInformationTitle": "Personlig informasjon",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Ditt navn",
