@@ -683,6 +683,7 @@
 	"blockChatEditing": "Editing message",
 	"blockChatReplying": "Replying to %s",
 	"blockChatFormReadonly": "Only editors can send messages. Contact the owner to request access.",
+	"blockChatCopyText": "Copy text",
 	"popupSettingsTitle": "Asetukset",
 	"popupSettingsAccountPersonalInformationTitle": "Henkilökohtaiset tiedot",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Nimesi",
