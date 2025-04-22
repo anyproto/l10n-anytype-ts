@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "Гэты тып мае %s %s",
 	"onboardingMainGraph": "Азнаямленне",
 	"onboardingMainGraph11": "<b>Прастора - гэта па сутнасці граф<\/b>, і Anytype імкнецца забяспечыць натуральны спосаб мыслення, дзе ўсё прадстаўлена ў выглядзе аб'ектаў з пэўнымі ўласцівасцямі, як і ў рэальным свеце.",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "Бібліятэка",
 	"onboardingStoreType11": "<b>This Library contains all types of Objects and Properties.<\/b> It comes with preinstalled types, as well as types that can be uploaded to Anytype for different use cases.",
 	"onboardingStoreType21": "<b>Вы можаце ствараць уласныя тыпы з любой кампаноўкай аб'ектаў для вашых уласных мэтаў.<\/b> Акрамя таго, вы можаце захаваць любы існуючы аб'ект у якасці шаблона бібліятэкі, калі вам трэба яго часта выкарыстоўваць.",
