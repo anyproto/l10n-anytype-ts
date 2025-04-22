@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "Šis Tipas turi %s %s",
 	"onboardingMainGraph": "Gidas",
 	"onboardingMainGraph11": "<b>Erdvė iš esmės yra grafas<\/b> ir Anytype tikisi pristatyti natūralų mąstymo būdą, kur viskas atvaizduota objektais su specifiniais santykiais, būtent taip, kaip mūsų gyvenime.",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "Biblioteka",
 	"onboardingStoreType11": "<b>This Library contains all types of Objects and Properties.<\/b> It comes with preinstalled types, as well as types that can be uploaded to Anytype for different use cases.",
 	"onboardingStoreType21": "<b>Jeigu tavo reikmėms trūksta Tipų, gali laisvai susikurti naujų ir priskirti jiems išdėstymus bei naujus sąryšius.<\/b> Be to, jei matai, kad tau reikės pakartotinai maketuoti Objekto turinį, gali egzistuojantį Objektą išsaugoti kaip Bibliotekos šabloną ir jį naudoti, naujų to tipo Objektų kūrimo metu.",
