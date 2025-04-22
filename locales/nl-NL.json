@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "Dit type heeft %s %s",
 	"onboardingMainGraph": "Introductie",
 	"onboardingMainGraph11": "<b>Ruimte is in essentie een weergave<\/b>, en Anytype beoogt een natuurlijke manier van denken te simuleren waarbij alles wordt weergegeven als objecten met specifieke relaties, net zoals in de echte wereld.",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "Bibliotheek",
 	"onboardingStoreType11": "<b>Deze Bibliotheek bevat alle soorten objecten en eigenschappen.<\/b> Het wordt geleverd met voorgeïnstalleerde types, evenals types die voor verschillende doeleinden naar Anytype kunnen worden geüpload.",
 	"onboardingStoreType21": "<b>Je kunt jouw eigen types maken met elke object opmaak voor jouw eigen doeleinden.<\/b> Daarnaast kun je ieder bestaand object opslaan als een sjabloon in de bibliotheek, als je deze regelmatig moet gebruiken.",
