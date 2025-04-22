@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "這個類型有 %s %s",
 	"onboardingMainGraph": "新手上路",
 	"onboardingMainGraph11": "<b>空間本質上是一張關聯圖<\/b>，Anytype 旨在提供一種自然的思考方式：任何東西都表示為有特定關聯的物件，就像在現實世界中那樣。",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "資料庫",
 	"onboardingStoreType11": "<b>This Library contains all types of Objects and Properties.<\/b> It comes with preinstalled types, as well as types that can be uploaded to Anytype for different use cases.",
 	"onboardingStoreType21": "<b>您可以根據自己的需求在任何物件佈局建立類型。<\/b>此外，如果需要經常使用，您還可以將任何現有的物件保存為資料庫樣板。",
