@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "Denne type har %s %s",
 	"onboardingMainGraph": "Introduktion",
 	"onboardingMainGraph11": "<b>Rum er stort set en graf<\/b>, og Anytypes sigte er at give en naturlig måde at tænke på, hvor alt er repræsenteret som emner med bestemte relationer, ligesom i den virkelige verden.",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "Bibliotek",
 	"onboardingStoreType11": "<b>This Library contains all types of Objects and Properties.<\/b> It comes with preinstalled types, as well as types that can be uploaded to Anytype for different use cases.",
 	"onboardingStoreType21": "<b>Man kan oprette egne typer med ethvert emnelayout til egne formål.<\/b> Derudover kan man gemme ethvert eksisterende emne som en Biblioteksskabelon, hvis det skal bruges ofte.",

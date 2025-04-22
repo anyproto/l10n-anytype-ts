@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "У этого типа есть %s %s",
 	"onboardingMainGraph": "Знакомство",
 	"onboardingMainGraph11": "<b>Пространство по существу является графом<\/b>, и Anytype стремится обеспечить естественный способ мышления, где все представлено как объекты со специфическими отношениями, как в реальном мире.",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "Библиотека",
 	"onboardingStoreType11": "<b>Эта библиотека содержит все типы объектов и свойств.<\/b> Она поставляется с предустановленными типами, так же как и типы, которые могут быть загружены в Anytype для различных вариантов использования.",
 	"onboardingStoreType21": "<b>Вы можете создавать свои собственные типы с любым макетом для своих целей.<\/b> Кроме того, вы можете сохранить любой существующий объект в качестве шаблона Библиотеки, если вам нужно часто его использовать.",

@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "此类型有 %s %s",
 	"onboardingMainGraph": "新手上路",
 	"onboardingMainGraph11": "<b>空间本质上是一张图<\/b>, Anytype 旨在提供一种自然的思考方式：任何东西都表示为有特定关系的对象，就像在现实世界中那样。",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "文库",
 	"onboardingStoreType11": "<b>这个文库包含所有类型的对象和关联。<\/b>它包含预置的类型，以及可上传至 Anytype 以用于各种用例的类型。",
 	"onboardingStoreType21": "<b>您可以根据自己的需要创建具有任何对象布局的自己的类型。<\/b>此外，如果需要经常使用，您还可以将任何现有对象保存为文库模板。",

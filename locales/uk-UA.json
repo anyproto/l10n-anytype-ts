@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "Цей тип має %s %s",
 	"onboardingMainGraph": "Ознайомлення",
 	"onboardingMainGraph11": "<b>Простір — це граф<\/b>, і Anytype надає інструменти для природного способу мислення, де все презентовано як об'єкти з певними відношеннями, прямо як у реальному світі.",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "Бібліотека",
 	"onboardingStoreType11": "<b>This Library contains all types of Objects and Properties.<\/b> It comes with preinstalled types, as well as types that can be uploaded to Anytype for different use cases.",
 	"onboardingStoreType21": "<b>Ви можете створювати власні типи з будь-яким компонуванням об'єктів для власних цілей.<\/b> Крім того, ви можете зберегти будь-який існуючий об'єкт як шаблон бібліотеки, якщо вам потрібно часто ним користуватися.",

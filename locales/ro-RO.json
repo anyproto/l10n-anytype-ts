@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "Acest tip are %s %s",
 	"onboardingMainGraph": "Înregistrare",
 	"onboardingMainGraph11": "<b>Spațiul este practic un grafic<\/b>, şi orice vrea să ofere un mod natural de gândire în care totul să fie reprezentat ca obiecte cu relaţii specifice, exact ca în lumea reală.",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "Librărie",
 	"onboardingStoreType11": "<b>This Library contains all types of Objects and Properties.<\/b> It comes with preinstalled types, as well as types that can be uploaded to Anytype for different use cases.",
 	"onboardingStoreType21": "<b>Poți crea orice tip de obiect cu orice aspect pentru scopuri proprii.<\/b> Mai mult, tu poți salva orice obiect existent ca o Bibliotecă de șabloane dacă îți trebuie să îl folosești în  mod frecvent.",

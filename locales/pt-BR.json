@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "Este tipo tem %s %s",
 	"onboardingMainGraph": "Integração",
 	"onboardingMainGraph11": "<b>Espaço é na sua essência um gráfico<\/b>, e o alvo do Anytype é prover um caminho natural do pensamento, onde tudo é representado por objetos com relações específicas, exatamente como no mundo real.",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "Biblioteca",
 	"onboardingStoreType11": "<b>This Library contains all types of Objects and Properties.<\/b> It comes with preinstalled types, as well as types that can be uploaded to Anytype for different use cases.",
 	"onboardingStoreType21": "<b>Você pode criar tipos com qualquer layout de objeto para propósitos próprios.<\/b> Adicionalmente, você pode salvar qualquer objeto existente como um modelo de biblioteca se precisar usá-lo frequentemente.",
