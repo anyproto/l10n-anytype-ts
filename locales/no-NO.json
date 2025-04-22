@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "Denne typen har %s %s",
 	"onboardingMainGraph": "Innføring",
 	"onboardingMainGraph11": "<b>Rom er hovedsakelig en graf<\/b>og Anytype har som mål å gi en naturlig tenkemåte der alt er representert som objekter med spesifikke relasjoner – akkurat som i den virkelige verden.",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "Bibliotek",
 	"onboardingStoreType11": "<b>This Library contains all types of Objects and Properties.<\/b> It comes with preinstalled types, as well as types that can be uploaded to Anytype for different use cases.",
 	"onboardingStoreType21": "<b>Du kan lage dine egne typer med hvilken som helst objektlayout for dine egne formål.<\/b> I tillegg kan du lagre et hvilket som helst eksisterende objekt som en mal i biblioteket hvis du trenger å bruke det ofte.",
