@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "Loại này có %s %s",
 	"onboardingMainGraph": "Giới thiệu",
 	"onboardingMainGraph11": "<b>Không gian về cơ bản là một đồ thị<\/b>, và Anytype hướng đến việc cung cấp một cách nghĩ tự nhiên trong đó mọi thứ được biểu diễn bằng đối tượng có các quan hệ xác định, như ngoài đời thực.",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "Thư viện",
 	"onboardingStoreType11": "<b>This Library contains all types of Objects and Properties.<\/b> It comes with preinstalled types, as well as types that can be uploaded to Anytype for different use cases.",
 	"onboardingStoreType21": "<b>Bạn có thể tự tạo loại riêng với bất kỳ bố cục đối tượng nào cho mục đích của riêng bạn.<\/b> Hơn nữa, bạn có thể lưu bất kỳ đối tượng có sẵn nào dưới dạng Mẫu thư viện nếu bạn cần dùng nó thường xuyên.",
