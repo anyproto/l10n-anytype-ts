@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "이 유형은 %s %s을(를) 가집니다",
 	"onboardingMainGraph": "온보딩",
 	"onboardingMainGraph11": "<b>스페이스는 본질적으로 그래프<\/b>이며 Anytype은 현실 세계와 마찬가지로 모든 것이 특정한 관계를 가진 오브젝트로 표현되는 자연스러운 사고 방식을 제공하는 것을 목표로 합니다.",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "라이브러리",
 	"onboardingStoreType11": "<b>This Library contains all types of Objects and Properties.<\/b> It comes with preinstalled types, as well as types that can be uploaded to Anytype for different use cases.",
 	"onboardingStoreType21": "<b>자신의 목적에 맞게 임의의 객체 레이아웃으로 자신만의 유형을 만들 수 있습니다.<\/b> 또한, 기존의 객체를 자주 사용해야 할 경우 라이브러리 템플릿으로 저장할 수 있습니다.",
