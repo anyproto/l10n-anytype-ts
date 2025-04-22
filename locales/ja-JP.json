@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "タイプから下書きを選ぶ",
 	"onboardingMainGraph": "使い方",
 	"onboardingMainGraph11": "これは<b>グラフ表示<\/b>といいます。点と線でスペース内のオブジェクト同士の関係を表示する機能です。Anytypeではあらゆるものがお互いに繋がりがあると考えます。そう、現実世界のように。",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "ライブラリ",
 	"onboardingStoreType11": "<b>ここではすべてのオブジェクトとプロパティを管理できます。<\/b>あらかじめ設定されたタイプに加え、様々な用途に合わせてAnytypeで公開されたタイプを使うこともできます。",
 	"onboardingStoreType21": "<b>様々な目的に合わせて、自分だけのタイプを作ることができます。<\/b>さらに、頻繁に作るオブジェクトがあれば、メニューから新しい下書きとして保存することもできます。",
