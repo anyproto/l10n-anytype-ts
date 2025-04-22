@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "Dieser Typ hat %s %s",
 	"onboardingMainGraph": "Erste Schritte",
 	"onboardingMainGraph11": "<b>Space ist im Grunde ein Diagramm<\/b>, und Anytype versucht einen natürlichen Weg des Denkens umzusetzen, bei dem <\/b>alles<\/b> als Objekte mit spezifischen Beziehungen repräsentiert wird, wie in der realen Welt.",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "Bibliothek",
 	"onboardingStoreType11": "<b>Diese Bibliothek enthält alle Arten von Objekten und Eigenschaften.<\/b> Es enthält vorinstallierte Typen sowie Typen, die für verschiedene Anwendungsfälle nach Anytype hochgeladen werden können.",
 	"onboardingStoreType21": "<b>Du kannst deine eigenen Typen mit einem beliebigen Objektlayout für deine eigenen Zwecke erstellen.<\/b> Zusätzlich kannst du jedes vorhandene Objekt als Bibliotheksvorlage speichern, wenn du es häufig verwenden möchtest.",
