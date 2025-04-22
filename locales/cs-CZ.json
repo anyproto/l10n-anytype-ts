@@ -1744,6 +1744,8 @@
 	"selectTemplateBannerWithNumber": "Tento typ má %s %s",
 	"onboardingMainGraph": "Úvodní kroky",
 	"onboardingMainGraph11": "<b>Prostor je v podstatě graf<\/b>, a Anytype si klade za cíl poskytnout přirozený způsob myšlení, kde je vše zastoupeno jako objekty se specifickými vztahy, stejně jako v reálném světě.",
+	"onboardingMainObject": "Description now exists in every object;<br\/>you can hide or show it whenever you want.",
+	"onboardingMainType": "You can match the object settings to the Type settings with just one click.",
 	"onboardingStoreType": "Knihovna",
 	"onboardingStoreType11": "<b>This Library contains all types of Objects and Properties.<\/b> It comes with preinstalled types, as well as types that can be uploaded to Anytype for different use cases.",
 	"onboardingStoreType21": "<b>Můžete vytvořit vlastní typy pomocí rozvržení objektů pro vlastní účely.<\/b> Navíc můžete uložit jakýkoli existující objekt jako šablonu knihovny, pokud jej často používate.",
