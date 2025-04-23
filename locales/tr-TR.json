@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "En yukarıda",
 	"menuDataviewSortShowEmptyBottom": "En aşağıda",
 	"menuDataviewSourceSelectOneOrMoreSources": "Bir veya daha fazla kaynak seçin",
-	"menuDataviewSourceAddRelation": "Özellik Ekle",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "Kapak",
 	"menuDataviewViewEditCardSize": "Kart boyutu ",
 	"menuDataviewViewEditFitMedia": "Medyayı sığdır",
