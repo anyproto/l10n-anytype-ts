@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "On top",
 	"menuDataviewSortShowEmptyBottom": "On bottom",
 	"menuDataviewSourceSelectOneOrMoreSources": "एक या अधिक स्रोतों का चयन करें",
-	"menuDataviewSourceAddRelation": "Add a Property",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "Cover",
 	"menuDataviewViewEditCardSize": "कार्ड का आकार",
 	"menuDataviewViewEditFitMedia": "फिट मीडिया",
