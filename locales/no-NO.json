@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "Øverst",
 	"menuDataviewSortShowEmptyBottom": "Nederst",
 	"menuDataviewSourceSelectOneOrMoreSources": "Velg én eller flere kilder",
-	"menuDataviewSourceAddRelation": "Add a Property",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "Cover",
 	"menuDataviewViewEditCardSize": "Størrelse på kort",
 	"menuDataviewViewEditFitMedia": "Tilpass media",
