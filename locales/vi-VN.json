@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "Lên đầu",
 	"menuDataviewSortShowEmptyBottom": "Xuống cuối",
 	"menuDataviewSourceSelectOneOrMoreSources": "Chọn một hoặc nhiều nguồn",
-	"menuDataviewSourceAddRelation": "Thêm Thuộc tính",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "Ảnh bìa",
 	"menuDataviewViewEditCardSize": "Kích thước thẻ",
 	"menuDataviewViewEditFitMedia": "Chỉnh đa phương tiện cho vừa",

@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "Сверху",
 	"menuDataviewSortShowEmptyBottom": "Снизу",
 	"menuDataviewSourceSelectOneOrMoreSources": "Выберите один или несколько источников",
-	"menuDataviewSourceAddRelation": "Добавить свойство",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "Обложка",
 	"menuDataviewViewEditCardSize": "Размер карточки",
 	"menuDataviewViewEditFitMedia": "Подогнать медиа",

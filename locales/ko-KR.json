@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "상단",
 	"menuDataviewSortShowEmptyBottom": "하단",
 	"menuDataviewSourceSelectOneOrMoreSources": "하나 이상의 소스 선택",
-	"menuDataviewSourceAddRelation": "Add a Property",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "Cover",
 	"menuDataviewViewEditCardSize": "카드 사이즈",
 	"menuDataviewViewEditFitMedia": "미디어에 맞추기",

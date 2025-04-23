@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "In alto",
 	"menuDataviewSortShowEmptyBottom": "In basso",
 	"menuDataviewSourceSelectOneOrMoreSources": "Seleziona una o più fonti",
-	"menuDataviewSourceAddRelation": "Aggiungere una Proprietà",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "Copertina",
 	"menuDataviewViewEditCardSize": "Dimensione della Card",
 	"menuDataviewViewEditFitMedia": "Adatta media",
