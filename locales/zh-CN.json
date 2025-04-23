@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "在顶部",
 	"menuDataviewSortShowEmptyBottom": "在底部",
 	"menuDataviewSourceSelectOneOrMoreSources": "选择一个或多个来源",
-	"menuDataviewSourceAddRelation": "添加属性",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "封面",
 	"menuDataviewViewEditCardSize": "卡片大小",
 	"menuDataviewViewEditFitMedia": "适应媒体",
