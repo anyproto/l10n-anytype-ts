@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "Na wierzch",
 	"menuDataviewSortShowEmptyBottom": "Na dole",
 	"menuDataviewSourceSelectOneOrMoreSources": "Wybierz jedno lub więcej źródeł",
-	"menuDataviewSourceAddRelation": "Add a Property",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "Cover",
 	"menuDataviewViewEditCardSize": "Rozmiar karty",
 	"menuDataviewViewEditFitMedia": "Dopasowanie nośników",
