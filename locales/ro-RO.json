@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "On top",
 	"menuDataviewSortShowEmptyBottom": "On bottom",
 	"menuDataviewSourceSelectOneOrMoreSources": "Selectează una sau mai multe surse",
-	"menuDataviewSourceAddRelation": "Add a Property",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "Cover",
 	"menuDataviewViewEditCardSize": "Mărimea cardului",
 	"menuDataviewViewEditFitMedia": "Potrivește media",
