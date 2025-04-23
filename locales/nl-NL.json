@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "Bovenaan",
 	"menuDataviewSortShowEmptyBottom": "Onderaan",
 	"menuDataviewSourceSelectOneOrMoreSources": "Selecteer één of meerdere bronnen",
-	"menuDataviewSourceAddRelation": "Voeg een eigenschap toe",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "Omslag",
 	"menuDataviewViewEditCardSize": "Kaartgrootte",
 	"menuDataviewViewEditFitMedia": "Pas media in",
