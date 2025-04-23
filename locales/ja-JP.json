@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "上に表示",
 	"menuDataviewSortShowEmptyBottom": "下に表示",
 	"menuDataviewSourceSelectOneOrMoreSources": "一つ以上のソースを選択",
-	"menuDataviewSourceAddRelation": "プロパティを追加",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "カバー",
 	"menuDataviewViewEditCardSize": "カードサイズ",
 	"menuDataviewViewEditFitMedia": "メディアを合わせる",
