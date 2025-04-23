@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "A dalt",
 	"menuDataviewSortShowEmptyBottom": "A sota",
 	"menuDataviewSourceSelectOneOrMoreSources": "Seleccioneu una o més fonts",
-	"menuDataviewSourceAddRelation": "Add a Property",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "Cover",
 	"menuDataviewViewEditCardSize": "Mida de la targeta",
 	"menuDataviewViewEditFitMedia": "Fit media",
