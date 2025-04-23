@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "Iš viršaus",
 	"menuDataviewSortShowEmptyBottom": "Iš apačios",
 	"menuDataviewSourceSelectOneOrMoreSources": "Pasirink vieną ar daugiau šaltinių",
-	"menuDataviewSourceAddRelation": "Add a Property",
+	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
 	"menuDataviewViewEditCover": "Cover",
 	"menuDataviewViewEditCardSize": "Kortelės dydis",
 	"menuDataviewViewEditFitMedia": "Įtalpinti mediją",
