@@ -1391,7 +1391,7 @@
 	"menuDataviewSortShowEmptyTop": "En haut",
 	"menuDataviewSortShowEmptyBottom": "En bas",
 	"menuDataviewSourceSelectOneOrMoreSources": "Sélectionnez une ou plusieurs sources",
-	"menuDataviewSourceEmptySourceLabel": "Select a parameter to collect objects by it",
+	"menuDataviewSourceEmptySourceLabel": "Sélectionnez un paramètre pour collecter des objets à l'aide de celui-ci",
 	"menuDataviewViewEditCover": "Couverture",
 	"menuDataviewViewEditCardSize": "Taille des cartes",
 	"menuDataviewViewEditFitMedia": "Ajuster le média",
