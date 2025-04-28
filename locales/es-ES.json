@@ -1864,7 +1864,7 @@
 	"libActionUninstallTypeText": "Este tipo se eliminará. Si has creado algún objeto de este tipo, puede que te cueste más trabajo encontrarlo.",
 	"libActionUninstallRelationTitle": "¿Quieres eliminar la propiedad «%s»?",
 	"libActionUninstallRelationText": "Esta propiedad se eliminará de tu biblioteca. Si has creado algún objeto que utilice esta propiedad, ya no podrás editar el valor de la propiedad.",
-	"utilLoadMoreText": "Mostrar %s más %s",
+	"utilLoadMoreText": "Mostrar %s %s más",
 	"utilDeletedBackToDashboard": "Volver al tablero",
 	"utilDeletedObjectNotExist": "Este objeto no existe",
 	"delimiterComma": "Coma",
