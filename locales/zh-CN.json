@@ -1738,7 +1738,7 @@
 	"sidebarRelationLocalRemoveFromObjects": "从对象中移除",
 	"unsplashString": "由 %s 在 %s 拍摄的的照片",
 	"templateBannner": "您正在编辑模板",
-	"deletedBanner": "此对象在回收站中，现已视图模式显示。",
+	"deletedBanner": "此对象在回收站中，现以视图模式显示。",
 	"deletedBannerRestore": "恢复",
 	"selectTemplateBanner": "此类型有模板",
 	"selectTemplateBannerWithNumber": "此类型有 %s %s",
