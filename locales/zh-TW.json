@@ -60,7 +60,7 @@
 	"commonAdd": "新增",
 	"commonDone": "完成",
 	"commonUnlink": "取消關聯",
-	"commonUnlinkFromType": "Remove from Type",
+	"commonUnlinkFromType": "",
 	"commonUnlinkFromObject": "Remove from Object",
 	"commonUnlinkFromSet": "Remove from Query",
 	"commonUnlinkFromCollection": "Remove from Collection",
