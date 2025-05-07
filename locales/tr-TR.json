@@ -686,6 +686,7 @@
 	"blockChatReplying": "Yanıt veriliyor: %s",
 	"blockChatFormReadonly": "Sadece editörler mesaj gönderebilir. Erişim talep etmek için lütfen alan sahibiyle iletişime geçin.",
 	"blockChatCopyText": "Metni kopyala",
+	"blockChatMarkAsUnread": "Mark as unread",
 	"popupSettingsTitle": "Ayarlar",
 	"popupSettingsAccountPersonalInformationTitle": "Kişisel bilgiler",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "İsminiz",
