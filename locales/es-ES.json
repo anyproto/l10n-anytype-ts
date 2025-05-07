@@ -686,6 +686,7 @@
 	"blockChatReplying": "Respondiendo a %s",
 	"blockChatFormReadonly": "Solo pueden enviar mensajes los editores. Solicita acceso a la persona que ha creado esto.",
 	"blockChatCopyText": "Copiar texto",
+	"blockChatMarkAsUnread": "Marcar como no leído",
 	"popupSettingsTitle": "Ajustes",
 	"popupSettingsAccountPersonalInformationTitle": "Datos personales",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Tu nombre",

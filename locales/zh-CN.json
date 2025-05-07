@@ -686,6 +686,7 @@
 	"blockChatReplying": "给 %s 的回复",
 	"blockChatFormReadonly": "只有编辑者才能发送消息。请联系所有者请求访问权限。",
 	"blockChatCopyText": "拷贝文本",
+	"blockChatMarkAsUnread": "Mark as unread",
 	"popupSettingsTitle": "设置",
 	"popupSettingsAccountPersonalInformationTitle": "个人信息",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "你的名字",

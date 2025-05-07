@@ -686,6 +686,7 @@
 	"blockChatReplying": "Răspuns la %s",
 	"blockChatFormReadonly": "Only editors can send messages. Contact the owner to request access.",
 	"blockChatCopyText": "Copy text",
+	"blockChatMarkAsUnread": "Mark as unread",
 	"popupSettingsTitle": "Setări",
 	"popupSettingsAccountPersonalInformationTitle": "Informații personale",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Numele tău",
