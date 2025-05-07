@@ -686,6 +686,7 @@
 	"blockChatReplying": "Répondre à %s",
 	"blockChatFormReadonly": "Seuls les éditeurs peuvent envoyer des messages. Contactez le propriétaire pour demander l'accès.",
 	"blockChatCopyText": "Copier le texte",
+	"blockChatMarkAsUnread": "Marquer comme non lu",
 	"popupSettingsTitle": "Paramètres",
 	"popupSettingsAccountPersonalInformationTitle": "Informations personnelles",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Votre nom",
