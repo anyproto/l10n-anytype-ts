@@ -1,7 +1,7 @@
 {
 	"commonError": "Erro",
 	"commonOr": "ou",
-	"commonMore": "ver mais",
+	"commonMore": "mais",
 	"commonOf": "de",
 	"commonTo": "para",
 	"commonOk": "Ok",
@@ -209,7 +209,7 @@
 	"pluralTemplate": "Template|Templates",
 	"pluralLCTemplate": "template|templates",
 	"pluralBlock": "Bloco|Blocos",
-	"pluralObjectType": "Tipo de objeto|Tipos de objetos",
+	"pluralObjectType": "Tipo de Objeto|Tipos de Objetos",
 	"pluralProperty": "Property|Properties",
 	"pluralLinks": "link|links",
 	"pluralBacklinks": "ligação de referência|ligações de referência",
