@@ -123,7 +123,7 @@
 	"commonRedo": "Refă",
 	"commonBlank": "Gol",
 	"commonSetDefault": "Setează ca implicit",
-	"commonUnsetDefault": "Unset as default",
+	"commonUnsetDefault": "",
 	"commonTemplate": "Șablon",
 	"commonTemplates": "Șabloane",
 	"commonSkip": "Treci peste",
