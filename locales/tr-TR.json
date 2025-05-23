@@ -997,7 +997,7 @@
 	"popupConfirmInviteError103Title": "Hay aksi!",
 	"popupConfirmInviteError103Text": "Erişmeye çalıştığınız alan silindi",
 	"popupConfirmJoinSpaceTitle": "%s alanına katıl",
-	"popupConfirmJoinSpaceText": "You've been invited to join <b>%s<\/b> space, created by <b>%s<\/b>",
+	"popupConfirmJoinSpaceText": "<b>%s<\/b> tarafından oluşturulan <b>%s<\/b> alanına katılmaya davet edildiniz",
 	"popupConfirmJoinSpaceButtonConfirm": "Alana Katıl",
 	"popupConfirmWelcomeTitle": "Alanınıza hoş geldiniz",
 	"popupConfirmWelcomeText": "<b>Alanınız<\/b> şifrelenmiş yerel öncelikli bir konteynerdir.<br\/><b>Alan<\/b> paylaşılabilir ve başkalarıyla birlikte oluşturulabilir.<br\/>Her alan bir <b>nesne grafiği<\/b> içerir.",
