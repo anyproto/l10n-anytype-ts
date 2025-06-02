@@ -1578,6 +1578,7 @@
 	"toastFileLimitReached": "Ваша лакальнае сховішча перавышае ліміт сінхранізацыі. Файлы, якія захоўваюцца ў лакальным сховішчы, не будуць сінхранізаваныя",
 	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"toastWidget": "Widget <b>%s<\/b> has been added",
+	"toastJoinSpace": "You have joined the <b>%s<\/b>",
 	"textColor-grey": "Шэры",
 	"textColor-yellow": "Жоўты",
 	"textColor-orange": "Бурштынавы",
