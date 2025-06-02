@@ -1578,6 +1578,7 @@
 	"toastFileLimitReached": "このデバイスのストレージ容量が同期上限に達しました。今後、このデバイスに保存されたファイルは同期されません。",
 	"toastChatAttachmentsLimitReached": "一度に%sつまでしか%sはアップロードできません\n",
 	"toastWidget": "ウィジェット <b>%s<\/b>が追加されました",
+	"toastJoinSpace": "<b>%s<\/b>に参加しました",
 	"textColor-grey": "灰",
 	"textColor-yellow": "黄",
 	"textColor-orange": "アンバー",
