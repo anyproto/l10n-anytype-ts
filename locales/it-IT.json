@@ -1578,6 +1578,7 @@
 	"toastFileLimitReached": "La memoria locale supera il limite di sincronizzazione. I file memorizzati localmente non saranno sincronizzati",
 	"toastChatAttachmentsLimitReached": "È possibile caricare solo %s %s alla volta",
 	"toastWidget": "Widget <b>%s<\/b> has been added",
+	"toastJoinSpace": "You have joined the <b>%s<\/b>",
 	"textColor-grey": "Grigio",
 	"textColor-yellow": "Giallo",
 	"textColor-orange": "Ambra",

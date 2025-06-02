@@ -1578,6 +1578,7 @@
 	"toastFileLimitReached": "Penyimpanan lokalmu melebihi batas sinkronisasi. Berkas yang tersimpan secara lokal tidak akan disinkronkan.",
 	"toastChatAttachmentsLimitReached": "Kamu hanya bisa mengunggah %s %s pada waktu yang sama",
 	"toastWidget": "Gawit <b>%s<\/b> telah ditambahkan",
+	"toastJoinSpace": "You have joined the <b>%s<\/b>",
 	"textColor-grey": "Abu-abu",
 	"textColor-yellow": "Kuning",
 	"textColor-orange": "Jingga",

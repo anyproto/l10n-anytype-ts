@@ -1578,6 +1578,7 @@
 	"toastFileLimitReached": "您的本地存储超过同步限制。本地存储的文件不会被同步",
 	"toastChatAttachmentsLimitReached": "您一次只能上传 %s %s",
 	"toastWidget": "<b>%s<\/b>小部件已添加",
+	"toastJoinSpace": "You have joined the <b>%s<\/b>",
 	"textColor-grey": "浅灰色",
 	"textColor-yellow": "姜黄色",
 	"textColor-orange": "琥珀色",

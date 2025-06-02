@@ -1578,6 +1578,7 @@
 	"toastFileLimitReached": "Ваше локальное хранилище превысило лимит синхронизации.  Сохраненные файлы на устройстве не будут синхронизированы",
 	"toastChatAttachmentsLimitReached": "Вы можете загрузить только %s %s за раз",
 	"toastWidget": "Виджет <b>%s<\/b> добавлен",
+	"toastJoinSpace": "You have joined the <b>%s<\/b>",
 	"textColor-grey": "Серый",
 	"textColor-yellow": "Жёлтый",
 	"textColor-orange": "Янтарный",
