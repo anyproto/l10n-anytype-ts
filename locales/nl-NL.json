@@ -1578,6 +1578,7 @@
 	"toastFileLimitReached": "Jouw lokale opslag overschrijdt de synchronisatielimiet. Lokaal opgeslagen bestanden zullen niet worden gesynchroniseerd",
 	"toastChatAttachmentsLimitReached": "Je kunt slechts %s %s tegelijk uploaden",
 	"toastWidget": "Widget <b>%s<\/b> is toegevoegd",
+	"toastJoinSpace": "You have joined the <b>%s<\/b>",
 	"textColor-grey": "Grijs",
 	"textColor-yellow": "Geel",
 	"textColor-orange": "Amber",
