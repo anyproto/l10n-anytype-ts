@@ -1588,7 +1588,7 @@
 	"toastFileLimitReached": "Dein lokaler Speicher überschreitet das Synchronisierungslimit. Lokal gespeicherte Dateien werden nicht synchronisiert",
 	"toastChatAttachmentsLimitReached": "Du kannst nur %s %s auf einmal hochladen",
 	"toastWidget": "Widget <b>%s<\/b> wurde hinzugefügt.",
-	"toastJoinSpace": "You have joined the <b>%s<\/b>",
+	"toastJoinSpace": "You have joined <b>%s<\/b>",
 	"textColor-grey": "Grau",
 	"textColor-yellow": "Gelb",
 	"textColor-orange": "Bernstein",
