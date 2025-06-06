@@ -1588,7 +1588,7 @@
 	"toastFileLimitReached": "Lokal lagring overstiger synkroniseringsgrensen. Lokalt lagrede filer vil ikke bli synkronisert",
 	"toastChatAttachmentsLimitReached": "Du kan bare laste opp %s %s om gangen",
 	"toastWidget": "Widget <b>%s<\/b> has been added",
-	"toastJoinSpace": "You have joined the <b>%s<\/b>",
+	"toastJoinSpace": "You have joined <b>%s<\/b>",
 	"textColor-grey": "Grå",
 	"textColor-yellow": "Gul",
 	"textColor-orange": "Oransje",

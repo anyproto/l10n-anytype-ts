@@ -1588,7 +1588,7 @@
 	"toastFileLimitReached": "本機的儲存空間超出同步限制。在本機儲存的檔案不會同步",
 	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"toastWidget": "Widget <b>%s<\/b> has been added",
-	"toastJoinSpace": "You have joined the <b>%s<\/b>",
+	"toastJoinSpace": "You have joined <b>%s<\/b>",
 	"textColor-grey": "灰色",
 	"textColor-yellow": "黃色",
 	"textColor-orange": "琥珀色",

@@ -1588,7 +1588,7 @@
 	"toastFileLimitReached": "로컬 저장소의 동기화 한도를 초과했습니다. 로컬에 저장된 파일이 동기화되지 않습니다",
 	"toastChatAttachmentsLimitReached": "You can upload only %s %s at a time",
 	"toastWidget": "Widget <b>%s<\/b> has been added",
-	"toastJoinSpace": "You have joined the <b>%s<\/b>",
+	"toastJoinSpace": "You have joined <b>%s<\/b>",
 	"textColor-grey": "회색",
 	"textColor-yellow": "노란색",
 	"textColor-orange": "주황색",
