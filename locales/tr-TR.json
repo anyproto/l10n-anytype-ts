@@ -1588,7 +1588,7 @@
 	"toastFileLimitReached": "Yerel depolama alanınız senkronizasyon sınırını aşıyor. Yerel olarak depolanan dosyalar senkronize edilmeyecek.",
 	"toastChatAttachmentsLimitReached": "Bir seferde yalnızca %s %s yükleyebilirsiniz",
 	"toastWidget": "<b>%s<\/b> Widget'ı eklendi",
-	"toastJoinSpace": "<b>%s<\/b> alanına katıldınız",
+	"toastJoinSpace": "You have joined <b>%s<\/b>",
 	"textColor-grey": "Gri",
 	"textColor-yellow": "Sarı",
 	"textColor-orange": "Amber",
