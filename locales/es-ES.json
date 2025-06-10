@@ -208,6 +208,8 @@
 	"commonShowKey": "Mostrar y copiar la clave",
 	"commonPasteLink": "Pegar enlace",
 	"commonAppSettings": "Ajustes de la aplicación",
+	"commonAddPinned": "Add to Pinned",
+	"commonRemovePinned": "Remove from Pinned",
 	"pluralDay": "día|días",
 	"pluralObject": "Objeto|Objetos",
 	"pluralLCObject": "objeto|objetos",
