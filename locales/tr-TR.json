@@ -208,6 +208,8 @@
 	"commonShowKey": "Anahtarı göster ve kopyala",
 	"commonPasteLink": "Bağlantıyı yapıştır",
 	"commonAppSettings": "Uygulama Ayarları",
+	"commonAddPinned": "Sabitlenenlere Ekle",
+	"commonRemovePinned": "Sabitlenenlerden Kaldır",
 	"pluralDay": "gün|günler",
 	"pluralObject": "Nesne|Nesneler",
 	"pluralLCObject": "nesne|nesneler",
