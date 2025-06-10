@@ -208,6 +208,8 @@
 	"commonShowKey": "كشف و نسخ المفتاح",
 	"commonPasteLink": "Paste link",
 	"commonAppSettings": "App Settings",
+	"commonAddPinned": "Add to Pinned",
+	"commonRemovePinned": "Remove from Pinned",
 	"pluralDay": "يوم | أيام",
 	"pluralObject": "كائن | كائنات",
 	"pluralLCObject": "كائن | كائنات",
