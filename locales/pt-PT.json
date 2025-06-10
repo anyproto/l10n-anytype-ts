@@ -208,6 +208,8 @@
 	"commonShowKey": "Revelar e copiar Chave",
 	"commonPasteLink": "Paste link",
 	"commonAppSettings": "App Settings",
+	"commonAddPinned": "Add to Pinned",
+	"commonRemovePinned": "Remove from Pinned",
 	"pluralDay": "dia|dias",
 	"pluralObject": "Objeto|Objetos",
 	"pluralLCObject": "objeto|objetos",
