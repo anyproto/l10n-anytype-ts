@@ -208,6 +208,8 @@
 	"commonShowKey": "Reveal and copy Key",
 	"commonPasteLink": "Paste link",
 	"commonAppSettings": "App Settings",
+	"commonAddPinned": "Add to Pinned",
+	"commonRemovePinned": "Remove from Pinned",
 	"pluralDay": "zi|zile",
 	"pluralObject": "Obiect|Obiecte",
 	"pluralLCObject": "obiect|obiecte",

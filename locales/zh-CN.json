@@ -208,6 +208,8 @@
 	"commonShowKey": "显示并复制密钥",
 	"commonPasteLink": "Paste link",
 	"commonAppSettings": "App Settings",
+	"commonAddPinned": "Add to Pinned",
+	"commonRemovePinned": "Remove from Pinned",
 	"pluralDay": "天|天",
 	"pluralObject": "对象|对象",
 	"pluralLCObject": "对象|对象",

@@ -208,6 +208,8 @@
 	"commonShowKey": "Vis og kopier nøkkel",
 	"commonPasteLink": "Paste link",
 	"commonAppSettings": "App Settings",
+	"commonAddPinned": "Add to Pinned",
+	"commonRemovePinned": "Remove from Pinned",
 	"pluralDay": "dag|dager",
 	"pluralObject": "Objekt|Objekter",
 	"pluralLCObject": "objekt|objekter",

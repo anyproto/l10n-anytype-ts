@@ -208,6 +208,8 @@
 	"commonShowKey": "Reveal and copy Key",
 	"commonPasteLink": "Paste link",
 	"commonAppSettings": "App Settings",
+	"commonAddPinned": "Add to Pinned",
+	"commonRemovePinned": "Remove from Pinned",
 	"pluralDay": "ден|дни",
 	"pluralObject": "Обект|Обекти",
 	"pluralLCObject": "object|objects",

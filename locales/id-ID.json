@@ -208,6 +208,8 @@
 	"commonShowKey": "Tunjukkan dan salin Kunci",
 	"commonPasteLink": "Tempel tautan",
 	"commonAppSettings": "Setelan Aplikasi",
+	"commonAddPinned": "Add to Pinned",
+	"commonRemovePinned": "Remove from Pinned",
 	"pluralDay": "hari|hari",
 	"pluralObject": "Objek|Objek",
 	"pluralLCObject": "objek|objek",

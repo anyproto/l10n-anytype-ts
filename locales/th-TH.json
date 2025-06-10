@@ -208,6 +208,8 @@
 	"commonShowKey": "เปิดเผยและตัดลองคีย์",
 	"commonPasteLink": "Paste link",
 	"commonAppSettings": "App Settings",
+	"commonAddPinned": "Add to Pinned",
+	"commonRemovePinned": "Remove from Pinned",
 	"pluralDay": "วัน | วัน",
 	"pluralObject": "วัตถุ|วัตถุ",
 	"pluralLCObject": "วัตถุ|วัตถุ",
