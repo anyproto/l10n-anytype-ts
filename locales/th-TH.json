@@ -216,6 +216,7 @@
 	"pluralTemplate": "ต้นแบบ|ต้นแบบ",
 	"pluralLCTemplate": "ต้นแบบ|ต้นแบบ",
 	"pluralBlock": "บล็อก|บล็อก",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "ประเภทวัตถุ|ประเภทวัตถุ",
 	"pluralProperty": "คุณสมบัติ|คุณสมบัติ",
 	"pluralLinks": "ลิงก์",
