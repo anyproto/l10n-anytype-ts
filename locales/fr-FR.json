@@ -216,6 +216,7 @@
 	"pluralTemplate": "Modèle|Modèles",
 	"pluralLCTemplate": "modèle|modèles",
 	"pluralBlock": "Bloc|Blocs",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Type d'objet|Types d'objets",
 	"pluralProperty": "Propriété|Propriétés",
 	"pluralLinks": "lien|liens",
