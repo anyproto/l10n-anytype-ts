@@ -216,6 +216,7 @@
 	"pluralTemplate": "Templat|Templat",
 	"pluralLCTemplate": "templat|templat",
 	"pluralBlock": "Blok|Blok",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Tipe Objek|Tipe Objek",
 	"pluralProperty": "Atribut|Atribut",
 	"pluralLinks": "tautan|tautan",
