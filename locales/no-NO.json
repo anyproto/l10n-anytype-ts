@@ -216,6 +216,7 @@
 	"pluralTemplate": "Mal|Maler",
 	"pluralLCTemplate": "mal|maler",
 	"pluralBlock": "Blokk|Blokker",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Objekttype|Objekttyper",
 	"pluralProperty": "Egenskap|Egenskaper",
 	"pluralLinks": "lenke|lenker",
