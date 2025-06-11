@@ -216,6 +216,7 @@
 	"pluralTemplate": "模板|模板",
 	"pluralLCTemplate": "模板|模板",
 	"pluralBlock": "区块|区块",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "对象类型|对象类型",
 	"pluralProperty": "属性|属性",
 	"pluralLinks": "链接|链接",
