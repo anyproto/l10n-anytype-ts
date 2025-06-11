@@ -216,6 +216,7 @@
 	"pluralTemplate": "نمونه|نمونه‌ها",
 	"pluralLCTemplate": "نمونه|نمونه‌ها",
 	"pluralBlock": "Block|Blocks",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Object Type|Object Types",
 	"pluralProperty": "ویژگی|ویژگی‌ها",
 	"pluralLinks": "link|links",
