@@ -216,6 +216,7 @@
 	"pluralTemplate": "Шаблон|Шаблони",
 	"pluralLCTemplate": "шаблон|шаблони",
 	"pluralBlock": "Блок|Блоки",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Тип Об'єкта|Типи Об'єктів",
 	"pluralProperty": "Властивість|Властивості",
 	"pluralLinks": "посилання|посилання",
