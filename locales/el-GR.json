@@ -216,6 +216,7 @@
 	"pluralTemplate": "Template|Templates",
 	"pluralLCTemplate": "template|templates",
 	"pluralBlock": "Μπλοκ|Μπλοκς",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Τύπος Αντικειμένου|Τύποι Αντικειμένων",
 	"pluralProperty": "Property|Properties",
 	"pluralLinks": "Σύνδεσμος|Σύνδεσμοι",

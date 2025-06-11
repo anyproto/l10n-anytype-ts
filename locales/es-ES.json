@@ -216,6 +216,7 @@
 	"pluralTemplate": "Plantilla|Plantillas",
 	"pluralLCTemplate": "plantilla|plantillas",
 	"pluralBlock": "bloque|bloques",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Tipo de objeto|Tipos de objeto",
 	"pluralProperty": "Propiedad|Propiedades",
 	"pluralLinks": "enlace|enlaces",

@@ -216,6 +216,7 @@
 	"pluralTemplate": "Șabloane",
 	"pluralLCTemplate": "template|templates",
 	"pluralBlock": "Bloc|Blocuri",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Tip de obiect|Tipuri de obiect",
 	"pluralProperty": "Property|Properties",
 	"pluralLinks": "link|link-uri",

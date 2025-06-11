@@ -216,6 +216,7 @@
 	"pluralTemplate": "Szablon|Szablony",
 	"pluralLCTemplate": "szablon|szablony",
 	"pluralBlock": "Blok|Bloki",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Typ obiektu|Typy obiektów",
 	"pluralProperty": "Właściwość|Właściwości",
 	"pluralLinks": "link|linki",

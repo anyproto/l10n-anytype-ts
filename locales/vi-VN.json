@@ -216,6 +216,7 @@
 	"pluralTemplate": "Mẫu|Mẫu",
 	"pluralLCTemplate": "mẫu|mẫu",
 	"pluralBlock": "Khối|Khối",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Loại Đối tượng|Loại Đối tượng",
 	"pluralProperty": "Property|Properties",
 	"pluralLinks": "liên kết|liên kết",

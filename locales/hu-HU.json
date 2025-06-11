@@ -216,6 +216,7 @@
 	"pluralTemplate": "Sablon|Sablonok",
 	"pluralLCTemplate": "template|templates",
 	"pluralBlock": "Blokk|Blokkok",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Objektumtípus\/ok",
 	"pluralProperty": "Property|Properties",
 	"pluralLinks": "hivatkozás|hivatkozások",

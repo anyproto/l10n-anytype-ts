@@ -216,6 +216,7 @@
 	"pluralTemplate": "قالب | القوالب",
 	"pluralLCTemplate": "قالب | القوالب",
 	"pluralBlock": "كتل | كتلات",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "نوع الكائن | نوع الكائنات",
 	"pluralProperty": "الملكية | الخصائص",
 	"pluralLinks": "الرابط | الروابط",

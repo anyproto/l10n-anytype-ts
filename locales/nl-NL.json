@@ -216,6 +216,7 @@
 	"pluralTemplate": "Sjabloon|Sjablonen",
 	"pluralLCTemplate": "sjabloon|sjablonen",
 	"pluralBlock": "Blok|Blokken",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Objecttype|Objecttypes",
 	"pluralProperty": "Eigenschap | Eigenschappen",
 	"pluralLinks": "koppeling|koppelingen",

@@ -216,6 +216,7 @@
 	"pluralTemplate": "Template|Templates",
 	"pluralLCTemplate": "template|templates",
 	"pluralBlock": "Blokas|Blokai",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Objekto Tipas|Objektų Tipai",
 	"pluralProperty": "Property|Properties",
 	"pluralLinks": "nuoroda|nuorodos",
