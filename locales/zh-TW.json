@@ -216,6 +216,7 @@
 	"pluralTemplate": "模板|模板",
 	"pluralLCTemplate": "模板|模板",
 	"pluralBlock": "區塊|區塊",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "物件類型 | 物件類型",
 	"pluralProperty": "屬性|屬性",
 	"pluralLinks": "連結|連結",
