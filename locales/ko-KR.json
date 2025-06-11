@@ -216,6 +216,7 @@
 	"pluralTemplate": "Template|Templates",
 	"pluralLCTemplate": "template|templates",
 	"pluralBlock": "블럭|블럭",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "객체 유형|객체 유형",
 	"pluralProperty": "Property|Properties",
 	"pluralLinks": "링크|링크",
