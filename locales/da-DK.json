@@ -216,6 +216,7 @@
 	"pluralTemplate": "Skabelon|Skabeloner",
 	"pluralLCTemplate": "skabelon|skabeloner",
 	"pluralBlock": "Blok|Blokke",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Objekttype|Objekttyper",
 	"pluralProperty": "Egenskab|Egenskaber",
 	"pluralLinks": "link|links",
