@@ -216,6 +216,7 @@
 	"pluralTemplate": "Mallipohja|Mallipohjat",
 	"pluralLCTemplate": "template|templates",
 	"pluralBlock": "Palikka|Palikat",
+	"pluralLCBlock": "block|blocks",
 	"pluralObjectType": "Oliotyyppi|Oliotyypit",
 	"pluralProperty": "Ominaisuus|Ominaisuudet",
 	"pluralLinks": "linkki|linkit",
