@@ -430,7 +430,7 @@
 	"authPinCheckTitle": "輸入 PIN 碼",
 	"authPinCheckError": "PIN 碼不正確",
 	"authOnboardPhraseTitle": "這是您的密鑰",
-	"authOnboardPhraseLabel": "它取代了帳號與密碼。請妥善保管 — 資料安全僅由你自己負責。你可以稍後在應用程式設定中找到這把金鑰（Key）。",
+	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you are responsible for your data. You can find this Key later in app settings.",
 	"authOnboardPhraseRevealAndCopy": "顯示並複製金鑰",
 	"authOnboardEmailTitle": "獲取最新資訊",
 	"authOnboardEmailLabel": "我們很樂意與您分享使用技巧、訣竅和產品更新。您的電子郵件絕不會用來追蹤您的身份。我們不會分享您的資料，永遠不會。",
