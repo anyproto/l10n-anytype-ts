@@ -430,7 +430,7 @@
 	"authPinCheckTitle": "Voer pincode in",
 	"authPinCheckError": "Onjuiste pincode",
 	"authOnboardPhraseTitle": "Dit is jouw sleutel",
-	"authOnboardPhraseLabel": "Het vervangt login en wachtwoord. Houd het veilig - alleen jij bent verantwoordelijk voor jouw gegevens. Je kunt deze sleutel later vinden in de app instellingen.",
+	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you are responsible for your data. You can find this Key later in app settings.",
 	"authOnboardPhraseRevealAndCopy": "Onthul en kopieer",
 	"authOnboardEmailTitle": "Blijf op de hoogte",
 	"authOnboardEmailLabel": "We zouden graag tips, trucs en productupdates met jou delen. Jouw e-mail wordt nooit gekoppeld aan jouw identiteit. We zullen jouw gegevens niet delen. Nooit.",

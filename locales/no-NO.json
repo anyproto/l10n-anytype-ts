@@ -430,7 +430,7 @@
 	"authPinCheckTitle": "Skriv inn pin-kode",
 	"authPinCheckError": "Feil pin-kode",
 	"authOnboardPhraseTitle": "Dette er din private nøkkel",
-	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you responsible for your data. You can find this Key later in app settings.",
+	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you are responsible for your data. You can find this Key later in app settings.",
 	"authOnboardPhraseRevealAndCopy": "Reveal and Copy",
 	"authOnboardEmailTitle": "Hold deg oppdatert",
 	"authOnboardEmailLabel": "We'd love to share tips, tricks and product updates with you. Your email is never linked to your identity. We won't share your data. Ever.",
