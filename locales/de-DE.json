@@ -430,7 +430,7 @@
 	"authPinCheckTitle": "PIN eingeben",
 	"authPinCheckError": "Falsche PIN",
 	"authOnboardPhraseTitle": "Dies ist dein Schlüssel",
-	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you responsible for your data. You can find this Key later in app settings.",
+	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you are responsible for your data. You can find this Key later in app settings.",
 	"authOnboardPhraseRevealAndCopy": "Reveal and Copy",
 	"authOnboardEmailTitle": "Bleib auf dem Laufenden",
 	"authOnboardEmailLabel": "Wir würden gerne Tipps, Tricks und Produktneuigkeiten mit dir teilen. Deine E-Mail wird niemals mit deiner Identität verknüpft. Wir geben deine Daten nicht weiter. Niemals.",
