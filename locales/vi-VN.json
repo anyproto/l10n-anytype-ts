@@ -430,7 +430,7 @@
 	"authPinCheckTitle": "Nhập PIN",
 	"authPinCheckError": "PIN sai",
 	"authOnboardPhraseTitle": "Đây là khoá của bạn",
-	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you responsible for your data. You can find this Key later in app settings.",
+	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you are responsible for your data. You can find this Key later in app settings.",
 	"authOnboardPhraseRevealAndCopy": "Reveal and Copy",
 	"authOnboardEmailTitle": "Luôn cập nhật thông tin mới nhất",
 	"authOnboardEmailLabel": "We'd love to share tips, tricks and product updates with you. Your email is never linked to your identity. We won't share your data. Ever.",
