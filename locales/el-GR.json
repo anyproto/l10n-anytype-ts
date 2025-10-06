@@ -430,7 +430,7 @@
 	"authPinCheckTitle": "Εισαγωγή PIN",
 	"authPinCheckError": "Λανθασμένο PIN",
 	"authOnboardPhraseTitle": "Αυτό είναι το κλειδί σας",
-	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you responsible for your data. You can find this Key later in app settings.",
+	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you are responsible for your data. You can find this Key later in app settings.",
 	"authOnboardPhraseRevealAndCopy": "Reveal and Copy",
 	"authOnboardEmailTitle": "Μείνετε στο βρόχο",
 	"authOnboardEmailLabel": "Θα θέλαμε πολύ να μοιραστούμε μαζί σας συμβουλές, κόλπα και ενημερώσεις προϊόντων. Το email σας δεν συνδέεται ποτέ με την ταυτότητά σας. Δεν θα μοιραστούμε τα δεδομένα σας.",
