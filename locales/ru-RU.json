@@ -430,7 +430,7 @@
 	"authPinCheckTitle": "Введите PIN-код",
 	"authPinCheckError": "Неверный PIN-код",
 	"authOnboardPhraseTitle": "Это ваш ключ",
-	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you responsible for your data. You can find this Key later in app settings.",
+	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you are responsible for your data. You can find this Key later in app settings.",
 	"authOnboardPhraseRevealAndCopy": "Reveal and Copy",
 	"authOnboardEmailTitle": "Оставайтесь в курсе",
 	"authOnboardEmailLabel": "Мы бы хотели делиться с вами подсказками, хитростями и обновлениями. Ваш адрес электронной почты никогда не будет привязан к вашей личности. Мы не будем делиться вашими данными. Никогда.",
