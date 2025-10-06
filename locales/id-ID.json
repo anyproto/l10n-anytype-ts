@@ -430,7 +430,7 @@
 	"authPinCheckTitle": "Masukkan PIN",
 	"authPinCheckError": "PIN Salah",
 	"authOnboardPhraseTitle": "Ini kunci Anda",
-	"authOnboardPhraseLabel": "Kunci bagaikan nama pengguna dan kata sandi. Simpanlah dengan baik—hanya kamu yang bertanggung jawab dengan datamu. Kunci ini bisa dilihat lagi di setelan aplikasi.",
+	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you are responsible for your data. You can find this Key later in app settings.",
 	"authOnboardPhraseRevealAndCopy": "Tunjukkan dan Salin",
 	"authOnboardEmailTitle": "Tetap terinformasi",
 	"authOnboardEmailLabel": "Kami akan dengan dengan senang hati berbagi tip, trik, dan informasi produk denganmu. Surelmu tidak akan dihubungkan dengan identitasmu, dan kami tidak akan pernah membagikan datamu.",
