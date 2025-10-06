@@ -430,7 +430,7 @@
 	"authPinCheckTitle": "Wprowadź PIN",
 	"authPinCheckError": "Nieprawidłowy PIN",
 	"authOnboardPhraseTitle": "Twój klucz chroni Twój skarbiec. Będzie on potrzebny do zalogowania się, jeśli nie masz dostępu do swoich urządzeń. Przechowuj go w bezpiecznym miejscu. Kliknij, aby pokazać:",
-	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you responsible for your data. You can find this Key later in app settings.",
+	"authOnboardPhraseLabel": "It replaces login and password. Keep it safe — only you are responsible for your data. You can find this Key later in app settings.",
 	"authOnboardPhraseRevealAndCopy": "Reveal and Copy",
 	"authOnboardEmailTitle": "Pozostań w kontakcie",
 	"authOnboardEmailLabel": "Chcielibyśmy udostępniać Ci porady, sztuczki i aktualizacje produktów. Twój e-mail nigdy nie jest powiązany z Twoją tożsamością. Nie udostępnimy Twoich danych. Nigdy.",
