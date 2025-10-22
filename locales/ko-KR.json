@@ -748,6 +748,8 @@
 	"popupSettingsPersonalDateFormat": "날짜 형식",
 	"popupSettingsPersonalSectionLanguage": "언어 및 맞춤법",
 	"popupSettingsPersonalSectionEditor": "에디터 개인 설정",
+	"popupSettingsPersonalSectionChat": "채팅",
+	"popupSettingsPersonalChatSend": "Send message with",
 	"popupSettingsPersonalSectionApp": "앱 모양",
 	"popupSettingsPersonalSectionDateTime": "날짜와 시간",
 	"popupSettingsPersonalTimeFormat": "시간 형식",
