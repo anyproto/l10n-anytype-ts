@@ -748,6 +748,8 @@
 	"popupSettingsPersonalDateFormat": "Datumnotatie",
 	"popupSettingsPersonalSectionLanguage": "Taal & grammatica",
 	"popupSettingsPersonalSectionEditor": "Personaliserings bewerker",
+	"popupSettingsPersonalSectionChat": "Chat",
+	"popupSettingsPersonalChatSend": "Send message with",
 	"popupSettingsPersonalSectionApp": "App uiterlijk",
 	"popupSettingsPersonalSectionDateTime": "Datum & tijd",
 	"popupSettingsPersonalTimeFormat": "Tijdnotatie",
