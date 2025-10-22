@@ -748,6 +748,8 @@
 	"popupSettingsPersonalDateFormat": "Datoformat",
 	"popupSettingsPersonalSectionLanguage": "Sprog og Stavning",
 	"popupSettingsPersonalSectionEditor": "Editor-tilpasning",
+	"popupSettingsPersonalSectionChat": "Chat",
+	"popupSettingsPersonalChatSend": "Send message with",
 	"popupSettingsPersonalSectionApp": "App-udseende",
 	"popupSettingsPersonalSectionDateTime": "Dato og tid",
 	"popupSettingsPersonalTimeFormat": "Tidsformat",
