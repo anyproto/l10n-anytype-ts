@@ -748,6 +748,8 @@
 	"popupSettingsPersonalDateFormat": "Format tanggal",
 	"popupSettingsPersonalSectionLanguage": "Bahasa dan Ejaan",
 	"popupSettingsPersonalSectionEditor": "Personalisasi Editor",
+	"popupSettingsPersonalSectionChat": "Obrolan",
+	"popupSettingsPersonalChatSend": "Send message with",
 	"popupSettingsPersonalSectionApp": "Tampilan Aplikasi",
 	"popupSettingsPersonalSectionDateTime": "Tanggal dan Waktu",
 	"popupSettingsPersonalTimeFormat": "Format waktu",

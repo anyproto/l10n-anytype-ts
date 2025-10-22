@@ -748,6 +748,8 @@
 	"popupSettingsPersonalDateFormat": "Định dạng ngày tháng",
 	"popupSettingsPersonalSectionLanguage": "Ngôn ngữ & Chính tả",
 	"popupSettingsPersonalSectionEditor": "Cá nhân hoá trình soạn thảo",
+	"popupSettingsPersonalSectionChat": "Trò chuyện",
+	"popupSettingsPersonalChatSend": "Send message with",
 	"popupSettingsPersonalSectionApp": "Diện mạo ứng dụng",
 	"popupSettingsPersonalSectionDateTime": "Ngày & Giờ",
 	"popupSettingsPersonalTimeFormat": "Định dạng giờ",

@@ -748,6 +748,8 @@
 	"popupSettingsPersonalDateFormat": "Фармат даты",
 	"popupSettingsPersonalSectionLanguage": "Мова & Правапіс",
 	"popupSettingsPersonalSectionEditor": "Персаналізацыя рэдактара",
+	"popupSettingsPersonalSectionChat": "Чат",
+	"popupSettingsPersonalChatSend": "Send message with",
 	"popupSettingsPersonalSectionApp": "Знешні выгляд праграмы",
 	"popupSettingsPersonalSectionDateTime": "Date & Time",
 	"popupSettingsPersonalTimeFormat": "Фармат часу",

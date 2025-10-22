@@ -748,6 +748,8 @@
 	"popupSettingsPersonalDateFormat": "Format des Datums",
 	"popupSettingsPersonalSectionLanguage": "Sprache & Rechtschreibung",
 	"popupSettingsPersonalSectionEditor": "Editor-Personalisierung",
+	"popupSettingsPersonalSectionChat": "Chat",
+	"popupSettingsPersonalChatSend": "Send message with",
 	"popupSettingsPersonalSectionApp": "App-Erscheinungsbild",
 	"popupSettingsPersonalSectionDateTime": "Datum & Uhrzeit",
 	"popupSettingsPersonalTimeFormat": "Format der Zeit",

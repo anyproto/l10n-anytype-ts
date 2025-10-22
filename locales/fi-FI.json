@@ -748,6 +748,8 @@
 	"popupSettingsPersonalDateFormat": "Päivämäärän muoto",
 	"popupSettingsPersonalSectionLanguage": "Kieli & oikeinkirjoitus",
 	"popupSettingsPersonalSectionEditor": "Editor Personalisation",
+	"popupSettingsPersonalSectionChat": "Keskustelu",
+	"popupSettingsPersonalChatSend": "Send message with",
 	"popupSettingsPersonalSectionApp": "Aplikaation ulkoasu",
 	"popupSettingsPersonalSectionDateTime": "Päivämäärä & aika",
 	"popupSettingsPersonalTimeFormat": "Aikamuoto",

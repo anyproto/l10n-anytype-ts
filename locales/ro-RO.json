@@ -748,6 +748,8 @@
 	"popupSettingsPersonalDateFormat": "Formatul datei",
 	"popupSettingsPersonalSectionLanguage": "Limbă & ortografiere",
 	"popupSettingsPersonalSectionEditor": "Personalizare editor",
+	"popupSettingsPersonalSectionChat": "Chat",
+	"popupSettingsPersonalChatSend": "Send message with",
 	"popupSettingsPersonalSectionApp": "Aspect aplicație",
 	"popupSettingsPersonalSectionDateTime": "Date & Time",
 	"popupSettingsPersonalTimeFormat": "Format oră",
