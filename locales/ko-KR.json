@@ -1897,7 +1897,7 @@
 	"deletedBanner": "이 오브젝트는 휴지통에 있으며 읽기만 가능합니다.",
 	"deletedBannerRestore": "복원",
 	"selectTemplateBanner": "이 유형에는 템플릿이 존재함",
-	"selectTemplateBannerWithNumber": "이 유형은 %s개의 %s가 있음",
+	"selectTemplateBannerWithNumber": "이 유형은 %s개의 %s(이)가 있음",
 	"onboardingMainGraph": "시작하기",
 	"onboardingMainGraph11": "<b>스페이스는 본질적으로 그래프<\/b>이며 Anytype은 모든 것을 각자의 관계가 있는 오브젝트로 표현할 수 있는, 마치 현실 세계와 같은 자연스러운 사고 방식을 제공하는 것을 목표로 합니다.",
 	"onboardingMainObject": "설명이 이제 모든 오브젝트에 존재합니다.<br\/>원하면 언제든지 숨기거나 보일 수 있습니다.",
