@@ -1391,7 +1391,7 @@
 	"popupPhraseSubTitle3": "Only you responsible for it",
 	"popupPhraseLabel3": "All computational resources on Earth are not enough to break in. If you lose your key, it cannot be recovered. Store it somewhere safe — in a password manager or written down on paper.",
 	"popupUsecaseAuthor": "Gjord av @%s",
-	"popupUsecaseAuthorShort": "By @%s",
+	"popupUsecaseAuthorShort": "Av @%s",
 	"popupUsecaseUpdated": "Updated: %s",
 	"popupUsecaseInstall": "Installera",
 	"popupUsecaseMenuLabel": "Install experience to",
