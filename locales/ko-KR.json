@@ -1812,7 +1812,7 @@
 	"widget3Description": "컴팩트 목록 보기 위젯",
 	"widget4Name": "보기",
 	"widget4Description": "오브젝트 보기와 같음",
-	"widgetSectionUnread": "읽지 않음",
+	"widgetSectionUnread": "Unread",
 	"widgetSectionPinned": "고정됨",
 	"widgetSectionType": "오브젝트",
 	"widgetSectionNewType": "새 유형",

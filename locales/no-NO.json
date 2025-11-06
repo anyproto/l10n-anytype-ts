@@ -1812,7 +1812,7 @@
 	"widget3Description": "Widget med kompakt listevisning",
 	"widget4Name": "Visning",
 	"widget4Description": "Same as in object view",
-	"widgetSectionUnread": "Unreads",
+	"widgetSectionUnread": "Unread",
 	"widgetSectionPinned": "Pinned",
 	"widgetSectionType": "Objekter",
 	"widgetSectionNewType": "Ny type",
