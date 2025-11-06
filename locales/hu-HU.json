@@ -1812,7 +1812,7 @@
 	"widget3Description": "Widget with a compact list view",
 	"widget4Name": "View",
 	"widget4Description": "Same as in object view",
-	"widgetSectionUnread": "Unreads",
+	"widgetSectionUnread": "Unread",
 	"widgetSectionPinned": "Pinned",
 	"widgetSectionType": "Objektumok",
 	"widgetSectionNewType": "New Type",
