@@ -1812,7 +1812,7 @@
 	"widget3Description": "Виджет с компактным списком",
 	"widget4Name": "Вид",
 	"widget4Description": "То же, что и в объекте",
-	"widgetSectionUnread": "Unreads",
+	"widgetSectionUnread": "Unread",
 	"widgetSectionPinned": "Закреплённые",
 	"widgetSectionType": "Объекты",
 	"widgetSectionNewType": "Новый тип",
