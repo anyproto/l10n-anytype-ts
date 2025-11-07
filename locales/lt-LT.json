@@ -831,7 +831,7 @@
 	"popupSettingsSpaceIndexShareMembersViewText": "Žiūrėti erdvės narius",
 	"popupSettingsSpaceIndexCollaborationTitle": "Bendradarbiavimas",
 	"popupSettingsSpaceIndexManageSpaceTitle": "Space Preferences",
-	"popupSettingsSpaceIndexStorageText": "You can store your files on our encrypted backup node. If you reach the limit, files will be stoped syncing and be stored only locally.",
+	"popupSettingsSpaceIndexStorageText": "You can store your files on our encrypted backup node. Once you reach your limit, files will stop syncing and will only be stored locally.",
 	"popupSettingsSpaceIndexStorageManageFiles": "Tvarkyti failus",
 	"popupSettingsSpaceIndexHomepageDescription": "Pasirink Objektą, kurį nori rodyti prisijungimo metu",
 	"popupSettingsSpaceIndexImport": "Importuoti į Erdvę",

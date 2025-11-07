@@ -831,7 +831,7 @@
 	"popupSettingsSpaceIndexShareMembersViewText": "查看空间成员",
 	"popupSettingsSpaceIndexCollaborationTitle": "协作",
 	"popupSettingsSpaceIndexManageSpaceTitle": "Space Preferences",
-	"popupSettingsSpaceIndexStorageText": "You can store your files on our encrypted backup node. If you reach the limit, files will be stoped syncing and be stored only locally.",
+	"popupSettingsSpaceIndexStorageText": "You can store your files on our encrypted backup node. Once you reach your limit, files will stop syncing and will only be stored locally.",
 	"popupSettingsSpaceIndexStorageManageFiles": "管理文件",
 	"popupSettingsSpaceIndexHomepageDescription": "选择登录时要显示的对象",
 	"popupSettingsSpaceIndexImport": "导入到空间",

@@ -831,7 +831,7 @@
 	"popupSettingsSpaceIndexShareMembersViewText": "Vegeu els membres de l'espai",
 	"popupSettingsSpaceIndexCollaborationTitle": "Col·laboració",
 	"popupSettingsSpaceIndexManageSpaceTitle": "Space Preferences",
-	"popupSettingsSpaceIndexStorageText": "You can store your files on our encrypted backup node. If you reach the limit, files will be stoped syncing and be stored only locally.",
+	"popupSettingsSpaceIndexStorageText": "You can store your files on our encrypted backup node. Once you reach your limit, files will stop syncing and will only be stored locally.",
 	"popupSettingsSpaceIndexStorageManageFiles": "Gestiona els fitxers",
 	"popupSettingsSpaceIndexHomepageDescription": "Seleccioneu un objecte que es mostri en connectar-vos",
 	"popupSettingsSpaceIndexImport": "Importa a un espai",

@@ -831,7 +831,7 @@
 	"popupSettingsSpaceIndexShareMembersViewText": "Bekijk ruimte leden",
 	"popupSettingsSpaceIndexCollaborationTitle": "Samenwerking",
 	"popupSettingsSpaceIndexManageSpaceTitle": "Ruimte voorkeuren",
-	"popupSettingsSpaceIndexStorageText": "Je kunt jouw bestanden opslaan op onze versleutelde back-up node. Als je de limiet bereikt, zullen bestanden stoppen met synchroniseren en alleen lokaal worden opgeslagen.",
+	"popupSettingsSpaceIndexStorageText": "You can store your files on our encrypted backup node. Once you reach your limit, files will stop syncing and will only be stored locally.",
 	"popupSettingsSpaceIndexStorageManageFiles": "Beheer bestanden",
 	"popupSettingsSpaceIndexHomepageDescription": "Selecteer een object om te tonen wanneer je je aanmeldt",
 	"popupSettingsSpaceIndexImport": "Importeer naar ruimte",

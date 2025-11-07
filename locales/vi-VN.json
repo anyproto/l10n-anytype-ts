@@ -831,7 +831,7 @@
 	"popupSettingsSpaceIndexShareMembersViewText": "Hiện các thành viên không gian",
 	"popupSettingsSpaceIndexCollaborationTitle": "Hợp tác",
 	"popupSettingsSpaceIndexManageSpaceTitle": "Space Preferences",
-	"popupSettingsSpaceIndexStorageText": "You can store your files on our encrypted backup node. If you reach the limit, files will be stoped syncing and be stored only locally.",
+	"popupSettingsSpaceIndexStorageText": "You can store your files on our encrypted backup node. Once you reach your limit, files will stop syncing and will only be stored locally.",
 	"popupSettingsSpaceIndexStorageManageFiles": "Quản lý tập tin",
 	"popupSettingsSpaceIndexHomepageDescription": "Chọn một Đối tượng để hiển thị khi bạn đăng nhập",
 	"popupSettingsSpaceIndexImport": "Nhập dữ liệu vào Không gian",

@@ -831,7 +831,7 @@
 	"popupSettingsSpaceIndexShareMembersViewText": "스페이스 멤버 보기",
 	"popupSettingsSpaceIndexCollaborationTitle": "공동 작업",
 	"popupSettingsSpaceIndexManageSpaceTitle": "스페이스 설정",
-	"popupSettingsSpaceIndexStorageText": "암호화된 백업 노드에 파일을 저장할 수 있습니다. 한도에 도달하면 동기화가 중단되며 로컬에만 저장됩니다.",
+	"popupSettingsSpaceIndexStorageText": "You can store your files on our encrypted backup node. Once you reach your limit, files will stop syncing and will only be stored locally.",
 	"popupSettingsSpaceIndexStorageManageFiles": "파일 관리",
 	"popupSettingsSpaceIndexHomepageDescription": "로그인 시 표시할 오브젝트를 선택하세요.",
 	"popupSettingsSpaceIndexImport": "스페이스 가져오기",
