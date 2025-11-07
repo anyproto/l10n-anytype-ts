@@ -831,7 +831,7 @@
 	"popupSettingsSpaceIndexShareMembersViewText": "Ver miembros del espacio",
 	"popupSettingsSpaceIndexCollaborationTitle": "Colaboración",
 	"popupSettingsSpaceIndexManageSpaceTitle": "Preferencias del espacio",
-	"popupSettingsSpaceIndexStorageText": "Puedes almacenar tus archivos en nuestro nodo de respaldo cifrado. Si llegas al límite, los archivos dejarán de sincronizarse y solo se almacenarán localmente.",
+	"popupSettingsSpaceIndexStorageText": "Puedes almacenar tus archivos en nuestro nodo de respaldo cifrado. Cuando llegues al límite, los archivos dejarán de sincronizarse y solo se almacenarán localmente.",
 	"popupSettingsSpaceIndexStorageManageFiles": "Gestionar archivos",
 	"popupSettingsSpaceIndexHomepageDescription": "Selecciona el objeto que verás cuando inicies sesión",
 	"popupSettingsSpaceIndexImport": "Importar al espacio",
