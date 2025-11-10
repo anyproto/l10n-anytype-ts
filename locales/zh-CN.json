@@ -1816,6 +1816,7 @@
 	"widgetSectionUnread": "Unread",
 	"widgetSectionPinned": "置顶",
 	"widgetSectionType": "对象",
+	"widgetSectionRecentEdit": "最近编辑的文档",
 	"widgetSectionNewType": "新建类型",
 	"widgetFavorite": "Old Pinned",
 	"widgetRecent": "最近编辑的文档",
