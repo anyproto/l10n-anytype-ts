@@ -734,6 +734,7 @@
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Dein Name",
 	"popupSettingsAccountPersonalInformationDescriptionPlaceholder": "Ein paar Worte über dich",
 	"popupSettingsAccountAnytypeIdentityTitle": "Anytype-Identität",
+	"popupSettingsAccountAnyIdTitle": "ANY ID",
 	"popupSettingsAccountDeleteTitle": "Tresor löschen",
 	"popupSettingsEthereumIdentityTitle": "Ethereum-Adresse",
 	"popupSettingsSpaceTitle": "Space",
