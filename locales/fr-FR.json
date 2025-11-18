@@ -734,6 +734,7 @@
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Votre nom",
 	"popupSettingsAccountPersonalInformationDescriptionPlaceholder": "Quelques mots à propos de vous",
 	"popupSettingsAccountAnytypeIdentityTitle": "Identifiant Anytype",
+	"popupSettingsAccountAnyIdTitle": "ID ANY",
 	"popupSettingsAccountDeleteTitle": "Supprimer le coffre-fort",
 	"popupSettingsEthereumIdentityTitle": "Adresse Ethereum",
 	"popupSettingsSpaceTitle": "Espace",
