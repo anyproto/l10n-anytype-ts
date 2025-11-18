@@ -734,6 +734,7 @@
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Ваше ім'я?",
 	"popupSettingsAccountPersonalInformationDescriptionPlaceholder": "Кілька слів про себе",
 	"popupSettingsAccountAnytypeIdentityTitle": "Ідентичність AnyType",
+	"popupSettingsAccountAnyIdTitle": "ANY ID",
 	"popupSettingsAccountDeleteTitle": "Видалити сховище",
 	"popupSettingsEthereumIdentityTitle": "Адреса Ethereum",
 	"popupSettingsSpaceTitle": "Простір",
