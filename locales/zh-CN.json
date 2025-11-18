@@ -734,6 +734,7 @@
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "你的名字",
 	"popupSettingsAccountPersonalInformationDescriptionPlaceholder": "简短的自我介绍",
 	"popupSettingsAccountAnytypeIdentityTitle": "Anytype 身份标识",
+	"popupSettingsAccountAnyIdTitle": "ANY ID",
 	"popupSettingsAccountDeleteTitle": "删除库",
 	"popupSettingsEthereumIdentityTitle": "以太坊地址",
 	"popupSettingsSpaceTitle": "空间",

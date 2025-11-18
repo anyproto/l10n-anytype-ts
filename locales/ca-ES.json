@@ -734,6 +734,7 @@
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "El teu nom",
 	"popupSettingsAccountPersonalInformationDescriptionPlaceholder": "Unes paraules sobre tu mateix",
 	"popupSettingsAccountAnytypeIdentityTitle": "Identitat Anytype",
+	"popupSettingsAccountAnyIdTitle": "ANY ID",
 	"popupSettingsAccountDeleteTitle": "Delete Vault",
 	"popupSettingsEthereumIdentityTitle": "Ethereum Address",
 	"popupSettingsSpaceTitle": "Espai",

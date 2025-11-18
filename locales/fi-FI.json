@@ -734,6 +734,7 @@
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Nimesi",
 	"popupSettingsAccountPersonalInformationDescriptionPlaceholder": "Muutama sana itsestäsi",
 	"popupSettingsAccountAnytypeIdentityTitle": "Anytype identiteetti",
+	"popupSettingsAccountAnyIdTitle": "ANY ID",
 	"popupSettingsAccountDeleteTitle": "Poista holvi",
 	"popupSettingsEthereumIdentityTitle": "Ethereum-osoite",
 	"popupSettingsSpaceTitle": "Tila",

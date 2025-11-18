@@ -734,6 +734,7 @@
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Vaše jméno",
 	"popupSettingsAccountPersonalInformationDescriptionPlaceholder": "A few words about yourself",
 	"popupSettingsAccountAnytypeIdentityTitle": "Anytype Identity",
+	"popupSettingsAccountAnyIdTitle": "ANY ID",
 	"popupSettingsAccountDeleteTitle": "Smazat trezor",
 	"popupSettingsEthereumIdentityTitle": "Ethereum Address",
 	"popupSettingsSpaceTitle": "Prostor",
