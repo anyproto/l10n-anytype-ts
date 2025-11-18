@@ -734,6 +734,7 @@
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "İsminiz",
 	"popupSettingsAccountPersonalInformationDescriptionPlaceholder": "Hakkınızda birkaç cümle",
 	"popupSettingsAccountAnytypeIdentityTitle": "Anytype kimliği",
+	"popupSettingsAccountAnyIdTitle": "ANY ID",
 	"popupSettingsAccountDeleteTitle": "Kasayı sil",
 	"popupSettingsEthereumIdentityTitle": "Ethereum Adresi",
 	"popupSettingsSpaceTitle": "Alan",
