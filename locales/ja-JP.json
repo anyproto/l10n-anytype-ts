@@ -1151,7 +1151,7 @@
 	"popupConfirmDeleteTypeTitle": "このタイプを削除してもよろしいですか？",
 	"popupConfirmDeleteTypeText": "このタイプのオブジェクト自体は削除されません。ただし、オブジェクト間のリンクが解除されます。",
 	"popupConfirmStopSharingSpaceWarningTitle": "スペースを非公開にしてもよろしいですか？",
-	"popupConfirmStopSharingSpaceWarningText": "現在の招待リンクが無効化され、参加できなくなります。<br\/>再度、共有を有効化すると新しいリンクが作成されます。",
+	"popupConfirmStopSharingSpaceWarningText": "Making this space private will disable the current invite link, so it can no longer be used to join. When you re-enable sharing, a new link will be generated.",
 	"popupConfirmSystemWidgetRemoveTitle": "このウィジェットは元に戻せません",
 	"popupConfirmSystemWidgetRemoveText": "このウィジェットは、仕様変更によりサポートが終了しています。削除した場合、元に戻すことはできないためご注意ください。",
 	"popupConfirmSystemWidgetRemoveFavoriteTitle": "ピン留めが新しくなりました",

@@ -1151,7 +1151,7 @@
 	"popupConfirmDeleteTypeTitle": "刪除物件類型?",
 	"popupConfirmDeleteTypeText": "確定要刪除這個類型嗎？所有屬於此類型的現有物件都會保留，但將不再與它關聯。",
 	"popupConfirmStopSharingSpaceWarningTitle": "Make this space private?",
-	"popupConfirmStopSharingSpaceWarningText": "Making this space private will disable the current invite link, so it can no longer be used to join.<br\/>When you re-enable sharing, a new link will be generated.",
+	"popupConfirmStopSharingSpaceWarningText": "Making this space private will disable the current invite link, so it can no longer be used to join. When you re-enable sharing, a new link will be generated.",
 	"popupConfirmSystemWidgetRemoveTitle": "此小工具無法復原",
 	"popupConfirmSystemWidgetRemoveText": "We've redesigned how widgets work, and this widget is no longer supported. Once deleted, this widget cannot be restored.",
 	"popupConfirmSystemWidgetRemoveFavoriteTitle": "釘選項目已移動",

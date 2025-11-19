@@ -1151,7 +1151,7 @@
 	"popupConfirmDeleteTypeTitle": "¿Eliminar tipo de objeto?",
 	"popupConfirmDeleteTypeText": "¿Seguro que quieres eliminar este tipo? Se conservarán todos los objetos del tipo, pero dejarán de estar asociados a él.",
 	"popupConfirmStopSharingSpaceWarningTitle": "¿Hacer privado este espacio?",
-	"popupConfirmStopSharingSpaceWarningText": "Si haces privado este espacio, se desactivará el enlace de invitación y ya no se podrá utilizar para acceder al espacio.<br\/>Cuando vuelvas a compartirlo, se generará un enlace nuevo. ",
+	"popupConfirmStopSharingSpaceWarningText": "Making this space private will disable the current invite link, so it can no longer be used to join. When you re-enable sharing, a new link will be generated.",
 	"popupConfirmSystemWidgetRemoveTitle": "Este widget no se podrá restaurar",
 	"popupConfirmSystemWidgetRemoveText": "Hemos rediseñado el funcionamiento de los widgets y este widget ya no es compatible. Una vez eliminado, este widget no se puede restaurar.",
 	"popupConfirmSystemWidgetRemoveFavoriteTitle": "Los objetos anclados se han movido",

@@ -1151,7 +1151,7 @@
 	"popupConfirmDeleteTypeTitle": "Verwijder objecttype?",
 	"popupConfirmDeleteTypeText": "Weet je zeker dat je dit type wilt verwijderen? Alle bestaande objecten van dit type worden behouden, maar worden er niet langer mee geassocieerd.",
 	"popupConfirmStopSharingSpaceWarningTitle": "Make this space private?",
-	"popupConfirmStopSharingSpaceWarningText": "Making this space private will disable the current invite link, so it can no longer be used to join.<br\/>When you re-enable sharing, a new link will be generated.",
+	"popupConfirmStopSharingSpaceWarningText": "Making this space private will disable the current invite link, so it can no longer be used to join. When you re-enable sharing, a new link will be generated.",
 	"popupConfirmSystemWidgetRemoveTitle": "Deze widget kan niet worden hersteld",
 	"popupConfirmSystemWidgetRemoveText": "We've redesigned how widgets work, and this widget is no longer supported. Once deleted, this widget cannot be restored.",
 	"popupConfirmSystemWidgetRemoveFavoriteTitle": "Spelden zijn verplaatst",
