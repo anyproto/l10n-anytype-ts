@@ -1151,7 +1151,7 @@
 	"popupConfirmDeleteTypeTitle": "Apagar tipo do objeto?",
 	"popupConfirmDeleteTypeText": "Tem certeza de que deseja apagar este Tipo? Todos os objetos existentes deste tipo serão preservados, mas não serão mais associados a ele.",
 	"popupConfirmStopSharingSpaceWarningTitle": "Tornar este espaço privado?",
-	"popupConfirmStopSharingSpaceWarningText": "Tornar este espaço privado desativará o link do convite atual para que ele não possa mais ser usado para entrar.<br\/>Quando você reativar o compartilhamento, um novo link será gerado.",
+	"popupConfirmStopSharingSpaceWarningText": "Making this space private will disable the current invite link, so it can no longer be used to join. When you re-enable sharing, a new link will be generated.",
 	"popupConfirmSystemWidgetRemoveTitle": "Este widget não pode ser restaurado",
 	"popupConfirmSystemWidgetRemoveText": "Redesenhamos o funcionamento dos widgets e este widget não é mais suportado. Uma vez excluído, este widget não pode ser restaurado.",
 	"popupConfirmSystemWidgetRemoveFavoriteTitle": "Os pins foram movidos",
