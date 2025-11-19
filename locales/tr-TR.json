@@ -1151,7 +1151,7 @@
 	"popupConfirmDeleteTypeTitle": "Nesne Türü Silinsin mi?",
 	"popupConfirmDeleteTypeText": "Bu Türü silmek istediğinizden emin misiniz? Bu Türdeki mevcut tüm nesneler korunacak, ancak artık onunla ilişkilendirilmeyecekler.",
 	"popupConfirmStopSharingSpaceWarningTitle": "Bu alanı özel hale getirmek ister misin?",
-	"popupConfirmStopSharingSpaceWarningText": "Bu alanı özel hale getirmek mevcut davet bağlantısını devre dışı bırakacak ve artık katılım için kullanılamayacak. <br\/>Paylaşımı yeniden etkinleştirdiğinde yeni bir bağlantı oluşturulacaktır.",
+	"popupConfirmStopSharingSpaceWarningText": "Making this space private will disable the current invite link, so it can no longer be used to join. When you re-enable sharing, a new link will be generated.",
 	"popupConfirmSystemWidgetRemoveTitle": "Bu Widget Geri Yüklenemez",
 	"popupConfirmSystemWidgetRemoveText": "Bu widget artık desteklenmiyor çünkü widget'ların çalışma şeklini yeniden tasarladık. Silindikten sonra bu widget geri yüklenemez.",
 	"popupConfirmSystemWidgetRemoveFavoriteTitle": "Pinler Taşındı",
