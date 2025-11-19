@@ -1151,7 +1151,7 @@
 	"popupConfirmDeleteTypeTitle": "오브젝트 유형 삭제?",
 	"popupConfirmDeleteTypeText": "정말 이 유형을 삭제할까요? 모든 오브젝트는 유지되지만, 이 유형과의 연결이 해제됩니다.",
 	"popupConfirmStopSharingSpaceWarningTitle": "Make this space private?",
-	"popupConfirmStopSharingSpaceWarningText": "Making this space private will disable the current invite link, so it can no longer be used to join.<br\/>When you re-enable sharing, a new link will be generated.",
+	"popupConfirmStopSharingSpaceWarningText": "Making this space private will disable the current invite link, so it can no longer be used to join. When you re-enable sharing, a new link will be generated.",
 	"popupConfirmSystemWidgetRemoveTitle": "이 위젯은 복구할 수 없음",
 	"popupConfirmSystemWidgetRemoveText": "We've redesigned how widgets work, and this widget is no longer supported. Once deleted, this widget cannot be restored.",
 	"popupConfirmSystemWidgetRemoveFavoriteTitle": "고정된 항목이 이동됨",
