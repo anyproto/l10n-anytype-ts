@@ -1151,7 +1151,7 @@
 	"popupConfirmDeleteTypeTitle": "Удалить тип объекта?",
 	"popupConfirmDeleteTypeText": "Вы уверены, что хотите удалить этот тип? Все существующие объекты этого типа будут сохранены, но больше не будут связаны с ним.",
 	"popupConfirmStopSharingSpaceWarningTitle": "Сделать это пространство приватным?",
-	"popupConfirmStopSharingSpaceWarningText": "Making this space private will disable the current invite link, so it can no longer be used to join. When you re-enable sharing, a new link will be generated.",
+	"popupConfirmStopSharingSpaceWarningText": "Если сделать это пространство приватным, текущая ссылка приглашения будет отключена, поэтому её больше нельзя будет использовать для присоединения. Когда вы снова включите общий доступ, будет сгенерирована новая ссылка.",
 	"popupConfirmSystemWidgetRemoveTitle": "Этот виджет не может быть восстановлен",
 	"popupConfirmSystemWidgetRemoveText": "Мы изменили работу виджетов и этот виджет больше не поддерживается. После удаления этот виджет не может быть восстановлен.",
 	"popupConfirmSystemWidgetRemoveFavoriteTitle": "Закреплённые элементы перемещены",
