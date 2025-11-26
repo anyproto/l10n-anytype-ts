@@ -718,6 +718,7 @@
 	"blockChatFormReadonly": "Jedynie edytorzy mogą wysyłać wiadomości. Skontaktuj się z właścicielem, aby poprosić o dostęp.",
 	"blockChatCopyText": "Kopiuj tekst",
 	"blockChatMarkAsUnread": "Oznacz jako nieprzeczytaną",
+	"blockMediaFileStateError": "This media cannot be synced now. Try again later.",
 	"popupSettingsTitle": "Ustawienia",
 	"popupSettingsAccountPersonalInformationTitle": "Informacje osobiste",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Twoje imię",
