@@ -718,6 +718,7 @@
 	"blockChatFormReadonly": "Only editors can send messages. Contact the owner to request access.",
 	"blockChatCopyText": "Copy text",
 	"blockChatMarkAsUnread": "Mark as unread",
+	"blockMediaFileStateError": "This media cannot be synced now. Try again later.",
 	"popupSettingsTitle": "Ρυθμίσεις",
 	"popupSettingsAccountPersonalInformationTitle": "Personal information",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Your name",
