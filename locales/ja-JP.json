@@ -718,7 +718,7 @@
 	"blockChatFormReadonly": "メッセージを送信できるのは、編集メンバーのみです。チャットするには、スペース所有者にお尋ねください。",
 	"blockChatCopyText": "テキストをコピー",
 	"blockChatMarkAsUnread": "未読にする",
-	"blockMediaFileStateError": "This media cannot be synced now. Try again later.",
+	"blockMediaFileStateError": "このメディアを同期できません。あとでもう一度お試しください。",
 	"popupSettingsTitle": "設定",
 	"popupSettingsAccountPersonalInformationTitle": "プロフィール",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "名前",
