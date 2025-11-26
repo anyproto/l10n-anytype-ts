@@ -718,6 +718,7 @@
 	"blockChatFormReadonly": "Alleen bewerkers kunnen berichten verzenden. Contacteer de eigenaar om toegang te krijgen.",
 	"blockChatCopyText": "Kopieer tekst",
 	"blockChatMarkAsUnread": "Markeer als ongelezen",
+	"blockMediaFileStateError": "This media cannot be synced now. Try again later.",
 	"popupSettingsTitle": "Instellingen",
 	"popupSettingsAccountPersonalInformationTitle": "Persoonlijke gegevens",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Jouw naam",
