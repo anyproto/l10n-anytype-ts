@@ -718,6 +718,7 @@
 	"blockChatFormReadonly": "Hanya penyunting yang dapat mengirim pesan. Hubungi pemilik ruang untuk meminta akses.",
 	"blockChatCopyText": "Salin teks",
 	"blockChatMarkAsUnread": "Tandai belum dibaca",
+	"blockMediaFileStateError": "This media cannot be synced now. Try again later.",
 	"popupSettingsTitle": "Setelan",
 	"popupSettingsAccountPersonalInformationTitle": "Informasi pribadi",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Nama anda",
