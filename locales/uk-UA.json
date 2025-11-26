@@ -718,6 +718,7 @@
 	"blockChatFormReadonly": "Лише редактори можуть надсилати повідомлення. Зверніться до власника, щоб отримати доступ.",
 	"blockChatCopyText": "Скопіювати текст",
 	"blockChatMarkAsUnread": "Позначити як непрочитане",
+	"blockMediaFileStateError": "This media cannot be synced now. Try again later.",
 	"popupSettingsTitle": "Налаштування",
 	"popupSettingsAccountPersonalInformationTitle": "Особиста інформація",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Ваше ім'я?",

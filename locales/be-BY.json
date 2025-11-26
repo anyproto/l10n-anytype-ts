@@ -718,6 +718,7 @@
 	"blockChatFormReadonly": "Толькі рэдактары могуць адпраўляць паведамленні. Звяжыцеся з уладальнікам, каб запытаць доступ.",
 	"blockChatCopyText": "Copy text",
 	"blockChatMarkAsUnread": "Mark as unread",
+	"blockMediaFileStateError": "This media cannot be synced now. Try again later.",
 	"popupSettingsTitle": "Налады",
 	"popupSettingsAccountPersonalInformationTitle": "Асабістая інфармацыя",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Ваша імя",

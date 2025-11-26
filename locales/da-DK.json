@@ -718,6 +718,7 @@
 	"blockChatFormReadonly": "Kun redaktører kan sende beskeder. Kontakt ejeren for at anmode om adgang.",
 	"blockChatCopyText": "Copy text",
 	"blockChatMarkAsUnread": "Mark as unread",
+	"blockMediaFileStateError": "This media cannot be synced now. Try again later.",
 	"popupSettingsTitle": "Indstillinger",
 	"popupSettingsAccountPersonalInformationTitle": "Personlig information",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Navn",

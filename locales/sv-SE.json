@@ -718,6 +718,7 @@
 	"blockChatFormReadonly": "Endast redaktörer kan skicka meddelanden. Kontakta ägaren för att begära åtkomst.",
 	"blockChatCopyText": "Kopiera text",
 	"blockChatMarkAsUnread": "Markera som oläst",
+	"blockMediaFileStateError": "This media cannot be synced now. Try again later.",
 	"popupSettingsTitle": "Inställningar",
 	"popupSettingsAccountPersonalInformationTitle": "Personuppgifter",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "Ditt namn",

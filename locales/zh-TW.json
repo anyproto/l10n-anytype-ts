@@ -718,6 +718,7 @@
 	"blockChatFormReadonly": "需要編輯權限才可以傳送訊息。請聯絡空間擁有者要求存取權限。",
 	"blockChatCopyText": "複製文字",
 	"blockChatMarkAsUnread": "標記為未讀",
+	"blockMediaFileStateError": "This media cannot be synced now. Try again later.",
 	"popupSettingsTitle": "設置",
 	"popupSettingsAccountPersonalInformationTitle": "個人資訊",
 	"popupSettingsAccountPersonalInformationNamePlaceholder": "您的名字",
