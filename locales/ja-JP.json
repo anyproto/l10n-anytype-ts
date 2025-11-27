@@ -1667,6 +1667,8 @@
 	"menuSpaceContextSpaceSettings": "チャンネル設定",
 	"menuSpaceContextCopyInviteLink": "招待リンクをコピー",
 	"menuSpaceContextShowQRCode": "QRコードを表示",
+	"menuParticipantConnect": "Connect",
+	"menuParticipantMessage": "Message",
 	"previewEdit": "リンクを編集",
 	"previewObjectTemplateIsBundled": "テンプレートはバンドルされています",
 	"filterConditionNone": "すべて",
