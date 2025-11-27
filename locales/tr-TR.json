@@ -1667,6 +1667,8 @@
 	"menuSpaceContextSpaceSettings": "Kanal ayarları",
 	"menuSpaceContextCopyInviteLink": "Davet Bağlantısını Kopyala",
 	"menuSpaceContextShowQRCode": "Karekodu göster",
+	"menuParticipantConnect": "Connect",
+	"menuParticipantMessage": "Message",
 	"previewEdit": "Bağlantı düzenle",
 	"previewObjectTemplateIsBundled": "Şablon dahil edildi",
 	"filterConditionNone": "Hepsi",
