@@ -1667,6 +1667,8 @@
 	"menuSpaceContextSpaceSettings": "Channel settings",
 	"menuSpaceContextCopyInviteLink": "Copy Invite Link",
 	"menuSpaceContextShowQRCode": "QR-Code anzeigen",
+	"menuParticipantConnect": "Connect",
+	"menuParticipantMessage": "Message",
 	"previewEdit": "Link bearbeiten",
 	"previewObjectTemplateIsBundled": "Vorlage ist gebündelt",
 	"filterConditionNone": "Alle",
