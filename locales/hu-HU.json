@@ -1667,6 +1667,8 @@
 	"menuSpaceContextSpaceSettings": "Channel settings",
 	"menuSpaceContextCopyInviteLink": "Copy Invite Link",
 	"menuSpaceContextShowQRCode": "Show QR Code",
+	"menuParticipantConnect": "Connect",
+	"menuParticipantMessage": "Message",
 	"previewEdit": "Szerkesztés",
 	"previewObjectTemplateIsBundled": "Template is bundled",
 	"filterConditionNone": "Összes",
