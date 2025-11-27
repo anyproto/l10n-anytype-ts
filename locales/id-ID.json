@@ -1667,6 +1667,8 @@
 	"menuSpaceContextSpaceSettings": "Pengaturan kanal",
 	"menuSpaceContextCopyInviteLink": "Salin Tautan Undangan",
 	"menuSpaceContextShowQRCode": "Tampilkan Kode QR",
+	"menuParticipantConnect": "Connect",
+	"menuParticipantMessage": "Message",
 	"previewEdit": "Edit Tautan",
 	"previewObjectTemplateIsBundled": "Templat dipaketkan",
 	"filterConditionNone": "Semua",
