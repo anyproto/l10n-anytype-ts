@@ -499,7 +499,7 @@
 	"pageAuthLoginShortPhrase": "密钥太短了",
 	"pageAuthDeletedAccountDeletionTitle": "此库计划于 %s 后删除",
 	"pageAuthOnboardCopyKey": "复制密钥",
-	"pageAuthSetupImportTitle": "We couldn't recover your vault.",
+	"pageAuthSetupImportTitle": "我们无法恢复您的资料库。",
 	"pageAuthSetupImportText": "Double-check your recovery phrase — extra spaces or typos can break it.",
 	"pageAuthSetupImportBackup": "导入备份",
 	"pageAuthSetupTryAgain": "重试",
