@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "अनलॉक किया गया है",
 	"toastMovedTo": "%s में चले गए",
 	"toastMovedToBin": "%s moved to Bin",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s से चला गया",
 	"toastAddedToCollection": "has been added to Collection",
 	"toastLinkedTo": "से जुड़ा हुआ है",

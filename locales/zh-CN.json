@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "已解锁",
 	"toastMovedTo": "%s 移动到",
 	"toastMovedToBin": "%s 移动到回收站",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s 已从中移动",
 	"toastAddedToCollection": "已添加到集锦",
 	"toastLinkedTo": "已连接到",

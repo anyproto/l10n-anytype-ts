@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "està desbloquejat",
 	"toastMovedTo": "%s moved to",
 	"toastMovedToBin": "s'ha mogut %s a la paperera",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "s'ha mogut %s de",
 	"toastAddedToCollection": "s'ha afegit a la col·lecció",
 	"toastLinkedTo": "s'ha enllaçat a",

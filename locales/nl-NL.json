@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "is ontgrendeld",
 	"toastMovedTo": "%s verplaatst naar",
 	"toastMovedToBin": "%s verplaatst naar de prullenmand",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s verplaatst van",
 	"toastAddedToCollection": "is toegevoegd aan de collectie",
 	"toastLinkedTo": "is gekoppeld aan",

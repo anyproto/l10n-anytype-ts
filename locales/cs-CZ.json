@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "je odemčen",
 	"toastMovedTo": "%s byl přesunut do",
 	"toastMovedToBin": "%s byl přesunout  do koše",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s byl přesunut z",
 	"toastAddedToCollection": "byl přidán do kolekce",
 	"toastLinkedTo": "byl připojen k",

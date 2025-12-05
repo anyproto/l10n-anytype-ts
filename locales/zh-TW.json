@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "已解鎖",
 	"toastMovedTo": "%s 移動到",
 	"toastMovedToBin": "已將 %s丟進垃圾桶",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s 已從中移動",
 	"toastAddedToCollection": "已新增到集錦",
 	"toastLinkedTo": "已連接到",

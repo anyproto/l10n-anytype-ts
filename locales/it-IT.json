@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "è sbloccato",
 	"toastMovedTo": "%s spostato",
 	"toastMovedToBin": "%s spostato nel cestino",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s spostato da",
 	"toastAddedToCollection": "è stato aggiungo alla Collezione",
 	"toastLinkedTo": "è stato collegato a",

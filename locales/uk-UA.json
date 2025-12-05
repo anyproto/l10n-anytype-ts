@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "розблоковано",
 	"toastMovedTo": "%s переміщено до",
 	"toastMovedToBin": "%s переміщено до Кошика",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s переміщено з",
 	"toastAddedToCollection": "додано до Колекції",
 	"toastLinkedTo": "було пов'язано з",
