@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "잠금 해제됨",
 	"toastMovedTo": "%s(이)가 다음으로 이동함",
 	"toastMovedToBin": "%s(이)가 휴지통으로 이동됨",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s(이)가 다음으로부터 이동됨",
 	"toastAddedToCollection": "컬렉션에 추가됨",
 	"toastLinkedTo": "다음에 링크됨",
