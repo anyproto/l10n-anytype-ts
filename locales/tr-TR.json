@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "kilidi açıldı",
 	"toastMovedTo": "%s şuraya taşındı:",
 	"toastMovedToBin": "%s çöp kutusuna taşındı",
+	"toastMovedFromBin": "%s geri yüklendi",
 	"toastMovedFrom": "%s şuradan taşındı:",
 	"toastAddedToCollection": "koleksiyona eklendi",
 	"toastLinkedTo": "şuraya bağlandı:",
