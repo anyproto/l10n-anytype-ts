@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "está desbloqueado",
 	"toastMovedTo": "%s moveuse a",
 	"toastMovedToBin": "%s enviado á papeleira",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s moveuse dende",
 	"toastAddedToCollection": "has been added to Collection",
 	"toastLinkedTo": "foi ligado a",
