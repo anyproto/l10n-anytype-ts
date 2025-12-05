@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "разблакіраваны",
 	"toastMovedTo": "%s перамешчаны ў",
 	"toastMovedToBin": "%s перамешчаны ў сметніцу",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s перамешчаны з",
 	"toastAddedToCollection": "дададзены ў Калекцыю",
 	"toastLinkedTo": "быў звязаны з",
