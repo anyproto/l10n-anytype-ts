@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "Tidak terkunci",
 	"toastMovedTo": "%s dipindahkan ke",
 	"toastMovedToBin": "%s dipindahkan ke Bak Sampah",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s dipindahkan dari",
 	"toastAddedToCollection": "telah ditambahkan ke Koleksi",
 	"toastLinkedTo": "telah ditautkan ke",
