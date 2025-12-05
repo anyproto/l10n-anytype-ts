@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "este deblocat",
 	"toastMovedTo": "%s mutat la",
 	"toastMovedToBin": "%s a fost mutat pe coș",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s mutat din",
 	"toastAddedToCollection": "a fost adăugat la colecție",
 	"toastLinkedTo": "a fost asociat cu",
