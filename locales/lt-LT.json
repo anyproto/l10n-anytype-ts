@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "yra atrakintas",
 	"toastMovedTo": "%s perkeltas į",
 	"toastMovedToBin": "%s perkeltas į šiukšlinę",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s perkeltas iš",
 	"toastAddedToCollection": "buvo pridėtas prie Kolekcijos",
 	"toastLinkedTo": "buvo susietas su",
