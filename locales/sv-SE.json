@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "är olåst",
 	"toastMovedTo": "%s flyttad till",
 	"toastMovedToBin": "%s moved to Bin",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s flyttad från",
 	"toastAddedToCollection": "has been added to Collection",
 	"toastLinkedTo": "har länkats till",
