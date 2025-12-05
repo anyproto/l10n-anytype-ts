@@ -1702,6 +1702,7 @@
 	"toastIsUnlocked": "đã mở khoá",
 	"toastMovedTo": "%s đã được đưa đến",
 	"toastMovedToBin": "%s đã được đưa vào Thùng rác",
+	"toastMovedFromBin": "%s restored",
 	"toastMovedFrom": "%s đã được đưa từ",
 	"toastAddedToCollection": "đã được thêm vào Bộ",
 	"toastLinkedTo": "đã được liên kết đến",
