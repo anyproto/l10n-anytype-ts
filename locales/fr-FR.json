@@ -718,7 +718,7 @@
 	"blockChatFormReadonly": "Seuls les éditeurs peuvent envoyer des messages. Contactez le propriétaire pour demander l'accès.",
 	"blockChatCopyText": "Copier le texte",
 	"blockChatMarkAsUnread": "Marquer comme non lu",
-	"blockChatAddAttachment": "Add attachment",
+	"blockChatAddAttachment": "Ajouter une pièce jointe",
 	"blockMediaFileStateError": "Ce média ne peut pas être synchronisé pour l'instant. Veuillez réessayer plus tard.",
 	"popupSettingsTitle": "Paramètres",
 	"popupSettingsAccountPersonalInformationTitle": "Informations personnelles",
