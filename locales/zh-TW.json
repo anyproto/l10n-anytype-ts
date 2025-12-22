@@ -345,7 +345,7 @@
 	"electronMenuLanguage": "使用者介面語言",
 	"electronMenuFlagAnalytics": "分析",
 	"electronMenuFlagMw": "中介軟體",
-	"electronMenuFlagMwRequest": "請求／回覆",
+	"electronMenuFlagMwRequest": "請求\/回覆",
 	"electronMenuFlagMwSubscribe": "訂閱",
 	"electronMenuFlagMwEvent": "常規事件",
 	"electronMenuFlagMwSync": "同步事件",
