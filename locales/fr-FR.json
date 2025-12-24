@@ -1545,7 +1545,7 @@
 	"menuDataviewViewSort": "Trier",
 	"menuDataviewViewApplied": "%s appliqué",
 	"menuDataviewViewName": "Nom de la vue",
-	"menuDataviewViewEditWrapContent": "Wrap content",
+	"menuDataviewViewEditWrapContent": "Regrouper le contenu",
 	"menuDataviewViewListNoViewsFound": "Aucun affichage trouvé",
 	"menuDataviewViewListAddView": "Ajouter une vue",
 	"menuDataviewViewListViews": "Affichages",
