@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Сортировка",
 	"menuDataviewViewApplied": "%s применено",
 	"menuDataviewViewName": "Название представления",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "Представления не найдены",
 	"menuDataviewViewListAddView": "Добавить представление",
 	"menuDataviewViewListViews": "Представления",
