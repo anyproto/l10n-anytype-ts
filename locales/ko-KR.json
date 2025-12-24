@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "정렬",
 	"menuDataviewViewApplied": "%s개 적용됨",
 	"menuDataviewViewName": "보기 이름",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "보기 없음",
 	"menuDataviewViewListAddView": "보기 추가",
 	"menuDataviewViewListViews": "보기",
