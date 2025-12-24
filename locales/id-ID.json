@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Urutkan",
 	"menuDataviewViewApplied": "%s diterapkan",
 	"menuDataviewViewName": "Nama tampilan",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "Tidak ada tampilan",
 	"menuDataviewViewListAddView": "Tambahkan tampilan",
 	"menuDataviewViewListViews": "Tampilan",
