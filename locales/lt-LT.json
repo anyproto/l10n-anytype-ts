@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Rikiuoti",
 	"menuDataviewViewApplied": "%s pritaikytas",
 	"menuDataviewViewName": "Rodinio pavadinimas",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "Nerasta jokių rodinių",
 	"menuDataviewViewListAddView": "Pridėti rodinį",
 	"menuDataviewViewListViews": "Rodiniai",
