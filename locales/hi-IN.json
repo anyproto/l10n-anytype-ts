@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "क्रमबद्ध करें",
 	"menuDataviewViewApplied": "%s लागू हुआ",
 	"menuDataviewViewName": "नाम देखें",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "कोई विचार नहीं मिला",
 	"menuDataviewViewListAddView": "एक दृश्य जोड़ें",
 	"menuDataviewViewListViews": "दृश्य",
