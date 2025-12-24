@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Упорядкувати",
 	"menuDataviewViewApplied": "%s застосовано",
 	"menuDataviewViewName": "Назва подання",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "Жодного подання не знайдено",
 	"menuDataviewViewListAddView": "Додати вигляд",
 	"menuDataviewViewListViews": "Вигляди",
