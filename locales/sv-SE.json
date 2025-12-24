@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Sortera",
 	"menuDataviewViewApplied": "%s applied",
 	"menuDataviewViewName": "Vynamn",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "Inga vyer hittades",
 	"menuDataviewViewListAddView": "Lägg till en vy",
 	"menuDataviewViewListViews": "Vyer",

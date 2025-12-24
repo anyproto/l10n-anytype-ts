@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "並び替え",
 	"menuDataviewViewApplied": "%sつが適用済み",
 	"menuDataviewViewName": "ビュー名",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "ビューが見つかりません",
 	"menuDataviewViewListAddView": "ビューを追加",
 	"menuDataviewViewListViews": "ビュー",

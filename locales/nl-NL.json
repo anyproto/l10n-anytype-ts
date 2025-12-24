@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Sorteer",
 	"menuDataviewViewApplied": "%s toegepast",
 	"menuDataviewViewName": "Bekijk naam",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "Geen weergaven gevonden",
 	"menuDataviewViewListAddView": "Voeg een weergave toe",
 	"menuDataviewViewListViews": "Weergaven",

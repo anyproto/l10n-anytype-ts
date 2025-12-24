@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "排序",
 	"menuDataviewViewApplied": "已套用 %s",
 	"menuDataviewViewName": "視圖名稱",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "未找到視圖",
 	"menuDataviewViewListAddView": "新增視圖",
 	"menuDataviewViewListViews": "視圖",

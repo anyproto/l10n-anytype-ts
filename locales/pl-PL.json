@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Sortuj",
 	"menuDataviewViewApplied": "%s stosowane",
 	"menuDataviewViewName": "Nazwa widoku",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "Nie znaleziono widoków",
 	"menuDataviewViewListAddView": "Dodaj widok",
 	"menuDataviewViewListViews": "Odsłon",

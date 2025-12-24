@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Lajittele",
 	"menuDataviewViewApplied": "%s applied",
 	"menuDataviewViewName": "Näkymän nimi",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "No views found",
 	"menuDataviewViewListAddView": "Add a view",
 	"menuDataviewViewListViews": "Views",

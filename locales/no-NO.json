@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Sorter",
 	"menuDataviewViewApplied": "%s anvendt",
 	"menuDataviewViewName": "Visningsnavn",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "Ingen visninger funnet",
 	"menuDataviewViewListAddView": "Legg til visning",
 	"menuDataviewViewListViews": "Visninger",

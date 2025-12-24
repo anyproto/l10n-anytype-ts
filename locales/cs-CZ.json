@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Řazení",
 	"menuDataviewViewApplied": "%s použito",
 	"menuDataviewViewName": "Zobrazit název",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "Nebyly nalezeny žádné zobrazení",
 	"menuDataviewViewListAddView": "Přidat zobrazení",
 	"menuDataviewViewListViews": "Zobrazení",

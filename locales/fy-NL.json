@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Sortearing",
 	"menuDataviewViewApplied": "%s tapast",
 	"menuDataviewViewName": "View name",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "Gjin werjeften fûn",
 	"menuDataviewViewListAddView": "Werjefte tafoegje",
 	"menuDataviewViewListViews": "Werjeften",

@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Сартаваць",
 	"menuDataviewViewApplied": "%s прыменена",
 	"menuDataviewViewName": "Назва выгляду",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "Выгляд не знойдзены",
 	"menuDataviewViewListAddView": "Дадаць выгляд",
 	"menuDataviewViewListViews": "Выгляды",

@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Sırala",
 	"menuDataviewViewApplied": "%s uygulandı",
 	"menuDataviewViewName": "Görünüm adı",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "Hiç görünüm bulunamadı",
 	"menuDataviewViewListAddView": "Bir görünüm ekleyin",
 	"menuDataviewViewListViews": "Görünümler",

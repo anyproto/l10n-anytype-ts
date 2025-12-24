@@ -1545,6 +1545,7 @@
 	"menuDataviewViewSort": "Sắp xếp",
 	"menuDataviewViewApplied": "Đã áp dụng %s",
 	"menuDataviewViewName": "Tên chế độ xem",
+	"menuDataviewViewEditWrapContent": "Wrap content",
 	"menuDataviewViewListNoViewsFound": "Không thấy chế độ xem nào",
 	"menuDataviewViewListAddView": "Thêm chế độ xem",
 	"menuDataviewViewListViews": "Các chế độ xem",
