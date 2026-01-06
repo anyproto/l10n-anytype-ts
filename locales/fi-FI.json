@@ -1621,6 +1621,8 @@
 	"syncButtonNameOffline": "Ei internet-yhteyttä",
 	"syncButtonStaging": "Staging",
 	"menuSyncStatusTitle": "Synkronoinnin tila",
+	"menuSyncStatusLabelAnyNetwork": "Any Network",
+	"menuSyncStatusLabelCustom": "Mukautettu",
 	"menuSyncStatusNetworkMessageE2EE": "Päästä päähän salattu",
 	"menuSyncStatusP2PNoDevicesConnected": "Ei laitteita yhdistettynä",
 	"menuSyncStatusP2PDevicesConnected": "%s %s yhdistetty",
