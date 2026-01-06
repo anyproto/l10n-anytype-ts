@@ -1621,6 +1621,8 @@
 	"syncButtonNameOffline": "No internet",
 	"syncButtonStaging": "Staging",
 	"menuSyncStatusTitle": "Sync status",
+	"menuSyncStatusLabelAnyNetwork": "Any Network",
+	"menuSyncStatusLabelCustom": "रिवाज़",
 	"menuSyncStatusNetworkMessageE2EE": "End-to-end encrypted",
 	"menuSyncStatusP2PNoDevicesConnected": "No devices connected",
 	"menuSyncStatusP2PDevicesConnected": "%s %s connected",
