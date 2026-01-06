@@ -1621,6 +1621,8 @@
 	"syncButtonNameOffline": "インターネット接続なし",
 	"syncButtonStaging": "演出",
 	"menuSyncStatusTitle": "同期状況",
+	"menuSyncStatusLabelAnyNetwork": "Any Network",
+	"menuSyncStatusLabelCustom": "カスタム",
 	"menuSyncStatusNetworkMessageE2EE": "エンドツーエンド暗号化",
 	"menuSyncStatusP2PNoDevicesConnected": "デバイスが接続されていません",
 	"menuSyncStatusP2PDevicesConnected": "%s%sに接続済み",
