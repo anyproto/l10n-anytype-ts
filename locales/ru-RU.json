@@ -1621,6 +1621,8 @@
 	"syncButtonNameOffline": "Нет подключения к Интернету",
 	"syncButtonStaging": "Постановка",
 	"menuSyncStatusTitle": "Статус синхронизации",
+	"menuSyncStatusLabelAnyNetwork": "Any Network",
+	"menuSyncStatusLabelCustom": "Пользовательский",
 	"menuSyncStatusNetworkMessageE2EE": "Сквозное шифрование",
 	"menuSyncStatusP2PNoDevicesConnected": "Нет подключённых устройств",
 	"menuSyncStatusP2PDevicesConnected": "%s %s сопряжён",
