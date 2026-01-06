@@ -1621,6 +1621,8 @@
 	"syncButtonNameOffline": "Няма інтэрнэту",
 	"syncButtonStaging": "Пастаноўка",
 	"menuSyncStatusTitle": "Статус сінхранізацыі",
+	"menuSyncStatusLabelAnyNetwork": "Any Network",
+	"menuSyncStatusLabelCustom": "Карыстальніцкі",
 	"menuSyncStatusNetworkMessageE2EE": "Зашыфравана скразным метадам",
 	"menuSyncStatusP2PNoDevicesConnected": "Няма падлучаных прылад",
 	"menuSyncStatusP2PDevicesConnected": "%s %s падключана(-ы)",

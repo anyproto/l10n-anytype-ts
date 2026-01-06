@@ -1621,6 +1621,8 @@
 	"syncButtonNameOffline": "Kein Internet",
 	"syncButtonStaging": "Preview",
 	"menuSyncStatusTitle": "Synchronisationsstatus",
+	"menuSyncStatusLabelAnyNetwork": "Any Network",
+	"menuSyncStatusLabelCustom": "Individuell",
 	"menuSyncStatusNetworkMessageE2EE": "Ende-zu-Ende-verschlüsselt",
 	"menuSyncStatusP2PNoDevicesConnected": "Keine Geräte verbunden",
 	"menuSyncStatusP2PDevicesConnected": "%s %s verbunden",

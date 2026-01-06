@@ -1621,6 +1621,8 @@
 	"syncButtonNameOffline": "Ingen internett",
 	"syncButtonStaging": "Forberede",
 	"menuSyncStatusTitle": "Synkroniseringsstatus",
+	"menuSyncStatusLabelAnyNetwork": "Any Network",
+	"menuSyncStatusLabelCustom": "Egendefinert",
 	"menuSyncStatusNetworkMessageE2EE": "Ende-til-ende kryptering",
 	"menuSyncStatusP2PNoDevicesConnected": "Ingen enheter tilkoblet",
 	"menuSyncStatusP2PDevicesConnected": "%s %s tilkoblet",

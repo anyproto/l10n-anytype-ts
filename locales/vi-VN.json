@@ -1621,6 +1621,8 @@
 	"syncButtonNameOffline": "Không có Internet",
 	"syncButtonStaging": "Staging",
 	"menuSyncStatusTitle": "Trạng thái đồng bộ",
+	"menuSyncStatusLabelAnyNetwork": "Any Network",
+	"menuSyncStatusLabelCustom": "Tùy chỉnh",
 	"menuSyncStatusNetworkMessageE2EE": "Mật hóa đầu cuối",
 	"menuSyncStatusP2PNoDevicesConnected": "Không có thiết bị nào được kết nối",
 	"menuSyncStatusP2PDevicesConnected": "%s %s được kết nối",

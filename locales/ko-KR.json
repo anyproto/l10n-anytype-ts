@@ -1621,6 +1621,8 @@
 	"syncButtonNameOffline": "인터넷 연결 없음",
 	"syncButtonStaging": "시험판",
 	"menuSyncStatusTitle": "동기화 상태",
+	"menuSyncStatusLabelAnyNetwork": "Any Network",
+	"menuSyncStatusLabelCustom": "사용자 정의",
 	"menuSyncStatusNetworkMessageE2EE": "종단 간 암호화됨",
 	"menuSyncStatusP2PNoDevicesConnected": "연결된 기기 없음",
 	"menuSyncStatusP2PDevicesConnected": "%s %s 연결됨",

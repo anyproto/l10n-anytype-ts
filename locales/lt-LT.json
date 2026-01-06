@@ -1621,6 +1621,8 @@
 	"syncButtonNameOffline": "Nėra interneto",
 	"syncButtonStaging": "Staging",
 	"menuSyncStatusTitle": "Sinchronizacijos būsena",
+	"menuSyncStatusLabelAnyNetwork": "Any Network",
+	"menuSyncStatusLabelCustom": "Kitas",
 	"menuSyncStatusNetworkMessageE2EE": "Visapusis šifravimas",
 	"menuSyncStatusP2PNoDevicesConnected": "Nėra prijungtų įrenginių",
 	"menuSyncStatusP2PDevicesConnected": "%s %s connected",
