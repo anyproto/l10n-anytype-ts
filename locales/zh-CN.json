@@ -1621,6 +1621,8 @@
 	"syncButtonNameOffline": "没有网络连接",
 	"syncButtonStaging": "暂存",
 	"menuSyncStatusTitle": "同步状态",
+	"menuSyncStatusLabelAnyNetwork": "Any Network",
+	"menuSyncStatusLabelCustom": "自定义",
 	"menuSyncStatusNetworkMessageE2EE": "端到端加密",
 	"menuSyncStatusP2PNoDevicesConnected": "没有设备连接",
 	"menuSyncStatusP2PDevicesConnected": "%s %s 已连接",
