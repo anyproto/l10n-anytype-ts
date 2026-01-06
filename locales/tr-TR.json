@@ -1621,6 +1621,8 @@
 	"syncButtonNameOffline": "internet yok",
 	"syncButtonStaging": "Kademelendirme",
 	"menuSyncStatusTitle": "Senkronizasyon durumu",
+	"menuSyncStatusLabelAnyNetwork": "Any Network",
+	"menuSyncStatusLabelCustom": "Özel ",
 	"menuSyncStatusNetworkMessageE2EE": "Uçtan uca şifrelendi",
 	"menuSyncStatusP2PNoDevicesConnected": "Bağlı cihaz yok",
 	"menuSyncStatusP2PDevicesConnected": "%s %s bağlandı",
