@@ -1621,6 +1621,8 @@
 	"syncButtonNameOffline": "Geen internet",
 	"syncButtonStaging": "Opzetten",
 	"menuSyncStatusTitle": "Synchronisatiestatus",
+	"menuSyncStatusLabelAnyNetwork": "Any Network",
+	"menuSyncStatusLabelCustom": "Aangepast",
 	"menuSyncStatusNetworkMessageE2EE": "End-to-end versleuteld",
 	"menuSyncStatusP2PNoDevicesConnected": "Geen apparaten verbonden",
 	"menuSyncStatusP2PDevicesConnected": "%s %s verbonden",
