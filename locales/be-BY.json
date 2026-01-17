@@ -755,7 +755,7 @@
 	"popupSettingsPersonalLinkStyle": "Спасылка на стыль аб'екта",
 	"popupSettingsPersonalVaultStyle": "Vault density",
 	"popupSettingsPersonalSidebar": "Аўтаматычна паказваць і хаваць бакавую панэль",
-	"popupSettingsPersonalAlwaysShowTabbar": "Always show tabbar",
+	"popupSettingsPersonalAlwaysShowTabbar": "Always show tab bar",
 	"popupSettingsPersonalHardwareAcceleration": "Hardware acceleration",
 	"popupConfirmHardwareAccelerationTitle": "Restart Required",
 	"popupConfirmHardwareAccelerationText": "Changing hardware acceleration requires restarting the app. Do you want to restart now?",
