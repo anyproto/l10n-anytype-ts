@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "Mover bloco(s) selecionados para cima",
 	"popupShortcutNavigationPage10": "Marcar \/ Desmarcar  a caixa de seleção",
 	"popupShortcutNavigationPage11": "Mover bloco(s) selecionados para baixo",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "Marcação",
 	"popupShortcutMarkdownWhileTyping": "Enquanto digita",
 	"popupShortcutMarkdownWhileTyping1": "Código em linha",
