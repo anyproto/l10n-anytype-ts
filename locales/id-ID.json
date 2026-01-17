@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "Pindahkan balok terpilih ke atas",
 	"popupShortcutNavigationPage10": "Centang\/hapus centang Kotak centang",
 	"popupShortcutNavigationPage11": "Pindahkan balok terpilih ke bawah",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "Markdown",
 	"popupShortcutMarkdownWhileTyping": "Selagi mengetik",
 	"popupShortcutMarkdownWhileTyping1": "Kode dalam-baris",
