@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "Flyt valgte blok(ke) op",
 	"popupShortcutNavigationPage10": "Markér\/Afmarkér afkrydsningsfelt",
 	"popupShortcutNavigationPage11": "Flyt valgte blok(ke) ned",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "Markdown",
 	"popupShortcutMarkdownWhileTyping": "Under skrivning",
 	"popupShortcutMarkdownWhileTyping1": "Indlejret kode",
