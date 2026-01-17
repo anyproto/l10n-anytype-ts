@@ -755,7 +755,7 @@
 	"popupSettingsPersonalLinkStyle": "Estilo de enlaces a objeto",
 	"popupSettingsPersonalVaultStyle": "Densidad del arca",
 	"popupSettingsPersonalSidebar": "Mostrar y ocultar automáticamente la barra lateral",
-	"popupSettingsPersonalAlwaysShowTabbar": "Mostrar siempre barra de pestañas",
+	"popupSettingsPersonalAlwaysShowTabbar": "Always show tab bar",
 	"popupSettingsPersonalHardwareAcceleration": "Aceleración por hardware",
 	"popupConfirmHardwareAccelerationTitle": "Es necesario reiniciar",
 	"popupConfirmHardwareAccelerationText": "Para cambiar la aceleración por hardware es necesario reiniciar la aplicación. ¿Quieres reiniciar ahora?",
