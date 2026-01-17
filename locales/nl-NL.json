@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "Verplaats geselecteerde blok(ken) omhoog",
 	"popupShortcutNavigationPage10": "Vink selectievakje aan \/ uit",
 	"popupShortcutNavigationPage11": "Verplaats geselecteerde blok(ken) omlaag",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "Markdown",
 	"popupShortcutMarkdownWhileTyping": "Tijdens typen",
 	"popupShortcutMarkdownWhileTyping1": "Gealigneerde code",
