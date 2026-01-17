@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "Move selected block(s) up",
 	"popupShortcutNavigationPage10": "Tick \/ bỏ tick ô",
 	"popupShortcutNavigationPage11": "Move selected block(s) down",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "Markdown",
 	"popupShortcutMarkdownWhileTyping": "Khi đang gõ",
 	"popupShortcutMarkdownWhileTyping1": "Code trong dòng",
