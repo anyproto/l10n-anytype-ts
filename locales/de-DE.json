@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "Ausgewählte(n) Block(s) nach oben verschieben",
 	"popupShortcutNavigationPage10": "Checkbox aktivieren \/ deaktivieren",
 	"popupShortcutNavigationPage11": "Ausgewählte(n) Block(s) nach unten verschieben",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "Markdown",
 	"popupShortcutMarkdownWhileTyping": "Während der Eingabe",
 	"popupShortcutMarkdownWhileTyping1": "Eingebetter Quelltext",
