@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "선택한 블록 위로 이동",
 	"popupShortcutNavigationPage10": "체크박스 체크 \/ 체크 해제",
 	"popupShortcutNavigationPage11": "선택한 블록 아래로 이동",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "마크다운",
 	"popupShortcutMarkdownWhileTyping": "입력 중",
 	"popupShortcutMarkdownWhileTyping1": "인라인 코드",
