@@ -755,7 +755,7 @@
 	"popupSettingsPersonalLinkStyle": "Link allo stile dell'oggetto",
 	"popupSettingsPersonalVaultStyle": "Densità cassaforte",
 	"popupSettingsPersonalSidebar": "Mostra e nascondi automaticamente la barra laterale",
-	"popupSettingsPersonalAlwaysShowTabbar": "Always show tabbar",
+	"popupSettingsPersonalAlwaysShowTabbar": "Always show tab bar",
 	"popupSettingsPersonalHardwareAcceleration": "Hardware acceleration",
 	"popupConfirmHardwareAccelerationTitle": "Restart Required",
 	"popupConfirmHardwareAccelerationText": "Changing hardware acceleration requires restarting the app. Do you want to restart now?",
