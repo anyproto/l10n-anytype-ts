@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "Переместить выбранные блоки вверх",
 	"popupShortcutNavigationPage10": "Установить \/ снять флажок",
 	"popupShortcutNavigationPage11": "Переместить выбранные блоки вниз",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "Markdown",
 	"popupShortcutMarkdownWhileTyping": "При наборе текста",
 	"popupShortcutMarkdownWhileTyping1": "Встроенный код",

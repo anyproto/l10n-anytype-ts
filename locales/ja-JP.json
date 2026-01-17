@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "選択したブロックを上に移動",
 	"popupShortcutNavigationPage10": "チェックボックスをチェック\/外す",
 	"popupShortcutNavigationPage11": "選択したブロックを下に移動",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "マークダウン記法",
 	"popupShortcutMarkdownWhileTyping": "入力中に",
 	"popupShortcutMarkdownWhileTyping1": "コードスニペット",

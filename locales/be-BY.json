@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "Move selected block(s) up",
 	"popupShortcutNavigationPage10": "Паставіць \/ Зняць Сцяжок",
 	"popupShortcutNavigationPage11": "Move selected block(s) down",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "Markdown",
 	"popupShortcutMarkdownWhileTyping": "Падчас набору тэксту",
 	"popupShortcutMarkdownWhileTyping1": "Убудаваны код",

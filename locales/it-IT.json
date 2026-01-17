@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "Sposta in alto il\/i blocco\/i selezionato\/i",
 	"popupShortcutNavigationPage10": "Seleziona\/Deseleziona Checkbox",
 	"popupShortcutNavigationPage11": "Sposta in basso il\/i blocco\/i selezionato\/i",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "Markdown",
 	"popupShortcutMarkdownWhileTyping": "Durante la digitazione",
 	"popupShortcutMarkdownWhileTyping1": "Codice in linea",

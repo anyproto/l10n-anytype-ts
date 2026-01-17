@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "将选定的块向上移动",
 	"popupShortcutNavigationPage10": "勾选或取消勾选复选框",
 	"popupShortcutNavigationPage11": "将选定的块向下移动",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "Markdown",
 	"popupShortcutMarkdownWhileTyping": "输入时",
 	"popupShortcutMarkdownWhileTyping1": "行内代码",

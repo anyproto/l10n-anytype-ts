@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "Przenieś zaznaczone bloki do góry",
 	"popupShortcutNavigationPage10": "Zaznacz \/ Odznacz pole wyboru",
 	"popupShortcutNavigationPage11": "Przenieś zaznaczone bloki w dół",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "Markdown",
 	"popupShortcutMarkdownWhileTyping": "Podczas pisania",
 	"popupShortcutMarkdownWhileTyping1": "Kod wbudowany",

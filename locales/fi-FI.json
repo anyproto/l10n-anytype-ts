@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "Siirrä valitut palikat ylös",
 	"popupShortcutNavigationPage10": "Merkitse \/ Tyhjennä valintaruutu",
 	"popupShortcutNavigationPage11": "Siirrä valitut palikat alas",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "Markdown",
 	"popupShortcutMarkdownWhileTyping": "Kirjoitettaessa",
 	"popupShortcutMarkdownWhileTyping1": "Riville sijoitettu koodi",
