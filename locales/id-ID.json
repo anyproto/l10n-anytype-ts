@@ -755,7 +755,7 @@
 	"popupSettingsPersonalLinkStyle": "Terhubung ke gaya objek",
 	"popupSettingsPersonalVaultStyle": "Kepadatan Brankas",
 	"popupSettingsPersonalSidebar": "Buka-tutup otomatis bilah samping",
-	"popupSettingsPersonalAlwaysShowTabbar": "Selalu tampilkan bilah tab",
+	"popupSettingsPersonalAlwaysShowTabbar": "Always show tab bar",
 	"popupSettingsPersonalHardwareAcceleration": "Akselerasi perangkat keras",
 	"popupConfirmHardwareAccelerationTitle": "Perlu Mulai Ulang",
 	"popupConfirmHardwareAccelerationText": "Pengubahan setelan akselerasi perangkat keras memerlukan pemulaian ulang aplikasi. Mulai ulang sekarang?",
