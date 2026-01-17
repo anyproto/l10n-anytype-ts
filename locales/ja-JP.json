@@ -755,7 +755,7 @@
 	"popupSettingsPersonalLinkStyle": "リンクしたオブジェクトの見た目",
 	"popupSettingsPersonalVaultStyle": "保管庫の外観",
 	"popupSettingsPersonalSidebar": "サイドバーの自動表示切り替え",
-	"popupSettingsPersonalAlwaysShowTabbar": "Always show tabbar",
+	"popupSettingsPersonalAlwaysShowTabbar": "Always show tab bar",
 	"popupSettingsPersonalHardwareAcceleration": "Hardware acceleration",
 	"popupConfirmHardwareAccelerationTitle": "Restart Required",
 	"popupConfirmHardwareAccelerationText": "Changing hardware acceleration requires restarting the app. Do you want to restart now?",

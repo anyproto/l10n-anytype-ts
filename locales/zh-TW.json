@@ -755,7 +755,7 @@
 	"popupSettingsPersonalLinkStyle": "物件連結的呈現形式",
 	"popupSettingsPersonalVaultStyle": "筆記庫樣式",
 	"popupSettingsPersonalSidebar": "自動顯示或隱藏側邊欄",
-	"popupSettingsPersonalAlwaysShowTabbar": "Always show tabbar",
+	"popupSettingsPersonalAlwaysShowTabbar": "Always show tab bar",
 	"popupSettingsPersonalHardwareAcceleration": "Hardware acceleration",
 	"popupConfirmHardwareAccelerationTitle": "Restart Required",
 	"popupConfirmHardwareAccelerationText": "Changing hardware acceleration requires restarting the app. Do you want to restart now?",

@@ -755,7 +755,7 @@
 	"popupSettingsPersonalLinkStyle": "Lenke til objektstil",
 	"popupSettingsPersonalVaultStyle": "Vault density",
 	"popupSettingsPersonalSidebar": "Vis og skjul sidepanelet automatisk",
-	"popupSettingsPersonalAlwaysShowTabbar": "Always show tabbar",
+	"popupSettingsPersonalAlwaysShowTabbar": "Always show tab bar",
 	"popupSettingsPersonalHardwareAcceleration": "Hardware acceleration",
 	"popupConfirmHardwareAccelerationTitle": "Restart Required",
 	"popupConfirmHardwareAccelerationText": "Changing hardware acceleration requires restarting the app. Do you want to restart now?",

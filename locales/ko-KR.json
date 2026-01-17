@@ -755,7 +755,7 @@
 	"popupSettingsPersonalLinkStyle": "오브젝트 서식에 연결",
 	"popupSettingsPersonalVaultStyle": "보관소 밀도",
 	"popupSettingsPersonalSidebar": "사이드바 자동 표시 및 숨기기",
-	"popupSettingsPersonalAlwaysShowTabbar": "Always show tabbar",
+	"popupSettingsPersonalAlwaysShowTabbar": "Always show tab bar",
 	"popupSettingsPersonalHardwareAcceleration": "Hardware acceleration",
 	"popupConfirmHardwareAccelerationTitle": "Restart Required",
 	"popupConfirmHardwareAccelerationText": "Changing hardware acceleration requires restarting the app. Do you want to restart now?",
