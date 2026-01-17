@@ -755,7 +755,7 @@
 	"popupSettingsPersonalLinkStyle": "链接到对象样式",
 	"popupSettingsPersonalVaultStyle": "保险库密度",
 	"popupSettingsPersonalSidebar": "自动显示或隐藏侧边栏",
-	"popupSettingsPersonalAlwaysShowTabbar": "Always show tabbar",
+	"popupSettingsPersonalAlwaysShowTabbar": "Always show tab bar",
 	"popupSettingsPersonalHardwareAcceleration": "Hardware acceleration",
 	"popupConfirmHardwareAccelerationTitle": "Restart Required",
 	"popupConfirmHardwareAccelerationText": "Changing hardware acceleration requires restarting the app. Do you want to restart now?",
