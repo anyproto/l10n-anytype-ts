@@ -1330,6 +1330,8 @@
 	"popupShortcutNavigationPage8": "Déplacer le(s) bloc(s) sélectionné(s) vers le haut",
 	"popupShortcutNavigationPage10": "Cocher \/ décocher la case",
 	"popupShortcutNavigationPage11": "Déplacer le(s) bloc(s) sélectionné(s) vers le bas",
+	"popupShortcutNavigationPrevBlock": "Jump to previous block",
+	"popupShortcutNavigationNextBlock": "Jump to next block",
 	"popupShortcutMarkdown": "Markdown",
 	"popupShortcutMarkdownWhileTyping": "Lors de la frappe",
 	"popupShortcutMarkdownWhileTyping1": "Code intégré",
