@@ -1608,6 +1608,7 @@
 	"menuHelpMcp": "MCP",
 	"menuObjectPrint": "印刷",
 	"menuObjectSearchOnPage": "オブジェクト内で検索",
+	"menuObjectSearchInChat": "Search in Chat",
 	"menuObjectExport": "エクスポート",
 	"menuObjectReloadFromSource": "ソースから再読み込み",
 	"menuObjectUseAsTemplate": "テンプレートとして保存",
