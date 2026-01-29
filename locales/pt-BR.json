@@ -1608,6 +1608,7 @@
 	"menuHelpMcp": "MCP",
 	"menuObjectPrint": "Imprimir",
 	"menuObjectSearchOnPage": "Buscar no Objeto",
+	"menuObjectSearchInChat": "Search in Chat",
 	"menuObjectExport": "Exportar",
 	"menuObjectReloadFromSource": "Recarregar da origem",
 	"menuObjectUseAsTemplate": "Use as a Template",
