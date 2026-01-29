@@ -1608,6 +1608,7 @@
 	"menuHelpMcp": "MCP",
 	"menuObjectPrint": "인쇄",
 	"menuObjectSearchOnPage": "오브젝트에서 검색",
+	"menuObjectSearchInChat": "Search in Chat",
 	"menuObjectExport": "내보내기",
 	"menuObjectReloadFromSource": "소스에서 다시 불러오기",
 	"menuObjectUseAsTemplate": "템플릿으로 사용",
