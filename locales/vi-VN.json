@@ -1608,6 +1608,7 @@
 	"menuHelpMcp": "MCP",
 	"menuObjectPrint": "In",
 	"menuObjectSearchOnPage": "Tìm trong Đối tượng",
+	"menuObjectSearchInChat": "Search in Chat",
 	"menuObjectExport": "Xuất dữ liệu",
 	"menuObjectReloadFromSource": "Tải lại từ Nguồn",
 	"menuObjectUseAsTemplate": "Dùng làm Mẫu",
