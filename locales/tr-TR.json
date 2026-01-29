@@ -1608,6 +1608,7 @@
 	"menuHelpMcp": "MCP",
 	"menuObjectPrint": "Yazdır",
 	"menuObjectSearchOnPage": "Nesne içinde arama",
+	"menuObjectSearchInChat": "Search in Chat",
 	"menuObjectExport": "Dışa aktar",
 	"menuObjectReloadFromSource": "Kaynaktan geri yükle",
 	"menuObjectUseAsTemplate": "Şablon olarak kullan",

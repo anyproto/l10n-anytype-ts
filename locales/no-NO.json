@@ -1608,6 +1608,7 @@
 	"menuHelpMcp": "MCP",
 	"menuObjectPrint": "Skriv ut",
 	"menuObjectSearchOnPage": "Search in the Object",
+	"menuObjectSearchInChat": "Search in Chat",
 	"menuObjectExport": "Eksport",
 	"menuObjectReloadFromSource": "Last inn fra kilde",
 	"menuObjectUseAsTemplate": "Bruk som mal",

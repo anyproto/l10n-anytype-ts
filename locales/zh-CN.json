@@ -1608,6 +1608,7 @@
 	"menuHelpMcp": "MCP",
 	"menuObjectPrint": "打印",
 	"menuObjectSearchOnPage": "在对象中搜索",
+	"menuObjectSearchInChat": "Search in Chat",
 	"menuObjectExport": "导出",
 	"menuObjectReloadFromSource": "从源重新加载",
 	"menuObjectUseAsTemplate": "用作模板",

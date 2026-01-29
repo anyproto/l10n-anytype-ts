@@ -1608,6 +1608,7 @@
 	"menuHelpMcp": "MCP",
 	"menuObjectPrint": "Tulosta",
 	"menuObjectSearchOnPage": "Etsi oliosta",
+	"menuObjectSearchInChat": "Search in Chat",
 	"menuObjectExport": "Vie",
 	"menuObjectReloadFromSource": "Lataa uudelleen lähteestä",
 	"menuObjectUseAsTemplate": "Käytä mallipohjana",
