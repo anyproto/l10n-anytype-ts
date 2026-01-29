@@ -1608,6 +1608,7 @@
 	"menuHelpMcp": "MCP",
 	"menuObjectPrint": "Tisk",
 	"menuObjectSearchOnPage": "Search in the Object",
+	"menuObjectSearchInChat": "Search in Chat",
 	"menuObjectExport": "Export",
 	"menuObjectReloadFromSource": "Reload from Source",
 	"menuObjectUseAsTemplate": "Use as a Template",
