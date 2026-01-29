@@ -1608,6 +1608,7 @@
 	"menuHelpMcp": "MCP",
 	"menuObjectPrint": "Spausdinti",
 	"menuObjectSearchOnPage": "Search in the Object",
+	"menuObjectSearchInChat": "Search in Chat",
 	"menuObjectExport": "Eksportuoti",
 	"menuObjectReloadFromSource": "Perkrauti iš šaltinio",
 	"menuObjectUseAsTemplate": "Naudoti kaip šabloną",
