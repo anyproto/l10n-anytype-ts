@@ -1608,6 +1608,7 @@
 	"menuHelpMcp": "MCP",
 	"menuObjectPrint": "Cetak",
 	"menuObjectSearchOnPage": "Telusuri dalam Objek",
+	"menuObjectSearchInChat": "Search in Chat",
 	"menuObjectExport": "Ekspor",
 	"menuObjectReloadFromSource": "Muat ulang dari Sumber",
 	"menuObjectUseAsTemplate": "Gunakan sebagai Templat",
