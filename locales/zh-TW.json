@@ -928,7 +928,7 @@
 	"popupSettingsSpaceShareMakePrivateTooltip": "在移除所有成員之後，您就可以讓此空間變成私人的。",
 	"popupSettingsSpaceShareTransferOwnership": "Transfer ownership",
 	"popupSettingsSpaceShareSelectNewOwner": "Select the new owner",
-	"popupConfirmOwnershipTransferTitle": "Confirm ownership transfer",
+	"popupConfirmOwnershipTransferTitle": "確認轉讓所有權",
 	"popupConfirmOwnershipTransferText": "You're transferring ownership of \"<b>%s<\/b>\" to <b>%s<\/b>. This action is immediate and cannot be undone.<br\/><br\/>After the transfer:<ul><li>%s will become the new owner<\/li><li>You'll become an Editor<\/li><li>Only the new owner can transfer it again<\/li><li>The new owner's membership limits will apply to this channel<\/li><\/ul>Type the channel name to confirm:",
 	"toastOwnershipTransferred": "Ownership transferred successfully",
 	"popupConfirmOwnershipTransferringTitle": "Transferring ownership...",
