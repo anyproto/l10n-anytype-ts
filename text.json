@@ -1873,6 +1873,7 @@
 	"menuGraphSettingsIcons": "Icons",
 	"menuGraphSettingsPreview": "Preview",
 	"menuGraphSettingsCluster": "Cluster by Type",
+	"menuGraphSettingsTimeline": "Timeline",
 	"menuGraphSettingsShowOnGraph": "Show on Graph",
 	"menuGraphSettingsTypes": "Filter by Types",
 	"menuGraphSettingsLinks": "Links",
