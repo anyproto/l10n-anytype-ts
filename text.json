@@ -2030,6 +2030,14 @@
 	"filterConditionInArray": "Contains any",
 	"filterConditionNotInArray": "Doesn't contain",
 
+	"filterConditionShortNot": "Not",
+	"filterConditionShortAll": "All",
+	"filterConditionShortNotEmpty": "isn't empty",
+	"filterConditionShortAfter": "After",
+	"filterConditionShortBefore": "Before",
+	"filterConditionShortFrom": "From",
+	"filterConditionShortUntil": "Until",
+
 	"filterOperatorOr": "Or",
 	"filterOperatorAnd": "And",
 
