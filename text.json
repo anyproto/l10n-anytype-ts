@@ -2028,7 +2028,7 @@
 	"filterConditionNotEmpty": "Is not empty",
 	"filterConditionAllIn": "Contains all",
 	"filterConditionInArray": "Contains any",
-	"filterConditionNotInArray": "Contains none",
+	"filterConditionNotInArray": "Doesn't contain",
 
 	"filterOperatorOr": "Or",
 	"filterOperatorAnd": "And",
