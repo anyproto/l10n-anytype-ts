@@ -2045,6 +2045,10 @@
 	"filterOperatorOr": "Or",
 	"filterOperatorAnd": "And",
 
+	"filterPlaceholderSelect": "Select options...",
+	"filterPlaceholderObject": "Select objects...",
+	"filterPlaceholderFile": "Select files...",
+
 	"inputWithFileTextUrl": "Paste a link",
 
 	"toastTemplateCreate": "is saved as a Template!",
