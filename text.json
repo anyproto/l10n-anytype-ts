@@ -19,6 +19,7 @@
 	"commonTitle": "anytype",
 	"commonSearch": "Search",
 	"commonSearchPlaceholder": "Search...",
+	"commonFilter": "Filter",
 	"commonFilterClick": "Click to filter...",
 	"commonFilterEmpty": "No items match filter",
 	"commonFilterObjects": "Filter Objects...",
