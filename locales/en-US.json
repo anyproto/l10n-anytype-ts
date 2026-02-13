@@ -1770,6 +1770,8 @@
 	"menuDataviewObjectListFind": "Find an object",
 	"menuDataviewObjectListEmptySearch": "There are no objects",
 
+	"menuSearchChatEmptySearch": "There are no messages",
+
 	"menuDataviewViewEditName": "View name",
 	"menuDataviewFilterListEmpty": "No filters applied to this View",
 	"menuDataviewFilterNewFilter": "New filter",
