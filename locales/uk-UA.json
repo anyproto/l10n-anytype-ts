@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Layout",
 	"menuDataviewObjectListFind": "Знайти об'єкт",
 	"menuDataviewObjectListEmptySearch": "Немає об'єктів",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "Назва подання",
 	"menuDataviewFilterListEmpty": "Немає налаштованих фільтрів у цьому Поданні",
 	"menuDataviewFilterNewFilter": "Новий фільтр",
