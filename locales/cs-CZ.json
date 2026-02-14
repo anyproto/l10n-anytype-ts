@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Layout",
 	"menuDataviewObjectListFind": "Najít objekt",
 	"menuDataviewObjectListEmptySearch": "Nebyly nalezeny žádné objekty",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "Zobrazit název",
 	"menuDataviewFilterListEmpty": "Pro toto zobrazení nebyly použity žádné filtry",
 	"menuDataviewFilterNewFilter": "Nový filtr",
