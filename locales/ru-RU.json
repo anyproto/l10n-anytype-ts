@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Макет",
 	"menuDataviewObjectListFind": "Найти объект",
 	"menuDataviewObjectListEmptySearch": "Нет объектов",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "Название представления",
 	"menuDataviewFilterListEmpty": "Фильтры не применены к этому представлению",
 	"menuDataviewFilterNewFilter": "Новый фильтр",
