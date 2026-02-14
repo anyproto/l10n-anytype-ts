@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Layout",
 	"menuDataviewObjectListFind": "Знайсці аб'ект",
 	"menuDataviewObjectListEmptySearch": "Няма аб'ектаў",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "Назва выгляду",
 	"menuDataviewFilterListEmpty": "Фільтры не прыменены да гэтага выгляду",
 	"menuDataviewFilterNewFilter": "Новы фільтр",
