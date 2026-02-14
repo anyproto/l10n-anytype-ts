@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "版面",
 	"menuDataviewObjectListFind": "尋找物件",
 	"menuDataviewObjectListEmptySearch": "目前沒有物件",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "視圖名稱",
 	"menuDataviewFilterListEmpty": "此視圖未應用篩選器",
 	"menuDataviewFilterNewFilter": "新增篩選條件",

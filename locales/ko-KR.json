@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "레이아웃",
 	"menuDataviewObjectListFind": "객체 찾기",
 	"menuDataviewObjectListEmptySearch": "객체 없음",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "보기 이름",
 	"menuDataviewFilterListEmpty": "이 보기에 적용된 필터 없음",
 	"menuDataviewFilterNewFilter": "새 필터",

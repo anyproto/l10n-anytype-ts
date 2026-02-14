@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Layout",
 	"menuDataviewObjectListFind": "Etsi olio",
 	"menuDataviewObjectListEmptySearch": "Ei ole olioita",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "Näkymän nimi",
 	"menuDataviewFilterListEmpty": "Suodattimia ei ole asetettu tälle näkymälle",
 	"menuDataviewFilterNewFilter": "Uusi suodatin",

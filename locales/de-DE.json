@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Layout",
 	"menuDataviewObjectListFind": "Objekt finden",
 	"menuDataviewObjectListEmptySearch": "Es gibt keine Objekte",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "Namen anzeigen",
 	"menuDataviewFilterListEmpty": "Keine Filter auf diese Ansicht angewandt",
 	"menuDataviewFilterNewFilter": "Neuer Filter",

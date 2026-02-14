@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Layout",
 	"menuDataviewObjectListFind": "Ieškoti Objekto",
 	"menuDataviewObjectListEmptySearch": "Nėra Objektų",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "Rodinio pavadinimas",
 	"menuDataviewFilterListEmpty": "Šis rodinys neturi jokių pritaikytų filtrų",
 	"menuDataviewFilterNewFilter": "Naujas filtras",

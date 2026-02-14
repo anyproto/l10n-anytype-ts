@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Bố cục",
 	"menuDataviewObjectListFind": "Tìm một đối tượng",
 	"menuDataviewObjectListEmptySearch": "Không có đối tượng nào",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "Tên chế độ xem",
 	"menuDataviewFilterListEmpty": "Không có bộ lọc được áp dụng lên Chế độ xem này",
 	"menuDataviewFilterNewFilter": "Bộ lọc mới",

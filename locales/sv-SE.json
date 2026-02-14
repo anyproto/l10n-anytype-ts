@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Utformning",
 	"menuDataviewObjectListFind": "Hitta ett objekt",
 	"menuDataviewObjectListEmptySearch": "Det finns inga objekt",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "Vynamn",
 	"menuDataviewFilterListEmpty": "No filters applied to this View",
 	"menuDataviewFilterNewFilter": "Nytt filter",

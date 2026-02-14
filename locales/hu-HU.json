@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Layout",
 	"menuDataviewObjectListFind": "Find an object",
 	"menuDataviewObjectListEmptySearch": "There are no objects",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "View name",
 	"menuDataviewFilterListEmpty": "Nincs szűrő kiválasztva ebben a nézetben",
 	"menuDataviewFilterNewFilter": "New filter",

@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Layout",
 	"menuDataviewObjectListFind": "एक वस्तु खोजें",
 	"menuDataviewObjectListEmptySearch": "There are no objects",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "नाम देखें",
 	"menuDataviewFilterListEmpty": "No filters applied to this View",
 	"menuDataviewFilterNewFilter": "New filter",
