@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "布局",
 	"menuDataviewObjectListFind": "查找对象",
 	"menuDataviewObjectListEmptySearch": "没有对象",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "查看名称",
 	"menuDataviewFilterListEmpty": "此视图未应用筛选器",
 	"menuDataviewFilterNewFilter": "新筛选器",
