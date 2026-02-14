@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Düzen",
 	"menuDataviewObjectListFind": "Bir nesne bul",
 	"menuDataviewObjectListEmptySearch": "Nesne yok",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "Görünüm adı",
 	"menuDataviewFilterListEmpty": "Bu görünüme uygulanan filtre yok",
 	"menuDataviewFilterNewFilter": "Yeni filtre",
