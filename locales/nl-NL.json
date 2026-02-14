@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Opmaak",
 	"menuDataviewObjectListFind": "Vind een object",
 	"menuDataviewObjectListEmptySearch": "Er zijn geen objecten",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "Bekijk naam",
 	"menuDataviewFilterListEmpty": "Geen filters toegepast op deze weergave ",
 	"menuDataviewFilterNewFilter": "Nieuw filter",
