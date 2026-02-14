@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "Layout",
 	"menuDataviewObjectListFind": "Finn et objekt",
 	"menuDataviewObjectListEmptySearch": "Det er ingen objekter",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "Visningsnavn",
 	"menuDataviewFilterListEmpty": "Ingen filtre brukt på denne visningen",
 	"menuDataviewFilterNewFilter": "Nytt filter",
