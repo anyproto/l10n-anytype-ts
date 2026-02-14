@@ -1542,6 +1542,7 @@
 	"menuDataviewObjectTypeEditLayout": "レイアウト",
 	"menuDataviewObjectListFind": "オブジェクトを検索",
 	"menuDataviewObjectListEmptySearch": "オブジェクトがありません",
+	"menuSearchChatEmptySearch": "There are no messages",
 	"menuDataviewViewEditName": "ビュー名",
 	"menuDataviewFilterListEmpty": "このビューにフィルターが適用されていません",
 	"menuDataviewFilterNewFilter": "新しいフィルター",
