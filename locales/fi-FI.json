@@ -1,5 +1,8 @@
 {
 	"commonError": "Virhe",
+	"errorBoundaryTitle": "Something went wrong",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Lataa uudelleen",
 	"commonOr": "tai",
 	"commonWhere": "Where",
 	"commonMore": "lisää",
