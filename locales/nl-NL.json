@@ -1,5 +1,8 @@
 {
 	"commonError": "Fout",
+	"errorBoundaryTitle": "Er ging iets mis",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Herladen",
 	"commonOr": "of",
 	"commonWhere": "Where",
 	"commonMore": "meer",
