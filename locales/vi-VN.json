@@ -1,5 +1,8 @@
 {
 	"commonError": "Lỗi",
+	"errorBoundaryTitle": "Đã xảy ra lỗi",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Tải lại",
 	"commonOr": "hoặc",
 	"commonWhere": "Where",
 	"commonMore": "thêm",
