@@ -1,5 +1,8 @@
 {
 	"commonError": "Galat",
+	"errorBoundaryTitle": "Ada yang salah",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Muat Ulang",
 	"commonOr": "atau",
 	"commonWhere": "Where",
 	"commonMore": "lebih banyak",
