@@ -1,5 +1,8 @@
 {
 	"commonError": "エラー",
+	"errorBoundaryTitle": "失敗しました",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "再読み込み",
 	"commonOr": "または",
 	"commonWhere": "フィルター条件",
 	"commonMore": "詳細",
