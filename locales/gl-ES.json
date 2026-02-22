@@ -1,5 +1,8 @@
 {
 	"commonError": "Erro",
+	"errorBoundaryTitle": "Algo foi mal",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Recargar",
 	"commonOr": "ou",
 	"commonWhere": "Where",
 	"commonMore": "máis",
