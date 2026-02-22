@@ -1,5 +1,8 @@
 {
 	"commonError": "Kesalahan",
+	"errorBoundaryTitle": "Something went wrong",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Muat semula",
 	"commonOr": "atau",
 	"commonWhere": "Where",
 	"commonMore": "lebih lagi",
