@@ -1,5 +1,8 @@
 {
 	"commonError": "Klaida",
+	"errorBoundaryTitle": "Įvyko klaida",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Perkrauti iš naujo",
 	"commonOr": "arba",
 	"commonWhere": "Where",
 	"commonMore": "žr. daugiau",
