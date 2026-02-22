@@ -1,5 +1,8 @@
 {
 	"commonError": "Грешка",
+	"errorBoundaryTitle": "Something went wrong",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Презареди",
 	"commonOr": "или",
 	"commonWhere": "Where",
 	"commonMore": "още",
