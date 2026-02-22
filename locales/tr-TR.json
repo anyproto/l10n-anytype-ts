@@ -1,5 +1,8 @@
 {
 	"commonError": "Hata",
+	"errorBoundaryTitle": "Bir sorun oluştu",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Yeniden yükle",
 	"commonOr": "ya da",
 	"commonWhere": "Neresi",
 	"commonMore": "daha fazla",
