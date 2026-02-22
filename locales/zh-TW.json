@@ -1,5 +1,8 @@
 {
 	"commonError": "錯誤",
+	"errorBoundaryTitle": "某個地方出錯了",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "重新載入",
 	"commonOr": "或",
 	"commonWhere": "Where",
 	"commonMore": "更多",
