@@ -1,5 +1,8 @@
 {
 	"commonError": "Chyba",
+	"errorBoundaryTitle": "Something went wrong",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Znovu načítať",
 	"commonOr": "alebo",
 	"commonWhere": "Where",
 	"commonMore": "viac",
