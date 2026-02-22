@@ -1,5 +1,8 @@
 {
 	"commonError": "Feil",
+	"errorBoundaryTitle": "Noe gikk galt",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Last på nytt",
 	"commonOr": "eller",
 	"commonWhere": "Where",
 	"commonMore": "mer",
