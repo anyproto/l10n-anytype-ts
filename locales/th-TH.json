@@ -1,5 +1,8 @@
 {
 	"commonError": "เกิดข้อผิดพลาด",
+	"errorBoundaryTitle": "Something went wrong",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "รีโหลด",
 	"commonOr": "หรือ",
 	"commonWhere": "Where",
 	"commonMore": "เพิ่มเติม",
