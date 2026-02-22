@@ -1,5 +1,8 @@
 {
 	"commonError": "Eroare",
+	"errorBoundaryTitle": "Ceva nu a funcționat corect",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Reîncarcă",
 	"commonOr": "sau",
 	"commonWhere": "Where",
 	"commonMore": "mai mult",
