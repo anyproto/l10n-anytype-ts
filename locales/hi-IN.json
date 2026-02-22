@@ -1,5 +1,8 @@
 {
 	"commonError": "गलती",
+	"errorBoundaryTitle": "Something went wrong",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "पुनः लादन",
 	"commonOr": "या",
 	"commonWhere": "Where",
 	"commonMore": "और",
