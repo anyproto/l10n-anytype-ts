@@ -1,5 +1,8 @@
 {
 	"commonError": "Памылка",
+	"errorBoundaryTitle": "Адбылася памылка",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Перазагрузіць",
 	"commonOr": "або",
 	"commonWhere": "Where",
 	"commonMore": "разгарнуць",
