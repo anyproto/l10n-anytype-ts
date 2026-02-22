@@ -1,5 +1,8 @@
 {
 	"commonError": "Hiba",
+	"errorBoundaryTitle": "Something went wrong",
+	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryReload": "Újratöltés",
 	"commonOr": "vagy",
 	"commonWhere": "Where",
 	"commonMore": "Több",
