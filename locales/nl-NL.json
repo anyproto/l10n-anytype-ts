@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Blok niet gevonden",
 	"pageMainRelationPropertyType": "Eigenschap formaat",
 	"pageMainMediaNotFound": "Bestand niet gevonden",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Manifest aan het downloaden",
 	"pageMainInviteTitle": "Uitnodiging aan het downloaden",
 	"pageMainInviteErrorData": "Onjuiste uitnodigingsgegevens",
