@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "找不到區塊",
 	"pageMainRelationPropertyType": "屬性格式",
 	"pageMainMediaNotFound": "找不到檔案",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "正在下載聲明",
 	"pageMainInviteTitle": "正在下載邀請",
 	"pageMainInviteErrorData": "錯誤的邀請資料",
