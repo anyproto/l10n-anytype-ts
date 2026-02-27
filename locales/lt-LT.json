@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Blokas nerastas",
 	"pageMainRelationPropertyType": "Property format",
 	"pageMainMediaNotFound": "Failas nerastas",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Atsisiunčiamas manifestas",
 	"pageMainInviteTitle": "Atsisiunčiamas pakvietimas",
 	"pageMainInviteErrorData": "Neteisingi pakvietimo duomenys",
