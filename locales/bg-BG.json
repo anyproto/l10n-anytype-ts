@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Блокът не е намерен",
 	"pageMainRelationPropertyType": "Property format",
 	"pageMainMediaNotFound": "Файлът не е намерен",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Изтегляне на манифест",
 	"pageMainInviteTitle": "Изтеглане на покана",
 	"pageMainInviteErrorData": "Incorrect invite data",
