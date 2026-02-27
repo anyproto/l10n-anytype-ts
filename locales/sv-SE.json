@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Block hittades inte",
 	"pageMainRelationPropertyType": "Egenskapsformat",
 	"pageMainMediaNotFound": "Filen kunde inte hittas",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Laddar ner manifest",
 	"pageMainInviteTitle": "Laddar ner inbjudan",
 	"pageMainInviteErrorData": "Felaktig inbjudningsdata",
