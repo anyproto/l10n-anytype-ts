@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Blokk nem található",
 	"pageMainRelationPropertyType": "Property format",
 	"pageMainMediaNotFound": "A fájl nem található",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Downloading manifest",
 	"pageMainInviteTitle": "Meghívó letöltése",
 	"pageMainInviteErrorData": "Hibás meghívó",
