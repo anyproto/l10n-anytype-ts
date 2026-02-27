@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Блок не знайдено",
 	"pageMainRelationPropertyType": "Формат властивості",
 	"pageMainMediaNotFound": "Файл не знайдено",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Завантаження маніфесту",
 	"pageMainInviteTitle": "Завантаження запрошення",
 	"pageMainInviteErrorData": "Неправильні дані запрошення",
