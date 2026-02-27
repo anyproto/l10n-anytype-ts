@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "No se encuentra el bloque",
 	"pageMainRelationPropertyType": "Formato de propiedad",
 	"pageMainMediaNotFound": "No se encuentra el archivo",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Descargando manifiesto",
 	"pageMainInviteTitle": "Descargando invitación",
 	"pageMainInviteErrorData": "Datos de invitación incorrectos",
