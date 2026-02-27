@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Blok bulunamadı",
 	"pageMainRelationPropertyType": "Özellik biçimi",
 	"pageMainMediaNotFound": "Dosya bulunamadı",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Manifest indiriliyor",
 	"pageMainInviteTitle": "Davetiye indiriliyor",
 	"pageMainInviteErrorData": "Yanlış davet verisi",
