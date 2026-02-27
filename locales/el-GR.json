@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Το Μπλοκ δε βρέθηκε",
 	"pageMainRelationPropertyType": "Property format",
 	"pageMainMediaNotFound": "Το αρχείο δεν βρέθηκε",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Εμφανής Λήψη",
 	"pageMainInviteTitle": "Λήψη πρόσκλησης",
 	"pageMainInviteErrorData": "Λανθασμένα δεδομένα πρόσκλησης",
