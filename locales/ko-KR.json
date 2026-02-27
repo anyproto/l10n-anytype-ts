@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "블록을 찾을 수 없음",
 	"pageMainRelationPropertyType": "속성 형식",
 	"pageMainMediaNotFound": "파일을 찾을 수 없음",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "메니페스트 다운로드 중",
 	"pageMainInviteTitle": "초대 다운로드 중",
 	"pageMainInviteErrorData": "유효하지 않은 초대 정보",
