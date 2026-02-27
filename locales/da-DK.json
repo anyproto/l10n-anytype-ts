@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Blok ikke fundet",
 	"pageMainRelationPropertyType": "Egenskabsformat",
 	"pageMainMediaNotFound": "Fil ikke fundet",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Henter manifest",
 	"pageMainInviteTitle": "Henter invitation",
 	"pageMainInviteErrorData": "Forkert invitationsdata",
