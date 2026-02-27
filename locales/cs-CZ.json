@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Blok nenalezen",
 	"pageMainRelationPropertyType": "Property format",
 	"pageMainMediaNotFound": "Soubor nenalezen",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Stahování manifestu",
 	"pageMainInviteTitle": "Stahování pozvánky",
 	"pageMainInviteErrorData": "Nesprávná data pozvánky",
