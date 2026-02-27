@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Không tìm thấy khối",
 	"pageMainRelationPropertyType": "Property format",
 	"pageMainMediaNotFound": "Không tìm thấy tập tin",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Đang tải manifest",
 	"pageMainInviteTitle": "Đang tải lời mời",
 	"pageMainInviteErrorData": "Dữ liệu lời mời không đúng",
