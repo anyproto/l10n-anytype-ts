@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Блок не найден",
 	"pageMainRelationPropertyType": "Формат свойств",
 	"pageMainMediaNotFound": "Файл не найден",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Загрузка манифеста",
 	"pageMainInviteTitle": "Загрузка приглашения",
 	"pageMainInviteErrorData": "Некорректные данные приглашения",
