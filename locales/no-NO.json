@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Blokk ikke funnet",
 	"pageMainRelationPropertyType": "Property format",
 	"pageMainMediaNotFound": "Finner ikke filen",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Laster ned manifest",
 	"pageMainInviteTitle": "Laster ned invitasjon",
 	"pageMainInviteErrorData": "Feil invitasjonsdata",
