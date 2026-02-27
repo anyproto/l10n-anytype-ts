@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "لم يتم العثور على الكتلة",
 	"pageMainRelationPropertyType": "Property format",
 	"pageMainMediaNotFound": "لم يتم العثور على الملف",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "تحميل البيان",
 	"pageMainInviteTitle": "تحميل الدعوة",
 	"pageMainInviteErrorData": "بيانات الدعوة غير صحيحة",
