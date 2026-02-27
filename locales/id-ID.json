@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Balok tidak ditemukan",
 	"pageMainRelationPropertyType": "Format atribut",
 	"pageMainMediaNotFound": "Berkas tidak ditemukan",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Mengunduh manifest",
 	"pageMainInviteTitle": "Mengunduh undangan",
 	"pageMainInviteErrorData": "Data undangan salah",
