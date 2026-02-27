@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Palikkaa ei löytynyt",
 	"pageMainRelationPropertyType": "Property format",
 	"pageMainMediaNotFound": "Tiedostoa ei löydy",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Ladataan sisältöluetteloa",
 	"pageMainInviteTitle": "Ladataan kutsua",
 	"pageMainInviteErrorData": "Virheellinen kutsutieto",
