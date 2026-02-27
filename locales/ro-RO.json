@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "Blocul nu a fost găsit",
 	"pageMainRelationPropertyType": "Property format",
 	"pageMainMediaNotFound": "Fișierul nu a fost găsit",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "Descărcare manifest",
 	"pageMainInviteTitle": "Descărcare invitație",
 	"pageMainInviteErrorData": "Date de invitație incorecte",
