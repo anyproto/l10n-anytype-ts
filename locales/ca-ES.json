@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "No s'ha trobat el bloc",
 	"pageMainRelationPropertyType": "Property format",
 	"pageMainMediaNotFound": "No s'ha trobat el fitxer.",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "S'està baixant el manifest",
 	"pageMainInviteTitle": "S'està baixant la invitació",
 	"pageMainInviteErrorData": "Dades de la invitació incorrectes",
