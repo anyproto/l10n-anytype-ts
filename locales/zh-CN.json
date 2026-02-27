@@ -525,6 +525,8 @@
 	"pageMainBlockEmpty": "未找到区块",
 	"pageMainRelationPropertyType": "属性格式",
 	"pageMainMediaNotFound": "找不到文件",
+	"pageMainBookmarkOpenWebsite": "Open Website",
+	"pageMainBookmarkLinkInfo": "Link Information",
 	"pageMainImportTitle": "正在下载清单",
 	"pageMainInviteTitle": "正在下载邀请",
 	"pageMainInviteErrorData": "错误的邀请数据",
