@@ -803,8 +803,6 @@
 	"popupSettingsPersonalSidebar": "사이드바 자동 표시 및 숨김",
 	"popupSettingsPersonalAlwaysShowTabbar": "항상 탭 바 표시",
 	"popupSettingsPersonalHardwareAcceleration": "하드웨어 가속",
-	"popupSettingsPersonalAnalyticsDeviceId": "기기 분석 ID",
-	"popupSettingsPersonalAnalyticsDeviceIdDescription": "Remember this device across sessions to help improve Anytype",
 	"popupConfirmHardwareAccelerationTitle": "재시작 필요",
 	"popupConfirmHardwareAccelerationText": "하드웨이 가속 설정 변경은 재시작이 필요합니다. 지금 재시작할까요?",
 	"popupSettingsPersonalRelativeDates": "상대적 날짜 사용",
