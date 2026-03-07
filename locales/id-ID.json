@@ -803,8 +803,6 @@
 	"popupSettingsPersonalSidebar": "Buka-tutup otomatis bilah samping",
 	"popupSettingsPersonalAlwaysShowTabbar": "Selalu tampilkan bilah tab",
 	"popupSettingsPersonalHardwareAcceleration": "Akselerasi perangkat keras",
-	"popupSettingsPersonalAnalyticsDeviceId": "Analytics device ID",
-	"popupSettingsPersonalAnalyticsDeviceIdDescription": "Ingat perangkat ini antarsesi untuk membantu meningkatkan Anytype",
 	"popupConfirmHardwareAccelerationTitle": "Perlu Mulai Ulang",
 	"popupConfirmHardwareAccelerationText": "Pengubahan setelan akselerasi perangkat keras memerlukan pemulaian ulang aplikasi. Mulai ulang sekarang?",
 	"popupSettingsPersonalRelativeDates": "Gunakan tanggal relatif",

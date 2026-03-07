@@ -803,8 +803,6 @@
 	"popupSettingsPersonalSidebar": "Automatically show and hide sidebar",
 	"popupSettingsPersonalAlwaysShowTabbar": "Visa alltid flikfältet",
 	"popupSettingsPersonalHardwareAcceleration": "Hårdvaruacceleration",
-	"popupSettingsPersonalAnalyticsDeviceId": "Analytics device ID",
-	"popupSettingsPersonalAnalyticsDeviceIdDescription": "Remember this device across sessions to help improve Anytype",
 	"popupConfirmHardwareAccelerationTitle": "Omstart krävs",
 	"popupConfirmHardwareAccelerationText": "Changing hardware acceleration requires restarting the app. Do you want to restart now?",
 	"popupSettingsPersonalRelativeDates": "Använd relativa datum",

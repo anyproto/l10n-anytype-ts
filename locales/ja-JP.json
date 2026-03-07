@@ -803,8 +803,6 @@
 	"popupSettingsPersonalSidebar": "サイドバーの自動表示切り替え",
 	"popupSettingsPersonalAlwaysShowTabbar": "常にタブバーを表示",
 	"popupSettingsPersonalHardwareAcceleration": "ハードウェアアクセラレーション",
-	"popupSettingsPersonalAnalyticsDeviceId": "分析用デバイスIDの保持",
-	"popupSettingsPersonalAnalyticsDeviceIdDescription": "品質改善に役立てるため、デバイスを識別して利用状況を収集します",
 	"popupConfirmHardwareAccelerationTitle": "再起動が必要です",
 	"popupConfirmHardwareAccelerationText": "ハードウェアアクセラレーションの変更には、アプリの再起動が必要です。再起動してもよろしいですか？",
 	"popupSettingsPersonalRelativeDates": "相対日時表記（今日、昨日など）",

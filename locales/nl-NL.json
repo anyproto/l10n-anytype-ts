@@ -803,8 +803,6 @@
 	"popupSettingsPersonalSidebar": "Toon en verberg zijbalk automatisch",
 	"popupSettingsPersonalAlwaysShowTabbar": "Always show tab bar",
 	"popupSettingsPersonalHardwareAcceleration": "Hardware acceleration",
-	"popupSettingsPersonalAnalyticsDeviceId": "Analytics device ID",
-	"popupSettingsPersonalAnalyticsDeviceIdDescription": "Remember this device across sessions to help improve Anytype",
 	"popupConfirmHardwareAccelerationTitle": "Herstart Vereist",
 	"popupConfirmHardwareAccelerationText": "Changing hardware acceleration requires restarting the app. Do you want to restart now?",
 	"popupSettingsPersonalRelativeDates": "Gebruik relatieve data",
