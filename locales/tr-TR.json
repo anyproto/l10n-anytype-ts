@@ -803,8 +803,6 @@
 	"popupSettingsPersonalSidebar": "Kenar çubuğunu otomatik olarak gizle",
 	"popupSettingsPersonalAlwaysShowTabbar": "Sekme çubuğunu her zaman göster",
 	"popupSettingsPersonalHardwareAcceleration": "Donanım hızlandırma",
-	"popupSettingsPersonalAnalyticsDeviceId": "Analytics cihaz kimliği",
-	"popupSettingsPersonalAnalyticsDeviceIdDescription": "Anytype'ı geliştirmeye yardımcı olmak için bu cihazı oturumlar arasında hatırla",
 	"popupConfirmHardwareAccelerationTitle": "Yeniden Başlatma Gerekli",
 	"popupConfirmHardwareAccelerationText": "Donanım hızlandırma ayarını değiştirmek için uygulamayı yeniden başlatman gerekir. Şimdi yeniden başlatmak ister misin?",
 	"popupSettingsPersonalRelativeDates": "İlgili tarihleri kullan",
