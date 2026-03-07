@@ -803,8 +803,6 @@
 	"popupSettingsPersonalSidebar": "自動顯示或隱藏側邊欄",
 	"popupSettingsPersonalAlwaysShowTabbar": "總是顯示分頁列",
 	"popupSettingsPersonalHardwareAcceleration": "硬體加速",
-	"popupSettingsPersonalAnalyticsDeviceId": "分析裝置 ID",
-	"popupSettingsPersonalAnalyticsDeviceIdDescription": "在不同工作階段中記住此裝置，有助於改善 Anytype。",
 	"popupConfirmHardwareAccelerationTitle": "需要重新啟動",
 	"popupConfirmHardwareAccelerationText": "更改硬體加速需要重新啟動應用程式。您想立即重新啟動嗎？",
 	"popupSettingsPersonalRelativeDates": "使用相對日期",
