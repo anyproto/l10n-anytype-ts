@@ -803,8 +803,6 @@
 	"popupSettingsPersonalSidebar": "Mostra e nascondi automaticamente la barra laterale",
 	"popupSettingsPersonalAlwaysShowTabbar": "Always show tab bar",
 	"popupSettingsPersonalHardwareAcceleration": "Hardware acceleration",
-	"popupSettingsPersonalAnalyticsDeviceId": "Analytics device ID",
-	"popupSettingsPersonalAnalyticsDeviceIdDescription": "Ricorda questo dispositivo tra una sessione e l'altra per migliorare Anytype",
 	"popupConfirmHardwareAccelerationTitle": "Restart Required",
 	"popupConfirmHardwareAccelerationText": "Changing hardware acceleration requires restarting the app. Do you want to restart now?",
 	"popupSettingsPersonalRelativeDates": "Usa le date relative",
