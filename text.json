@@ -130,6 +130,7 @@
 	"commonUploadComputer": "Upload from computer",
 	"commonLoad": "Load",
 	"commonDownload": "Download",
+	"commonDownloading": "Downloading...",
 	"commonAscending": "Ascending",
 	"commonDescending": "Descending",
 	"commonObjectType": "Object Type",
