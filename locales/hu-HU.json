@@ -28,6 +28,7 @@
 	"commonFilterClick": "Kattints a szűréshez...",
 	"commonFilterEmpty": "Nincs a szűrésnek megfelelő elem",
 	"commonFilterObjects": "Objektumok szűrése...",
+	"commonSearchObjects": "Search Objects...",
 	"commonHome": "Kezdőlap",
 	"commonSubmit": "Küldés",
 	"commonValue": "Érték",
