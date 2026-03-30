@@ -28,6 +28,7 @@
 	"commonFilterClick": "คลิกเพื่อกรอง...",
 	"commonFilterEmpty": "ไม่พบรายการที่ตรงกัน",
 	"commonFilterObjects": "ตัวกรอง Objects...",
+	"commonSearchObjects": "Search Objects...",
 	"commonHome": "หน้าแรก",
 	"commonSubmit": "บันทึก",
 	"commonValue": "ค่า",

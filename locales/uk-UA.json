@@ -28,6 +28,7 @@
 	"commonFilterClick": "Натисніть, аби фільтрувати...",
 	"commonFilterEmpty": "Немає збігів із цим фільтром",
 	"commonFilterObjects": "Фільтрувати об'єкти...",
+	"commonSearchObjects": "Search Objects...",
 	"commonHome": "Головна",
 	"commonSubmit": "Підтвердити",
 	"commonValue": "Значення",

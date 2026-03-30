@@ -28,6 +28,7 @@
 	"commonFilterClick": "클릭하여 필터링...",
 	"commonFilterEmpty": "일치하는 항목 없음",
 	"commonFilterObjects": "객체 필터...",
+	"commonSearchObjects": "Search Objects...",
 	"commonHome": "홈",
 	"commonSubmit": "적용",
 	"commonValue": "값",

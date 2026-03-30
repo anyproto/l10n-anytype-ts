@@ -28,6 +28,7 @@
 	"commonFilterClick": "Cliquez pour filtrer...",
 	"commonFilterEmpty": "Aucun élément ne correspond au filtre",
 	"commonFilterObjects": "Filtrer les objets...",
+	"commonSearchObjects": "Search Objects...",
 	"commonHome": "Accueil",
 	"commonSubmit": "Soumettre",
 	"commonValue": "Valeur",
