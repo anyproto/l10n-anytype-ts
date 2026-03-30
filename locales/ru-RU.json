@@ -28,6 +28,7 @@
 	"commonFilterClick": "Отфильтровать",
 	"commonFilterEmpty": "Нет элементов, соответствующих фильтру",
 	"commonFilterObjects": "Фильтровать объекты...",
+	"commonSearchObjects": "Search Objects...",
 	"commonHome": "Главная",
 	"commonSubmit": "Подтвердить",
 	"commonValue": "Значение",
