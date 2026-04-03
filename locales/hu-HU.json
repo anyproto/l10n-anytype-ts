@@ -1,7 +1,7 @@
 {
 	"commonError": "Hiba",
 	"errorBoundaryTitle": "Something went wrong",
-	"errorBoundaryDescription": "An unexpected error occurred. You can copy the details and reload the page.",
+	"errorBoundaryDescription": "Váratlan hiba történt. Másolhatod a részleteket, majd frissítheted az oldalt.",
 	"errorBoundaryReload": "Újratöltés",
 	"commonOr": "vagy",
 	"commonWhere": "Where",
