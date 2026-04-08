@@ -1119,7 +1119,7 @@
 	"popupSpaceCreateMembersLabel": "メンバー",
 	"popupSpaceCreateAddMembers": "メンバーを追加",
 	"popupSpaceCreateNext": "次へ",
-	"popupSpaceCreateContinueWithoutMembers": "Continue without members",
+	"popupSpaceCreateContinueWithoutMembers": "メンバーを追加せず続行",
 	"popupSpaceCreateCancel": "キャンセル",
 	"popupSpaceCreateStep1Title": "メンバーを選んでください",
 	"popupSpaceCreateStep1Placeholder": "名前やユーザー名で検索",
