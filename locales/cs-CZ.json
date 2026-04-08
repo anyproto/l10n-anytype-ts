@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "Odstranit z dotazu",
 	"commonUnlinkFromCollection": "Odstranit z kolekce",
 	"commonDeletedObject": "Neexistující objekty",
-	"commonObjectInBin": "%s %s is in the Bin",
+	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s is in the Bin",
 	"commonObjectRemovedShort": "%s was removed",
 	"commonDeletedType": "Typ smazán",
