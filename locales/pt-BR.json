@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "Remover da Consulta",
 	"commonUnlinkFromCollection": "Remover da Coleção",
 	"commonDeletedObject": "Objeto não existente",
-	"commonObjectInBin": "%s %s está na Lixeira",
+	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s está na Lixeira",
 	"commonObjectRemovedShort": "%s foi removido",
 	"commonDeletedType": "Tipo excluído",

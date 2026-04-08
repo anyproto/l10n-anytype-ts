@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "Aus der Abfrage entfernen",
 	"commonUnlinkFromCollection": "Aus Sammlung entfernen",
 	"commonDeletedObject": "Nicht existentes Objekt",
-	"commonObjectInBin": "%s %s is in the Bin",
+	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s is in the Bin",
 	"commonObjectRemovedShort": "%s was removed",
 	"commonDeletedType": "Gelöschter Typ",

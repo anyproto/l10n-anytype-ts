@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "從查詢中移除",
 	"commonUnlinkFromCollection": "從集錦中移除",
 	"commonDeletedObject": "不存在的物件",
-	"commonObjectInBin": "%s %s 在垃圾桶中",
+	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s 在垃圾桶中",
 	"commonObjectRemovedShort": "%s 已移除",
 	"commonDeletedType": "已刪除的類型",

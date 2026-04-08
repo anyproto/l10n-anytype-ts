@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "Elimină din interogare",
 	"commonUnlinkFromCollection": "Remove from Collection",
 	"commonDeletedObject": "Obiect non-existent",
-	"commonObjectInBin": "%s %s is in the Bin",
+	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s is in the Bin",
 	"commonObjectRemovedShort": "%s was removed",
 	"commonDeletedType": "Tip șters",

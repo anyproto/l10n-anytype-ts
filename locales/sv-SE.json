@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "Ta bort från Fråga",
 	"commonUnlinkFromCollection": "Ta bort från samling",
 	"commonDeletedObject": "Icke existerande objekt",
-	"commonObjectInBin": "%s %s is in the Bin",
+	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s is in the Bin",
 	"commonObjectRemovedShort": "%s was removed",
 	"commonDeletedType": "Borttagen typ",

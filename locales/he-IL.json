@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "הסרה מהשאילתא",
 	"commonUnlinkFromCollection": "הסרה מהאוסף",
 	"commonDeletedObject": "אובייקט לא קיים",
-	"commonObjectInBin": "%s %s is in the Bin",
+	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s is in the Bin",
 	"commonObjectRemovedShort": "%s was removed",
 	"commonDeletedType": "סוג מחוק",

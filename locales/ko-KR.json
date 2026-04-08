@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "쿼리에서 제거",
 	"commonUnlinkFromCollection": "컬렉션에서 제거",
 	"commonDeletedObject": "존재하지 않는 객체",
-	"commonObjectInBin": "%s %s is in the Bin",
+	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s is in the Bin",
 	"commonObjectRemovedShort": "%s was removed",
 	"commonDeletedType": "삭제된 유형",

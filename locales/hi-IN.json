@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "Remove from Query",
 	"commonUnlinkFromCollection": "कलेक्शन से हटाएं",
 	"commonDeletedObject": "अवास्तवी वस्तु",
-	"commonObjectInBin": "%s %s is in the Bin",
+	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s is in the Bin",
 	"commonObjectRemovedShort": "%s was removed",
 	"commonDeletedType": "हटाया हुआ प्रकार",

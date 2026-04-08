@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "Buang daripada Query",
 	"commonUnlinkFromCollection": "Buang daripada Simpanan",
 	"commonDeletedObject": "Objek Tidak Wujud",
-	"commonObjectInBin": "%s %s is in the Bin",
+	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s is in the Bin",
 	"commonObjectRemovedShort": "%s was removed",
 	"commonDeletedType": "Jenis terpadam",

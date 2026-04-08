@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "Rimuovi dalla Query",
 	"commonUnlinkFromCollection": "Rimuovi dalla Collezione",
 	"commonDeletedObject": "Oggetto inesistente",
-	"commonObjectInBin": "%s %s è nel cestino",
+	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s è nel cestino",
 	"commonObjectRemovedShort": "%s è stato rimosso",
 	"commonDeletedType": "Tipo eliminato",

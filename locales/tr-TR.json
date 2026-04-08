@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "Sorgudan sil",
 	"commonUnlinkFromCollection": "Koleksiyondan sil",
 	"commonDeletedObject": "Var olmayan nesne",
-	"commonObjectInBin": "%s %s çöp kutusunda",
+	"commonObjectInBin": "%s \"%s\" çöp kutusunda",
 	"commonObjectInBinShort": "%s çöp kutusunda",
 	"commonObjectRemovedShort": "%s kaldırıldı",
 	"commonDeletedType": "Silinmiş tür",

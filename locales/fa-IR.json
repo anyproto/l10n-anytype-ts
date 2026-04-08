@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "حذف از جستار",
 	"commonUnlinkFromCollection": "حذف از مجموعه",
 	"commonDeletedObject": "شیء ناموجود است",
-	"commonObjectInBin": "%s %s is in the Bin",
+	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s is in the Bin",
 	"commonObjectRemovedShort": "%s was removed",
 	"commonDeletedType": "گونهٔ زدوده‌شده",
