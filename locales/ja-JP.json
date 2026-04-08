@@ -80,7 +80,7 @@
 	"commonUnlinkFromSet": "クエリとのリンク解除",
 	"commonUnlinkFromCollection": "コレクションとのリンク解除",
 	"commonDeletedObject": "存在しないオブジェクト",
-	"commonObjectInBin": "%s %s is in the Bin",
+	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s is in the Bin",
 	"commonObjectRemovedShort": "%s was removed",
 	"commonDeletedType": "削除されたタイプ",
