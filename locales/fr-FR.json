@@ -2531,7 +2531,7 @@
 	"commentSlashMenuAttachments": "Attachments",
 	"commentSlashMenuDecorations": "Décorations",
 	"commentBlockText": "Texte",
-	"commentBlockTextDescription": "Plain text block",
+	"commentBlockTextDescription": "Bloc de texte brut",
 	"commentBlockTitle": "Titre",
 	"commentBlockTitleDescription": "En-tête large",
 	"commentBlockHeading": "En-tête",
