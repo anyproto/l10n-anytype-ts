@@ -790,7 +790,7 @@
 	"blockChatButtonEmoji": "Añadir emoji",
 	"blockChatButtonMention": "Mencionar",
 	"blockChatNewMessages": "Mensajes nuevos",
-	"blockChatPinnedMessage": "Pinned message",
+	"blockChatPinnedMessage": "Mensaje anclado",
 	"blockChatMessageEdited": "editado",
 	"blockChatEditing": "Editando mensaje",
 	"blockChatReplying": "Respondiendo a %s",
