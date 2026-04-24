@@ -1026,7 +1026,7 @@
 	"popupSettingsMembershipCurrentPricePeriod": "por miembro \/ %s",
 	"popupSettingsMembershipSwitchMonthly": "Mensual",
 	"popupSettingsMembershipSwitchAnnual": "Anual <span>-20 %<\/span>",
-	"popupSettingsMembershipSwitchLifetime": "Lifetime",
+	"popupSettingsMembershipSwitchLifetime": "Perpetua",
 	"popupSettingsMembershipJustEmail": "Solo correo electrónico",
 	"popupSettingsMembershipPerGenericSingle": "por %s",
 	"popupSettingsMembershipPerGenericMany": "por %s %s",
