@@ -2080,7 +2080,7 @@
 	"sidebarObjectShow": "보기",
 	"sidebarObjectSort": "정렬",
 	"sidebarObjectOrphan": "링크되지 않음",
-	"sidebarObjectOrphanLabel": "링크되지 않은 객체는 그래프에서 다른 오프젝트와의 직접적인 링크나 백링크가 없습니다.",
+	"sidebarObjectOrphanLabel": "링크되지 않은 객체는 그래프에서 다른 오프젝트와의 직접적인 링크나 역링크가 없습니다.",
 	"sidebarObjectEmptyCreate": "아직 아무 것도 없습니다.<br\/><span class='small'>시작하려면 첫 번째 객체를 만드세요.<\/span>",
 	"sidebarObjectSortCreated": "생성된 날짜",
 	"sidebarObjectSortUpdated": "업데이트된 날짜",
