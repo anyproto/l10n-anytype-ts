@@ -753,6 +753,7 @@
 	"blockEmbedOffline": "Нет подключения к интернету",
 	"blockEmbedUnsupported": "Вставка не поддерживается. Пожалуйста, обновите приложение.",
 	"blockEmbedExternalImage": "Внешнее изображение",
+	"blockEmbedExcalidrawReadonly": "Excalidraw editing has been disabled due to performance issues. Existing diagrams remain viewable.",
 	"blockTableOfContentsAdd": "Добавьте заголовки для создания таблицы содержания",
 	"blockFeaturedQuery": "Выберите запрос",
 	"blockFeaturedIdentity": "Личные данные",
