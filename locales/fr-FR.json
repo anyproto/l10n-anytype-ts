@@ -753,6 +753,7 @@
 	"blockEmbedOffline": "Vous n’êtes pas connecté·e à internet",
 	"blockEmbedUnsupported": "Intégration non prise en charge. Veuillez mettre à jour l'application.",
 	"blockEmbedExternalImage": "Image externe",
+	"blockEmbedExcalidrawReadonly": "Excalidraw editing has been disabled due to performance issues. Existing diagrams remain viewable.",
 	"blockTableOfContentsAdd": "Ajouter des en-têtes pour créer une table des matières",
 	"blockFeaturedQuery": "Sélectionner une requête",
 	"blockFeaturedIdentity": "Identité",
