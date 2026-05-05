@@ -753,6 +753,7 @@
 	"blockEmbedOffline": "未連接網路連接",
 	"blockEmbedUnsupported": "目前版本不支援嵌入。請更新應用程式。",
 	"blockEmbedExternalImage": "外部影像",
+	"blockEmbedExcalidrawReadonly": "Excalidraw editing has been disabled due to performance issues. Existing diagrams remain viewable.",
 	"blockTableOfContentsAdd": "新增標題以建立目錄",
 	"blockFeaturedQuery": "選擇查詢",
 	"blockFeaturedIdentity": "身份識別",
