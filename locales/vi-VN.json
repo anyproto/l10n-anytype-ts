@@ -753,6 +753,7 @@
 	"blockEmbedOffline": "Bạn chưa kết nối với Internet",
 	"blockEmbedUnsupported": "Unsupported embed. Please update the app.",
 	"blockEmbedExternalImage": "Ảnh ngoài",
+	"blockEmbedExcalidrawReadonly": "Excalidraw editing has been disabled due to performance issues. Existing diagrams remain viewable.",
 	"blockTableOfContentsAdd": "Thêm đầu mục để tạo mục lục",
 	"blockFeaturedQuery": "Chọn Truy vấn",
 	"blockFeaturedIdentity": "Danh tính",
