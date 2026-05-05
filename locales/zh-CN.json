@@ -753,6 +753,7 @@
 	"blockEmbedOffline": "您未连接到网络",
 	"blockEmbedUnsupported": "不支持的内嵌内容。请更新应用。",
 	"blockEmbedExternalImage": "外部图像",
+	"blockEmbedExcalidrawReadonly": "Excalidraw editing has been disabled due to performance issues. Existing diagrams remain viewable.",
 	"blockTableOfContentsAdd": "添加标题以创建目录",
 	"blockFeaturedQuery": "选择查询",
 	"blockFeaturedIdentity": "标识",

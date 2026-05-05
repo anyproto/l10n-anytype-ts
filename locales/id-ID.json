@@ -753,6 +753,7 @@
 	"blockEmbedOffline": "Kamu tidak terhubung ke internet",
 	"blockEmbedUnsupported": "Sematan tak didukung. Tolong perbarui aplikasi.",
 	"blockEmbedExternalImage": "Gambar eksternal",
+	"blockEmbedExcalidrawReadonly": "Excalidraw editing has been disabled due to performance issues. Existing diagrams remain viewable.",
 	"blockTableOfContentsAdd": "Tambahkan tajuk untuk membuat daftar isi",
 	"blockFeaturedQuery": "Pilih Daftar",
 	"blockFeaturedIdentity": "Identitas",

@@ -753,6 +753,7 @@
 	"blockEmbedOffline": "No estás conectado a Internet",
 	"blockEmbedUnsupported": "No se admite esta incrustación. Actualiza la aplicación.",
 	"blockEmbedExternalImage": "Imagen externa",
+	"blockEmbedExcalidrawReadonly": "Se ha desactivado la edición de Excalidraw por problemas de rendimiento. Los dibujos existentes seguirán siendo visibles.",
 	"blockTableOfContentsAdd": "Añade títulos para crear un índice",
 	"blockFeaturedQuery": "Seleccionar consulta",
 	"blockFeaturedIdentity": "Identidad",

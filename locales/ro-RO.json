@@ -753,6 +753,7 @@
 	"blockEmbedOffline": "Nu ești conectat la internet.",
 	"blockEmbedUnsupported": "Unsupported embed. Please update the app.",
 	"blockEmbedExternalImage": "Imagine externă",
+	"blockEmbedExcalidrawReadonly": "Excalidraw editing has been disabled due to performance issues. Existing diagrams remain viewable.",
 	"blockTableOfContentsAdd": "Adaugă antete pentru a crea un tabel de conținut",
 	"blockFeaturedQuery": "Select Query",
 	"blockFeaturedIdentity": "Identitate",

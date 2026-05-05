@@ -753,6 +753,7 @@
 	"blockEmbedOffline": "Je bent niet verbonden met het internet",
 	"blockEmbedUnsupported": "Unsupported embed. Please update the app.",
 	"blockEmbedExternalImage": "Externe afbeelding",
+	"blockEmbedExcalidrawReadonly": "Excalidraw editing has been disabled due to performance issues. Existing diagrams remain viewable.",
 	"blockTableOfContentsAdd": "Voeg kopteksten toe om een inhoudsopgave te maken",
 	"blockFeaturedQuery": "Selecteer opdracht",
 	"blockFeaturedIdentity": "Identiteit",

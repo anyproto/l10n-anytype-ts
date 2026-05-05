@@ -753,6 +753,7 @@
 	"blockEmbedOffline": "インターネットに接続されていません",
 	"blockEmbedUnsupported": "埋め込みに対応していません。アプリを更新してください。",
 	"blockEmbedExternalImage": "外部画像",
+	"blockEmbedExcalidrawReadonly": "Excalidraw editing has been disabled due to performance issues. Existing diagrams remain viewable.",
 	"blockTableOfContentsAdd": "目次を作成するために見出しを追加",
 	"blockFeaturedQuery": "クエリ条件を指定",
 	"blockFeaturedIdentity": "ID",

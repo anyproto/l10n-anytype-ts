@@ -753,6 +753,7 @@
 	"blockEmbedOffline": "İnternete bağlı değilsiniz",
 	"blockEmbedUnsupported": "Desteklenmeyen embed. Lütfen uygulamayı güncelle.",
 	"blockEmbedExternalImage": "Harici görüntü",
+	"blockEmbedExcalidrawReadonly": "Performans sorunları nedeniyle Excalidraw düzenleme özelliği devre dışı bırakıldı. Mevcut diyagramlar görüntülenebilir kalmaya devam edecek.",
 	"blockTableOfContentsAdd": "İçindekiler tablosu oluşturmak için başlıklar ekleyin",
 	"blockFeaturedQuery": "Sorgu Seçin",
 	"blockFeaturedIdentity": "Kimlik",
