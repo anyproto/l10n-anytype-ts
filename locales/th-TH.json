@@ -1,7 +1,7 @@
 {
 	"commonError": "เกิดข้อผิดพลาด",
 	"commonOr": "หรือ",
-	"commonWhere": "Where",
+	"commonWhere": "ที่ไหน",
 	"commonMore": "เพิ่มเติม",
 	"commonOf": "ของ",
 	"commonTo": "ถึง",
@@ -63,7 +63,7 @@
 	"commonOpenObject": "เปิดเป็นวัตถุ",
 	"commonClose": "ปิด",
 	"commonRemove": "ลบ",
-	"commonPending": "Pending",
+	"commonPending": "รอดำเนินการ",
 	"commonChange": "เปลี่ยน",
 	"commonName": "ชื่อ",
 	"commonNoObjects": "ไม่มีวัตถุ",
