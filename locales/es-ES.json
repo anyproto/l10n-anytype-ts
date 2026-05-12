@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "Parece que hay problemas de conexión. Puedes seguir usando Anytype y volver dentro de un rato.",
 	"popupSettingsMembershipTeamMessage": "Habla con tu gestor de facturación para cambiar la suscripción.",
 	"popupSettingsMembershipMarketMessage": "Para gestionar tu suscripción, cancela la que tienes activa en %s y compra una nueva desde la aplicación de escritorio. ",
-	"popupSettingsMembershipCryptoMessage": "Para gestionar tu suscripción, dirígete a care@anytype.io",
 	"popupSettingsOnboardingModeTitle": "Red",
 	"popupSettingsOnboardingNetworkTitle": "Configuración autoalojada",
 	"popupSettingsOnboardingStoragePath": "Ubicación de datos del arca",
