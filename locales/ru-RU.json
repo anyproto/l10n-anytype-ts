@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "Похоже, есть проблемы с подключением, вы можете продолжать использовать Anytype и немного вернуться",
 	"popupSettingsMembershipTeamMessage": "Свяжитесь с менеджером выставления счетов, чтобы изменить членство",
 	"popupSettingsMembershipMarketMessage": "Чтобы управлять вашим членством, пожалуйста, отмените вашу активную подписку на %s и приобретите новую подписку через приложение на компьютере",
-	"popupSettingsMembershipCryptoMessage": "Свяжитесь с care@anytype.io для управления вашей подпиской",
 	"popupSettingsOnboardingModeTitle": "Сеть",
 	"popupSettingsOnboardingNetworkTitle": "Конфигурация собственного хостинга",
 	"popupSettingsOnboardingStoragePath": "Место хранения данных",
