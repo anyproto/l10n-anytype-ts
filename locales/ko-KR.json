@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "접속이 불안정한가 봐요. 그동안 Anytype을 사용하는 데는 전혀 문제가 없으니 잠시 후 다시 확인해 주세요.",
 	"popupSettingsMembershipTeamMessage": "멤버십을 변경하려면 결제 관리자에게 문의하세요.",
 	"popupSettingsMembershipMarketMessage": "멤버십 관리를 위하여, %s에서 활성화 한 구독을 취소하시고 데스크탑 앱을 통해 새로 결제 해주세요",
-	"popupSettingsMembershipCryptoMessage": "구독 관리는 care@anytype.io로 문의하세요",
 	"popupSettingsOnboardingModeTitle": "네트워크",
 	"popupSettingsOnboardingNetworkTitle": "자체 호스팅 구성",
 	"popupSettingsOnboardingStoragePath": "보관소 데이터 위치",

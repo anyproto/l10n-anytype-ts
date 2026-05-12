@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "Es sieht aus, als gäbe es Verbindungsprobleme, du kannst Anytype weiternutzen und es später erneut versuchen",
 	"popupSettingsMembershipTeamMessage": "Contact your billing manager to change the membership",
 	"popupSettingsMembershipMarketMessage": "To manage your membership, please cancel your active subscription in %s and purchase a new one via Desktop app",
-	"popupSettingsMembershipCryptoMessage": "Kontaktiere care@anytype.io, um dein Abonnement zu verwalten",
 	"popupSettingsOnboardingModeTitle": "Netzwerk",
 	"popupSettingsOnboardingNetworkTitle": "Selbst gehostete Konfiguration",
 	"popupSettingsOnboardingStoragePath": "Speicherort der Tresordaten",

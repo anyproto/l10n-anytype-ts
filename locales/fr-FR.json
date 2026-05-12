@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "Il semble y avoir un problème de connexion. Vous pouvez continuer à utiliser Anytype en attendant et revenir plus tard.",
 	"popupSettingsMembershipTeamMessage": "Contactez votre responsable de facturation pour changer votre adhésion.",
 	"popupSettingsMembershipMarketMessage": "Pour gérer votre abonnement, veuillez annuler votre offre active dans %s et en souscrire une nouvelle via l'application pour ordinateur.",
-	"popupSettingsMembershipCryptoMessage": "Contactez care@anytype.io pour gérer votre abonnement",
 	"popupSettingsOnboardingModeTitle": "Réseau",
 	"popupSettingsOnboardingNetworkTitle": "Configuration auto-hébergée",
 	"popupSettingsOnboardingStoragePath": "Emplacement des données de l'espace",

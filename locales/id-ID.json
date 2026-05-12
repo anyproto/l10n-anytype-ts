@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "Sepertinya ada masalah koneksi, Anda tetap dapat menggunakan Anytype sementara ini dan coba kembali nanti",
 	"popupSettingsMembershipTeamMessage": "Hubungi pengelola penagihan Anda untuk mengubah keanggotaan",
 	"popupSettingsMembershipMarketMessage": "Untuk mengelola keanggotaan Anda, silakan batalkan langganan aktif Anda di %s dan beli langganan baru melalui aplikasi Desktop.",
-	"popupSettingsMembershipCryptoMessage": "Hubungi care@anytype.io untuk mengelola langganan Anda",
 	"popupSettingsOnboardingModeTitle": "Jaringan",
 	"popupSettingsOnboardingNetworkTitle": "Konfigurasi swaladen (self-hosted)",
 	"popupSettingsOnboardingStoragePath": "Lokasi Data Brankas",

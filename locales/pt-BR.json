@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "Parece que há problemas de conexão, você pode continuar usando o Anytype por enquanto e voltar daqui a pouco",
 	"popupSettingsMembershipTeamMessage": "Entre em contato com seu gerente de cobrança para mudar a assinatura",
 	"popupSettingsMembershipMarketMessage": "Para gerenciar seu plano, cancele sua assinatura ativa em %s e adquira uma nova pelo aplicativo no computador",
-	"popupSettingsMembershipCryptoMessage": "Entre em contato com care@anytype.io para gerenciar sua assinatura",
 	"popupSettingsOnboardingModeTitle": "Rede",
 	"popupSettingsOnboardingNetworkTitle": "Configuração Auto-hospedada",
 	"popupSettingsOnboardingStoragePath": "Localização do Cofre de Dados",
