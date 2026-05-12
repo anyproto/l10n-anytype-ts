@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "似乎發生了連線問題，你可以同時繼續使用Anytype並稍後再查看",
 	"popupSettingsMembershipTeamMessage": "請查詢您的帳單來變更會員資格。",
 	"popupSettingsMembershipMarketMessage": "若要管理您的會員資格，請在 %s 取消現有的訂閱方案，然後透過桌面版應用程式購買新的方案。",
-	"popupSettingsMembershipCryptoMessage": "請聯繫care@anytype.io以管理您的訂閱服務",
 	"popupSettingsOnboardingModeTitle": "網路",
 	"popupSettingsOnboardingNetworkTitle": "自部署的配置",
 	"popupSettingsOnboardingStoragePath": "筆記庫資料儲存路徑",
