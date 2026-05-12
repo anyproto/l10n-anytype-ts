@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "Ser ud til, at der er forbindelsesproblemer. Man kan fortsætte med at bruge Anytype og vende tilbage om lidt",
 	"popupSettingsMembershipTeamMessage": "Kontakt faktureringsadministratoren for at ændre medlemskabet",
 	"popupSettingsMembershipMarketMessage": "For at håndtere medlemskabet, annullér først det aktive abonnement i %s og køb et nyt via computer-appen",
-	"popupSettingsMembershipCryptoMessage": "Kontakt care@anytype.io for at håndtere abonnementet",
 	"popupSettingsOnboardingModeTitle": "Netværk",
 	"popupSettingsOnboardingNetworkTitle": "Selv-hostet opsætning",
 	"popupSettingsOnboardingStoragePath": "Boks-dataplacering",
