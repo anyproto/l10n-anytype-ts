@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "Parece que existem problemas de ligação, podes continuar a usar o Anytype enquanto isso e voltar daqui a pouco.",
 	"popupSettingsMembershipTeamMessage": "Contacta o teu gestor de facturação para alterares a adesão.",
 	"popupSettingsMembershipMarketMessage": "Para gerires a tua adesão, por favor cancela a tua subscrição activa em %s e adquire uma nova através da aplicação para computador.",
-	"popupSettingsMembershipCryptoMessage": "Contacta care@anytype.io para gerires a tua subscrição.",
 	"popupSettingsOnboardingModeTitle": "Rede",
 	"popupSettingsOnboardingNetworkTitle": "Configuração em alojamento próprio",
 	"popupSettingsOnboardingStoragePath": "Localização dos Dados do Cofre",
