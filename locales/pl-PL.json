@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "Wygląda na to, że istnieją problemy z połączeniem, możesz nadal używać Anytype i wrócić za chwilę",
 	"popupSettingsMembershipTeamMessage": "Skontaktuj się z menedżerem rachunków, aby zmienić członkostwo",
 	"popupSettingsMembershipMarketMessage": "Aby zarządzać swoim członkostwem, anuluj swoją aktywną subskrypcję w %s i kup nową subskrypcję za pośrednictwem aplikacji na komputer",
-	"popupSettingsMembershipCryptoMessage": "Skontaktuj się z care@anytype.io, aby zarządzać subskrypcją",
 	"popupSettingsOnboardingModeTitle": "Sieć",
 	"popupSettingsOnboardingNetworkTitle": "Konfiguracja z własnym hostingiem",
 	"popupSettingsOnboardingStoragePath": "Lokalizacja danych programu Vault",
