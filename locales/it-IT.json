@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "Sembra che ci siano problemi di connessione, è possibile continuare a usare Anytype nel frattempo e tornare fra un po'",
 	"popupSettingsMembershipTeamMessage": "Contatta il tuo gestore di fatturazione per modificare l'iscrizione",
 	"popupSettingsMembershipMarketMessage": "Per gestire la tua iscrizione, annulla l'abbonamento attivo in %s e acquista uno nuovo tramite l'app Desktop",
-	"popupSettingsMembershipCryptoMessage": "Contatta care@anytype.io per gestire il tuo abbonamento",
 	"popupSettingsOnboardingModeTitle": "Rete",
 	"popupSettingsOnboardingNetworkTitle": "Configurazione Self-hosted",
 	"popupSettingsOnboardingStoragePath": "Posizione dei Dati della Cassaforte",
