@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "看起来存在连接问题，您可以在此期间继续使用 Anytype，稍后再回来",
 	"popupSettingsMembershipTeamMessage": "请联系您的账单管理员以更改会员资格",
 	"popupSettingsMembershipMarketMessage": "要管理您的会员资格，请在 %s 中取消您的有效订阅，并通过桌面应用购买新的订阅",
-	"popupSettingsMembershipCryptoMessage": "请联系 care@anytype.io 以管理您的订阅",
 	"popupSettingsOnboardingModeTitle": "网络",
 	"popupSettingsOnboardingNetworkTitle": "自托管设置",
 	"popupSettingsOnboardingStoragePath": "库的数据存储路径",
