@@ -1056,7 +1056,6 @@
 	"popupSettingsMembershipLoaderText2": "接続エラーが発生しているようです。Anytypeはそのままお使いいただけますので、少し待ってからもう一度開いてみてください。",
 	"popupSettingsMembershipTeamMessage": "プランを変更するには、請求管理者にお問い合わせください。",
 	"popupSettingsMembershipMarketMessage": "プランを管理するには、%sでのご利用中のサブスクリプションを解約いただき、デスクトップアプリから再度ご購入ください。",
-	"popupSettingsMembershipCryptoMessage": "サブスクリプションの管理については、care@anytype.io までお問い合わせください。",
 	"popupSettingsOnboardingModeTitle": "ネットワーク",
 	"popupSettingsOnboardingNetworkTitle": "セルフホストの設定",
 	"popupSettingsOnboardingStoragePath": "保管庫の保存場所",
