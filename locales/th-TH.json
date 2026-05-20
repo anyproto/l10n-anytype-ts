@@ -83,7 +83,7 @@
 	"commonDeletedObject": "Deleted",
 	"commonObjectInBin": "%s \"%s\" is in the Bin",
 	"commonObjectInBinShort": "%s is in the Bin",
-	"commonObjectRemovedShort": "%s was removed",
+	"commonObjectRemovedShort": "%s ถูกลบออก",
 	"commonDeletedType": "หมวดหมู่ที่ถูกลบ",
 	"commonDeletedRelation": "ลบความสัมพันธ์",
 	"commonSort": "เรียงตาม",
