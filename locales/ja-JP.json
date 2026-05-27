@@ -2572,7 +2572,7 @@
 	"membershipFeatureSharedSpaces": "共有スペース数 : %s",
 	"membershipFeaturePrivateSpaces": "非公開スペース数 : %s",
 	"membershipFeatureTeamSeats": "メンバー数",
-	"membershipFeatureAnyNameCount": "ご利用いただけます",
+	"membershipFeatureAnyNameCount": "Any名の取得",
 	"membershipFeatureAnyNameMinLen": "%s文字以上の.any名",
 	"membershipPeriod0": "無期限",
 	"membershipPeriod1": "毎月",
