@@ -1219,7 +1219,7 @@
 	"popupConfirmConfirmationText": "다음 텍스트를 입력해서 확인하세요.",
 	"popupConfirmConfirmationTextError": "텍스트가 일치하지 않습니다.",
 	"popupConfirmUpdatePromptCancel": "다음에 알리기",
-	"popupConfirmUpdateDoneTitle": "최신 버전",
+	"popupConfirmUpdateDoneTitle": "업데이트 완료!",
 	"popupConfirmUpdateDoneText": "최신 버전을 사용 중입니다: %s",
 	"popupConfirmUpdateDoneOk": "좋습니다!",
 	"popupConfirmUpdateErrorTitle": "이런!",
