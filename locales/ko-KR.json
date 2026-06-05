@@ -464,7 +464,7 @@
 	"progressRecoverAccount": "이전 중...",
 	"progressUpdate": "업데이트 중...",
 	"progressUpdateDownloading": "업데이트 다운로드 중",
-	"progressProcessing": "%s 아이템 처리 중...",
+	"progressProcessing": "항목 %s개 처리 중...",
 	"progressStatusDropFiles": "복사 중",
 	"progressStatusImport": "가져오는 중",
 	"progressStatusExport": "내보내는 중",
