@@ -1712,7 +1712,7 @@
 	"menuDataviewCreateBookmarkContent": "Sayfa içeriğini dahil et",
 	"menuDataviewCreateBookmarkError": "URL ayrıştırılırken hata oluştu",
 	"menuObjectContextNoAvailableActions": "Uygun eylem yok",
-	"menuObjectContextUnlinkFromCollection": "Koleksiyondan bağlantıyı kaldır",
+	"menuObjectContextUnlinkFromCollection": "Koleksiyondan kaldır",
 	"menuObjectContextTryAgain": "Lütfen tekrar deneyin",
 	"menuObjectContextEditRelations": "Özellikleri Düzenle",
 	"menuDataviewCreateSomethingWentWrong": "Hay aksi bir şeyler ters gitti!",
