@@ -78,7 +78,7 @@
 	"commonUnlink": "Отвязать",
 	"commonUnlinkFromType": "Удалить из типа",
 	"commonUnlinkFromObject": "Удалить из объекта",
-	"commonUnlinkFromSet": "Удалить из запроса",
+	"commonUnlinkFromSet": "Remove from Query",
 	"commonUnlinkFromCollection": "Удалить из коллекции",
 	"commonDeletedObject": "Deleted",
 	"commonObjectInBin": "%s \"%s\" is in the Bin",
