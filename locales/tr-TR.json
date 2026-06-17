@@ -2173,7 +2173,7 @@
 	"sidebarMenuSpaceCreateTitleGroup": "Grup",
 	"sidebarMenuSpaceCreateTitleJoin": "Davet bağlantısıyla katıl",
 	"sidebarTemplateEmpty": "Burada henüz Şablon yok",
-	"unsplashString": "Eser sahibi; %s platformundan %s",
+	"unsplashString": "Fotoğraf sahibi: %s, %s platformundan",
 	"templateBannner": "Bir şablon düzenliyorsunuz",
 	"deletedBanner": "Bu nesne şu anda çöp Kutusunda ve sadece görünüm modunda gösterilir",
 	"deletedBannerRestore": "Geri yükle",
