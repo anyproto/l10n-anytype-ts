@@ -796,7 +796,7 @@
 	"blockEmbedOffline": "Não estás ligado à Internet",
 	"blockEmbedUnsupported": "Conteúdo incorporado não suportado. Por favor, actualiza a aplicação",
 	"blockEmbedExternalImage": "Imagem externa",
-	"blockEmbedExcalidrawReadonly": "Excalidraw editing has been disabled due to performance issues. Existing diagrams remain viewable.",
+	"blockEmbedExcalidrawReadonly": "A edição de Excalidraw foi desativada devido a problemas de desempenho. Os diagramas existentes continuam a poder ser visualizados.",
 	"blockTableOfContentsAdd": "diciona cabeçalhos para criares um índice",
 	"blockFeaturedQuery": "Select Query",
 	"blockFeaturedIdentity": "Identidade",
