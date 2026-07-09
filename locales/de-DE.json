@@ -1087,7 +1087,7 @@
 	"popupSettingsMembershipFAQ": "FAQ",
 	"popupSettingsMembershipPrivacyPolicy": "Datenschutzrichtlinie",
 	"popupSettingsMembershipTermsAndConditions": "Allgemeine Geschäftsbedingungen",
-	"popupSettingsMembershipCurrentTier": "Du nutzt momentan den %s %s Plan.",
+	"popupSettingsMembershipCurrentTier": "Du nutzt aktuell den %s-Plan mit %s Abrechnung.",
 	"popupSettingsMembershipNextPayment": "Nächste Zahlung: %s am %s",
 	"popupSettingsMembershipManage": "Verwalten",
 	"popupSettingsMembershipSelectAnyNameTitle": "Wähle deinen .any Namen",
