@@ -1977,6 +1977,8 @@
 	"toastSetFileDrop": "Sorgulara doğrudan dosya ekleyemezsin. Bunun yerine koleksiyonu deneyin",
 	"toastFileLimitReached": "Yerel depolama alanınız senkronizasyon sınırını aşıyor. Yerel olarak depolanan dosyalar senkronize edilmeyecek.",
 	"toastChatAttachmentsLimitReached": "Bir seferde yalnızca %s %s yükleyebilirsiniz",
+	"toastChatUploadFailed": "Bazı ekler yüklenemedi. Mesaj gönderilemedi",
+	"toastChatSendFailed": "Mesaj gönderilemedi. Lütfen tekrar dene",
 	"toastWidget": "<b>%s<\/b> Widget'ı eklendi",
 	"toastJoinSpace": "<b>%s<\/b> alanına katıldınız",
 	"toastSpaceIsPrivate": "Bu alan artık özel",
