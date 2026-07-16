@@ -1977,6 +1977,8 @@
 	"toastSetFileDrop": "Non è possibile aggiungere file direttamente nelle query. Prova invece le collezioni",
 	"toastFileLimitReached": "La memoria locale supera il limite di sincronizzazione. I file memorizzati localmente non saranno sincronizzati",
 	"toastChatAttachmentsLimitReached": "È possibile caricare solo %s %s alla volta",
+	"toastChatUploadFailed": "Some attachments failed to upload. The message was not sent",
+	"toastChatSendFailed": "The message could not be sent. Please try again",
 	"toastWidget": "Il Widget <b>%s<\/b> è stato aggiunto",
 	"toastJoinSpace": "Ti sei unito a <b>%s<\/b>",
 	"toastSpaceIsPrivate": "Questo spazio è ora privato",
