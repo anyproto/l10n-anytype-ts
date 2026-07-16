@@ -1977,6 +1977,8 @@
 	"toastSetFileDrop": "Não podes adicionar ficheiros directamente em consultas. Tenta antes uma colecção",
 	"toastFileLimitReached": "O teu armazenamento local excede o limite de sincronização. Os ficheiros guardados localmente não serão sincronizados.",
 	"toastChatAttachmentsLimitReached": "Só podes carregar %s %s de cada vez",
+	"toastChatUploadFailed": "Some attachments failed to upload. The message was not sent",
+	"toastChatSendFailed": "The message could not be sent. Please try again",
 	"toastWidget": "A mini-aplicação <b>%s<\/b> foi adicionada",
 	"toastJoinSpace": "Aderiste a %s",
 	"toastSpaceIsPrivate": "Este espaço é agora privado",
