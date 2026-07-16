@@ -1977,6 +1977,8 @@
 	"toastSetFileDrop": "쿼리에는 직접 파일을 추가할 수 없습니다. 컬렉션을 사용해 보세요",
 	"toastFileLimitReached": "로컬 저장소의 동기화 한도를 초과했습니다. 로컬에 저장된 파일이 동기화되지 않습니다",
 	"toastChatAttachmentsLimitReached": "한 번에 %s %s만 업로드할 수 있음",
+	"toastChatUploadFailed": "Some attachments failed to upload. The message was not sent",
+	"toastChatSendFailed": "The message could not be sent. Please try again",
 	"toastWidget": "<b>%s<\/b> 위젯이 추가됨",
 	"toastJoinSpace": "<b>%s<\/b>에 참여함",
 	"toastSpaceIsPrivate": "개인 스페이스로 전환되었습니다",
