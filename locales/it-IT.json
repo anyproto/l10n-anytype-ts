@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "Passa alla vista compatta",
 	"binSwitchToDetailed": "Passa alla vista dettagliata",
 	"binStackCount": "+%d",
-	"binCleanupTab": "Cleanup suggestions",
+	"binCleanupTab": "Pulizia",
 	"binCleanupDescription": "Objects and files no longer linked to the object they were created in, and not used in any other object.",
 	"binCleanupCreatedIn": "Created in",
 	"binCleanupLinkRemovedFrom": "Link removed from",
 	"binCleanupContextDeleted": "Deleted object",
-	"binCleanupIgnore": "Keep it",
+	"binCleanupIgnore": "Ignora suggerimento",
 	"binDeleteDisabledTooltip": "Puoi eliminare solo gli oggetti che hai creato"
 }

@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "Beralih ke tampilan ringkas",
 	"binSwitchToDetailed": "Beralih ke tampilan detail",
 	"binStackCount": "+%d",
-	"binCleanupTab": "Saran pembersihan",
+	"binCleanupTab": "Pembersihan",
 	"binCleanupDescription": "Objek dan berkas yang tidak lagi tertaut ke objek tempat asal pembuatannya, dan tidak digunakan di objek lain mana pun.",
 	"binCleanupCreatedIn": "Dibuat di",
 	"binCleanupLinkRemovedFrom": "Tautan dihapus dari",
 	"binCleanupContextDeleted": "Objek terhapus",
-	"binCleanupIgnore": "Simpan",
+	"binCleanupIgnore": "Abaikan saran",
 	"binDeleteDisabledTooltip": "Kamu hanya bisa menghapus objek yang kamu buat"
 }

@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "Cambiar a vista compacta",
 	"binSwitchToDetailed": "Cambiar a vista detallada",
 	"binStackCount": "+%d",
-	"binCleanupTab": "Sugerencias de limpieza",
+	"binCleanupTab": "Limpieza",
 	"binCleanupDescription": "Objetos y archivos que ya no están vinculados al objeto en el que se crearon ni se usan en otro objeto.",
 	"binCleanupCreatedIn": "Creado en",
 	"binCleanupLinkRemovedFrom": "Enlace eliminado de",
 	"binCleanupContextDeleted": "Objeto eliminado",
-	"binCleanupIgnore": "Conservar",
+	"binCleanupIgnore": "Descartar sugerencia",
 	"binDeleteDisabledTooltip": "Solo puedes eliminar los objetos que hayas creado tú"
 }

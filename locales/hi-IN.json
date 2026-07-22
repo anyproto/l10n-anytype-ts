@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "कॉम्पैक्ट व्यू पर स्विच करें",
 	"binSwitchToDetailed": "विस्तृत व्यू पर स्विच करें",
 	"binStackCount": "+%d",
-	"binCleanupTab": "क्लीनअप सुझाव",
+	"binCleanupTab": "क्लीनअप",
 	"binCleanupDescription": "ऐसे ऑब्जेक्ट और फ़ाइलें जो अब उस ऑब्जेक्ट से लिंक नहीं हैं जिसमें वे बनाए गए थे, और किसी अन्य ऑब्जेक्ट में उपयोग नहीं की गई हैं।",
 	"binCleanupCreatedIn": "में बनाया गया",
 	"binCleanupLinkRemovedFrom": "से लिंक हटाया गया",
 	"binCleanupContextDeleted": "हटाया गया ऑब्जेक्ट",
-	"binCleanupIgnore": "इसे रखें",
+	"binCleanupIgnore": "सुझाव खारिज करें",
 	"binDeleteDisabledTooltip": "आप केवल अपने द्वारा बनाए गए ऑब्जेक्ट ही हटा सकते हैं"
 }

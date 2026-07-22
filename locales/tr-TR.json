@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "Derli toplu görünüme geç",
 	"binSwitchToDetailed": "Ayrıntılı görünüme geç",
 	"binStackCount": "+%d",
-	"binCleanupTab": "Temizleme önerileri",
+	"binCleanupTab": "Temizlik",
 	"binCleanupDescription": "Oluşturuldukları nesneyle artık bağlantılı olmayan ve başka hiçbir nesnede kullanılmayan nesneler ve dosyalar.",
 	"binCleanupCreatedIn": "Oluşturulma",
 	"binCleanupLinkRemovedFrom": "Bağlantı şu adresten kaldırıldı",
 	"binCleanupContextDeleted": "Silinen nesne",
-	"binCleanupIgnore": "Sakla",
+	"binCleanupIgnore": "Öneriyi reddet",
 	"binDeleteDisabledTooltip": "Sadece kendi oluşturduğun nesneleri silebilirsin"
 }

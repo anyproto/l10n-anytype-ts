@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "Overschakelen naar compacte weergave",
 	"binSwitchToDetailed": "Overschakelen naar gedetailleerde weergave",
 	"binStackCount": "+%d",
-	"binCleanupTab": "Opschoonsuggesties",
+	"binCleanupTab": "Opschonen",
 	"binCleanupDescription": "Objecten en bestanden die niet meer gekoppeld zijn aan het object waarin ze zijn gemaakt en die in geen enkel ander object worden gebruikt.",
 	"binCleanupCreatedIn": "Gemaakt in",
 	"binCleanupLinkRemovedFrom": "Link verwijderd uit",
 	"binCleanupContextDeleted": "Verwijderd object",
-	"binCleanupIgnore": "Behouden",
+	"binCleanupIgnore": "Suggestie negeren",
 	"binDeleteDisabledTooltip": "Je kunt alleen objecten verwijderen die je zelf hebt gemaakt"
 }

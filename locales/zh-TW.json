@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "切換到精簡視圖",
 	"binSwitchToDetailed": "切換到詳細視圖",
 	"binStackCount": "+%d",
-	"binCleanupTab": "清理建議",
+	"binCleanupTab": "清理",
 	"binCleanupDescription": "不再連結到其原始建立物件，且未在任何其他物件中使用的物件與檔案。",
 	"binCleanupCreatedIn": "創建於",
 	"binCleanupLinkRemovedFrom": "已從以下項目移除連結",
 	"binCleanupContextDeleted": "刪除物件",
-	"binCleanupIgnore": "保留",
+	"binCleanupIgnore": "忽略建議",
 	"binDeleteDisabledTooltip": "你只能刪除你所建立的物件。"
 }

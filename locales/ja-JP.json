@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "コンパクト表示に切り替え",
 	"binSwitchToDetailed": "詳細表示に切り替え",
 	"binStackCount": "%d件",
-	"binCleanupTab": "クリーンアップの提案",
+	"binCleanupTab": "クリーンアップ",
 	"binCleanupDescription": "作成元のオブジェクトとのリンクが解除され、他のどのオブジェクトでも使用されていないオブジェクトとファイル。",
 	"binCleanupCreatedIn": "作成元",
 	"binCleanupLinkRemovedFrom": "リンクの削除元",
 	"binCleanupContextDeleted": "削除されたオブジェクト",
-	"binCleanupIgnore": "残す",
+	"binCleanupIgnore": "提案を却下",
 	"binDeleteDisabledTooltip": "他のユーザーが作成したオブジェクトは削除できません"
 }
