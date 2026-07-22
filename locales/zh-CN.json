@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "切换到紧凑视图",
 	"binSwitchToDetailed": "切换到详细信息视图",
 	"binStackCount": "+%d",
-	"binCleanupTab": "清理建议",
+	"binCleanupTab": "清理",
 	"binCleanupDescription": "已不再关联到创建它们的对象，且未被任何其他对象使用的对象和文件。",
 	"binCleanupCreatedIn": "创建于",
 	"binCleanupLinkRemovedFrom": "已取消关联",
 	"binCleanupContextDeleted": "已删除的对象",
-	"binCleanupIgnore": "保留",
+	"binCleanupIgnore": "忽略建议",
 	"binDeleteDisabledTooltip": "您只能删除您创建的对象"
 }

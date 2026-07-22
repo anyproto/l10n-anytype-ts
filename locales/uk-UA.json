@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "Перемкнути на компактне подання",
 	"binSwitchToDetailed": "Перемкнути на детальне подання",
 	"binStackCount": "+%d",
-	"binCleanupTab": "Пропозиції з очищення",
+	"binCleanupTab": "Очищення",
 	"binCleanupDescription": "Об'єкти та файли, більше не пов'язані з об'єктом, у якому їх створено, і не використовувані в жодному іншому об'єкті.",
 	"binCleanupCreatedIn": "Створено в",
 	"binCleanupLinkRemovedFrom": "Посилання вилучено з",
 	"binCleanupContextDeleted": "Видалений об'єкт",
-	"binCleanupIgnore": "Залишити",
+	"binCleanupIgnore": "Відхилити пропозицію",
 	"binDeleteDisabledTooltip": "Ви можете видаляти лише об'єкти, які створили ви"
 }

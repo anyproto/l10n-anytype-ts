@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "요약 보기로 전환",
 	"binSwitchToDetailed": "상세 보기로 전환",
 	"binStackCount": "+%d",
-	"binCleanupTab": "Cleanup suggestions",
+	"binCleanupTab": "정리",
 	"binCleanupDescription": "Objects and files no longer linked to the object they were created in, and not used in any other object.",
 	"binCleanupCreatedIn": "Created in",
 	"binCleanupLinkRemovedFrom": "Link removed from",
 	"binCleanupContextDeleted": "Deleted object",
-	"binCleanupIgnore": "Keep it",
+	"binCleanupIgnore": "제안 무시",
 	"binDeleteDisabledTooltip": "자신이 만든 객체만 삭제할 수 있습니다."
 }

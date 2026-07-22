@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "Switch to compact view",
 	"binSwitchToDetailed": "Váltás részletes nézetre",
 	"binStackCount": "+%d",
-	"binCleanupTab": "Cleanup suggestions",
+	"binCleanupTab": "Tisztítás",
 	"binCleanupDescription": "Objects and files no longer linked to the object they were created in, and not used in any other object.",
 	"binCleanupCreatedIn": "Created in",
 	"binCleanupLinkRemovedFrom": "Link removed from",
 	"binCleanupContextDeleted": "Deleted object",
-	"binCleanupIgnore": "Keep it",
+	"binCleanupIgnore": "Javaslat elvetése",
 	"binDeleteDisabledTooltip": "Csak az általad létrehozott objektumokat törölheted"
 }

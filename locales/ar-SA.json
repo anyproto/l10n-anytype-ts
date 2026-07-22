@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "التبديل إلى عرض مدمج",
 	"binSwitchToDetailed": "التبديل إلى عرض مفصل",
 	"binStackCount": "+%d",
-	"binCleanupTab": "Cleanup suggestions",
+	"binCleanupTab": "تنظيف",
 	"binCleanupDescription": "Objects and files no longer linked to the object they were created in, and not used in any other object.",
 	"binCleanupCreatedIn": "Created in",
 	"binCleanupLinkRemovedFrom": "Link removed from",
 	"binCleanupContextDeleted": "Deleted object",
-	"binCleanupIgnore": "Keep it",
+	"binCleanupIgnore": "تجاهل الاقتراح",
 	"binDeleteDisabledTooltip": "تستطيع فقط حذف الأشياء التي قمت بإنشائها"
 }

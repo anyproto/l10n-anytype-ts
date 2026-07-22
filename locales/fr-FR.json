@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "Passer à la vue compacte",
 	"binSwitchToDetailed": "Passer à la vue détaillée",
 	"binStackCount": "+%d",
-	"binCleanupTab": "Suggestions de nettoyage",
+	"binCleanupTab": "Nettoyage",
 	"binCleanupDescription": "Les objets et les fichiers ne sont plus liés à l'objet dans lequel ils ont été créés et ne sont plus utilisés dans aucun autre objet.",
 	"binCleanupCreatedIn": "Créé en",
 	"binCleanupLinkRemovedFrom": "Lien supprimé de",
 	"binCleanupContextDeleted": "Objet supprimé",
-	"binCleanupIgnore": "Conserver",
+	"binCleanupIgnore": "Ignorer la suggestion",
 	"binDeleteDisabledTooltip": "Vous pouvez seulement supprimer les objets que vous avez créés"
 }

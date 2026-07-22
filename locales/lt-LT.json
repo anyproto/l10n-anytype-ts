@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "Perjungti į kompaktišką rodinį",
 	"binSwitchToDetailed": "Perjungti į išsamų rodinį",
 	"binStackCount": "+%d",
-	"binCleanupTab": "Valymo pasiūlymai",
+	"binCleanupTab": "Valymas",
 	"binCleanupDescription": "Objektai ir failai, nebesusieti su objektu, kuriame buvo sukurti, ir nenaudojami jokiame kitame objekte.",
 	"binCleanupCreatedIn": "Sukurta",
 	"binCleanupLinkRemovedFrom": "Nuoroda pašalinta iš",
 	"binCleanupContextDeleted": "Ištrintas objektas",
-	"binCleanupIgnore": "Palikti",
+	"binCleanupIgnore": "Atmesti pasiūlymą",
 	"binDeleteDisabledTooltip": "Gali ištrinti tik savo sukurtus objektus"
 }

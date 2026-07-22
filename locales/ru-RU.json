@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "Переключить на компактный вид",
 	"binSwitchToDetailed": "Переключить на подробный вид",
 	"binStackCount": "+%d",
-	"binCleanupTab": "Предложения по очистке",
+	"binCleanupTab": "Очистка",
 	"binCleanupDescription": "Объекты и файлы, больше не связанные с объектом, в котором они были созданы, и не используемые ни в одном другом объекте.",
 	"binCleanupCreatedIn": "Создано в",
 	"binCleanupLinkRemovedFrom": "Ссылка удалена из",
 	"binCleanupContextDeleted": "Удалённый объект",
-	"binCleanupIgnore": "Оставить",
+	"binCleanupIgnore": "Отклонить предложение",
 	"binDeleteDisabledTooltip": "Вы можете удалять только созданные вами объекты"
 }

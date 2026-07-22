@@ -2702,11 +2702,11 @@
 	"binSwitchToCompact": "Skift til kompakt visning",
 	"binSwitchToDetailed": "Skift til detaljeret visning",
 	"binStackCount": "+%d",
-	"binCleanupTab": "Oprydningsforslag",
+	"binCleanupTab": "Oprydning",
 	"binCleanupDescription": "Objekter og filer, der ikke længere er knyttet til det objekt, de blev oprettet i, og ikke bruges i noget andet objekt.",
 	"binCleanupCreatedIn": "Oprettet i",
 	"binCleanupLinkRemovedFrom": "Link fjernet fra",
 	"binCleanupContextDeleted": "Slettet objekt",
-	"binCleanupIgnore": "Behold det",
+	"binCleanupIgnore": "Afvis forslag",
 	"binDeleteDisabledTooltip": "Du kan kun slette objekter, du selv har oprettet"
 }
