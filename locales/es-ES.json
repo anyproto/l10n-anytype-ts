@@ -1186,7 +1186,7 @@
 	"popupSettingsImportObsidianList22": "<ul><li>Algunas plataformas, como Linux y Windows, no admiten la selección de carpetas. En ese caso, comprime la carpeta en un archivo .zip e importa ese archivo.<\/li><li>Anytype procesará tus archivos y creará automáticamente un objeto por cada archivo de Markdown.<\/li><\/ul>",
 	"popupSettingsImportObsidianList31": "Asignación de contenido",
 	"popupSettingsImportObsidianList32": "<ul><li>Los [[enlaces internos]] → se convierten en enlaces a los objetos de Anytype, de modo que se mantiene la conexión entre tus notas.<\/li><li>La sección Frontmatter (los metadatos entre --- en la paste superior) → se convierten en propiedades del objeto.<\/li><\/ul>",
-	"popupSettingsPinCheckTimeOut": "Tiempo agotado para la comprobación del código PIN",
+	"popupSettingsPinCheckTimeOut": "Plazo de tiempo para pedir el código PIN",
 	"popupLogoutTitle": "Asegúrate de guardar tu clave de acceso",
 	"popupLogoutText": "No tenemos forma de recuperar la clave con la que inicias la sesión, ya que solo la conoces tú. Por favor, guárdala antes de cerrar la sesión.",
 	"popupLogoutLogoutButton": "Cerrar sesión",
