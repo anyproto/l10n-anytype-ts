@@ -1931,7 +1931,7 @@
 	"menuDataviewSortShowEmptyTop": "Al principio",
 	"menuDataviewSortShowEmptyBottom": "Al final",
 	"menuDataviewSourceSelectOneOrMoreSources": "Selecciona uno o más orígenes",
-	"menuDataviewSourceEmptySourceLabel": "Selecciona el parámetro por el que reunirás los objetos",
+	"menuDataviewSourceEmptySourceLabel": "Elige el criterio que seleccionará los objetos",
 	"menuDataviewViewEditCover": "Portada",
 	"menuDataviewViewEditCardSize": "Tamaño de tarjeta",
 	"menuDataviewViewEditListSize": "Tamaño",
