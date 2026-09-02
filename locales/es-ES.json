@@ -810,7 +810,7 @@
 	"blockBookmarkError": "Hubo un error al obtener el URL",
 	"blockEmbedLatexPlaceholder": "Introduce texto en formato LaTeX",
 	"blockEmbedPlaceholder": "Introduce el código de incrustación de %s",
-	"blockEmbedLatexTemplate": "Fórmula de plantilla",
+	"blockEmbedLatexTemplate": "Plantillas de fórmula",
 	"blockEmbedLatexEmpty": "La ecuación se representará aquí con <span class='icon tex'><\/span>. Haz clic para editarla.",
 	"blockEmbedEmpty": "El bloque incrustado de %s está vacío. Haz clic para editarlo.",
 	"blockEmbedSource": "Origen",
