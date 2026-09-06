@@ -496,7 +496,7 @@
 	"authInviteEmpty": "Il codice di invito è vuoto",
 	"authSelectIntroLine1": "un rifugio sicuro",
 	"authSelectIntroLine2": "per la collaborazione digitale",
-	"authSelectLogin": "Ho già una Chiave",
+	"authSelectLogin": "Ho già la chiave",
 	"authSelectSignup": "Sono nuovo qui",
 	"authDisclaimer": "Continuando accetterai i nostri <a href=\"%s\">Termini di Utilizzo<\/a> e la nostra <a href=\"%s\">Informativa sulla privacy<\/a>",
 	"onboardEmailDisclaimer": "Cliccando su Continua, accetti di ricevere email da Anytype. Puoi annullare l'iscrizione in qualsiasi momento.",
