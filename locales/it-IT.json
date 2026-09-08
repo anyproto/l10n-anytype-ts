@@ -2070,7 +2070,7 @@
 	"syncButtonNameOffline": "Nessuna connessione internet",
 	"syncButtonStaging": "In preparazione",
 	"menuSyncStatusTitle": "Stato sincronizzazione",
-	"menuSyncStatusLabelAnyNetwork": "Tutte Le Rete",
+	"menuSyncStatusLabelAnyNetwork": "Rete Any",
 	"menuSyncStatusLabelCustom": "Personalizzato",
 	"menuSyncStatusNetworkMessageE2EE": "Crittografia end-to-end",
 	"menuSyncStatusP2PNoDevicesConnected": "Nessun dispositivo connesso",
