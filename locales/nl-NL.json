@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Audio toevoegen",
 	"blockImageUpload": "Upload een afbeelding",
 	"blockImageAdd": "Afbeelding toevoegen",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "Upload een PDF",
 	"blockPdfAdd": "PDF toevoegen",
 	"blockVideoUpload": "Upload een video",
