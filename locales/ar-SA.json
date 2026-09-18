@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Add an audio",
 	"blockImageUpload": "Upload a picture",
 	"blockImageAdd": "Add an image",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "رفع ملف PDF",
 	"blockPdfAdd": "Add a PDF",
 	"blockVideoUpload": "تحميل فيديو",
