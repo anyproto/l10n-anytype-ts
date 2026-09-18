@@ -855,6 +855,7 @@
 	"blockAudioAdd": "एक ऑडियो जोड़ें",
 	"blockImageUpload": "एक तस्वीर अपलोड करें",
 	"blockImageAdd": "एक छवि जोड़ें",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "एक पीडीएफ अपलोड करें",
 	"blockPdfAdd": "एक PDF जोड़ें",
 	"blockVideoUpload": "एक वीडियो अपलोड करें",
