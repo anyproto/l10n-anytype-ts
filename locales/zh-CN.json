@@ -855,6 +855,7 @@
 	"blockAudioAdd": "添加音频",
 	"blockImageUpload": "上传图片",
 	"blockImageAdd": "添加图片",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "上传 PDF",
 	"blockPdfAdd": "添加 PDF",
 	"blockVideoUpload": "上传视频",
