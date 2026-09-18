@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Ses dosyası ekle",
 	"blockImageUpload": "Resim yükle",
 	"blockImageAdd": "Görüntü ekle",
+	"blockImageBroken": "Görüntü bozuldu",
 	"blockPdfUpload": "PDF yükle",
 	"blockPdfAdd": "PDF dosyası ekle",
 	"blockVideoUpload": "Video yükle",
