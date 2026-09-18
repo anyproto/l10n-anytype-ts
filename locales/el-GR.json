@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Add an audio",
 	"blockImageUpload": "Μεταφόρτωση εικόνας",
 	"blockImageAdd": "Add an image",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "Μεταφόρτωση PDF",
 	"blockPdfAdd": "Add a PDF",
 	"blockVideoUpload": "Μεταφόρτωση βίντεο",
