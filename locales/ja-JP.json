@@ -855,6 +855,7 @@
 	"blockAudioAdd": "音声を追加",
 	"blockImageUpload": "写真をアップロード",
 	"blockImageAdd": "画像を追加",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "PDFをアップロード",
 	"blockPdfAdd": "PDFを追加",
 	"blockVideoUpload": "動画をアップロード",
