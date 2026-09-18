@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Add an audio",
 	"blockImageUpload": "Tải lên một ảnh",
 	"blockImageAdd": "Add an image",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "Tải lên một PDF",
 	"blockPdfAdd": "Add a PDF",
 	"blockVideoUpload": "Tải lên một video",
