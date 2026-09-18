@@ -855,6 +855,7 @@
 	"blockAudioAdd": "오디오 추가",
 	"blockImageUpload": "사진 업로드",
 	"blockImageAdd": "이미지 추가",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "PDF 업로드",
 	"blockPdfAdd": "PDF 추가",
 	"blockVideoUpload": "동영상 업로드",
