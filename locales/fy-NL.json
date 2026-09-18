@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Add an audio",
 	"blockImageUpload": "In ôfbylding oplade",
 	"blockImageAdd": "Add an image",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "In PDF oplade",
 	"blockPdfAdd": "Add a PDF",
 	"blockVideoUpload": "In fideo oplade",

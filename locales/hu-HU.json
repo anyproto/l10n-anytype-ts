@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Add an audio",
 	"blockImageUpload": "kép feltöltése",
 	"blockImageAdd": "Add an image",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "PDF feltöltése",
 	"blockPdfAdd": "Add a PDF",
 	"blockVideoUpload": "videófájl feltöltése",

@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Tilføj en lyd",
 	"blockImageUpload": "Upload et billede",
 	"blockImageAdd": "Tilføj et billede",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "Upload en PDF",
 	"blockPdfAdd": "Tilføj en PDF",
 	"blockVideoUpload": "Upload en video",

@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Add an audio",
 	"blockImageUpload": "Încărcaţi o imagine",
 	"blockImageAdd": "Add an image",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "Încărcaţi un fișier PDF",
 	"blockPdfAdd": "Add a PDF",
 	"blockVideoUpload": "Încărcați un videoclip",

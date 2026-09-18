@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Pridėti garso įrašą",
 	"blockImageUpload": "Įkelk nuotrauką",
 	"blockImageAdd": "Pridėti paveikslėlį",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "Įkelk PDF",
 	"blockPdfAdd": "Pridėti PDF",
 	"blockVideoUpload": "Įkelk vaizdo įrašą",

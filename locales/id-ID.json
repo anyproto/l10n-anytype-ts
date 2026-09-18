@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Tambahkan audio",
 	"blockImageUpload": "Unggah gambar",
 	"blockImageAdd": "Tambahkan gambar",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "Unggah PDF",
 	"blockPdfAdd": "Tambahkan PDF",
 	"blockVideoUpload": "Unggah video",

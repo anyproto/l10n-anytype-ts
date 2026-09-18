@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Add an audio",
 	"blockImageUpload": "Запампаваць відарыс",
 	"blockImageAdd": "Add an image",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "Запампаваць PDF",
 	"blockPdfAdd": "Add a PDF",
 	"blockVideoUpload": "Запампаваць відэа",

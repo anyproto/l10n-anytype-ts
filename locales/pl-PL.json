@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Dodaj audio",
 	"blockImageUpload": "Prześlij zdjęcie",
 	"blockImageAdd": "Dodaj obraz",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "Prześlij plik PDF",
 	"blockPdfAdd": "Dodaj PDF",
 	"blockVideoUpload": "Prześlij wideo ",

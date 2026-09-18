@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Add an audio",
 	"blockImageUpload": "Nahrát obrázek",
 	"blockImageAdd": "Add an image",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "Nahrát PDF",
 	"blockPdfAdd": "Add a PDF",
 	"blockVideoUpload": "Nahrát video",

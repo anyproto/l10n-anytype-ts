@@ -855,6 +855,7 @@
 	"blockAudioAdd": "Добавить аудио",
 	"blockImageUpload": "Загрузить изображение",
 	"blockImageAdd": "Добавить изображение",
+	"blockImageBroken": "Image is broken",
 	"blockPdfUpload": "Загрузить PDF",
 	"blockPdfAdd": "Добавить PDF",
 	"blockVideoUpload": "Загрузить видео",
