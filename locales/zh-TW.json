@@ -855,7 +855,7 @@
 	"blockAudioAdd": "新增音訊",
 	"blockImageUpload": "上傳圖片",
 	"blockImageAdd": "新增圖片",
-	"blockImageBroken": "Image is broken",
+	"blockImageBroken": "圖片已損壞",
 	"blockPdfUpload": "上傳 PDF",
 	"blockPdfAdd": "新增PDF",
 	"blockVideoUpload": "上傳影片",
