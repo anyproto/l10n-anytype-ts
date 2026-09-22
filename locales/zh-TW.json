@@ -1011,7 +1011,7 @@
 	"apiKeyAppNamePlaceholder": "例如：筆記同步",
 	"apiKeyCopyDescription": "請將此密鑰複製到您的應用程式中，以連接至 Anytype。",
 	"apiKeyClickToCopy": "點擊以複製",
-	"apiKeySettingsDescription": "新金鑰採用具有明確空間存取權限的 API v2。API v1 端點也接受無需授權的舊版金鑰，或是對所有目前及未來空間具備讀寫權限的金鑰。",
+	"apiKeySettingsDescription": "New keys use API v2 with explicit space access. API v1 endpoints also accept legacy keys without a grant, or keys with read and write access to all current and future spaces. See the <a href=\"%s\">developer documentation<\/a>.",
 	"apiKeyLegacy": "傳統 API v1 和 v2",
 	"apiKeyLegacyEdit": "此舊版金鑰目前擁有不受限制的存取權限。保存將會以您在下方選擇的存取權限替換它。",
 	"apiKeyVersion2": "API v2",

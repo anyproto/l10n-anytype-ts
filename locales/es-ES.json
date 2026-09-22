@@ -1011,7 +1011,7 @@
 	"apiKeyAppNamePlaceholder": "p. ej. Sincronización de notas",
 	"apiKeyCopyDescription": "Copia esta clave en tu aplicación para conectarla a Anytype.",
 	"apiKeyClickToCopy": "Clic para copiar",
-	"apiKeySettingsDescription": "Las nuevas claves utilizan la API v2 con acceso explícito a cada espacio. Los puntos de conexión de la API v1 también aceptan claves heredadas sin este acceso, o claves con acceso de lectura y escritura a todos los espacios actuales y futuros.",
+	"apiKeySettingsDescription": "New keys use API v2 with explicit space access. API v1 endpoints also accept legacy keys without a grant, or keys with read and write access to all current and future spaces. See the <a href=\"%s\">developer documentation<\/a>.",
 	"apiKeyLegacy": "Heredada · API v1 y v2",
 	"apiKeyLegacyEdit": "El acceso de esta clave heredada no tiene restricciones. Al guardarla, se reemplazará con el acceso que elijas a continuación.",
 	"apiKeyVersion2": "API v2",
