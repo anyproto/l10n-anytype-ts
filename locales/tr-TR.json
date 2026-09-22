@@ -1011,7 +1011,7 @@
 	"apiKeyAppNamePlaceholder": "Örneğin: Not senkronizasyonu",
 	"apiKeyCopyDescription": "Bu anahtarı kullandığın uygulamaya kopyalayarak Anytype’a bağla.",
 	"apiKeyClickToCopy": "Kopyalamak için tıkla",
-	"apiKeySettingsDescription": "Yeni anahtarlar alanlara açık erişim sağlayan API v2’yi kullanır. API v1 uç noktaları yetki belgesi olmayan eski anahtarları veya mevcut ve gelecekteki tüm alanlara okuma ve yazma erişimi olan anahtarları da kabul eder.",
+	"apiKeySettingsDescription": "Yeni anahtarlar alanlara açık erişim sağlayan API v2’yi kullanır. API v1 uç noktaları yetki belgesi olmayan eski anahtarları veya mevcut ve gelecekteki tüm alanlara okuma ve yazma erişimi olan anahtarları da kabul eder. <a href=\"%s\">Geliştirici belgelerine<\/a> göz at.",
 	"apiKeyLegacy": "Eski · API v1 ve v2",
 	"apiKeyLegacyEdit": "Bu eski anahtarın şu anda herhangi bir kısıtlama olmaksızın erişim izni var. Kaydedildiğinde bu anahtar aşağıda seçeceğin erişim izniyle değiştirilir.",
 	"apiKeyVersion2": "API v2",
