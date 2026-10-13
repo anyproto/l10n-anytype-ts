@@ -998,6 +998,7 @@
 	"popupSettingsPersonalSectionMessaging": "消息",
 	"popupSettingsPersonalChatSend": "在聊天中发送对象给",
 	"popupSettingsPersonalCommentSend": "发送评论",
+	"popupSettingsPersonalSendTyping": "Show others when I'm typing",
 	"popupSettingsPersonalSectionLists": "列表",
 	"popupSettingsPersonalGridTitleClick": "点击编辑网格视图中的标题",
 	"popupSettingsPersonalUnicodeReplace": "将输入的序列替换为 Unicode 符号",
