@@ -998,6 +998,7 @@
 	"popupSettingsPersonalSectionMessaging": "메시징",
 	"popupSettingsPersonalChatSend": "채팅 전송 키",
 	"popupSettingsPersonalCommentSend": "댓글 등록 키",
+	"popupSettingsPersonalSendTyping": "Show others when I'm typing",
 	"popupSettingsPersonalSectionLists": "목록",
 	"popupSettingsPersonalGridTitleClick": "문서명을 클릭하여 수정 (그리드)",
 	"popupSettingsPersonalUnicodeReplace": "입력한 문자를 유니코드 특수 문자로 변환",

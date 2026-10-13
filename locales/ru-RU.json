@@ -998,6 +998,7 @@
 	"popupSettingsPersonalSectionMessaging": "Обмен сообщениями",
 	"popupSettingsPersonalChatSend": "Отправлять объекты в чатах с помощью",
 	"popupSettingsPersonalCommentSend": "Отправлять комментарии с помощью",
+	"popupSettingsPersonalSendTyping": "Show others when I'm typing",
 	"popupSettingsPersonalSectionLists": "Списки",
 	"popupSettingsPersonalGridTitleClick": "Нажмите для редактирования заголовка в виде таблицы",
 	"popupSettingsPersonalUnicodeReplace": "Заменять вводимые последовательности символами Unicode",

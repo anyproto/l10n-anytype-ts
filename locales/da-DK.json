@@ -998,6 +998,7 @@
 	"popupSettingsPersonalSectionMessaging": "Beskeder",
 	"popupSettingsPersonalChatSend": "Send objekter i chats med",
 	"popupSettingsPersonalCommentSend": "Send kommentarer med",
+	"popupSettingsPersonalSendTyping": "Show others when I'm typing",
 	"popupSettingsPersonalSectionLists": "Lister",
 	"popupSettingsPersonalGridTitleClick": "Klik for at redigere titel i gittervisning",
 	"popupSettingsPersonalUnicodeReplace": "Erstat indtastede sekvenser med unicode-symboler",

@@ -998,6 +998,7 @@
 	"popupSettingsPersonalSectionMessaging": "チャット",
 	"popupSettingsPersonalChatSend": "メッセージ送信キー",
 	"popupSettingsPersonalCommentSend": "コメント送信キー",
+	"popupSettingsPersonalSendTyping": "Show others when I'm typing",
 	"popupSettingsPersonalSectionLists": "リスト",
 	"popupSettingsPersonalGridTitleClick": "テーブルビューでクリックして直接編集",
 	"popupSettingsPersonalUnicodeReplace": "特定の文字列を自動的にUnicode記号に置き換え",

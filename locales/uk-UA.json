@@ -998,6 +998,7 @@
 	"popupSettingsPersonalSectionMessaging": "Обмін повідомленнями",
 	"popupSettingsPersonalChatSend": "Надсилати об'єкти в чатах за допомогою",
 	"popupSettingsPersonalCommentSend": "Надсилати коментарі за допомогою",
+	"popupSettingsPersonalSendTyping": "Show others when I'm typing",
 	"popupSettingsPersonalSectionLists": "Списки",
 	"popupSettingsPersonalGridTitleClick": "Клацніть, щоб редагувати заголовок у поданні «Таблиця»",
 	"popupSettingsPersonalUnicodeReplace": "Замінювати введені послідовності символами Unicode",

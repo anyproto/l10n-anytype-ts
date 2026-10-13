@@ -998,6 +998,7 @@
 	"popupSettingsPersonalSectionMessaging": "Messagerie",
 	"popupSettingsPersonalChatSend": "Envoyer des objets dans les chats avec",
 	"popupSettingsPersonalCommentSend": "Envoyer les commentaires avec",
+	"popupSettingsPersonalSendTyping": "Show others when I'm typing",
 	"popupSettingsPersonalSectionLists": "Listes",
 	"popupSettingsPersonalGridTitleClick": "Cliquez pour modifier le titre en vue grille",
 	"popupSettingsPersonalUnicodeReplace": "Remplacer les séquences saisies par des symboles unicode",
