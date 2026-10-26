@@ -489,7 +489,7 @@
 	"importPhase2": "Fetching content",
 	"importPhase3": "Creating objects",
 	"importPhase4": "Finishing up",
-	"importStatFound": "%s found",
+	"importStatFound": "Hittade %s",
 	"importStatPages": "%s pages",
 	"importStatPagesOf": "%s\/%s pages",
 	"importStatFiles": "%s files",
