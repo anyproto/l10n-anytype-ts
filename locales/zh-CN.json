@@ -915,7 +915,7 @@
 	"blockChatStatusTyping": "Typing",
 	"blockChatStatusParticipant": "Participant",
 	"blockChatStatusTool": "Tool call",
-	"blockChatStatusRunning": "Running",
+	"blockChatStatusRunning": "正在运行",
 	"blockChatStatusComplete": "Completed",
 	"blockChatStatusError": "失败",
 	"blockChatStatusStale": "No recent updates",
