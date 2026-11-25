@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Anytype खोलें",
 	"electronMenuLanguage": "इंटरफेस भाषा",
 	"electronMenuFlagAnalytics": "विश्लेषिकी",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "मिडलवेयर",
 	"electronMenuFlagMwRequest": "रिक्वेस्ट\/रिस्पॉन्स",
 	"electronMenuFlagMwSubscribe": "सब्सक्रिप्शन",
