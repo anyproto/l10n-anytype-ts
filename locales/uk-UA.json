@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Відкрити Anytype",
 	"electronMenuLanguage": "Мова інтерфейсу",
 	"electronMenuFlagAnalytics": "Аналітика",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Middleware",
 	"electronMenuFlagMwRequest": "Запит\/Відповідь",
 	"electronMenuFlagMwSubscribe": "Підписки",
