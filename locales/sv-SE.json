@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Öppna Anytype",
 	"electronMenuLanguage": "Gränssnitsspråk",
 	"electronMenuFlagAnalytics": "Analys",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Mellanprogramvara",
 	"electronMenuFlagMwRequest": "Begäran\/Svar",
 	"electronMenuFlagMwSubscribe": "Prenumerationer",
