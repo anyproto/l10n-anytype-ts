@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Åbn Anytype",
 	"electronMenuLanguage": "Brugerfladesprog",
 	"electronMenuFlagAnalytics": "Analyse",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Middleware",
 	"electronMenuFlagMwRequest": "Forespørgsel\/Svar",
 	"electronMenuFlagMwSubscribe": "Abonnementer",
