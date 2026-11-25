@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Deschide Anytype",
 	"electronMenuLanguage": "Limba interfeței",
 	"electronMenuFlagAnalytics": "Date analitice",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Software intermediar",
 	"electronMenuFlagMwRequest": "Solicitare\/Răspuns",
 	"electronMenuFlagMwSubscribe": "Subscriptions",
