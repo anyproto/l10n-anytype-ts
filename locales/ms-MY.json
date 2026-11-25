@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Open Anytype",
 	"electronMenuLanguage": "Bahasa Antaramuka",
 	"electronMenuFlagAnalytics": "Analisis",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Middleware",
 	"electronMenuFlagMwRequest": "Request\/Response",
 	"electronMenuFlagMwSubscribe": "Subscriptions",
