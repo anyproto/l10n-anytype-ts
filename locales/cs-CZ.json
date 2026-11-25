@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Otevřít Anytype",
 	"electronMenuLanguage": "Jazyk rozhraní",
 	"electronMenuFlagAnalytics": "Analytika",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Middleware",
 	"electronMenuFlagMwRequest": "Požadavek \/ odpověď",
 	"electronMenuFlagMwSubscribe": "Subscriptions",
