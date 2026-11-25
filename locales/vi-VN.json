@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Mở Anytype",
 	"electronMenuLanguage": "Ngôn ngữ giao diện",
 	"electronMenuFlagAnalytics": "Phân tích",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Middleware",
 	"electronMenuFlagMwRequest": "Request\/Response",
 	"electronMenuFlagMwSubscribe": "Subscriptions",
