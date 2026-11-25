@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Ouvrir Anytype",
 	"electronMenuLanguage": "Langue de l'interface",
 	"electronMenuFlagAnalytics": "Statistiques",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Middleware",
 	"electronMenuFlagMwRequest": "Requête \/ Réponse",
 	"electronMenuFlagMwSubscribe": "Abonnements",

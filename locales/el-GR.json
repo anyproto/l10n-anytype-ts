@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Open Anytype",
 	"electronMenuLanguage": "Γλώσσα Περιβάλλοντος",
 	"electronMenuFlagAnalytics": "Στατιστικά",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Ενδιάμεσο λογισμικό",
 	"electronMenuFlagMwRequest": "Αίτηση\/Απάντηση",
 	"electronMenuFlagMwSubscribe": "Subscriptions",

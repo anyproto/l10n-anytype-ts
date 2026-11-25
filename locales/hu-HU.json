@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Open Anytype",
 	"electronMenuLanguage": "Felhasználói felület nyelve",
 	"electronMenuFlagAnalytics": "Analitika",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Middleware",
 	"electronMenuFlagMwRequest": "Request\/Response",
 	"electronMenuFlagMwSubscribe": "Subscriptions",

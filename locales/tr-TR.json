@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Anytype'ı Aç",
 	"electronMenuLanguage": "Arayüz dili",
 	"electronMenuFlagAnalytics": "İstatistikler",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Orta katman",
 	"electronMenuFlagMwRequest": "İstek\/Yanıt",
 	"electronMenuFlagMwSubscribe": "Abonelikler",

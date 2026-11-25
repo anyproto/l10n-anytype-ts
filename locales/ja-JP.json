@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Anytypeを開く",
 	"electronMenuLanguage": "表示言語",
 	"electronMenuFlagAnalytics": "アナリティクス",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "ミドルウェア",
 	"electronMenuFlagMwRequest": "リクエスト\/レスポンス",
 	"electronMenuFlagMwSubscribe": "サブスクリプション",

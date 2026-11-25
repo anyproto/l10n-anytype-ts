@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "เปิด Anytype",
 	"electronMenuLanguage": "ภาษาของอินเทอร์เฟซ",
 	"electronMenuFlagAnalytics": "การวิเคราะห์ข้อมูล",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Middleware",
 	"electronMenuFlagMwRequest": "คำขอ\/การตอบกลับ",
 	"electronMenuFlagMwSubscribe": "การติดตามข้อมูล",

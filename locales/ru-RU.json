@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Открыть Anytype",
 	"electronMenuLanguage": "Язык интерфейса",
 	"electronMenuFlagAnalytics": "Аналитика",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Промежуточное ПО",
 	"electronMenuFlagMwRequest": "Запрос\/ответ",
 	"electronMenuFlagMwSubscribe": "Подписки",

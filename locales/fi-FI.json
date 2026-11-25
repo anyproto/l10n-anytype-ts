@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Avaa Anytype",
 	"electronMenuLanguage": "Käyttöliittymän kieli",
 	"electronMenuFlagAnalytics": "Tilastot",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Väliohjelmisto",
 	"electronMenuFlagMwRequest": "Pyyntö\/Vastaus",
 	"electronMenuFlagMwSubscribe": "Subscriptions",

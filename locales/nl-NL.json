@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Anytype openen",
 	"electronMenuLanguage": "Taal interface",
 	"electronMenuFlagAnalytics": "Statistieken",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Middleware",
 	"electronMenuFlagMwRequest": "Verzoek\/Antwoord",
 	"electronMenuFlagMwSubscribe": "Abonnementen",

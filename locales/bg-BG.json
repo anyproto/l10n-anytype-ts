@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Open Anytype",
 	"electronMenuLanguage": "Език на интерфейса",
 	"electronMenuFlagAnalytics": "Статистики",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Middleware",
 	"electronMenuFlagMwRequest": "Request\/Response",
 	"electronMenuFlagMwSubscribe": "Subscriptions",

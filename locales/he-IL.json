@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "Open Anytype",
 	"electronMenuLanguage": "שפת ממשק",
 	"electronMenuFlagAnalytics": "Analytics",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "Middleware",
 	"electronMenuFlagMwRequest": "Request\/Response",
 	"electronMenuFlagMwSubscribe": "מינויים",

@@ -409,6 +409,7 @@
 	"electronMenuOpenApp": "打開 Anytype",
 	"electronMenuLanguage": "使用者介面語言",
 	"electronMenuFlagAnalytics": "分析",
+	"electronMenuFlagUpsell": "Upsell Banners",
 	"electronMenuFlagMw": "中介軟體",
 	"electronMenuFlagMwRequest": "請求\/回覆",
 	"electronMenuFlagMwSubscribe": "訂閱",
